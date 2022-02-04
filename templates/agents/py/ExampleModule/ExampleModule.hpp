@@ -3,16 +3,16 @@
 * Distributed under the MIT License
 * (See accompanying file COPYING.MIT or copy at http://opensource.org/licenses/MIT)
 */
-
+// меняем везде Example на свое
 
 #pragma once
 
 #include "sc-memory/sc_module.hpp"
-#include "hwService.hpp"
-#include "hwModule.generated.hpp"
+#include "ExampleService.hpp"
+#include "ExampleModule.generated.hpp"
 
 
-class HelloAgentModule : public ScModule
+class ExampleModule : public ScModule
 {
   SC_CLASS(LoadOrder(1000))
   SC_GENERATED_BODY()
@@ -21,5 +21,5 @@ class HelloAgentModule : public ScModule
   virtual sc_result ShutdownImpl() override;
 
 private:
-  std::unique_ptr<HelloAgentPythonService> m_hwService;
+  std::unique_ptr<ExamplePythonService> m_ExampleService;
 };
