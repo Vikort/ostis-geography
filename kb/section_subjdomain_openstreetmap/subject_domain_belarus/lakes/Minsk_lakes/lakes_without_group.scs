@@ -1,4 +1,6 @@
-lake_dyagili <- concept_lake;
+lake_dyagili 
+<- concept_lake;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Дягили]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -10,7 +12,9 @@ lake_dyagili <- concept_lake;
     myadzel_district;;
 
 
-lake_kuzmichi <- concept_lake;
+lake_kuzmichi 
+<- concept_lake;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Кузьмичи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

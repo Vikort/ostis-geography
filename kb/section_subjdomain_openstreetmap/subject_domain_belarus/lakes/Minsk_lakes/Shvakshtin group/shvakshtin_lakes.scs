@@ -1,5 +1,6 @@
 lake_bolshie_shvakshty <- concept_lake;
 <-concept_Shvakshtinskaya_group_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Большие Швакшты]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -13,6 +14,7 @@ lake_bolshie_shvakshty <- concept_lake;
 
 lake_belogolovoe <- concept_lake;
 <-concept_Shvakshtinskaya_group_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [Белоголовое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

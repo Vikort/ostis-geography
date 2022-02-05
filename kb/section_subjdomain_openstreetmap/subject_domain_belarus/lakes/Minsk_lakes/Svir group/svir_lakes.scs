@@ -1,5 +1,6 @@
 lake_svir <- concept_lake;
 <-concept_Svir_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Свирь]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -13,6 +14,7 @@ lake_svir <- concept_lake;
 
 lake_vishnevskoe <- concept_lake;
 <-concept_Svir_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [Вишнёвское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -26,6 +28,7 @@ lake_vishnevskoe <- concept_lake;
 
 lake_svirnische <- concept_lake;
 <-concept_Svir_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Свирьнище]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -39,6 +42,7 @@ lake_svirnische <- concept_lake;
 
 svir_lake_gluhoe <- concept_lake;
 <-concept_Svir_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [Глухое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

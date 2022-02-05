@@ -1,9 +1,8 @@
-lake_narach <- concept_lake;
-<-concept_Naroch_lakes;
+lake_bolduc <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [lake Narach]
-    (* <- lang_en;; <- name_en;;*);
-    [озеро Нарочь]
+    [озеро Болдук]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -13,10 +12,11 @@ lake_narach <- concept_lake;
     myadzel_district;;
 
 
-lake_myastro <- concept_lake;
-<-concept_Naroch_lakes;
+lake_glublya <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Мястро]
+    [озеро Глубля]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -26,10 +26,11 @@ lake_myastro <- concept_lake;
     myadzel_district;;
 
 
-lake_batorino <- concept_lake;
-<-concept_Naroch_lakes;
+lake_bolshoy_boltsik <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Баторино]
+    [озеро Большой Больцик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -39,10 +40,11 @@ lake_batorino <- concept_lake;
     myadzel_district;;
 
 
-lake_blyado <- concept_lake;
-<-concept_Naroch_lakes;
+lake_glubelka <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Блядо]
+    [озеро Глубелька]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -52,10 +54,11 @@ lake_blyado <- concept_lake;
     myadzel_district;;
 
 
-lake_gryadskoe <- concept_lake;
-<-concept_Naroch_lakes;
+lake_ilginia <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [Грядское озеро]
+    [озеро Ильгиния]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -65,10 +68,11 @@ lake_gryadskoe <- concept_lake;
     myadzel_district;;
 
 
-lake_podshapie <- concept_lake;
-<-concept_Naroch_lakes;
+lake_maly_bolcik <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Подшапье]
+    [озеро Малый Больцик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -78,10 +82,11 @@ lake_podshapie <- concept_lake;
     myadzel_district;;
 
 
-lake_zaportovo <- concept_lake;
-<-concept_Naroch_lakes;
+lake_okynek <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Запортово]
+    [озеро Окунёк]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -91,10 +96,11 @@ lake_zaportovo <- concept_lake;
     myadzel_district;;
 
 
-lake_vydrenik <- concept_lake;
-<-concept_Naroch_lakes;
+lake_omsharnic <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Выдреник]
+    [озеро Омшарник]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -104,10 +110,11 @@ lake_vydrenik <- concept_lake;
     myadzel_district;;
 
 
-lake_mlynok <- concept_lake;
-<-concept_Naroch_lakes;
+lake_yachmenek <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Млынок]
+    [озеро Ячменёк]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -117,10 +124,11 @@ lake_mlynok <- concept_lake;
     myadzel_district;;
 
 
-lake_kozie <- concept_lake;
-<-concept_Naroch_lakes;
+lake_karasik <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Козье]
+    [озеро Карасик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -130,10 +138,11 @@ lake_kozie <- concept_lake;
     myadzel_district;;
 
 
-lake_bezdonica <- concept_lake;
-<-concept_Naroch_lakes;
+lake_svino <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Бездонница]
+    [озеро Свино]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -143,10 +152,25 @@ lake_bezdonica <- concept_lake;
     myadzel_district;;
 
 
-lake_blyadko <- concept_lake;
-<-concept_Naroch_lakes;
+bolduc_lake_gluhoe <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
-    [озеро Блядко]
+    [Глухое озеро]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    myadzel_district;;
+
+
+lake_Yargmen <- concept_lake;
+<- concept_Bolduc_lakes;
+<- concept_lake_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [озеро Ярджмен]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;

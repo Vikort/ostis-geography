@@ -1,5 +1,6 @@
 lake_myadel <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Мядель]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -12,7 +13,8 @@ lake_myadel <- concept_lake;
 
 
 lake_volchino <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Волчино]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -25,7 +27,8 @@ lake_volchino <- concept_lake;
 
 
 lake_lotviny <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Лотвины]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -38,7 +41,8 @@ lake_lotviny <- concept_lake;
 
 
 lake_rudakovo <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Рудаково]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -51,7 +55,8 @@ lake_rudakovo <- concept_lake;
 
 
 lake_rossohi <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Россохи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -64,7 +69,8 @@ lake_rossohi <- concept_lake;
 
 
 lake_knyagininskoe <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [Княгининское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -77,7 +83,8 @@ lake_knyagininskoe <- concept_lake;
 
 
 lake_chertok <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [озеро Черток]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -90,7 +97,8 @@ lake_chertok <- concept_lake;
 
 
 lake_telyakovskoe <- concept_lake;
-<-concept_Myadel_lakes;
+<- concept_Myadel_lakes;
+<- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
     [Теляковское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
