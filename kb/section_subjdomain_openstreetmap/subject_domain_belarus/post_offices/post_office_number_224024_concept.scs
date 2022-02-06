@@ -1,0 +1,27 @@
+
+post_office_number_224024 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224024]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 32 18]
+(* <- lang_ru;; <- phone_number;;*);
+[224024]
+(* <- lang_ru;; <- postcode;;*);
+[23.6907252]
+(* <- lang_ru;; <- longitude;;*);
+[224024, г. Брест, ул. Красногвардейская 104]
+(* <- lang_ru;; <- address;;*);
+[52.1207638]
+(* <- lang_ru;; <- latitude;;*);
+[Красногвардейская]
+(* <- lang_ru;; <- street;;*);
+[104]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Собко Валентина Михайловна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224024]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

@@ -1,0 +1,27 @@
+
+post_office_number_246038 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246038]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 28 38 57]
+(* <- lang_ru;; <- phone_number;;*);
+[246038]
+(* <- lang_ru;; <- postcode;;*);
+[31.04188085]
+(* <- lang_ru;; <- longitude;;*);
+[246038, г. Гомель, ул. Чечерская 70А]
+(* <- lang_ru;; <- address;;*);
+[52.46780207]
+(* <- lang_ru;; <- latitude;;*);
+[Чечерская]
+(* <- lang_ru;; <- street;;*);
+[70А]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246038]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

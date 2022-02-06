@@ -1,0 +1,27 @@
+
+post_office_number_224037 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224037]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 34 26 37]
+(* <- lang_ru;; <- phone_number;;*);
+[224037]
+(* <- lang_ru;; <- postcode;;*);
+[23.6905372]
+(* <- lang_ru;; <- longitude;;*);
+[224037, г. Брест, ул. Шоссейная 7]
+(* <- lang_ru;; <- address;;*);
+[52.0864444]
+(* <- lang_ru;; <- latitude;;*);
+[Шоссейная]
+(* <- lang_ru;; <- street;;*);
+[7]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Ильюшенко Ирина Анатольевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224037]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

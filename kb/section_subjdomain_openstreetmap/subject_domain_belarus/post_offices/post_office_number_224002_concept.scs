@@ -1,0 +1,27 @@
+
+post_office_number_224002 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224002]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 93 53 94]
+(* <- lang_ru;; <- phone_number;;*);
+[224002]
+(* <- lang_ru;; <- postcode;;*);
+[23.7320781]
+(* <- lang_ru;; <- longitude;;*);
+[224002, г. Брест, ул. Жукова 9]
+(* <- lang_ru;; <- address;;*);
+[52.0614079]
+(* <- lang_ru;; <- latitude;;*);
+[Жукова]
+(* <- lang_ru;; <- street;;*);
+[9]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Жидкович Екатерина Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224002]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

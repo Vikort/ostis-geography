@@ -1,0 +1,27 @@
+
+post_office_number_220503 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220503]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 373 70 79]
+(* <- lang_ru;; <- phone_number;;*);
+[220503]
+(* <- lang_ru;; <- postcode;;*);
+[27.6884406]
+(* <- lang_ru;; <- longitude;;*);
+[220503, г. Минск, улица. Руссиянова 36]
+(* <- lang_ru;; <- address;;*);
+[53.93531244]
+(* <- lang_ru;; <- latitude;;*);
+[Руссиянова]
+(* <- lang_ru;; <- street;;*);
+[36]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Скурат Анастасия Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220503]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

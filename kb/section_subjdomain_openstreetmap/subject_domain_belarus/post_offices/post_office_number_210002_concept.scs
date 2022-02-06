@@ -1,0 +1,27 @@
+
+post_office_number_210002 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210002]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 64 08]
+(* <- lang_ru;; <- phone_number;;*);
+[210002]
+(* <- lang_ru;; <- postcode;;*);
+[30.151189]
+(* <- lang_ru;; <- longitude;;*);
+[210002, г. Витебск, ул. Максима Горького 67/1]
+(* <- lang_ru;; <- address;;*);
+[55.173463]
+(* <- lang_ru;; <- latitude;;*);
+[Максима Горького]
+(* <- lang_ru;; <- street;;*);
+[67/1]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Шлома Наталья Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210002]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

@@ -1,0 +1,27 @@
+
+post_office_number_220016 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220016]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 222 39 98]
+(* <- lang_ru;; <- phone_number;;*);
+[220016]
+(* <- lang_ru;; <- postcode;;*);
+[27.5645654]
+(* <- lang_ru;; <- longitude;;*);
+[220016, г. Минск, улица. К. Маркса 38]
+(* <- lang_ru;; <- address;;*);
+[53.9004178]
+(* <- lang_ru;; <- latitude;;*);
+[К. Маркса]
+(* <- lang_ru;; <- street;;*);
+[38]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Родикова Марина Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220016]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,27 @@
+
+post_office_number_220060 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220060]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 377 93 51]
+(* <- lang_ru;; <- phone_number;;*);
+[220060]
+(* <- lang_ru;; <- postcode;;*);
+[27.55036036]
+(* <- lang_ru;; <- longitude;;*);
+[220060, г. Минск, улица. Вокзальная 22]
+(* <- lang_ru;; <- address;;*);
+[53.88912487]
+(* <- lang_ru;; <- latitude;;*);
+[Вокзальная]
+(* <- lang_ru;; <- street;;*);
+[22]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Куприянова Светлана Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220060]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

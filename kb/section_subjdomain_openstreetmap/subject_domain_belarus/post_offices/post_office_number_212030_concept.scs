@@ -1,0 +1,27 @@
+
+post_office_number_212030 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212030]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 63 66 27]
+(* <- lang_ru;; <- phone_number;;*);
+[212030]
+(* <- lang_ru;; <- postcode;;*);
+[30.336838]
+(* <- lang_ru;; <- longitude;;*);
+[212030, г. Могилев, ул. Первомайская 28]
+(* <- lang_ru;; <- address;;*);
+[53.9038847]
+(* <- lang_ru;; <- latitude;;*);
+[Первомайская]
+(* <- lang_ru;; <- street;;*);
+[28]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212030]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

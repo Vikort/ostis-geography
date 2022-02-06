@@ -1,0 +1,27 @@
+
+post_office_number_220137 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220137]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 291 20 68]
+(* <- lang_ru;; <- phone_number;;*);
+[220137]
+(* <- lang_ru;; <- postcode;;*);
+[27.6682471]
+(* <- lang_ru;; <- longitude;;*);
+[220137, г. Минск, улица. Охотская 135/3]
+(* <- lang_ru;; <- address;;*);
+[53.8800705]
+(* <- lang_ru;; <- latitude;;*);
+[Охотская]
+(* <- lang_ru;; <- street;;*);
+[135/3]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Минич Оксана Валентиновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220137]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

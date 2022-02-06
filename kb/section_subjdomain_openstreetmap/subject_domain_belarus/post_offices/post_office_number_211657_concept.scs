@@ -1,0 +1,27 @@
+
+post_office_number_211657 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_211657]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (214) 74 61 23]
+(* <- lang_ru;; <- phone_number;;*);
+[211657]
+(* <- lang_ru;; <- postcode;;*);
+[28.776961]
+(* <- lang_ru;; <- longitude;;*);
+[211657, аг. Гомель, ул. Тябута 13]
+(* <- lang_ru;; <- address;;*);
+[55.299505]
+(* <- lang_ru;; <- latitude;;*);
+[Тябута]
+(* <- lang_ru;; <- street;;*);
+[13]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[Федорова Татьяна Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_211657]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

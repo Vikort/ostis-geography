@@ -1,0 +1,27 @@
+
+post_office_number_220320 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220320]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 317 26 31]
+(* <- lang_ru;; <- phone_number;;*);
+[220320]
+(* <- lang_ru;; <- postcode;;*);
+[27.5041809]
+(* <- lang_ru;; <- longitude;;*);
+[220320, г. Минск, ул. Казинца 120]
+(* <- lang_ru;; <- address;;*);
+[53.842832]
+(* <- lang_ru;; <- latitude;;*);
+[Казинца]
+(* <- lang_ru;; <- street;;*);
+[120]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Кононик Ольга Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220320]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

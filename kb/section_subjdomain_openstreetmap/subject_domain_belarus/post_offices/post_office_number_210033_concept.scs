@@ -1,0 +1,27 @@
+
+post_office_number_210033 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210033]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 66 75]
+(* <- lang_ru;; <- phone_number;;*);
+[210033]
+(* <- lang_ru;; <- postcode;;*);
+[30.2663362]
+(* <- lang_ru;; <- longitude;;*);
+[210033, г. Витебск, пр. Фрунзе 118]
+(* <- lang_ru;; <- address;;*);
+[55.2009837]
+(* <- lang_ru;; <- latitude;;*);
+[Фрунзе]
+(* <- lang_ru;; <- street;;*);
+[118]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Бучень Ирина Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210033]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

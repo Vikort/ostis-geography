@@ -1,0 +1,27 @@
+
+post_office_number_220099 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220099]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 364 25 64]
+(* <- lang_ru;; <- phone_number;;*);
+[220099]
+(* <- lang_ru;; <- postcode;;*);
+[27.5197622]
+(* <- lang_ru;; <- longitude;;*);
+[220099, г. Минск, улица. Брестская 56/1]
+(* <- lang_ru;; <- address;;*);
+[53.855406]
+(* <- lang_ru;; <- latitude;;*);
+[Брестская]
+(* <- lang_ru;; <- street;;*);
+[56/1]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Зайцева Ирина Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220099]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

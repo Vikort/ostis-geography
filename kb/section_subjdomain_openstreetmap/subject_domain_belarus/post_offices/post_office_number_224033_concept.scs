@@ -1,0 +1,27 @@
+
+post_office_number_224033 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224033]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 29 24 68]
+(* <- lang_ru;; <- phone_number;;*);
+[224033]
+(* <- lang_ru;; <- postcode;;*);
+[23.7312647]
+(* <- lang_ru;; <- longitude;;*);
+[224033, г. Брест, ул. Вульковская 58 1]
+(* <- lang_ru;; <- address;;*);
+[52.0691222]
+(* <- lang_ru;; <- latitude;;*);
+[Вульковская]
+(* <- lang_ru;; <- street;;*);
+[58]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Лебедева Лариса Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224033]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

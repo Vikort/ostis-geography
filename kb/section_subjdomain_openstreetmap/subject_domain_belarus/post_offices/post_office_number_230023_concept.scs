@@ -1,0 +1,27 @@
+
+post_office_number_230023 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230023]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 72 39 84]
+(* <- lang_ru;; <- phone_number;;*);
+[230023]
+(* <- lang_ru;; <- postcode;;*);
+[23.836068]
+(* <- lang_ru;; <- longitude;;*);
+[230023, г. Гродно, ул. Ожешко 9]
+(* <- lang_ru;; <- address;;*);
+[53.683316]
+(* <- lang_ru;; <- latitude;;*);
+[Ожешко]
+(* <- lang_ru;; <- street;;*);
+[9]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[Жуковская Юлия Генриховна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230023]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

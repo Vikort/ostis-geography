@@ -1,0 +1,27 @@
+
+post_office_number_246050 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246050]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232)50 77 53]
+(* <- lang_ru;; <- phone_number;;*);
+[246050]
+(* <- lang_ru;; <- postcode;;*);
+[31.01283789]
+(* <- lang_ru;; <- longitude;;*);
+[246050, г. Гомель, пр-т. Ленина 1]
+(* <- lang_ru;; <- address;;*);
+[52.42438761]
+(* <- lang_ru;; <- latitude;;*);
+[Ленина]
+(* <- lang_ru;; <- street;;*);
+[1]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246050]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

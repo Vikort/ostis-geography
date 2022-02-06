@@ -1,0 +1,27 @@
+
+post_office_number_224025 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224025]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 59 39 16]
+(* <- lang_ru;; <- phone_number;;*);
+[224025]
+(* <- lang_ru;; <- postcode;;*);
+[23.654615]
+(* <- lang_ru;; <- longitude;;*);
+[224025, г. Брест, ул. Дубровская 10]
+(* <- lang_ru;; <- address;;*);
+[52.1266145]
+(* <- lang_ru;; <- latitude;;*);
+[Дубровская]
+(* <- lang_ru;; <- street;;*);
+[10]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Ухова Дина Константиновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224025]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

@@ -1,0 +1,27 @@
+
+post_office_number_220116 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220116]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 207 46 02]
+(* <- lang_ru;; <- phone_number;;*);
+[220116]
+(* <- lang_ru;; <- postcode;;*);
+[27.48407114]
+(* <- lang_ru;; <- longitude;;*);
+[220116, г. Минск, проспект. Газеты "Правда" 20А 1]
+(* <- lang_ru;; <- address;;*);
+[53.86762458]
+(* <- lang_ru;; <- latitude;;*);
+[Газеты "Правда"]
+(* <- lang_ru;; <- street;;*);
+[20А]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Леонович Инесса Эдуардовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220116]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,27 @@
+
+post_office_number_210039 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210039]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 67 14]
+(* <- lang_ru;; <- phone_number;;*);
+[210039]
+(* <- lang_ru;; <- postcode;;*);
+[30.2210377]
+(* <- lang_ru;; <- longitude;;*);
+[210039, г. Витебск, ул. Медицинская 4 в]
+(* <- lang_ru;; <- address;;*);
+[55.1544968]
+(* <- lang_ru;; <- latitude;;*);
+[Медицинская]
+(* <- lang_ru;; <- street;;*);
+[4]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Лукша Елена Вячеславовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210039]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

@@ -1,0 +1,27 @@
+
+post_office_number_230025 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230025]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 31 39 70]
+(* <- lang_ru;; <- phone_number;;*);
+[230025]
+(* <- lang_ru;; <- postcode;;*);
+[23.83824]
+(* <- lang_ru;; <- longitude;;*);
+[230025, г. Гродно, ул. Маркса Карла 29]
+(* <- lang_ru;; <- address;;*);
+[53.676756]
+(* <- lang_ru;; <- latitude;;*);
+[Маркса Карла]
+(* <- lang_ru;; <- street;;*);
+[29]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[Титова Алла Сергеевна.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230025]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

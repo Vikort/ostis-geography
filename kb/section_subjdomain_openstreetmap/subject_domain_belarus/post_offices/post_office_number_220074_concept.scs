@@ -1,0 +1,27 @@
+
+post_office_number_220074 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220074]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 395 65 63]
+(* <- lang_ru;; <- phone_number;;*);
+[220074]
+(* <- lang_ru;; <- postcode;;*);
+[27.5058794]
+(* <- lang_ru;; <- longitude;;*);
+[220074, г. Минск, улица. Берута 24/1]
+(* <- lang_ru;; <- address;;*);
+[53.8995359]
+(* <- lang_ru;; <- latitude;;*);
+[Берута]
+(* <- lang_ru;; <- street;;*);
+[24/1]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Толкачева Надежда Васильевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220074]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

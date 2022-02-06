@@ -1,0 +1,27 @@
+
+post_office_number_220039 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220039]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 352 78 18]
+(* <- lang_ru;; <- phone_number;;*);
+[220039]
+(* <- lang_ru;; <- postcode;;*);
+[27.5316135]
+(* <- lang_ru;; <- longitude;;*);
+[220039, г. Минск, улица. Брилевская 14]
+(* <- lang_ru;; <- address;;*);
+[53.8767818]
+(* <- lang_ru;; <- latitude;;*);
+[Брилевская]
+(* <- lang_ru;; <- street;;*);
+[14]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Санкевич Инна Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220039]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

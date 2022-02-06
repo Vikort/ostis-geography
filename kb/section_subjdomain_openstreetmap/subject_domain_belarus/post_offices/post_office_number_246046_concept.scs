@@ -1,0 +1,27 @@
+
+post_office_number_246046 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246046]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 50 12 90]
+(* <- lang_ru;; <- phone_number;;*);
+[246046]
+(* <- lang_ru;; <- postcode;;*);
+[30.91151476]
+(* <- lang_ru;; <- longitude;;*);
+[246046, г. Гомель, ул. МЖК Солнечный - 2]
+(* <- lang_ru;; <- address;;*);
+[52.40090022]
+(* <- lang_ru;; <- latitude;;*);
+[МЖК Солнечный]
+(* <- lang_ru;; <- street;;*);
+[-]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246046]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

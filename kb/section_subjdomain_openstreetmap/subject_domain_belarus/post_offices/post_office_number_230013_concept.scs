@@ -1,0 +1,27 @@
+
+post_office_number_230013 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230013]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 71 95 80]
+(* <- lang_ru;; <- phone_number;;*);
+[230013]
+(* <- lang_ru;; <- postcode;;*);
+[23.89282]
+(* <- lang_ru;; <- longitude;;*);
+[230013, г. Гродно, пр-т. Космонавтов 100]
+(* <- lang_ru;; <- address;;*);
+[53.672354]
+(* <- lang_ru;; <- latitude;;*);
+[Космонавтов]
+(* <- lang_ru;; <- street;;*);
+[100]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[Рогачевская Оксана Анатольевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230013]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

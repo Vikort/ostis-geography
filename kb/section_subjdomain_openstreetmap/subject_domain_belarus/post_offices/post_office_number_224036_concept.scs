@@ -1,0 +1,27 @@
+
+post_office_number_224036 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224036]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 28 25 64]
+(* <- lang_ru;; <- phone_number;;*);
+[224036]
+(* <- lang_ru;; <- postcode;;*);
+[23.6858207]
+(* <- lang_ru;; <- longitude;;*);
+[224036, г. Брест, ул. Пушкинская 1]
+(* <- lang_ru;; <- address;;*);
+[52.0938975]
+(* <- lang_ru;; <- latitude;;*);
+[Пушкинская]
+(* <- lang_ru;; <- street;;*);
+[1]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Мыколаенко Ольга Валентиновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224036]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

@@ -1,0 +1,27 @@
+
+post_office_number_212026 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212026]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 65 23 21]
+(* <- lang_ru;; <- phone_number;;*);
+[212026]
+(* <- lang_ru;; <- postcode;;*);
+[30.3083997]
+(* <- lang_ru;; <- longitude;;*);
+[212026, г. Могилев, ул. Якубовского 37А]
+(* <- lang_ru;; <- address;;*);
+[53.9186946]
+(* <- lang_ru;; <- latitude;;*);
+[Якубовского]
+(* <- lang_ru;; <- street;;*);
+[37А]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212026]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

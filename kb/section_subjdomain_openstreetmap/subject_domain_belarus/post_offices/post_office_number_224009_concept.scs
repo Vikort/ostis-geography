@@ -1,0 +1,27 @@
+
+post_office_number_224009 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224009]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 52 89 11]
+(* <- lang_ru;; <- phone_number;;*);
+[224009]
+(* <- lang_ru;; <- postcode;;*);
+[23.7368004]
+(* <- lang_ru;; <- longitude;;*);
+[224009, г. Брест, ул. Мошенского 92 1]
+(* <- lang_ru;; <- address;;*);
+[52.1148185]
+(* <- lang_ru;; <- latitude;;*);
+[Мошенского]
+(* <- lang_ru;; <- street;;*);
+[92]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Зенина Наталья Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224009]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

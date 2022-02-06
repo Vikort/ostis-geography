@@ -1,0 +1,27 @@
+
+post_office_number_230017 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230017]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 67 69 98]
+(* <- lang_ru;; <- phone_number;;*);
+[230017]
+(* <- lang_ru;; <- postcode;;*);
+[23.81287333]
+(* <- lang_ru;; <- longitude;;*);
+[230017, г. Гродно, ул. Н. Орды 7]
+(* <- lang_ru;; <- address;;*);
+[53.62066966]
+(* <- lang_ru;; <- latitude;;*);
+[Н. Орды]
+(* <- lang_ru;; <- street;;*);
+[7]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[1]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230017]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

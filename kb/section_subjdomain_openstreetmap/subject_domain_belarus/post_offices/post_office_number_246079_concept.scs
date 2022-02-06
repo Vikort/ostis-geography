@@ -1,0 +1,27 @@
+
+post_office_number_246079 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246079]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+ 375 (232) 35 62 05]
+(* <- lang_ru;; <- phone_number;;*);
+[246079]
+(* <- lang_ru;; <- postcode;;*);
+[31.0132885]
+(* <- lang_ru;; <- longitude;;*);
+[246079, г. Гомель, площадь. Советская 8]
+(* <- lang_ru;; <- address;;*);
+[52.42714848]
+(* <- lang_ru;; <- latitude;;*);
+[Советская]
+(* <- lang_ru;; <- street;;*);
+[8]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246079]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

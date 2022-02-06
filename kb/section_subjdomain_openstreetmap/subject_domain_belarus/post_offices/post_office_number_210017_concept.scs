@@ -1,0 +1,27 @@
+
+post_office_number_210017 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210017]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 66 50]
+(* <- lang_ru;; <- phone_number;;*);
+[210017]
+(* <- lang_ru;; <- postcode;;*);
+[30.228884]
+(* <- lang_ru;; <- longitude;;*);
+[210017, г. Витебск, ул. Гагарина 41]
+(* <- lang_ru;; <- address;;*);
+[55.211378]
+(* <- lang_ru;; <- latitude;;*);
+[Гагарина]
+(* <- lang_ru;; <- street;;*);
+[41]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Знарок Ольга Степановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210017]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

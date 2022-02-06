@@ -1,0 +1,27 @@
+
+post_office_number_220204 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220204]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 34 35]
+(* <- lang_ru;; <- phone_number;;*);
+[220204]
+(* <- lang_ru;; <- postcode;;*);
+[27.5301021]
+(* <- lang_ru;; <- longitude;;*);
+[220204, г. Минск, ул. Максима Танка 36 2]
+(* <- lang_ru;; <- address;;*);
+[53.9093723]
+(* <- lang_ru;; <- latitude;;*);
+[Максима Танка]
+(* <- lang_ru;; <- street;;*);
+[36]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Самохвалова Наталья Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220204]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

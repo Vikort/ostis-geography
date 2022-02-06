@@ -1,0 +1,27 @@
+
+post_office_number_224022 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224022]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 32 97]
+(* <- lang_ru;; <- phone_number;;*);
+[224022]
+(* <- lang_ru;; <- postcode;;*);
+[23.7513443]
+(* <- lang_ru;; <- longitude;;*);
+[224022, г. Брест, ул. Суворова 96 1]
+(* <- lang_ru;; <- address;;*);
+[52.0715042]
+(* <- lang_ru;; <- latitude;;*);
+[Суворова]
+(* <- lang_ru;; <- street;;*);
+[96]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Лещинская Марина Анатольевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224022]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

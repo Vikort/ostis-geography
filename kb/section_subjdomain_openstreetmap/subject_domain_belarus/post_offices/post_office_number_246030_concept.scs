@@ -1,0 +1,27 @@
+
+post_office_number_246030 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246030]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 931204]
+(* <- lang_ru;; <- phone_number;;*);
+[246030]
+(* <- lang_ru;; <- postcode;;*);
+[30.9160206]
+(* <- lang_ru;; <- longitude;;*);
+[246030, г. Гомель, ул. Незалежности 1Б]
+(* <- lang_ru;; <- address;;*);
+[52.5348778]
+(* <- lang_ru;; <- latitude;;*);
+[Незалежности]
+(* <- lang_ru;; <- street;;*);
+[1Б]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246030]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

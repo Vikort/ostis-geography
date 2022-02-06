@@ -1,0 +1,27 @@
+
+post_office_number_212036 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212036]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 63 45 96]
+(* <- lang_ru;; <- phone_number;;*);
+[212036]
+(* <- lang_ru;; <- postcode;;*);
+[30.3110597]
+(* <- lang_ru;; <- longitude;;*);
+[212036, г. Могилев, ул. Симонова 45А]
+(* <- lang_ru;; <- address;;*);
+[53.8650545]
+(* <- lang_ru;; <- latitude;;*);
+[Симонова]
+(* <- lang_ru;; <- street;;*);
+[45А]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212036]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

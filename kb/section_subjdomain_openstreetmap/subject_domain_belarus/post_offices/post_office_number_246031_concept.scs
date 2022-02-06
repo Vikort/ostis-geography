@@ -1,0 +1,27 @@
+
+post_office_number_246031 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246031]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 22 20 91]
+(* <- lang_ru;; <- phone_number;;*);
+[246031]
+(* <- lang_ru;; <- postcode;;*);
+[30.96211195]
+(* <- lang_ru;; <- longitude;;*);
+[246031, г. Гомель, ул. Ефремова 5]
+(* <- lang_ru;; <- address;;*);
+[52.45667625]
+(* <- lang_ru;; <- latitude;;*);
+[Ефремова]
+(* <- lang_ru;; <- street;;*);
+[5]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246031]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

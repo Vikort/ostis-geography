@@ -1,0 +1,27 @@
+
+post_office_number_220307 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220307]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 356 62 56]
+(* <- lang_ru;; <- phone_number;;*);
+[220307]
+(* <- lang_ru;; <- postcode;;*);
+[27.6183013]
+(* <- lang_ru;; <- longitude;;*);
+[220307, г. Минск, пр-т. Партизанский 34 1]
+(* <- lang_ru;; <- address;;*);
+[53.8765077]
+(* <- lang_ru;; <- latitude;;*);
+[Партизанский]
+(* <- lang_ru;; <- street;;*);
+[34]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Гаврилюк Елена Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220307]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

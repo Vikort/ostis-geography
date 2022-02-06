@@ -1,0 +1,27 @@
+
+post_office_number_220062 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220062]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 305 04 03]
+(* <- lang_ru;; <- phone_number;;*);
+[220062]
+(* <- lang_ru;; <- postcode;;*);
+[27.4711251]
+(* <- lang_ru;; <- longitude;;*);
+[220062, г. Минск, проспект. Победителей 123]
+(* <- lang_ru;; <- address;;*);
+[53.9389328]
+(* <- lang_ru;; <- latitude;;*);
+[Победителей]
+(* <- lang_ru;; <- street;;*);
+[123]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Лешкова Екатерина Антоновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220062]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

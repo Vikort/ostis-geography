@@ -1,0 +1,27 @@
+
+post_office_number_220504 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220504]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 300 39 86]
+(* <- lang_ru;; <- phone_number;;*);
+[220504]
+(* <- lang_ru;; <- postcode;;*);
+[27.4908963]
+(* <- lang_ru;; <- longitude;;*);
+[220504, г. Минск, улица. Каролинская 10]
+(* <- lang_ru;; <- address;;*);
+[53.8517592]
+(* <- lang_ru;; <- latitude;;*);
+[Каролинская]
+(* <- lang_ru;; <- street;;*);
+[10]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Бейнар Ольга Вацлавовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220504]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

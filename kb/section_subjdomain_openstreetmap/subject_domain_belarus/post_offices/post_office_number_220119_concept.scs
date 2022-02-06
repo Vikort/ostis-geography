@@ -1,0 +1,27 @@
+
+post_office_number_220119 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220119]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 375 69 05]
+(* <- lang_ru;; <- phone_number;;*);
+[220119]
+(* <- lang_ru;; <- postcode;;*);
+[27.6334906]
+(* <- lang_ru;; <- longitude;;*);
+[220119, г. Минск, улица. Карбышева 9/3]
+(* <- lang_ru;; <- address;;*);
+[53.9525991]
+(* <- lang_ru;; <- latitude;;*);
+[Карбышева]
+(* <- lang_ru;; <- street;;*);
+[9/3]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Михневич Елена Степановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220119]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

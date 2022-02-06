@@ -1,0 +1,27 @@
+
+post_office_number_230015 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230015]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 44 18 05]
+(* <- lang_ru;; <- phone_number;;*);
+[230015]
+(* <- lang_ru;; <- postcode;;*);
+[23.818508]
+(* <- lang_ru;; <- longitude;;*);
+[230015, г. Гродно, ул. Горького 87]
+(* <- lang_ru;; <- address;;*);
+[53.702702]
+(* <- lang_ru;; <- latitude;;*);
+[Горького]
+(* <- lang_ru;; <- street;;*);
+[87]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[Валюшко Марина Иосифовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230015]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

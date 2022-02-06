@@ -1,0 +1,27 @@
+
+post_office_number_230030 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230030]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 64 88 04]
+(* <- lang_ru;; <- phone_number;;*);
+[230030]
+(* <- lang_ru;; <- postcode;;*);
+[23.801578]
+(* <- lang_ru;; <- longitude;;*);
+[230030, г. Гродно, ул. Калиновского 75]
+(* <- lang_ru;; <- address;;*);
+[53.690393]
+(* <- lang_ru;; <- latitude;;*);
+[Калиновского]
+(* <- lang_ru;; <- street;;*);
+[75]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[Шусинская Мария Казимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230030]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

@@ -1,0 +1,27 @@
+
+post_office_number_246032 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246032]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+ 375 (232) 31 85 32]
+(* <- lang_ru;; <- phone_number;;*);
+[246032]
+(* <- lang_ru;; <- postcode;;*);
+[31.00116491]
+(* <- lang_ru;; <- longitude;;*);
+[246032, г. Гомель, ул. Юбилейная 5]
+(* <- lang_ru;; <- address;;*);
+[52.45776804]
+(* <- lang_ru;; <- latitude;;*);
+[Юбилейная]
+(* <- lang_ru;; <- street;;*);
+[5]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246032]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

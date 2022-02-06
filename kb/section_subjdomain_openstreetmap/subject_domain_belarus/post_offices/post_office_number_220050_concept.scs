@@ -1,0 +1,27 @@
+
+post_office_number_220050 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220050]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 367 77 24]
+(* <- lang_ru;; <- phone_number;;*);
+[220050]
+(* <- lang_ru;; <- postcode;;*);
+[27.5513057]
+(* <- lang_ru;; <- longitude;;*);
+[220050, г. Минск, проспект. Независимости 10]
+(* <- lang_ru;; <- address;;*);
+[53.8964078]
+(* <- lang_ru;; <- latitude;;*);
+[Независимости]
+(* <- lang_ru;; <- street;;*);
+[10]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Листратенко Ольга Анатольевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220050]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

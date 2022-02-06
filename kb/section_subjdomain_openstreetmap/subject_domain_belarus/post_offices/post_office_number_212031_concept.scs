@@ -1,0 +1,27 @@
+
+post_office_number_212031 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212031]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 64 77 64]
+(* <- lang_ru;; <- phone_number;;*);
+[212031]
+(* <- lang_ru;; <- postcode;;*);
+[30.3368087]
+(* <- lang_ru;; <- longitude;;*);
+[212031, г. Могилев, ул. Первомайская 28]
+(* <- lang_ru;; <- address;;*);
+[53.9037598]
+(* <- lang_ru;; <- latitude;;*);
+[Первомайская]
+(* <- lang_ru;; <- street;;*);
+[28]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[Каштанова Кристина Андреевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212031]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

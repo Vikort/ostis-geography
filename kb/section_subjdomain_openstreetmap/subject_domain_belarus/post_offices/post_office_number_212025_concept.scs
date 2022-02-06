@@ -1,0 +1,27 @@
+
+post_office_number_212025 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212025]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 64 40 36]
+(* <- lang_ru;; <- phone_number;;*);
+[212025]
+(* <- lang_ru;; <- postcode;;*);
+[30.28352206]
+(* <- lang_ru;; <- longitude;;*);
+[212025, г. Могилев, ул. Б.Бирули 7]
+(* <- lang_ru;; <- address;;*);
+[53.91983042]
+(* <- lang_ru;; <- latitude;;*);
+[Б.Бирули]
+(* <- lang_ru;; <- street;;*);
+[7]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212025]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

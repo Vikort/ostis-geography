@@ -1,0 +1,27 @@
+
+post_office_number_212002 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212002]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 78 60 66]
+(* <- lang_ru;; <- phone_number;;*);
+[212002]
+(* <- lang_ru;; <- postcode;;*);
+[30.34279295]
+(* <- lang_ru;; <- longitude;;*);
+[212002, г. Могилев, пр-т. Пушкинский 22]
+(* <- lang_ru;; <- address;;*);
+[53.87533337]
+(* <- lang_ru;; <- latitude;;*);
+[Пушкинский]
+(* <- lang_ru;; <- street;;*);
+[22]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212002]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

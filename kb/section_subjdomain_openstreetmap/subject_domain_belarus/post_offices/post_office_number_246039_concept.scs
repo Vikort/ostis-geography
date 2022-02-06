@@ -1,0 +1,27 @@
+
+post_office_number_246039 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246039]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 26 15 66]
+(* <- lang_ru;; <- phone_number;;*);
+[246039]
+(* <- lang_ru;; <- postcode;;*);
+[30.90866088]
+(* <- lang_ru;; <- longitude;;*);
+[246039, г. Гомель, ул. Ф. Стрельца 24 A]
+(* <- lang_ru;; <- address;;*);
+[52.43127811]
+(* <- lang_ru;; <- latitude;;*);
+[Ф. Стрельца]
+(* <- lang_ru;; <- street;;*);
+[24 A]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246039]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

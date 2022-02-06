@@ -1,0 +1,27 @@
+
+post_office_number_224011 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224011]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 34 26 84]
+(* <- lang_ru;; <- phone_number;;*);
+[224011]
+(* <- lang_ru;; <- postcode;;*);
+[23.749165]
+(* <- lang_ru;; <- longitude;;*);
+[224011, г. Брест, ул. Луцкая 46]
+(* <- lang_ru;; <- address;;*);
+[52.0789641]
+(* <- lang_ru;; <- latitude;;*);
+[Луцкая]
+(* <- lang_ru;; <- street;;*);
+[46]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Корнелюк Инна Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224011]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

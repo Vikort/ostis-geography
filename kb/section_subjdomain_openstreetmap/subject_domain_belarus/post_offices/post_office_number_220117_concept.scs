@@ -1,0 +1,27 @@
+
+post_office_number_220117 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220117]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 350 14 00]
+(* <- lang_ru;; <- phone_number;;*);
+[220117]
+(* <- lang_ru;; <- postcode;;*);
+[27.4633726]
+(* <- lang_ru;; <- longitude;;*);
+[220117, г. Минск, пр. газеты "Звязда" 55]
+(* <- lang_ru;; <- address;;*);
+[53.8584163]
+(* <- lang_ru;; <- latitude;;*);
+[газеты "Звязда"]
+(* <- lang_ru;; <- street;;*);
+[55]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220117]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

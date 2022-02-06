@@ -1,0 +1,27 @@
+
+post_office_number_220057 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220057]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 352 28 42]
+(* <- lang_ru;; <- phone_number;;*);
+[220057]
+(* <- lang_ru;; <- postcode;;*);
+[27.7392823]
+(* <- lang_ru;; <- longitude;;*);
+[220057, г. Минск, улица. Гуртьева 7]
+(* <- lang_ru;; <- address;;*);
+[53.9588442]
+(* <- lang_ru;; <- latitude;;*);
+[Гуртьева]
+(* <- lang_ru;; <- street;;*);
+[7]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220057]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

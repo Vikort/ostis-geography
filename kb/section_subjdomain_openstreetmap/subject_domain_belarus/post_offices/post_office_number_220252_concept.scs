@@ -1,0 +1,27 @@
+
+post_office_number_220252 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220252]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 354 78 84]
+(* <- lang_ru;; <- phone_number;;*);
+[220252]
+(* <- lang_ru;; <- postcode;;*);
+[27.4847491]
+(* <- lang_ru;; <- longitude;;*);
+[220252, г. Минск, ул. Янки Брыля 30]
+(* <- lang_ru;; <- address;;*);
+[53.8795108]
+(* <- lang_ru;; <- latitude;;*);
+[Янки Брыля]
+(* <- lang_ru;; <- street;;*);
+[30]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Войтенкова Татьяна Валерьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220252]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

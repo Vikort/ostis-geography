@@ -1,0 +1,27 @@
+
+post_office_number_220075 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220075]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 370 56 60]
+(* <- lang_ru;; <- phone_number;;*);
+[220075]
+(* <- lang_ru;; <- postcode;;*);
+[27.7010018]
+(* <- lang_ru;; <- longitude;;*);
+[220075, г. Минск, улица. Алеся Бачило 12]
+(* <- lang_ru;; <- address;;*);
+[53.8424556]
+(* <- lang_ru;; <- latitude;;*);
+[Алеся Бачило]
+(* <- lang_ru;; <- street;;*);
+[12]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Ильюшина Светлана Васильевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220075]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

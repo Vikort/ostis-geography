@@ -1,0 +1,27 @@
+
+post_office_number_212022 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212022]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 76 93 03]
+(* <- lang_ru;; <- phone_number;;*);
+[212022]
+(* <- lang_ru;; <- postcode;;*);
+[30.32137138]
+(* <- lang_ru;; <- longitude;;*);
+[212022, г. Могилев, пр-т. Мира 9]
+(* <- lang_ru;; <- address;;*);
+[53.9119071]
+(* <- lang_ru;; <- latitude;;*);
+[Мира]
+(* <- lang_ru;; <- street;;*);
+[9]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212022]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

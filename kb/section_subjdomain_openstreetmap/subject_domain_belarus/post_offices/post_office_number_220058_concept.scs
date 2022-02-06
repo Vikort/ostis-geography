@@ -1,0 +1,27 @@
+
+post_office_number_220058 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220058]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 236 84 01]
+(* <- lang_ru;; <- phone_number;;*);
+[220058]
+(* <- lang_ru;; <- postcode;;*);
+[27.4327295]
+(* <- lang_ru;; <- longitude;;*);
+[220058, г. Минск, улица. Налибокская 36]
+(* <- lang_ru;; <- address;;*);
+[53.92797]
+(* <- lang_ru;; <- latitude;;*);
+[Налибокская]
+(* <- lang_ru;; <- street;;*);
+[36]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220058]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

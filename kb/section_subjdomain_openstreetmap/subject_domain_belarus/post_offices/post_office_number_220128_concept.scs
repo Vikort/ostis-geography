@@ -1,0 +1,27 @@
+
+post_office_number_220128 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220128]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 272 15 73]
+(* <- lang_ru;; <- phone_number;;*);
+[220128]
+(* <- lang_ru;; <- postcode;;*);
+[27.4814891]
+(* <- lang_ru;; <- longitude;;*);
+[220128, г. Минск, улица. Петра Глебки 118]
+(* <- lang_ru;; <- address;;*);
+[53.9274552]
+(* <- lang_ru;; <- latitude;;*);
+[Петра Глебки]
+(* <- lang_ru;; <- street;;*);
+[118]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Гнедько Мария Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220128]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

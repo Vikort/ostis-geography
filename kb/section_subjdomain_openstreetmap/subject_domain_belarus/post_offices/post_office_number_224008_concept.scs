@@ -1,0 +1,27 @@
+
+post_office_number_224008 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224008]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 93 32 95]
+(* <- lang_ru;; <- phone_number;;*);
+[224008]
+(* <- lang_ru;; <- postcode;;*);
+[23.6889366]
+(* <- lang_ru;; <- longitude;;*);
+[224008, г. Брест, ул. Ковельская 44]
+(* <- lang_ru;; <- address;;*);
+[52.0642655]
+(* <- lang_ru;; <- latitude;;*);
+[Ковельская]
+(* <- lang_ru;; <- street;;*);
+[44]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Остапчук Людмила Константиновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224008]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

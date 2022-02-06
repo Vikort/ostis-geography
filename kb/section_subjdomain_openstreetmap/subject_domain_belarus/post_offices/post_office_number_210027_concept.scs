@@ -1,0 +1,27 @@
+
+post_office_number_210027 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210027]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 64 20]
+(* <- lang_ru;; <- phone_number;;*);
+[210027]
+(* <- lang_ru;; <- postcode;;*);
+[30.21982]
+(* <- lang_ru;; <- longitude;;*);
+[210027, г. Витебск, пр-т. пр-т Строителей 12 1]
+(* <- lang_ru;; <- address;;*);
+[55.171514]
+(* <- lang_ru;; <- latitude;;*);
+[пр-т Строителей]
+(* <- lang_ru;; <- street;;*);
+[12]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Мироненко Наталья Михайловна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210027]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

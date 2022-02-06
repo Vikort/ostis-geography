@@ -1,0 +1,27 @@
+
+post_office_number_210010 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210010]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 68 71]
+(* <- lang_ru;; <- phone_number;;*);
+[210010]
+(* <- lang_ru;; <- postcode;;*);
+[30.210846]
+(* <- lang_ru;; <- longitude;;*);
+[210010, г. Витебск, ул. Гоголя 6]
+(* <- lang_ru;; <- address;;*);
+[55.189701]
+(* <- lang_ru;; <- latitude;;*);
+[Гоголя]
+(* <- lang_ru;; <- street;;*);
+[6]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Маслак Наталья Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210010]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

@@ -1,0 +1,27 @@
+
+post_office_number_210036 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210036]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 28 70 59]
+(* <- lang_ru;; <- phone_number;;*);
+[210036]
+(* <- lang_ru;; <- postcode;;*);
+[30.264511]
+(* <- lang_ru;; <- longitude;;*);
+[210036, г. Витебск, ул. Богатырева 14]
+(* <- lang_ru;; <- address;;*);
+[55.169329]
+(* <- lang_ru;; <- latitude;;*);
+[Богатырева]
+(* <- lang_ru;; <- street;;*);
+[14]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Крупинская Наталья Георгиевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210036]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

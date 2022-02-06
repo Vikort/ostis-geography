@@ -1,0 +1,27 @@
+
+post_office_number_220118 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220118]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 241 09 91]
+(* <- lang_ru;; <- phone_number;;*);
+[220118]
+(* <- lang_ru;; <- postcode;;*);
+[27.633233]
+(* <- lang_ru;; <- longitude;;*);
+[220118, г. Минск, улица. Шишкина 26]
+(* <- lang_ru;; <- address;;*);
+[53.858532]
+(* <- lang_ru;; <- latitude;;*);
+[Шишкина]
+(* <- lang_ru;; <- street;;*);
+[26]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220118]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

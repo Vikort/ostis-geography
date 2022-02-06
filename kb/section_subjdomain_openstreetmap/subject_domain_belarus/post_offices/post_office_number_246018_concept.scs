@@ -1,0 +1,27 @@
+
+post_office_number_246018 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246018]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 22 78 16]
+(* <- lang_ru;; <- phone_number;;*);
+[246018]
+(* <- lang_ru;; <- postcode;;*);
+[30.95867872]
+(* <- lang_ru;; <- longitude;;*);
+[246018, г. Гомель, ул. Царикова Бориса 44]
+(* <- lang_ru;; <- address;;*);
+[52.44673777]
+(* <- lang_ru;; <- latitude;;*);
+[Царикова Бориса]
+(* <- lang_ru;; <- street;;*);
+[44]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[,]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246018]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

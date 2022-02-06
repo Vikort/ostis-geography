@@ -1,0 +1,27 @@
+
+post_office_number_220065 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220065]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 352 07 85]
+(* <- lang_ru;; <- phone_number;;*);
+[220065]
+(* <- lang_ru;; <- postcode;;*);
+[27.53826255]
+(* <- lang_ru;; <- longitude;;*);
+[220065, г. Минск, улица. Аэродромная 7]
+(* <- lang_ru;; <- address;;*);
+[53.87326463]
+(* <- lang_ru;; <- latitude;;*);
+[Аэродромная]
+(* <- lang_ru;; <- street;;*);
+[7]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Скращук Алена Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220065]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

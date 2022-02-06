@@ -1,0 +1,27 @@
+
+post_office_number_224018 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224018]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 32 75]
+(* <- lang_ru;; <- phone_number;;*);
+[224018]
+(* <- lang_ru;; <- postcode;;*);
+[23.6550504]
+(* <- lang_ru;; <- longitude;;*);
+[224018, г. Брест, ул. ГОБК 74]
+(* <- lang_ru;; <- address;;*);
+[52.0918656]
+(* <- lang_ru;; <- latitude;;*);
+[ГОБК]
+(* <- lang_ru;; <- street;;*);
+[74]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Воронович Жанна Алексеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224018]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

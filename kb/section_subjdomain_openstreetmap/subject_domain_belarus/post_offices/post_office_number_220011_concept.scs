@@ -1,0 +1,27 @@
+
+post_office_number_220011 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220011]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 362 09 23]
+(* <- lang_ru;; <- phone_number;;*);
+[220011]
+(* <- lang_ru;; <- postcode;;*);
+[27.5507819]
+(* <- lang_ru;; <- longitude;;*);
+[220011, г. Минск, улица. Привокзальная пл. 5]
+(* <- lang_ru;; <- address;;*);
+[53.8906452]
+(* <- lang_ru;; <- latitude;;*);
+[Привокзальная пл.]
+(* <- lang_ru;; <- street;;*);
+[5]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Слабко Тамара Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220011]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

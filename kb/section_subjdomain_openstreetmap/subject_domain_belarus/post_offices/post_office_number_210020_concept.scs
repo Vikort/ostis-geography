@@ -1,0 +1,27 @@
+
+post_office_number_210020 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210020]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 66 67]
+(* <- lang_ru;; <- phone_number;;*);
+[210020]
+(* <- lang_ru;; <- postcode;;*);
+[30.137579]
+(* <- lang_ru;; <- longitude;;*);
+[210020, г. Витебск, ул. Гуринова 45]
+(* <- lang_ru;; <- address;;*);
+[55.16217]
+(* <- lang_ru;; <- latitude;;*);
+[Гуринова]
+(* <- lang_ru;; <- street;;*);
+[45]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Левченко Евгений Леонидович]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210020]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

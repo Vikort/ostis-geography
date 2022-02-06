@@ -1,0 +1,27 @@
+
+post_office_number_220113 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220113]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 351 32 65]
+(* <- lang_ru;; <- phone_number;;*);
+[220113]
+(* <- lang_ru;; <- postcode;;*);
+[27.6055557]
+(* <- lang_ru;; <- longitude;;*);
+[220113, г. Минск, тракт. Логойский 1/1]
+(* <- lang_ru;; <- address;;*);
+[53.940511]
+(* <- lang_ru;; <- latitude;;*);
+[Логойский]
+(* <- lang_ru;; <- street;;*);
+[1/1]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220113]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

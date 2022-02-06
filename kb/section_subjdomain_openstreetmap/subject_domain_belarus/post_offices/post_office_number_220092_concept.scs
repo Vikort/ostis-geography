@@ -1,0 +1,27 @@
+
+post_office_number_220092 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_220092]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 396 52 90]
+(* <- lang_ru;; <- phone_number;;*);
+[220092]
+(* <- lang_ru;; <- postcode;;*);
+[27.497394]
+(* <- lang_ru;; <- longitude;;*);
+[220092, г. Минск, проспект. Пушкина 28]
+(* <- lang_ru;; <- address;;*);
+[53.9055805]
+(* <- lang_ru;; <- latitude;;*);
+[Пушкина]
+(* <- lang_ru;; <- street;;*);
+[28]
+(* <- lang_ru;; <- house;;*);
+[Минск]
+(* <- lang_ru;; <- city;;*);
+[Маркевич Елена Михайловна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220092]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

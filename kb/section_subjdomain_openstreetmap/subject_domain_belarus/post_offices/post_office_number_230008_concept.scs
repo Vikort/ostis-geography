@@ -1,0 +1,27 @@
+
+post_office_number_230008 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230008]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 55 24 03]
+(* <- lang_ru;; <- phone_number;;*);
+[230008]
+(* <- lang_ru;; <- postcode;;*);
+[23.85509]
+(* <- lang_ru;; <- longitude;;*);
+[230008, г. Гродно, ул. Тавлая 22]
+(* <- lang_ru;; <- address;;*);
+[53.695984]
+(* <- lang_ru;; <- latitude;;*);
+[Тавлая]
+(* <- lang_ru;; <- street;;*);
+[22]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[Павлюкевич Анна Вацлавовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230008]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

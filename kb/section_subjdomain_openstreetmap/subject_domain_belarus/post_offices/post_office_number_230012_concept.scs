@@ -1,0 +1,27 @@
+
+post_office_number_230012 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_230012]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 55 63 10]
+(* <- lang_ru;; <- phone_number;;*);
+[230012]
+(* <- lang_ru;; <- postcode;;*);
+[23.831823]
+(* <- lang_ru;; <- longitude;;*);
+[230012, г. Гродно, ул. Пушкина 30]
+(* <- lang_ru;; <- address;;*);
+[53.69675]
+(* <- lang_ru;; <- latitude;;*);
+[Пушкина]
+(* <- lang_ru;; <- street;;*);
+[30]
+(* <- lang_ru;; <- house;;*);
+[Гродно]
+(* <- lang_ru;; <- city;;*);
+[Белошевская Зоя Леонидовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230012]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

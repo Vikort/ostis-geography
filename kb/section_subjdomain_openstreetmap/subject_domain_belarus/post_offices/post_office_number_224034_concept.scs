@@ -1,0 +1,27 @@
+
+post_office_number_224034 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224034]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 52 52 34]
+(* <- lang_ru;; <- phone_number;;*);
+[224034]
+(* <- lang_ru;; <- postcode;;*);
+[23.6793614]
+(* <- lang_ru;; <- longitude;;*);
+[224034, г. Брест, ул. Смирнова 19 А]
+(* <- lang_ru;; <- address;;*);
+[52.099737]
+(* <- lang_ru;; <- latitude;;*);
+[Смирнова]
+(* <- lang_ru;; <- street;;*);
+[19]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Василюк Маргарита Юрьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224034]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

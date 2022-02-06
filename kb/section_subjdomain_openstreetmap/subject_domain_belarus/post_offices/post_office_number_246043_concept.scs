@@ -1,0 +1,27 @@
+
+post_office_number_246043 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246043]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 25 67 25]
+(* <- lang_ru;; <- phone_number;;*);
+[246043]
+(* <- lang_ru;; <- postcode;;*);
+[30.95790625]
+(* <- lang_ru;; <- longitude;;*);
+[246043, г. Гомель, пер. Бакунина 76]
+(* <- lang_ru;; <- address;;*);
+[52.42440724]
+(* <- lang_ru;; <- latitude;;*);
+[Бакунина]
+(* <- lang_ru;; <- street;;*);
+[76]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246043]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

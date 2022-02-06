@@ -1,0 +1,27 @@
+
+post_office_number_212007 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212007]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 63 96 69]
+(* <- lang_ru;; <- phone_number;;*);
+[212007]
+(* <- lang_ru;; <- postcode;;*);
+[30.3184408]
+(* <- lang_ru;; <- longitude;;*);
+[212007, г. Могилев, ул. Циолковского 10]
+(* <- lang_ru;; <- address;;*);
+[53.90963511]
+(* <- lang_ru;; <- latitude;;*);
+[Циолковского]
+(* <- lang_ru;; <- street;;*);
+[10]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212007]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

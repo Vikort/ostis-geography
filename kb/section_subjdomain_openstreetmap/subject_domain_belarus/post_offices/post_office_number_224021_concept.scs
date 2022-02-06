@@ -1,0 +1,27 @@
+
+post_office_number_224021 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_224021]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 14 11]
+(* <- lang_ru;; <- phone_number;;*);
+[224021]
+(* <- lang_ru;; <- postcode;;*);
+[23.7696826]
+(* <- lang_ru;; <- longitude;;*);
+[224021, г. Брест, ул. Орловская 24]
+(* <- lang_ru;; <- address;;*);
+[52.1068446]
+(* <- lang_ru;; <- latitude;;*);
+[Орловская]
+(* <- lang_ru;; <- street;;*);
+[24]
+(* <- lang_ru;; <- house;;*);
+[Брест]
+(* <- lang_ru;; <- city;;*);
+[Ферулева Елена Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224021]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

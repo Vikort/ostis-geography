@@ -1,0 +1,27 @@
+
+post_office_number_212008 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_212008]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 72 80 48]
+(* <- lang_ru;; <- phone_number;;*);
+[212008]
+(* <- lang_ru;; <- postcode;;*);
+[30.3607392]
+(* <- lang_ru;; <- longitude;;*);
+[212008, г. Могилев, ул. Каштановая 2]
+(* <- lang_ru;; <- address;;*);
+[53.9501699]
+(* <- lang_ru;; <- latitude;;*);
+[Каштановая]
+(* <- lang_ru;; <- street;;*);
+[2]
+(* <- lang_ru;; <- house;;*);
+[Могилев]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212008]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

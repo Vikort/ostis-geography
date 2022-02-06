@@ -1,0 +1,27 @@
+
+post_office_number_210029 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_210029]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 64 29]
+(* <- lang_ru;; <- phone_number;;*);
+[210029]
+(* <- lang_ru;; <- postcode;;*);
+[30.23281]
+(* <- lang_ru;; <- longitude;;*);
+[210029, г. Витебск, ул. Смоленская 9]
+(* <- lang_ru;; <- address;;*);
+[55.185831]
+(* <- lang_ru;; <- latitude;;*);
+[Смоленская]
+(* <- lang_ru;; <- street;;*);
+[9]
+(* <- lang_ru;; <- house;;*);
+[Витебск]
+(* <- lang_ru;; <- city;;*);
+[Маслак Наталья Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210029]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

@@ -1,0 +1,27 @@
+
+post_office_number_246001 <- concept_way;
+=>nrel_main_idtf:
+[post_office_number_246001]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 50 40 37]
+(* <- lang_ru;; <- phone_number;;*);
+[246001]
+(* <- lang_ru;; <- postcode;;*);
+[30.9975752]
+(* <- lang_ru;; <- longitude;;*);
+[246001, г. Гомель, ул. Барыкина 1]
+(* <- lang_ru;; <- address;;*);
+[52.4168223]
+(* <- lang_ru;; <- latitude;;*);
+[Барыкина]
+(* <- lang_ru;; <- street;;*);
+[1]
+(* <- lang_ru;; <- house;;*);
+[Гомель]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246001]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;
