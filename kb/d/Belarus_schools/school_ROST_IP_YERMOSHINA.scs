@@ -1,0 +1,5 @@
+school_ROST_IP_YERMOSHINA <-concept_school;
+=> nrel_main_idtf:
+[РОСТ ИП ЕРМОШИНА]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

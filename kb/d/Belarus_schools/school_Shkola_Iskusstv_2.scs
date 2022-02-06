@@ -1,0 +1,5 @@
+school_Shkola_Iskusstv_2 <-concept_school;
+=> nrel_main_idtf:
+[Школа Искусств № 2]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

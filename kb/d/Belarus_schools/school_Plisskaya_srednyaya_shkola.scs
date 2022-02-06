@@ -1,0 +1,5 @@
+school_Plisskaya_srednyaya_shkola <-concept_school;
+=> nrel_main_idtf:
+[Плисская средняя школа]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

@@ -1,0 +1,5 @@
+school_Rudzenskaya_syar_ednyaya_shkola <-concept_school;
+=> nrel_main_idtf:
+[Рудзенская сярэдняя школа]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

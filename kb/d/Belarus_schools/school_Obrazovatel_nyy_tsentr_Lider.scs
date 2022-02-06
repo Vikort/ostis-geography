@@ -1,0 +1,5 @@
+school_Obrazovatel_nyy_tsentr_Lider <-concept_school;
+=> nrel_main_idtf:
+[Образовательный центр Лидер]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

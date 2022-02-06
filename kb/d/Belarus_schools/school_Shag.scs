@@ -1,0 +1,5 @@
+school_Shag <-concept_school;
+=> nrel_main_idtf:
+[Шаг]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

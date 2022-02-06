@@ -1,0 +1,5 @@
+school_Peskovskiy_uchebno_pedagogicheskiy_kompleks_det_skiy_sad_srednyaya_shkola <-concept_school;
+=> nrel_main_idtf:
+[Песковский учебно-педагогический комплекс детский сад – средняя школа]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

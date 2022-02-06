@@ -1,0 +1,5 @@
+school_Perkovichskaya_sanatornaya_shkola_internat <-concept_school;
+=> nrel_main_idtf:
+[Перковичская санаторная школа-интернат]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;

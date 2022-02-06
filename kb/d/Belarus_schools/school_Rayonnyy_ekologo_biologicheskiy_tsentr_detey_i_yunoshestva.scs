@@ -1,0 +1,5 @@
+school_Rayonnyy_ekologo_biologicheskiy_tsentr_detey_i_yunoshestva <-concept_school;
+=> nrel_main_idtf:
+[Районный эколого-биологический центр детей и юношества]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
