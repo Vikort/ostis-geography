@@ -1,5 +1,0 @@
-school_ROST_IP_YERMOSHINA <-concept_school;
-=> nrel_main_idtf:
-[пняр хо еплньхмю]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

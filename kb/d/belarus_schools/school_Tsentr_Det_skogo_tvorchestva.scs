@@ -1,0 +1,5 @@
+school_Tsentr_Det_skogo_tvorchestva <-concept_school;
+=> nrel_main_idtf:
+[Центр Детского творчества]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: belarus;;

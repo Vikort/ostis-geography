@@ -1,5 +1,0 @@
-school_Shkola_Mariny_Svetlakovoy <-concept_school;
-=> nrel_main_idtf:
-[Школа Марины Светлаковой]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

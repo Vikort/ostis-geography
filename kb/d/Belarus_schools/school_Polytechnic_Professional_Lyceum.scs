@@ -1,7 +1,0 @@
-school_Polytechnic_Professional_Lyceum <-concept_school;
-=> nrel_main_idtf:
-[Polytechnic Professional Lyceum]
-(* <- lang_en;; <- name_en;;*);
-[Сморгонский государственный политехнический профессиональный лицей]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

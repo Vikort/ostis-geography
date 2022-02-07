@@ -1,0 +1,5 @@
+school_Srednyaya_shkola_202 <-concept_school;
+=> nrel_main_idtf:
+[Средняя школа №202]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: belarus;;

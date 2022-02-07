@@ -1,0 +1,5 @@
+school_Yasli_sad_srednyaya_shkola_24 <-concept_school;
+=> nrel_main_idtf:
+[ясли сад-средн€€ школа є24]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: belarus;;

@@ -1,5 +1,0 @@
-school_Shkola_grebli <-concept_school;
-=> nrel_main_idtf:
-[Ўкола гребли]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

@@ -1,0 +1,5 @@
+school_Shkola_d_Pirevichi <-concept_school;
+=> nrel_main_idtf:
+[Ўкола д.ѕиревичи]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: belarus;;

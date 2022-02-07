@@ -1,7 +1,0 @@
-school_Private_school_Stembridge_ <-concept_school;
-=> nrel_main_idtf:
-[Private school "Stembridge "]
-(* <- lang_en;; <- name_en;;*);
-[Частная школа "Стембридж"]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

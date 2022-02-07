@@ -1,0 +1,5 @@
+school_Shkola_iskusstv <-concept_school;
+=> nrel_main_idtf:
+[Ўкола искусств]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: belarus;;
