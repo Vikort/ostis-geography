@@ -1,0 +1,14 @@
+Jasli_sad_37
+=> nrel_main_idtf: [Jasli-sad № 37] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 37] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Pervomajskij_rajon;
+=>nrel_street:ulica_Gurteva;
+=>nrel_location_house_number:11;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:230;
+=>nrel_phone_number:[+375 (17) 269-40-97, +375 (17) 269-40-98];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

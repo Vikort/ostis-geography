@@ -1,0 +1,14 @@
+Jasli_sad_105
+=> nrel_main_idtf: [Jasli-sad № 105] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 105] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Alibegova;
+=>nrel_location_house_number:20;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 251-70-97, +375 (17) 251-70-98];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

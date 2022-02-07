@@ -1,0 +1,14 @@
+Jasli_sad_432
+=> nrel_main_idtf: [Jasli-sad № 432] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 432] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Sovetskij_rajon;
+=>nrel_street:ulica_Surganova;
+=>nrel_location_house_number:72;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 331-16-83, +375 (17) 331-12-54];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Jasli_sad_468
+=> nrel_main_idtf: [Jasli-sad № 468] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 468] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Pervomajskij_rajon;
+=>nrel_street:Volgogradskaja_ulica;
+=>nrel_location_house_number:35a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:290;
+=>nrel_phone_number:[+375 (17) 280-66-01, +375 (17) 280-98-61];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Jasli_sad_150
+=> nrel_main_idtf: [Jasli-sad № 150] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 150] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Centralnyj_rajon;
+=>nrel_street:ulica_Osipenko;
+=>nrel_location_house_number:24;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:230;
+=>nrel_phone_number:[+375 (17) 288-94-15];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

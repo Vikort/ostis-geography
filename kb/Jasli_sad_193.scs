@@ -1,0 +1,14 @@
+Jasli_sad_193
+=> nrel_main_idtf: [Jasli-sad № 193] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 193] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:ulica_Lizy_CHajkinoj;
+=>nrel_location_house_number:11a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:200;
+=>nrel_phone_number:[+375 (17) 242-66-87];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Detskij_sad_242_Zolotoj_kljuchik
+=> nrel_main_idtf: [Detskij sad № 242 "Zolotoj kljuchik"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Детский сад № 242 "Золотой ключик"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Partizanskij_rajon;
+=>nrel_street:ulica_Budennogo;
+=>nrel_location_house_number:20;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:240;
+=>nrel_phone_number:[+375 (17) 398-88-84];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Jasli_sad_565_Lihtaryk
+=> nrel_main_idtf: [Jasli-sad № 565 "Lihtaryk"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 565 "Лихтарык"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Frunzenskij_rajon;
+=>nrel_street:ulica_Maksima_Goreckogo;
+=>nrel_location_house_number:47;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:250;
+=>nrel_phone_number:[+375 (17) 315-73-79, +375 (17) 201-52-99];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

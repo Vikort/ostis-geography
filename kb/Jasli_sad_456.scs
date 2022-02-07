@@ -1,0 +1,14 @@
+Jasli_sad_456
+=> nrel_main_idtf: [Jasli-sad № 456] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 456] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Oktjabrskij_rajon;
+=>nrel_street:ulica_ZHukovskogo;
+=>nrel_location_house_number:10_k4;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:290;
+=>nrel_phone_number:[+375 (17) 220-51-31];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Sanatornyj_detskij_sad_519
+=> nrel_main_idtf: [Sanatornyj detskij sad № 519] (* <- lang_en;; *);
+=> nrel_main_idtf: [Санаторный детский сад № 519] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Frunzenskij_rajon;
+=>nrel_street:ulica_Belskogo;
+=>nrel_location_house_number:41;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 207-23-25];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

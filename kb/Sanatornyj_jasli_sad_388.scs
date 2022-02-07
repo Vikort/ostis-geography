@@ -1,0 +1,14 @@
+Sanatornyj_jasli_sad_388
+=> nrel_main_idtf: [Sanatornyj jasli-sad № 388] (* <- lang_en;; *);
+=> nrel_main_idtf: [Санаторный ясли-сад № 388] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:ulica_Malinina;
+=>nrel_location_house_number:26;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 214-69-23, +375 (17) 214-87-39];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

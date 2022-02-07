@@ -1,0 +1,14 @@
+Jasli_sad_549
+=> nrel_main_idtf: [Jasli-sad № 549] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 549] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:prospekt_Gazety_Zvjazda;
+=>nrel_location_house_number:60;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 207-90-61, +375 (17) 207-90-73];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

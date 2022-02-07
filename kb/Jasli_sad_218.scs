@@ -1,0 +1,14 @@
+Jasli_sad_218
+=> nrel_main_idtf: [Jasli-sad № 218] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 218] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Centralnyj_rajon;
+=>nrel_street:bulvar_SHevchenko;
+=>nrel_location_house_number:13;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:230;
+=>nrel_phone_number:[+375 (17) 288-02-01];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

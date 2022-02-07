@@ -1,0 +1,14 @@
+Specialnyj_detskij_sad_139
+=> nrel_main_idtf: [Special'nyj detskij sad № 139] (* <- lang_en;; *);
+=> nrel_main_idtf: [Специальный детский сад № 139] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Lermontova;
+=>nrel_location_house_number:36;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 213-05-41, +375 (17) 208-58-34];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

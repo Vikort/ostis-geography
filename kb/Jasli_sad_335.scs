@@ -1,0 +1,14 @@
+Jasli_sad_335
+=> nrel_main_idtf: [Jasli-sad № 335] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 335] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:ulica_Plehanova;
+=>nrel_location_house_number:109;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 214-87-28, +375 (17) 367-87-18];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

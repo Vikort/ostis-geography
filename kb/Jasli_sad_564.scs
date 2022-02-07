@@ -1,0 +1,14 @@
+Jasli_sad_564
+=> nrel_main_idtf: [Jasli-sad № 564] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 564] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Sergeja_Esenina;
+=>nrel_location_house_number:41;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 277-86-11];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

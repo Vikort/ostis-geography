@@ -1,0 +1,14 @@
+Jasli_sad_508
+=> nrel_main_idtf: [Jasli-sad № 508] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 508] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Pervomajskij_rajon;
+=>nrel_street:ulica_Russijanova;
+=>nrel_location_house_number:13_k4;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:240;
+=>nrel_phone_number:[+375 (17) 264-25-88];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

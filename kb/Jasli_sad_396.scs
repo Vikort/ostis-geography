@@ -1,0 +1,14 @@
+Jasli_sad_396
+=> nrel_main_idtf: [Jasli-sad № 396] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 396] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:prospekt_Rokossovskogo;
+=>nrel_location_house_number:59;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:240;
+=>nrel_phone_number:[+375 (17) 367-60-03];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

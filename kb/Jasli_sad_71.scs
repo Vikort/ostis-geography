@@ -1,0 +1,14 @@
+Jasli_sad_71
+=> nrel_main_idtf: [Jasli-sad № 71] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 71] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Sovetskij_rajon;
+=>nrel_street:SHirokaja_ulica;
+=>nrel_location_house_number:14;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:220;
+=>nrel_phone_number:[+375 (17) 262-83-31];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

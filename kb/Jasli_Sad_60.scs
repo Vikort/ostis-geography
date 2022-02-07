@@ -1,0 +1,14 @@
+Jasli_Sad_60
+=> nrel_main_idtf: [Jasli-Sad № 60] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-Сад № 60] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Oktjabrskij_rajon;
+=>nrel_street:Aehrodromnaja_ulica;
+=>nrel_location_house_number:9a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 228-18-52];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

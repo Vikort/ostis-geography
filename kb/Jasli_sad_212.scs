@@ -1,0 +1,14 @@
+Jasli_sad_212
+=> nrel_main_idtf: [Jasli-sad № 212] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 212] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:Grushevskaja_ulica;
+=>nrel_location_house_number:65a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:230;
+=>nrel_phone_number:[+375 (17) 316-63-97];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

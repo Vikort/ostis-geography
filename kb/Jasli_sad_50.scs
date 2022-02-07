@@ -1,0 +1,14 @@
+Jasli_sad_50
+=> nrel_main_idtf: [Jasli-sad № 50] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 50] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Partizanskij_rajon;
+=>nrel_street:Uralskaja_ulica;
+=>nrel_location_house_number:9a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:250;
+=>nrel_phone_number:[+375 (17) 245-20-14];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

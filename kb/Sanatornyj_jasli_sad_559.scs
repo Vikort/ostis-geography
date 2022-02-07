@@ -1,0 +1,14 @@
+Sanatornyj_jasli_sad_559
+=> nrel_main_idtf: [Sanatornyj jasli-sad № 559] (* <- lang_en;; *);
+=> nrel_main_idtf: [Санаторный ясли-сад № 559] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Frunzenskij_rajon;
+=>nrel_street:ulica_Maksima_Goreckogo;
+=>nrel_location_house_number:45;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:250;
+=>nrel_phone_number:[+375 (17) 256-53-95, +375 (17) 315-73-74];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

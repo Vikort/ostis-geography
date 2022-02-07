@@ -1,0 +1,14 @@
+Specialnyj_jasli_sad_65
+=> nrel_main_idtf: [Special'nyj jasli-sad № 65] (* <- lang_en;; *);
+=> nrel_main_idtf: [Специальный ясли-сад № 65] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:proezd_Golodeda;
+=>nrel_location_house_number:21;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:290;
+=>nrel_phone_number:[+375 (17) 340-18-22, +375 (17) 340-18-37];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

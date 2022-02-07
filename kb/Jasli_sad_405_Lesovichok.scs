@@ -1,0 +1,14 @@
+Jasli_sad_405_Lesovichok
+=> nrel_main_idtf: [Jasli-sad № 405 "Lesovichok"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 405 "Лесовичок"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:ulica_Gerasimenko;
+=>nrel_location_house_number:31;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:260;
+=>nrel_phone_number:[+375 (17) 299-81-12, +375 (17) 299-83-72];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Jasli_sad_394
+=> nrel_main_idtf: [Jasli-sad № 394] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 394] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:ulica_SHishkina;
+=>nrel_location_house_number:22;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 235-04-74, +375 (17) 235-01-73];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

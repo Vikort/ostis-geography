@@ -1,0 +1,14 @@
+Jasli_sad_115_Skazka
+=> nrel_main_idtf: [Jasli-sad № 115 "Skazka"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 115 "Сказка"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Napoleona_Ordy;
+=>nrel_location_house_number:43;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:230;
+=>nrel_phone_number:[+375 (17) 212-89-87, +375 (17) 279-76-56];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

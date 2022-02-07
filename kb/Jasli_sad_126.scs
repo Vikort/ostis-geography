@@ -1,0 +1,14 @@
+Jasli_sad_126
+=> nrel_main_idtf: [Jasli-sad № 126] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 126] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:ulica_Serafimovicha;
+=>nrel_location_house_number:25;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 298-46-92];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

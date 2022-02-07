@@ -1,0 +1,14 @@
+Jasli_sad_487
+=> nrel_main_idtf: [Jasli-sad № 487] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 487] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:ulica_Rotmistrova;
+=>nrel_location_house_number:58;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:280;
+=>nrel_phone_number:[+375 (17) 344-10-81, +375 (17) 344-11-41];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

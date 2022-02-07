@@ -1,0 +1,14 @@
+Jasli_sad_215
+=> nrel_main_idtf: [Jasli-sad № 215] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 215] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Pervomajskij_rajon;
+=>nrel_street:ulica_Ponomareva;
+=>nrel_location_house_number:13;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:220;
+=>nrel_phone_number:[+375 (17) 266-57-01, +375 (17) 286-80-05];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

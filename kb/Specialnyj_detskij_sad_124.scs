@@ -1,0 +1,14 @@
+Specialnyj_detskij_sad_124
+=> nrel_main_idtf: [Special'nyj detskij sad № 124] (* <- lang_en;; *);
+=> nrel_main_idtf: [Специальный детский сад № 124] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:ulica_Iskalieva;
+=>nrel_location_house_number:14a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 295-41-51];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

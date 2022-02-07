@@ -1,0 +1,14 @@
+Jasli_sad_85
+=> nrel_main_idtf: [Jasli-sad № 85] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 85] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:Grushevskaja_ulica;
+=>nrel_location_house_number:65;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:250;
+=>nrel_phone_number:[+375 (17) 222-01-77];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

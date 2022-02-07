@@ -1,0 +1,14 @@
+Jasli_sad_551
+=> nrel_main_idtf: [Jasli-sad № 551] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 551] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:prospekt_Ljubimova;
+=>nrel_location_house_number:11;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:230;
+=>nrel_phone_number:[+375 (17) 277-02-84, +375 (17) 277-07-14];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Jasli_sad_143
+=> nrel_main_idtf: [Jasli-sad № 143] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 143] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Korolja;
+=>nrel_location_house_number:3b;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:200;
+=>nrel_phone_number:[+375 (17) 200-96-20];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

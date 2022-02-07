@@ -1,0 +1,14 @@
+Jasli_sad_445
+=> nrel_main_idtf: [Jasli-sad № 445] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 445] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Sovetskij_rajon;
+=>nrel_street:ulica_Maksima_Bogdanovicha;
+=>nrel_location_house_number:97;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 334-45-01, +375 (17) 334-98-51];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

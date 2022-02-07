@@ -1,0 +1,14 @@
+Centr_razvitija_rebenka_91_Vasilek
+=> nrel_main_idtf: [Centr razvitija rebenka № 91 "Vasilek"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Центр развития ребенка № 91 "Василек"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:Bajkalskaja_ulica;
+=>nrel_location_house_number:35;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:170;
+=>nrel_phone_number:[+375 (17) 299-85-42, +375 (17) 291-23-60];
+<-concept_child_development_centers;
+<-concept_preschool_education_institution;;

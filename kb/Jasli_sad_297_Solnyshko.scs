@@ -1,0 +1,14 @@
+Jasli_sad_297_Solnyshko
+=> nrel_main_idtf: [Jasli-sad № 297 "Solnyshko"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 297 "Солнышко"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Frunzenskij_rajon;
+=>nrel_street:ulica_ZHudro;
+=>nrel_location_house_number:10;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 363-42-13, +375 (17) 290-89-52];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

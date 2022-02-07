@@ -1,0 +1,14 @@
+Jasli_sad_73
+=> nrel_main_idtf: [Jasli-sad № 73] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 73] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:prospekt_Rokossovskogo;
+=>nrel_location_house_number:151_k2;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:200;
+=>nrel_phone_number:[+375 (17) 368-58-45, +375 (17) 214-73-58];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

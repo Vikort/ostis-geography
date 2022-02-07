@@ -1,0 +1,14 @@
+Jasli_sad_542
+=> nrel_main_idtf: [Jasli-sad № 542] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 542] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:prospekt_Gazety_Zvjazda;
+=>nrel_location_house_number:58;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:290;
+=>nrel_phone_number:[+375 (17) 207-91-21];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

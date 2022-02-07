@@ -1,0 +1,14 @@
+Jasli_sad_62
+=> nrel_main_idtf: [Jasli-sad № 62] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 62] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Pervomajskij_rajon;
+=>nrel_street:Akademicheskaja_ulica;
+=>nrel_location_house_number:9;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 284-15-79, +375 (17) 284-16-64];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

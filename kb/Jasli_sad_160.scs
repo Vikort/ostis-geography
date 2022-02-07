@@ -1,0 +1,14 @@
+Jasli_sad_160
+=> nrel_main_idtf: [Jasli-sad № 160] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 160] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Pervomajskij_rajon;
+=>nrel_street:ulica_Merzhinskogo;
+=>nrel_location_house_number:8a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 280-28-35, +375 (17) 280-26-63];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

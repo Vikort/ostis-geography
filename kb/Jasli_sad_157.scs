@@ -1,0 +1,14 @@
+Jasli_sad_157
+=> nrel_main_idtf: [Jasli sad № 157] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли сад № 157] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:Narodnaja_ulica;
+=>nrel_location_house_number:56;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:260;
+=>nrel_phone_number:[+375 (17) 295-33-54, +375 (17) 295-31-04];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

@@ -1,0 +1,14 @@
+Specialnyj_detskij_sad_235
+=> nrel_main_idtf: [Special'nyj detskij sad № 235] (* <- lang_en;; *);
+=> nrel_main_idtf: [Специальный детский сад № 235] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:prospekt_Dzerzhinskogo;
+=>nrel_location_house_number:75;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:220;
+=>nrel_phone_number:[+375 (17) 272-51-96, +375 (17) 272-54-75];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

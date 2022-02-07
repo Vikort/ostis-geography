@@ -1,0 +1,14 @@
+Sanatornyj_jasli_sad_402
+=> nrel_main_idtf: [Sanatornyj jasli-sad № 402] (* <- lang_en;; *);
+=> nrel_main_idtf: [Санаторный ясли-сад № 402] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Golubeva;
+=>nrel_location_house_number:14a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:250;
+=>nrel_phone_number:[+375 (17) 277-10-48];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

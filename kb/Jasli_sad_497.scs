@@ -1,0 +1,14 @@
+Jasli_sad_497
+=> nrel_main_idtf: [Jasli-sad № 497] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 497] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Pervomajskij_rajon;
+=>nrel_street:ulica_Russijanova;
+=>nrel_location_house_number:3_k3;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:200;
+=>nrel_phone_number:[+375 (17) 264-24-74, +375 (17) 264-03-17];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

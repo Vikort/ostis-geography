@@ -1,0 +1,14 @@
+Jasli_sad_151
+=> nrel_main_idtf: [Jasli-sad № 151] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 151] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Sovetskij_rajon;
+=>nrel_street:Belomorskaja_ulica;
+=>nrel_location_house_number:6;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:240;
+=>nrel_phone_number:[+375 (17) 292-11-84];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

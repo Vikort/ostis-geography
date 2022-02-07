@@ -1,0 +1,14 @@
+Specialnyj_jasli_sad_304
+=> nrel_main_idtf: [Special'nyj jasli-sad № 304] (* <- lang_en;; *);
+=> nrel_main_idtf: [Специальный ясли-сад № 304] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Frunzenskij_rajon;
+=>nrel_street:ulica_Odoevskogo;
+=>nrel_location_house_number:101;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:220;
+=>nrel_phone_number:[+375 (17) 207-29-97, +375 (17) 213-07-28];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

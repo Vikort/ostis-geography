@@ -1,0 +1,14 @@
+Jasli_sad_152
+=> nrel_main_idtf: [Jasli-sad № 152] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 152] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Rozy_Ljuksemburg;
+=>nrel_location_house_number:84;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:290;
+=>nrel_phone_number:[+375 (17) 200-16-76];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

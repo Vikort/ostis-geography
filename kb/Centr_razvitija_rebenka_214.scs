@@ -1,0 +1,14 @@
+Centr_razvitija_rebenka_214
+=> nrel_main_idtf: [Centr razvitija rebenka № 214] (* <- lang_en;; *);
+=> nrel_main_idtf: [Центр развития ребенка № 214] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:ulica_Tuhachevskogo;
+=>nrel_location_house_number:29a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:150;
+=>nrel_phone_number:[+375 (17) 295-32-82];
+<-concept_child_development_centers;
+<-concept_preschool_education_institution;;

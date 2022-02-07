@@ -1,0 +1,14 @@
+Jasli_sad_499
+=> nrel_main_idtf: [Jasli-sad № 499] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 499] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:ulica_Plehanova;
+=>nrel_location_house_number:99;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:290;
+=>nrel_phone_number:[+375 (17) 291-12-87, +375 (17) 214-76-21];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

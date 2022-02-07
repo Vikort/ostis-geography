@@ -1,0 +1,14 @@
+Jasli_sad_298
+=> nrel_main_idtf: [Jasli-sad № 298] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 298] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Frunzenskij_rajon;
+=>nrel_street:Kalvarijskaja_ulica;
+=>nrel_location_house_number:50a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:270;
+=>nrel_phone_number:[+375 (17) 207-17-35, +375 (17) 256-11-33];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

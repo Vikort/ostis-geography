@@ -1,0 +1,14 @@
+Jasli_sad_55
+=> nrel_main_idtf: [Jasli-sad № 55] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 55] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Centralnyj_rajon;
+=>nrel_street:Novovilenskaja_ulica;
+=>nrel_location_house_number:5a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 290-18-49, +375 (17) 233-72-11];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

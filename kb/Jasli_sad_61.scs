@@ -1,0 +1,14 @@
+Jasli_sad_61
+=> nrel_main_idtf: [Jasli-sad № 61] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 61] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:ulica_Prushinskih;
+=>nrel_location_house_number:66;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:250;
+=>nrel_phone_number:[+375 (17) 298-82-92, +375 (17) 298-89-07];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

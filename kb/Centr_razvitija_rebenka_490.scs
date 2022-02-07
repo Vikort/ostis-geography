@@ -1,0 +1,14 @@
+Centr_razvitija_rebenka_490
+=> nrel_main_idtf: [Centr razvitija rebenka № 490] (* <- lang_en;; *);
+=> nrel_main_idtf: [Центр развития ребенка № 490] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Oktjabrskij_rajon;
+=>nrel_street:ulica_Levkova;
+=>nrel_location_house_number:11;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:180;
+=>nrel_phone_number:[+375 (17) 220-51-97];
+<-concept_child_development_centers;
+<-concept_preschool_education_institution;;

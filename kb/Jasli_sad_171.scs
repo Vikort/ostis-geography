@@ -1,0 +1,14 @@
+Jasli_sad_171
+=> nrel_main_idtf: [Jasli-sad № 171] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 171] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Centralnyj_rajon;
+=>nrel_street:ulica_Gaja;
+=>nrel_location_house_number:25;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:260;
+=>nrel_phone_number:[+375 (17) 335-45-24, +375 (17) 288-94-13];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

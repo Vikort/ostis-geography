@@ -1,0 +1,14 @@
+Jasli_sad_234
+=> nrel_main_idtf: [Jasli-sad № 234] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 234] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Centralnyj_rajon;
+=>nrel_street:ulica_Lili_Karastojanovoj;
+=>nrel_location_house_number:19;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 233-75-21];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

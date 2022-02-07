@@ -1,0 +1,14 @@
+Jasli_sad_372
+=> nrel_main_idtf: [Jasli-sad № 372] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 372] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:ulica_JAkubova;
+=>nrel_location_house_number:26;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:220;
+=>nrel_phone_number:[+375 (17) 367-59-53, +375 (17) 214-73-18];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

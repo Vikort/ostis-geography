@@ -1,0 +1,14 @@
+Jasli_sad_216
+=> nrel_main_idtf: [Jasli-sad № 216] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 216] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Centralnyj_rajon;
+=>nrel_street:ulica_Lenina;
+=>nrel_location_house_number:4a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 289-10-63];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

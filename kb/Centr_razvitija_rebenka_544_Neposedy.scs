@@ -1,0 +1,14 @@
+Centr_razvitija_rebenka_544_Neposedy
+=> nrel_main_idtf: [Centr razvitija rebenka № 544 "Neposedy"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Центр развития ребенка № 544 "Непоседы"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Moskovskij_rajon;
+=>nrel_street:ulica_Beleckogo;
+=>nrel_location_house_number:44;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:170;
+=>nrel_phone_number:[+375 (17) 376-89-26];
+<-concept_child_development_centers;
+<-concept_preschool_education_institution;;

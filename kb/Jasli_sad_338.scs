@@ -1,0 +1,14 @@
+Jasli_sad_338
+=> nrel_main_idtf: [Jasli-sad № 338] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 338] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:Angarskaja_ulica;
+=>nrel_location_house_number:64;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:220;
+=>nrel_phone_number:[+375 (17) 345-64-73, +375 (17) 299-83-21];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

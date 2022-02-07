@@ -1,0 +1,14 @@
+Centr_razvitija_rebenka_276_Solnyshko
+=> nrel_main_idtf: [Centr razvitija rebenka № 276 "Solnyshko"] (* <- lang_en;; *);
+=> nrel_main_idtf: [Центр развития ребенка № 276 "Солнышко"] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:Krasnoslobodskaja_ulica;
+=>nrel_location_house_number:11a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:150;
+=>nrel_phone_number:[+375 (17) 340-97-80, +375 (17) 346-45-18];
+<-concept_child_development_centers;
+<-concept_preschool_education_institution;;

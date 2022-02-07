@@ -1,0 +1,14 @@
+Sanatornyj_jasli_sad_367
+=> nrel_main_idtf: [Sanatornyj jasli-sad № 367] (* <- lang_en;; *);
+=> nrel_main_idtf: [Санаторный ясли-сад № 367] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Zavodskoj_rajon;
+=>nrel_street:Krasnoslobodskaja_ulica;
+=>nrel_location_house_number:5;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:210;
+=>nrel_phone_number:[+375 (17) 341-18-77, +375 (17) 341-58-07];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

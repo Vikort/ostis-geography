@@ -1,0 +1,14 @@
+Jasli_sad_3
+=> nrel_main_idtf: [Jasli-sad № 3] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 3] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Leninskij_rajon;
+=>nrel_street:ulica_Vladislava_Syrokomli;
+=>nrel_location_house_number:26;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:280;
+=>nrel_phone_number:[+375 (17) 297-83-45, +375 (17) 297-80-72];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

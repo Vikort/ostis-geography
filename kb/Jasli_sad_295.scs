@@ -1,0 +1,14 @@
+Jasli_sad_295
+=> nrel_main_idtf: [Jasli-sad № 295] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 295] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Oktjabrskij_rajon;
+=>nrel_street:ulica_Landera;
+=>nrel_location_house_number:82a;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:280;
+=>nrel_phone_number:[+375 (17) 212-04-32];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

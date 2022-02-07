@@ -1,0 +1,14 @@
+Sanatornyj_jasli_sad_268
+=> nrel_main_idtf: [Sanatornyj jasli-sad № 268] (* <- lang_en;; *);
+=> nrel_main_idtf: [Санаторный ясли-сад № 268] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Sovetskij_rajon;
+=>nrel_street:ulica_Kolcova;
+=>nrel_location_house_number:6;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:200;
+=>nrel_phone_number:[+375 (17) 237-25-95];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;

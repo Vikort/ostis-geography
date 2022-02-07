@@ -1,0 +1,14 @@
+Jasli_sad_200
+=> nrel_main_idtf: [Jasli-sad № 200] (* <- lang_en;; *);
+=> nrel_main_idtf: [Ясли-сад № 200] (* <- lang_ru;; *);
+=>nrel_country:Belarus;
+=>nrel_region:Minsk;
+=>nrel_district:Frunzenskij_rajon;
+=>nrel_street:ulica_JAnkovskogo;
+=>nrel_location_house_number:39;
+=>nrel_open_time:7;
+=>nrel_close_time:19;
+=>nrel_amount_of_children:280;
+=>nrel_phone_number:[+375 (17) 259-53-41, +375 (17) 259-53-42];
+<-concept_general_developmental;
+<-concept_preschool_education_institution;;
