@@ -1,5 +1,5 @@
 school_Sittsevskaya_srednyaya_shkola <-concept_school;
 => nrel_main_idtf:
-[Ситцевская средняя школа]
+[РЎРёС‚С†РµРІСЃРєР°СЏ СЃСЂРµРґРЅСЏСЏ С€РєРѕР»Р°]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

@@ -1,5 +1,5 @@
 school_Vechernyaya_shkola_1 <-concept_school;
 => nrel_main_idtf:
-[Вечерняя школа №1]
+[Р’РµС‡РµСЂРЅСЏСЏ С€РєРѕР»Р° в„–1]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

@@ -1,5 +1,5 @@
 school_SOL_Minsk <-concept_school;
 => nrel_main_idtf:
-[СОЛ Минск]
+[РЎРћР› РњРёРЅСЃРє]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

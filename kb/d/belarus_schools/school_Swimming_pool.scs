@@ -2,6 +2,6 @@ school_Swimming_pool <-concept_school;
 => nrel_main_idtf:
 [Swimming pool]
 (* <- lang_en;; <- name_en;;*);
-[Áàññåéí]
+[Ð‘Ð°ÑÑÐµÐ¹Ð½]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

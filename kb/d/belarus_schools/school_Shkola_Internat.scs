@@ -1,5 +1,5 @@
 school_Shkola_internat <-concept_school;
 => nrel_main_idtf:
-[Школа-интернат]
+[РЁРєРѕР»Р°-РёРЅС‚РµСЂРЅР°С‚]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

@@ -1,5 +1,5 @@
 school_Shkola_dlya_detey_s_narusheniyem_slukha <-concept_school;
 => nrel_main_idtf:
-[Школа для детей с нарушением слуха]
+[РЁРєРѕР»Р° РґР»СЏ РґРµС‚РµР№ СЃ РЅР°СЂСѓС€РµРЅРёРµРј СЃР»СѓС…Р°]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

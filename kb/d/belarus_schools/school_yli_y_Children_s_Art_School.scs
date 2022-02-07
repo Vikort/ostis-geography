@@ -1,7 +1,7 @@
 school_yli_y_Children_s_Art_School <-concept_school;
 => nrel_main_idtf:
-[?yli?y Children's Art School]
+[Å½yliÄy Children's Art School]
 (* <- lang_en;; <- name_en;;*);
-[ÃÓÎ «Æèëè÷ñêàÿ äåòñêàÿ øêîëà èñêóññòâ»]
+[Ğ“Ğ£Ğ Â«Ğ–Ğ¸Ğ»Ğ¸Ñ‡ÑĞºĞ°Ñ Ğ´ĞµÑ‚ÑĞºĞ°Ñ ÑˆĞºĞ¾Ğ»Ğ° Ğ¸ÑĞºÑƒÑÑÑ‚Ğ²Â»]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

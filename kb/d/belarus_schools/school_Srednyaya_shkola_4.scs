@@ -1,5 +1,5 @@
 school_Srednyaya_shkola_4 <-concept_school;
 => nrel_main_idtf:
-[Средняя школа №4]
+[РЎСЂРµРґРЅСЏСЏ С€РєРѕР»Р° в„–4]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;

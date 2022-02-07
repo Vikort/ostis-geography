@@ -1,5 +1,5 @@
 school_Tserkovno_prikhodskaya_shkola <-concept_school;
 => nrel_main_idtf:
-[Церковно-приходская школа]
+[Р¦РµСЂРєРѕРІРЅРѕ-РїСЂРёС…РѕРґСЃРєР°СЏ С€РєРѕР»Р°]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: belarus;;
