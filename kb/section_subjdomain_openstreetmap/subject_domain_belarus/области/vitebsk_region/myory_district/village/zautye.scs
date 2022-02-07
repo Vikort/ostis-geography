@@ -1,0 +1,17 @@
+zautye <- concept_village;
+=>nrel_main_idtf:
+    [Zautye]
+    (* <- lang_en;; <- name_en;;*);
+    [Заутье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_admin_level:
+    [10]
+    (*<-concept_admin_level;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:   
+    vitebsk_region;
+=>nrel_district:
+    myory_district;
+=>nrel_selsoviet:
+    zautevskiy__selsoviet;;

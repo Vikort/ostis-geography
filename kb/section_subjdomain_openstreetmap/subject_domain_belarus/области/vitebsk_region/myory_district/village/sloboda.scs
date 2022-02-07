@@ -1,0 +1,17 @@
+sloboda <- concept_village;
+=>nrel_main_idtf:
+    [Sloboda]
+    (* <- lang_en;; <- name_en;;*);
+    [Слобода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_admin_level:
+    [10]
+    (*<-concept_admin_level;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:   
+    vitebsk_region;
+=>nrel_district:
+    myory_district;
+=>nrel_selsoviet:
+    uzmenskiy__selsoviet;;

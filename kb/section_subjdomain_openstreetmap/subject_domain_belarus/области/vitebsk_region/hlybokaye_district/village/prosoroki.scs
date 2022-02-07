@@ -1,0 +1,17 @@
+prosoroki <- concept_village;
+=>nrel_main_idtf:
+    [Prosoroki]
+    (* <- lang_en;; <- name_en;;*);
+    [Прозороки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_admin_level:
+    [10]
+    (*<-concept_admin_level;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:   
+    vitebsk_region;
+=>nrel_district:
+    hlybokaye_district;
+=>nrel_selsoviet:
+    prozorokskiy__selsoviet;;
