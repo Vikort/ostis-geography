@@ -2,6 +2,9 @@
 lake_veyna
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [озеро Вейня]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -14,6 +17,9 @@ lake_veyna
 lake_zaozerskoe
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Заозерское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -26,6 +32,9 @@ lake_zaozerskoe
 lake_karman
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Кармановское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -38,6 +47,9 @@ lake_karman
 lake_mogilev_krasnoe
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Красное озеро]
     (* <- lang_ru;; <- name;;*);
@@ -50,6 +62,9 @@ lake_mogilev_krasnoe
 lake_mogilev_orehovoe
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Ореховое озеро]
     (* <- lang_ru;; <- name;;*);
@@ -62,6 +77,9 @@ lake_mogilev_orehovoe
 lake_mogilev_hotomlya
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [озеро Хотомля]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -74,6 +92,9 @@ lake_mogilev_hotomlya
 lake_mogilev_svyatoe
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Святое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -86,6 +107,9 @@ lake_mogilev_svyatoe
 lake_mogilev_pecherskoe
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Печерское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -98,6 +122,9 @@ lake_mogilev_pecherskoe
 lake_mogilev_zaozerskoe
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Заозерское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -110,6 +137,9 @@ lake_mogilev_zaozerskoe
 lake_mogilev_bezumynoe
 <- concept_lake;
 <- concept_lake_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_search_area:
+    mogilev_region;
 =>nrel_main_idtf:
     [Безымянное озеро]
     (* <- lang_ru;; <- name;;*);

@@ -1,5 +1,6 @@
 //1
-lake_Litjezioro <- concept_lake;
+lake_Litjezioro 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
 =>nrel_main_idtf:
     [озеро Антозеро]
@@ -12,7 +13,8 @@ lake_Litjezioro <- concept_lake;
     hrodna_district;;
 
 //2
-lake_Bielaje <- concept_lake;
+lake_Bielaje 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
 =>nrel_main_idtf:
     [Белое озеро]
@@ -25,8 +27,12 @@ lake_Bielaje <- concept_lake;
     hrodna_district;;
 
 //3
-lake_Bielaszka <- concept_lake;
+lake_Bielaszka 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Беляшка]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -38,7 +44,8 @@ lake_Bielaszka <- concept_lake;
     hrodna_district;;
 
 //4
-lake_Werowskie <- concept_lake;
+lake_Werowskie 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
 =>nrel_main_idtf:
     [Веровское озеро]
@@ -51,8 +58,12 @@ lake_Werowskie <- concept_lake;
     hrodna_district;;
 
 //5
-lake_Czarne <- concept_lake;
+lake_Czarne 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Чарне]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -62,8 +73,12 @@ lake_Czarne <- concept_lake;
     grodno_region;;
 
 //6
-lake_Dorgunskoe <- concept_lake;
+lake_Dorgunskoe 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Доргуньское]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -73,8 +88,12 @@ lake_Dorgunskoe <- concept_lake;
     grodno_region;;
 
 //7
-lake_Timnicha <- concept_lake;
+lake_Timnicha 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Тимница]
     (* <- lang_ru;; <- name;;*);
@@ -84,7 +103,8 @@ lake_Timnicha <- concept_lake;
     grodno_region;;
 
 //8
-lake_Korava <- concept_lake;
+lake_Korava 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
 =>nrel_main_idtf:
     [Корево озеро]
@@ -95,8 +115,12 @@ lake_Korava <- concept_lake;
     grodno_region;;
 
 //9
-lake_Gliniec <- concept_lake;
+lake_Gliniec 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Глинец]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -106,8 +130,12 @@ lake_Gliniec <- concept_lake;
     grodno_region;;
 
 //10
-lake_Dlugie <- concept_lake;
+lake_Dlugie 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Долгое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -117,8 +145,12 @@ lake_Dlugie <- concept_lake;
     grodno_region;;
 
 //11
-lake_Bersztanskie <- concept_lake;
+lake_Bersztanskie 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Берштовское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -128,8 +160,12 @@ lake_Bersztanskie <- concept_lake;
     grodno_region;;
 
 //12
-lake_Svitiaz <- concept_lake;
+lake_Svitiaz 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Свитязь]
     (* <- lang_ru;; <- name;;*);
@@ -139,8 +175,12 @@ lake_Svitiaz <- concept_lake;
     grodno_region;;
 
 //13
-lake_Czereszles <- concept_lake;
+lake_Czereszles 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Черешля]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -150,8 +190,12 @@ lake_Czereszles <- concept_lake;
     grodno_region;;
 
 //14
-lake_Vierabji <- concept_lake;
+lake_Vierabji 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Воробьи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -161,8 +205,12 @@ lake_Vierabji <- concept_lake;
     grodno_region;;
 
 //15
-lake_Hulbieza <- concept_lake;
+lake_Hulbieza 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Губеза]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -172,8 +220,12 @@ lake_Hulbieza <- concept_lake;
     grodno_region;;
 
 //16
-lake_Jodzi <- concept_lake;
+lake_Jodzi 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Ёди]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -183,8 +235,12 @@ lake_Jodzi <- concept_lake;
     grodno_region;;
 
 //17
-lake_Padkasciolak <- concept_lake;
+lake_Padkasciolak 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Подкостёлок]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -194,8 +250,12 @@ lake_Padkasciolak <- concept_lake;
     grodno_region;;
 
 //18
-lake_Halubinaje <- concept_lake;
+lake_Halubinaje 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Голубино]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -205,8 +265,12 @@ lake_Halubinaje <- concept_lake;
     grodno_region;;
 
 //19
-lake_Tumskaje <- concept_lake;
+lake_Tumskaje 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Тумское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -216,8 +280,12 @@ lake_Tumskaje <- concept_lake;
     grodno_region;;
 
 //20
-lake_Sarockaje <- concept_lake;
+lake_Sarockaje 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Сорочье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -227,8 +295,12 @@ lake_Sarockaje <- concept_lake;
     grodno_region;;
 
 //21
-lake_Kajminskaje <- concept_lake;
+lake_Kajminskaje 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Кайминское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -238,8 +310,12 @@ lake_Kajminskaje <- concept_lake;
     grodno_region;;
 
 //22
-lake_Zoloroskie <- concept_lake;
+lake_Zoloroskie 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Золовское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -249,7 +325,8 @@ lake_Zoloroskie <- concept_lake;
     grodno_region;;
 
 //23
-lake_Turowieckie <- concept_lake;
+lake_Turowieckie 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
 =>nrel_main_idtf:
     [Туровейское озеро]
@@ -260,7 +337,8 @@ lake_Turowieckie <- concept_lake;
     grodno_region;;
 
 //24
-lake_Bielaje <- concept_lake;
+lake_Bielaje 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
 =>nrel_main_idtf:
     [озеро Белое]
@@ -271,8 +349,12 @@ lake_Bielaje <- concept_lake;
     grodno_region;;
 
 //25
-lake_Kleviel <- concept_lake;
+lake_Kleviel 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Клевье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -282,8 +364,12 @@ lake_Kleviel <- concept_lake;
     grodno_region;;
 
 //26
-lake_Baranskaje <- concept_lake;
+lake_Baranskaje 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Баранское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -293,8 +379,12 @@ lake_Baranskaje <- concept_lake;
     grodno_region;;
 
 //27
-lake_Albertinskoe <- concept_lake;
+lake_Albertinskoe 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Альбертинское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -304,8 +394,12 @@ lake_Albertinskoe <- concept_lake;
     grodno_region;;
 
 //28
-lake_Dintovo <- concept_lake;
+lake_Dintovo 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [Динтово]
     (* <- lang_ru;; <- name;;*);
@@ -315,8 +409,12 @@ lake_Dintovo <- concept_lake;
     grodno_region;;
 
 //29
-lake_Mozniewo <- concept_lake;
+lake_Mozniewo 
+<- concept_lake;
 <- concept_lake_of_the_Grodno_region;
+<- concept_way;
+=>nrel_search_area:
+    grodno_region;
 =>nrel_main_idtf:
     [озеро Можнево]
     (* <- lang_ru;; <- name;;*);

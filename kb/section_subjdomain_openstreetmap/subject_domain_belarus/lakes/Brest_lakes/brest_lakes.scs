@@ -1,6 +1,8 @@
 //1
-lake_Miadnianskaje  <- concept_lake;
+lake_Miadnianskaje 
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
 =>nrel_main_idtf:
     [Меднянское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -9,11 +11,15 @@ lake_Miadnianskaje  <- concept_lake;
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    brest_district;;
+    brest_district;
+=>nrel_search_area:
+    brest_region;;
 
 //2
-lake_Stradzieckaje  <- concept_lake;
+lake_Stradzieckaje  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
 =>nrel_main_idtf:
     [Страдечское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -22,11 +28,15 @@ lake_Stradzieckaje  <- concept_lake;
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    brest_district;;
+    brest_district;
+=>nrel_search_area:
+    brest_region;;
 
 //3
-lake_Lukava  <- concept_lake;
+lake_Lukava  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
 =>nrel_main_idtf:
     [Луковское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -35,10 +45,13 @@ lake_Lukava  <- concept_lake;
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    brest_district;;
+    brest_district;
+=>nrel_search_area:
+    brest_region;;
 
 //4
-lake_pogost  <- concept_lake;
+lake_pogost  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
 =>nrel_main_idtf:
     [Погост]
@@ -51,8 +64,10 @@ lake_pogost  <- concept_lake;
     brest_district;;
 
 //5
-lake_Horodyszczewskie  <- concept_lake;
+lake_Horodyszczewskie  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
 =>nrel_main_idtf:
     [Городищенское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -61,11 +76,17 @@ lake_Horodyszczewskie  <- concept_lake;
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    brest_district;;
+    brest_district;
+=>nrel_search_area:
+    brest_region;;
 
 //6
-lake_pochapovo  <- concept_lake;
+lake_pochapovo  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Почапово]
     (* <- lang_ru;; <- name;;*);
@@ -77,7 +98,8 @@ lake_pochapovo  <- concept_lake;
     brest_district;;
 
 //7
-lake_Sporauskaje  <- concept_lake;
+lake_Sporauskaje  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
 =>nrel_main_idtf:
     [Споровское озеро]
@@ -90,8 +112,12 @@ lake_Sporauskaje  <- concept_lake;
     brest_district;;
 
 //8
-lake_purushe  <- concept_lake;
+lake_purushe  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Бездежское озеро (Пырище)]
     (* <- lang_ru;;  <- name;;*);
@@ -103,8 +129,12 @@ lake_purushe  <- concept_lake;
     brest_district;;
 
 //9
-lake_bobrovichskoe  <- concept_lake;
+lake_bobrovichskoe  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Бобровичское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -116,8 +146,12 @@ lake_bobrovichskoe  <- concept_lake;
     ivatsevichy_district;;
 
 //10
-lake_vulkovskoe  <- concept_lake;
+lake_vulkovskoe  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [озеро Вульковское]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -129,8 +163,12 @@ lake_vulkovskoe  <- concept_lake;
     ivatsevichy_district;;
 
 //11
-lake_Wygonowskie  <- concept_lake;
+lake_Wygonowskie  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Выгонощанское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -142,8 +180,12 @@ lake_Wygonowskie  <- concept_lake;
     ivatsevichy_district;;
 
 //12
-lake_kachayskoe  <- concept_lake;
+lake_kachayskoe  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Качайское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -155,8 +197,12 @@ lake_kachayskoe  <- concept_lake;
     hantsavichy_district;;
 
 //13
-lake_Koldyczewskie  <- concept_lake;
+lake_Koldyczewskie  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Колдычевское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -168,8 +214,12 @@ lake_Koldyczewskie  <- concept_lake;
     hantsavichy_district;;
 
 //14
-lake_lukovo  <- concept_lake;
+lake_lukovo  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Луково]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -181,8 +231,12 @@ lake_lukovo  <- concept_lake;
     brest_district;;
 
 //15
-lake_Motol  <- concept_lake;
+lake_Motol  
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Мотольское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -194,8 +248,12 @@ lake_Motol  <- concept_lake;
     malaryta_district;;
 
 //16
-lake_Oltuskie <- concept_lake;
+lake_Oltuskie 
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Олтушское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -207,8 +265,12 @@ lake_Oltuskie <- concept_lake;
     malaryta_district;;
 
 //17
-lake_Orzechowskie <- concept_lake;
+lake_Orzechowskie 
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Ореховское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -220,8 +282,12 @@ lake_Orzechowskie <- concept_lake;
     malaryta_district;;
 
 //18
-lake_sominskoe <- concept_lake;
+lake_sominskoe 
+<- concept_lake;
 <- concept_lake_of_the_Brest_region;
+<- concept_way;
+=>nrel_search_area:
+    brest_region;
 =>nrel_main_idtf:
     [Соминское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

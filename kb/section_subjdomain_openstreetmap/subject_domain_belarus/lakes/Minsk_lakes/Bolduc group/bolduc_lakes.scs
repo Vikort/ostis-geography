@@ -1,4 +1,5 @@
-lake_bolduc <- concept_lake;
+lake_bolduc 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -12,9 +13,13 @@ lake_bolduc <- concept_lake;
     myadzel_district;;
 
 
-lake_glublya <- concept_lake;
+lake_glublya 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Глубля]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -26,9 +31,13 @@ lake_glublya <- concept_lake;
     myadzel_district;;
 
 
-lake_bolshoy_boltsik <- concept_lake;
+lake_bolshoy_boltsik 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Большой Больцик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -40,7 +49,8 @@ lake_bolshoy_boltsik <- concept_lake;
     myadzel_district;;
 
 
-lake_glubelka <- concept_lake;
+lake_glubelka 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -54,9 +64,13 @@ lake_glubelka <- concept_lake;
     myadzel_district;;
 
 
-lake_ilginia <- concept_lake;
+lake_ilginia 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Ильгиния]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -68,9 +82,13 @@ lake_ilginia <- concept_lake;
     myadzel_district;;
 
 
-lake_maly_bolcik <- concept_lake;
+lake_maly_bolcik 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Малый Больцик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -82,9 +100,13 @@ lake_maly_bolcik <- concept_lake;
     myadzel_district;;
 
 
-lake_okynek <- concept_lake;
+lake_okynek 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Окунёк]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -96,9 +118,13 @@ lake_okynek <- concept_lake;
     myadzel_district;;
 
 
-lake_omsharnic <- concept_lake;
+lake_omsharnic 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Омшарник]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -110,9 +136,13 @@ lake_omsharnic <- concept_lake;
     myadzel_district;;
 
 
-lake_yachmenek <- concept_lake;
+lake_yachmenek 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Ячменёк]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -124,9 +154,13 @@ lake_yachmenek <- concept_lake;
     myadzel_district;;
 
 
-lake_karasik <- concept_lake;
+lake_karasik 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Карасик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -138,9 +172,13 @@ lake_karasik <- concept_lake;
     myadzel_district;;
 
 
-lake_svino <- concept_lake;
+lake_svino 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Свино]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -152,9 +190,13 @@ lake_svino <- concept_lake;
     myadzel_district;;
 
 
-bolduc_lake_gluhoe <- concept_lake;
+bolduc_lake_gluhoe 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [Глухое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -166,7 +208,8 @@ bolduc_lake_gluhoe <- concept_lake;
     myadzel_district;;
 
 
-lake_Yargmen <- concept_lake;
+lake_Yargmen 
+<- concept_lake;
 <- concept_Bolduc_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:

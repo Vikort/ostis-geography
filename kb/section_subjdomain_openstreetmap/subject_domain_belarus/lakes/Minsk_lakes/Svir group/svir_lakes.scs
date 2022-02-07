@@ -1,4 +1,5 @@
-lake_svir <- concept_lake;
+lake_svir 
+<- concept_lake;
 <-concept_Svir_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -12,7 +13,8 @@ lake_svir <- concept_lake;
     myadzel_district;;
 
 
-lake_vishnevskoe <- concept_lake;
+lake_vishnevskoe 
+<- concept_lake;
 <-concept_Svir_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -26,7 +28,8 @@ lake_vishnevskoe <- concept_lake;
     myadzel_district;;
 
 
-lake_svirnische <- concept_lake;
+lake_svirnische 
+<- concept_lake;
 <-concept_Svir_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -40,9 +43,13 @@ lake_svirnische <- concept_lake;
     myadzel_district;;
 
 
-svir_lake_gluhoe <- concept_lake;
+svir_lake_gluhoe 
+<- concept_lake;
 <-concept_Svir_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [Глухое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

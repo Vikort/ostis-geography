@@ -1,4 +1,5 @@
-lake_narach <- concept_lake;
+lake_narach 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -14,7 +15,8 @@ lake_narach <- concept_lake;
     myadzel_district;;
 
 
-lake_myastro <- concept_lake;
+lake_myastro 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -28,7 +30,8 @@ lake_myastro <- concept_lake;
     myadzel_district;;
 
 
-lake_batorino <- concept_lake;
+lake_batorino 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -42,7 +45,8 @@ lake_batorino <- concept_lake;
     myadzel_district;;
 
 
-lake_blyado <- concept_lake;
+lake_blyado 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -56,9 +60,13 @@ lake_blyado <- concept_lake;
     myadzel_district;;
 
 
-lake_gryadskoe <- concept_lake;
+lake_gryadskoe 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [Грядское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -70,9 +78,13 @@ lake_gryadskoe <- concept_lake;
     myadzel_district;;
 
 
-lake_podshapie <- concept_lake;
+lake_podshapie 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Подшапье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -84,9 +96,13 @@ lake_podshapie <- concept_lake;
     myadzel_district;;
 
 
-lake_zaportovo <- concept_lake;
+lake_zaportovo 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Запортово]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -98,9 +114,13 @@ lake_zaportovo <- concept_lake;
     myadzel_district;;
 
 
-lake_vydrenik <- concept_lake;
+lake_vydrenik 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Выдреник]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -112,9 +132,13 @@ lake_vydrenik <- concept_lake;
     myadzel_district;;
 
 
-lake_mlynok <- concept_lake;
+lake_mlynok 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Млынок]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -126,9 +150,13 @@ lake_mlynok <- concept_lake;
     myadzel_district;;
 
 
-lake_kozie <- concept_lake;
+lake_kozie 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Козье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -140,9 +168,13 @@ lake_kozie <- concept_lake;
     myadzel_district;;
 
 
-lake_bezdonica <- concept_lake;
+lake_bezdonica 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Бездонница]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -154,9 +186,13 @@ lake_bezdonica <- concept_lake;
     myadzel_district;;
 
 
-lake_blyadko <- concept_lake;
+lake_blyadko 
+<- concept_lake;
 <- concept_Naroch_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Блядко]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

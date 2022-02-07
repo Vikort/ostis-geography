@@ -1,4 +1,5 @@
-lake_myadel <- concept_lake;
+lake_myadel 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
 =>nrel_main_idtf:
@@ -12,9 +13,13 @@ lake_myadel <- concept_lake;
     myadzel_district;;
 
 
-lake_volchino <- concept_lake;
+lake_volchino 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Волчино]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -26,9 +31,13 @@ lake_volchino <- concept_lake;
     myadzel_district;;
 
 
-lake_lotviny <- concept_lake;
+lake_lotviny 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Лотвины]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -40,9 +49,13 @@ lake_lotviny <- concept_lake;
     myadzel_district;;
 
 
-lake_rudakovo <- concept_lake;
+lake_rudakovo 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Рудаково]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -54,9 +67,13 @@ lake_rudakovo <- concept_lake;
     myadzel_district;;
 
 
-lake_rossohi <- concept_lake;
+lake_rossohi 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Россохи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -68,9 +85,13 @@ lake_rossohi <- concept_lake;
     myadzel_district;;
 
 
-lake_knyagininskoe <- concept_lake;
+lake_knyagininskoe 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [Княгининское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -82,9 +103,13 @@ lake_knyagininskoe <- concept_lake;
     myadzel_district;;
 
 
-lake_chertok <- concept_lake;
+lake_chertok 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [озеро Черток]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -96,9 +121,13 @@ lake_chertok <- concept_lake;
     myadzel_district;;
 
 
-lake_telyakovskoe <- concept_lake;
+lake_telyakovskoe 
+<- concept_lake;
 <- concept_Myadel_lakes;
 <- concept_lake_of_the_Minsk_region;
+<- concept_way;
+=>nrel_search_area:
+    minsk_region;
 =>nrel_main_idtf:
     [Теляковское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

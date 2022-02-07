@@ -26,6 +26,9 @@ lake_cyrvonaje
 lake_plesechkoe  
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Плесецкое озеро]
     (* <- lang_ru;;  <- name;;*);
@@ -50,6 +53,9 @@ lake_gadyn
 lake_gadyn  
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Доброе озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -62,6 +68,9 @@ lake_gadyn
 lake_kolpyno
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [озеро Колпино]
     (* <- lang_ru;; <- name;;*);
@@ -74,6 +83,9 @@ lake_kolpyno
 lake_krivoy_girov
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [озеро Кривой Гиров]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -86,6 +98,9 @@ lake_krivoy_girov
 lake_krushinivskoe
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Крушиновское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -98,6 +113,9 @@ lake_krushinivskoe
 lake_gomel_svytoe
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Святое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -110,6 +128,9 @@ lake_gomel_svytoe
 lake_novuy_starik
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [озеро Новый Старик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -122,6 +143,9 @@ lake_novuy_starik
 lake_stoyachee
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Стоячее озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -134,6 +158,9 @@ lake_stoyachee
 lake_velikoe
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Великое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -146,6 +173,9 @@ lake_velikoe
 lake_gomel_glushets
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [озеро Глушец]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -158,6 +188,9 @@ lake_gomel_glushets
 lake_gomel_dikoe
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Дикое озеро]
     (* <- lang_ru;; <- name;;*);
@@ -170,6 +203,9 @@ lake_gomel_dikoe
 lake_starik
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [залив Старик]
     (* <- lang_ru;; <- name;;*);
@@ -182,6 +218,9 @@ lake_starik
 lake_krushinovskoe
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Крушиновское озеро]
     (* <- lang_ru;; <- name;;*);
@@ -194,6 +233,9 @@ lake_krushinovskoe
 lake_moxovo
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Мохово]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -206,6 +248,9 @@ lake_moxovo
 lake_revuchee
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [Ревучее озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -218,6 +263,9 @@ lake_revuchee
 lake_staruha
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [озеро Старуха]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -230,6 +278,9 @@ lake_staruha
 lake_hotemlya
 <- concept_lake;
 <- concept_lake_of_the_Gomel_region;
+<- concept_way;
+=>nrel_search_area:
+    gomel_region;
 =>nrel_main_idtf:
     [озеро Хотемля]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
