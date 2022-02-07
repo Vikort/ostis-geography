@@ -14,4 +14,4 @@ uzrechye <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    yzrechskiy__selsoviet;;
+    yzrechskiy_selsoviet;;

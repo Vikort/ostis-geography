@@ -14,4 +14,4 @@ germanovichi <- concept_village;
 =>nrel_district:
     sharkawshchyna_district;
 =>nrel_selsoviet:
-    germanovichskiy__selsoviet;;
+    germanovichskiy_selsoviet;;

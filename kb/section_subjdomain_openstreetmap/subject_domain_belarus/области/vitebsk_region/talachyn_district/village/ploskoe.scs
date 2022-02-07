@@ -14,4 +14,4 @@ ploskoe <- concept_village;
 =>nrel_district:
     talachyn_district;
 =>nrel_selsoviet:
-    tolochinskiy__selsoviet;;
+    tolochinskiy_selsoviet;;

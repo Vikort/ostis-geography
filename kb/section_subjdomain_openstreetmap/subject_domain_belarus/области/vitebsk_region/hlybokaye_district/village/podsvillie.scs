@@ -14,4 +14,4 @@ podsvillie <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    podsvilskiy__selsoviet;;
+    podsvilskiy_selsoviet;;

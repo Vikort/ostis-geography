@@ -14,4 +14,4 @@ uradzajnaja <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    golybichskiy__selsoviet;;
+    golybichskiy_selsoviet;;

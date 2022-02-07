@@ -14,4 +14,4 @@ zubovo <- concept_village;
 =>nrel_district:
     orsha_district;
 =>nrel_selsoviet:
-    zubovskiy__selsoviet;;
+    zubovskiy_selsoviet;;

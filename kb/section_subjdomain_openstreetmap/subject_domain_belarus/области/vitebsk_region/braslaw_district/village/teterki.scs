@@ -14,4 +14,4 @@ teterki <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    teterkovsky__selsoviet;;
+    teterkovsky_selsoviet;;

@@ -14,4 +14,4 @@ churchyard <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    opsovsky__selsoviet;;
+    opsovsky_selsoviet;;

@@ -14,4 +14,4 @@ vetrino <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    vetrinskiy__selsoviet;;
+    vetrinskiy_selsoviet;;

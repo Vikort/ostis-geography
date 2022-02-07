@@ -14,4 +14,4 @@ berezino <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    dokshytsy_berezinskiy__selsoviet;;
+    dokshytsy_berezinskiy_selsoviet;;

@@ -14,4 +14,4 @@ veleshkovichi <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    veleshkovichskiy__selsoviet;;
+    veleshkovichskiy_selsoviet;;

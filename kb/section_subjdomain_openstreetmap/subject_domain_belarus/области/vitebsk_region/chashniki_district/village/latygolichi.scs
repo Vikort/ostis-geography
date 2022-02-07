@@ -1,8 +1,8 @@
-sable <- concept_village;
+latygolichi <- concept_village;
 =>nrel_main_idtf:
-    [Sable]
+    [Latygolichi]
     (* <- lang_en;; <- name_en;;*);
-    [Соболи]
+    [Латыголичи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -14,4 +14,4 @@ sable <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    kruglickiy__selsoviet;;
+    krasnolukskiy_selsoviet;;

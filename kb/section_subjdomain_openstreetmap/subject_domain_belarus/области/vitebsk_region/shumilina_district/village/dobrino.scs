@@ -14,4 +14,4 @@ dobrino <- concept_village;
 =>nrel_district:
     shumilina_district;
 =>nrel_selsoviet:
-    lovzhanskiy__selsoviet;;
+    lovzhanskiy_selsoviet;;

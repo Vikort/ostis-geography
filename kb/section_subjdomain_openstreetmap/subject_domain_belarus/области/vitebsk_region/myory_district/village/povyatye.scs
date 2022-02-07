@@ -14,4 +14,4 @@ povyatye <- concept_village;
 =>nrel_district:
     myory_district;
 =>nrel_selsoviet:
-    povyatskiy__selsoviet;;
+    povyatskiy_selsoviet;;

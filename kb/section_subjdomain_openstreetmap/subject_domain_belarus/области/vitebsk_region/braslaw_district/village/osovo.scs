@@ -14,4 +14,4 @@ osovo <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    plyssky__selsoviet;;
+    plyssky_selsoviet;;

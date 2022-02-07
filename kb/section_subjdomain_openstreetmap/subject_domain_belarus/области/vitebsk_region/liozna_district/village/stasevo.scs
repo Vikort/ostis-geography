@@ -14,4 +14,4 @@ stasevo <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    lioznenskiy__selsoviet;;
+    lioznenskiy_selsoviet;;

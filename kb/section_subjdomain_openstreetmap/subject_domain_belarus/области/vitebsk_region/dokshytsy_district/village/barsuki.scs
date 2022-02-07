@@ -14,4 +14,4 @@ barsuki <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    dokshytskiy__selsoviet;;
+    dokshytskiy_selsoviet;;

@@ -14,4 +14,4 @@ bayevo <- concept_village;
 =>nrel_district:
     dubrowna_district;
 =>nrel_selsoviet:
-    zarubskiy__selsoviet;;
+    zarubskiy_selsoviet;;

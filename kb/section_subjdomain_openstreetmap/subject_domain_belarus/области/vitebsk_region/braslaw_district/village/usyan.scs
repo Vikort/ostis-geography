@@ -14,4 +14,4 @@ usyan <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    mezhansky __selsoviet;;
+    mezhansky_selsoviet;;

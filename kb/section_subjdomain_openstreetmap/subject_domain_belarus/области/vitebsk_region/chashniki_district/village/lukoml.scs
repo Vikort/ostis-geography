@@ -1,8 +1,8 @@
-latygolichi <- concept_village;
+lukoml <- concept_village;
 =>nrel_main_idtf:
-    [Latygolichi]
+    [Lukoml]
     (* <- lang_en;; <- name_en;;*);
-    [Латыголичи]
+    [Лукомль]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -14,4 +14,4 @@ latygolichi <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    krasnolukskiy__selsoviet;;
+    lukomlskiy_selsoviet;;

@@ -1,8 +1,8 @@
-krasnoluki <- concept_village;
+sable <- concept_village;
 =>nrel_main_idtf:
-    [Krasnoluki]
+    [Sable]
     (* <- lang_en;; <- name_en;;*);
-    [Краснолуки]
+    [Соболи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -14,4 +14,4 @@ krasnoluki <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    krasnolukskiy__selsoviet;;
+    kruglickiy_selsoviet;;

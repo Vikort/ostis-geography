@@ -14,4 +14,4 @@ gramoshche <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    azinskiy__selsoviet;;
+    azinskiy_selsoviet;;

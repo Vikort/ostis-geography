@@ -14,4 +14,4 @@ nesterovshchina <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    tumilovichskiy__selsoviet;;
+    tumilovichskiy_selsoviet;;

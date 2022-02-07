@@ -14,4 +14,4 @@ holomerye <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    virolyanskiy__selsoviet;;
+    virolyanskiy_selsoviet;;

@@ -14,4 +14,4 @@ bocheikovo <- concept_village;
 =>nrel_district:
     beshankovichy_district;
 =>nrel_selsoviet:
-    bochekovsky__selsoviet;;
+    bochekovsky_selsoviet;;

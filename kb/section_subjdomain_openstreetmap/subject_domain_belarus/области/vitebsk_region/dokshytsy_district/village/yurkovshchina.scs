@@ -14,4 +14,4 @@ yurkovshchina <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    parafyanovskiy__selsoviet;;
+    parafyanovskiy_selsoviet;;

@@ -14,4 +14,4 @@ klyukovka <- concept_village;
 =>nrel_district:
     orsha_district;
 =>nrel_selsoviet:
-    vusokovskiy__selsoviet;;
+    vusokovskiy_selsoviet;;

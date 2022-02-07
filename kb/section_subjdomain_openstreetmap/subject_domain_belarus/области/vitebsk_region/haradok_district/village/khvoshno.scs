@@ -14,4 +14,4 @@ khvoshno <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    buchihinskiy__selsoviet;;
+    buchihinskiy_selsoviet;;

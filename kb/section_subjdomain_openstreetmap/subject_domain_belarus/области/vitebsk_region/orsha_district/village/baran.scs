@@ -14,4 +14,4 @@ baran <- concept_village;
 =>nrel_district:
     orsha_district;
 =>nrel_selsoviet:
-    ustenskiy__selsoviet;;
+    ustenskiy_selsoviet;;

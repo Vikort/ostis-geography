@@ -14,4 +14,4 @@ lugovskie <- concept_village;
 =>nrel_district:
     orsha_district;
 =>nrel_selsoviet:
-    mezevskiy__selsoviet;;
+    mezevskiy_selsoviet;;

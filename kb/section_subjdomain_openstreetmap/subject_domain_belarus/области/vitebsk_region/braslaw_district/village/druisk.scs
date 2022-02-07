@@ -14,4 +14,4 @@ druisk <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    dryevsky__selsoviet;;
+    dryevsky_selsoviet;;

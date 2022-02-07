@@ -14,4 +14,4 @@ krynki <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    krynkovskiy__selsoviet;;
+    krynkovskiy_selsoviet;;

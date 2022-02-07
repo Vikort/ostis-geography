@@ -14,4 +14,4 @@ beresnevka <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    begomlskiy__selsoviet;;
+    begomlskiy_selsoviet;;

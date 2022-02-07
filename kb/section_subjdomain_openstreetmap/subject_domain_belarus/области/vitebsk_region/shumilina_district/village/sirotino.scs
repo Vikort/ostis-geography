@@ -14,4 +14,4 @@ sirotino <- concept_village;
 =>nrel_district:
     shumilina_district;
 =>nrel_selsoviet:
-    sirotinskiy__selsoviet;;
+    sirotinskiy_selsoviet;;

@@ -14,4 +14,4 @@ bobrovo <- concept_village;
 =>nrel_district:
     dubrowna_district;
 =>nrel_selsoviet:
-    malosavinskiy__selsoviet;;
+    malosavinskiy_selsoviet;;

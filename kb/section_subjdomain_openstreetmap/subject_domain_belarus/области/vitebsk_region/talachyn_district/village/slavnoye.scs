@@ -14,4 +14,4 @@ slavnoye <- concept_village;
 =>nrel_district:
     talachyn_district;
 =>nrel_selsoviet:
-    slavnovskiy__selsoviet;;
+    slavnovskiy_selsoviet;;

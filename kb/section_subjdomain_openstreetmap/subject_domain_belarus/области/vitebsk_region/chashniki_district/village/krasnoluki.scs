@@ -1,8 +1,8 @@
-cherya <- concept_village;
+krasnoluki <- concept_village;
 =>nrel_main_idtf:
-    [Cherya]
+    [Krasnoluki]
     (* <- lang_en;; <- name_en;;*);
-    [Черея]
+    [Краснолуки]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -14,4 +14,4 @@ cherya <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    lukomlskiy__selsoviet;;
+    krasnolukskiy_selsoviet;;

@@ -14,4 +14,4 @@ smolovka <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    stodolischenskiy__selsoviet;;
+    stodolischenskiy_selsoviet;;

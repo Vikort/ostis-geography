@@ -1,8 +1,8 @@
-lukoml <- concept_village;
+cherya <- concept_village;
 =>nrel_main_idtf:
-    [Lukoml]
+    [Cherya]
     (* <- lang_en;; <- name_en;;*);
-    [Лукомль]
+    [Черея]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -14,4 +14,4 @@ lukoml <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    lukomlskiy__selsoviet;;
+    lukomlskiy_selsoviet;;
