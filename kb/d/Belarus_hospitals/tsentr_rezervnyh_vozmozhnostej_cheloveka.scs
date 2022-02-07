@@ -1,0 +1,7 @@
+
+tsentr_rezervnyh_vozmozhnostej_cheloveka<-concept_hospital;
+=> nrel_main_idtf:
+[Центр резервных возможностей человека]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

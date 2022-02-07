@@ -1,0 +1,7 @@
+
+gorodskoj_klinicheskij_narkologicheskij_dispanser_(odp_2)<-concept_hospital;
+=> nrel_main_idtf:
+[Городской клинический наркологический диспансер (ОДП №2)]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

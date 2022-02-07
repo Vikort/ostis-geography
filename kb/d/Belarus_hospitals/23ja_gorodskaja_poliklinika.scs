@@ -1,0 +1,7 @@
+
+23ja_gorodskaja_poliklinika<-concept_hospital;
+=> nrel_main_idtf:
+[23-я городская поликлиника]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

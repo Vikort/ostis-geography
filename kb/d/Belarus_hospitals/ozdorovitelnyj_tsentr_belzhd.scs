@@ -1,0 +1,7 @@
+
+ozdorovitelnyj_tsentr_belzhd<-concept_hospital;
+=> nrel_main_idtf:
+[Оздоровительный центр БелЖД]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

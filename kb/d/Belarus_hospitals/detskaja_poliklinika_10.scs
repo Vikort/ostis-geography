@@ -1,0 +1,7 @@
+
+detskaja_poliklinika_10<-concept_hospital;
+=> nrel_main_idtf:
+[Детская поликлиника №10]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

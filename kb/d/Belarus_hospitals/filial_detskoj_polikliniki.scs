@@ -1,0 +1,7 @@
+
+filial_detskoj_polikliniki<-concept_hospital;
+=> nrel_main_idtf:
+[Филиал детской поликлиники]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

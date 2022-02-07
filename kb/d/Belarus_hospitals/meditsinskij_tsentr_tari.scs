@@ -1,0 +1,7 @@
+
+meditsinskij_tsentr_tari<-concept_hospital;
+=> nrel_main_idtf:
+[Медицинский центр "Тари"]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

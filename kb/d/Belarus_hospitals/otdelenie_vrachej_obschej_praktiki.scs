@@ -1,0 +1,7 @@
+
+otdelenie_vrachej_obschej_praktiki<-concept_hospital;
+=> nrel_main_idtf:
+[Отделение врачей общей практики]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

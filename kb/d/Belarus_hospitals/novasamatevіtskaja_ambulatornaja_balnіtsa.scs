@@ -1,0 +1,7 @@
+
+novasamatevіtskaja_ambulatornaja_balnіtsa<-concept_hospital;
+=> nrel_main_idtf:
+[Новасаматэвіцкая амбулаторная бальніца]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

@@ -1,0 +1,7 @@
+
+bobrujskij_narkodispanser<-concept_hospital;
+=> nrel_main_idtf:
+[Бобруйский наркодиспансер]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

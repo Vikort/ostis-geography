@@ -1,0 +1,7 @@
+
+poliklinika_zhd<-concept_hospital;
+=> nrel_main_idtf:
+[Поликлиника Ж/Д]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

@@ -1,0 +1,7 @@
+
+eksana<-concept_hospital;
+=> nrel_main_idtf:
+[Эксана]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

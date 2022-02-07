@@ -1,0 +1,7 @@
+
+minskaja_gorodskaja_psihonevrologicheskaja_spetsializirovannaja_gorodskaja_mrek<-concept_hospital;
+=> nrel_main_idtf:
+[Минская Городская Психоневрологическая Специализированная Городская МРЭК]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

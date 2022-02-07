@@ -1,0 +1,7 @@
+
+meditsinskaja_sudebnaja_ekspertiza<-concept_hospital;
+=> nrel_main_idtf:
+[Медицинская судебная экспертиза]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

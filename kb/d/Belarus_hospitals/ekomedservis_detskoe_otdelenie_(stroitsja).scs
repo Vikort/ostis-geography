@@ -1,0 +1,7 @@
+
+ekomedservis_detskoe_otdelenie_(stroitsja)<-concept_hospital;
+=> nrel_main_idtf:
+[Экомедсервис детское отделение (строится)]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

@@ -1,0 +1,7 @@
+
+ortolend<-concept_hospital;
+=> nrel_main_idtf:
+[ОртоЛенд]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

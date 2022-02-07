@@ -1,0 +1,7 @@
+
+brestskij_oblastnoj_rodilnyj_dom<-concept_hospital;
+=> nrel_main_idtf:
+[Брестский областной родильный дом]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

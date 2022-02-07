@@ -1,0 +1,7 @@
+
+lechebnye_korpus<-concept_hospital;
+=> nrel_main_idtf:
+[Лечебные корпус]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

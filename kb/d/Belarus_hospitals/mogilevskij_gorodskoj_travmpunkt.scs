@@ -1,0 +1,7 @@
+
+mogilevskij_gorodskoj_travmpunkt<-concept_hospital;
+=> nrel_main_idtf:
+[Могилевский городской травмпункт]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    
