@@ -1,0 +1,10 @@
+santa_shop_Borunskaya_ulitsa_49 <- concept_santa_shop;
+=> nrel_main_idtf:
+[Санта]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+[54.4220147]
+(* <- lang_ru;; <- latitude;;*);
+[25.9580953]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

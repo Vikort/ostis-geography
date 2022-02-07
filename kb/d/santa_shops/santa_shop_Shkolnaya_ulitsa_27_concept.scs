@@ -1,0 +1,10 @@
+santa_shop_Shkolnaya_ulitsa_27 <- concept_santa_shop;
+=> nrel_main_idtf:
+[Санта]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+[51.7945992]
+(* <- lang_ru;; <- latitude;;*);
+[24.0655552]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

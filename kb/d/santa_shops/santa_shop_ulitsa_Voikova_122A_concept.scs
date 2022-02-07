@@ -1,0 +1,10 @@
+santa_shop_ulitsa_Voikova_122A <- concept_santa_shop;
+=> nrel_main_idtf:
+[Санта]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+[54.883249]
+(* <- lang_ru;; <- latitude;;*);
+[28.6966246]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

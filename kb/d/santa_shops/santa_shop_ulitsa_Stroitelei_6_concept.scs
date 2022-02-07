@@ -1,0 +1,10 @@
+santa_shop_ulitsa_Stroitelei_6 <- concept_santa_shop;
+=> nrel_main_idtf:
+[Санта]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+[52.7514834]
+(* <- lang_ru;; <- latitude;;*);
+[26.4275979]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

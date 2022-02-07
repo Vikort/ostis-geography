@@ -1,0 +1,10 @@
+santa_shop_ulitsa_Mitskevicha_25 <- concept_santa_shop;
+=> nrel_main_idtf:
+[Санта]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+[52.0967097]
+(* <- lang_ru;; <- latitude;;*);
+[23.6868923]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

@@ -1,0 +1,10 @@
+santa_shop_prospekt_Dzerzhinskogo_106 <- concept_santa_shop;
+=> nrel_main_idtf:
+[Санта]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+[53.8581924]
+(* <- lang_ru;; <- latitude;;*);
+[27.4767868]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

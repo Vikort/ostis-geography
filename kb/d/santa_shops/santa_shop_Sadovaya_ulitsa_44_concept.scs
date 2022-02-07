@@ -1,0 +1,10 @@
+santa_shop_Sadovaya_ulitsa_44 <- concept_santa_shop;
+=> nrel_main_idtf:
+[Санта]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+[51.892134]
+(* <- lang_ru;; <- latitude;;*);
+[26.8409902]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;
