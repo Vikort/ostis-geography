@@ -28,6 +28,6 @@ EOT
 
 cd ../../scripts
 ./prepare_jsx.sh
-python3 build_components.py -i -a
+python build_components.py -i -a
 cd ..
 grunt build
