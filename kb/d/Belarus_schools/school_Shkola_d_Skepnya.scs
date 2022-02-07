@@ -1,5 +1,5 @@
 school_Shkola_d_Skepnya <-concept_school;
 => nrel_main_idtf:
-[РЁРєРѕР»Р° Рґ.РЎРєРµРїРЅСЏ]
+[Школа д.Скепня]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

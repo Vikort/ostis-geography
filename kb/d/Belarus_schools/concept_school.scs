@@ -1,8 +1,7 @@
 concept_school
 <- sc_node_not_relation;
-<= nrel_inclusion: concept_sup_concept;
 => nrel_main_idtf:
-	[С€РєРѕР»Р°]
+	[школа]
 	(* <- lang_ru;; *);
 	[school]
 	(* <- lang_en;; *);
@@ -10,7 +9,7 @@ concept_school
 	...
 	(*
 	=> nrel_main_idtf:
-		[РћРїСЂ. (С€РєРѕР»Р°)]
+		[Опр. (школа)]
 		(* <- lang_ru;; *);
 		[Def. (school)]
 		(* <- lang_en;; *);;
@@ -19,7 +18,7 @@ concept_school
 		...
 		(*
 		-> rrel_example:
-			[РЁРєРѕР»Р° - СѓС‡РµР±РЅРѕРµ Р·Р°РІРµРґРµРЅРёРµ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ.]
+			[Школа - учебное заведение для получения образования.]
 			(* <- lang_ru;; *);;
 		*);
 		...

@@ -1,5 +1,5 @@
 school_Sotsial_nyy_Priyut <-concept_school;
 => nrel_main_idtf:
-[РЎРѕС†РёР°Р»СЊРЅС‹Р№ РџСЂРёСЋС‚]
+[Социальный Приют]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

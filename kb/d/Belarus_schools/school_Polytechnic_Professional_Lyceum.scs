@@ -2,6 +2,6 @@ school_Polytechnic_Professional_Lyceum <-concept_school;
 => nrel_main_idtf:
 [Polytechnic Professional Lyceum]
 (* <- lang_en;; <- name_en;;*);
-[Ð¡Ð¼Ð¾Ñ€Ð³Ð¾Ð½ÑÐºÐ¸Ð¹ Ð³Ð¾ÑÑƒÐ´Ð°Ñ€ÑÑ‚Ð²ÐµÐ½Ð½Ñ‹Ð¹ Ð¿Ð¾Ð»Ð¸Ñ‚ÐµÑ…Ð½Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð¿Ñ€Ð¾Ñ„ÐµÑÑÐ¸Ð¾Ð½Ð°Ð»ÑŒÐ½Ñ‹Ð¹ Ð»Ð¸Ñ†ÐµÐ¹]
+[Ñìîðãîíñêèé ãîñóäàðñòâåííûé ïîëèòåõíè÷åñêèé ïðîôåññèîíàëüíûé ëèöåé]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

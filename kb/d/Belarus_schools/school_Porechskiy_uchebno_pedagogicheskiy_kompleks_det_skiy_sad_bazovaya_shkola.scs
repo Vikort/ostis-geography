@@ -1,5 +1,5 @@
 school_Porechskiy_uchebno_pedagogicheskiy_kompleks_det_skiy_sad_bazovaya_shkola <-concept_school;
 => nrel_main_idtf:
-[РџРѕСЂРµС‡СЃРєРёР№ СѓС‡РµР±РЅРѕ-РїРµРґР°РіРѕРіРёС‡РµСЃРєРёР№ РєРѕРјРїР»РµРєСЃ РґРµС‚СЃРєРёР№ СЃР°Рґ вЂ“ Р±Р°Р·РѕРІР°СЏ С€РєРѕР»Р°]
+[Поречский учебно-педагогический комплекс детский сад – базовая школа]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

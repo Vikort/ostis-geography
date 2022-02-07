@@ -1,5 +1,5 @@
 school_Yedkovskaya_srednyaya_shkola <-concept_school;
 => nrel_main_idtf:
-[Р•РґРєРѕРІСЃРєР°СЏ СЃСЂРµРґРЅСЏСЏ С€РєРѕР»Р°]
+[Едковская средняя школа]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

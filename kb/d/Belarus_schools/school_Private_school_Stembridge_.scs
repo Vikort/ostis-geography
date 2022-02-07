@@ -2,6 +2,6 @@ school_Private_school_Stembridge_ <-concept_school;
 => nrel_main_idtf:
 [Private school "Stembridge "]
 (* <- lang_en;; <- name_en;;*);
-[Ð§Ð°ÑÑ‚Ð½Ð°Ñ ÑˆÐºÐ¾Ð»Ð° "Ð¡Ñ‚ÐµÐ¼Ð±Ñ€Ð¸Ð´Ð¶"]
+[×àñòíàÿ øêîëà "Ñòåìáðèäæ"]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

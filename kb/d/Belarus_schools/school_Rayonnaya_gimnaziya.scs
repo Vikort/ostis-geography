@@ -1,5 +1,5 @@
 school_Rayonnaya_gimnaziya <-concept_school;
 => nrel_main_idtf:
-[Р Р°Р№РѕРЅРЅР°СЏ РіРёРјРЅР°Р·РёСЏ]
+[Районная гимназия]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

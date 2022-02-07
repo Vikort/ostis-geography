@@ -1,5 +1,5 @@
 school_Pleshchenitskaya_shkola_iskusstv <-concept_school;
 => nrel_main_idtf:
-[РџР»РµС‰РµРЅРёС†РєР°СЏ С€РєРѕР»Р° РёСЃРєСѓСЃСЃС‚РІ]
+[Плещеницкая школа искусств]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

@@ -1,5 +1,5 @@
 school_Srednyaya_shkola_76 <-concept_school;
 => nrel_main_idtf:
-[РЎСЂРµРґРЅСЏСЏ С€РєРѕР»Р° в„–76]
+[Средняя школа №76]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

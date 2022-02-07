@@ -1,5 +1,5 @@
 school_Zhukhovichskaya_SSH <-concept_school;
 => nrel_main_idtf:
-[Р–СѓС…РѕРІРёС‡СЃРєР°СЏ РЎРЁ]
+[Жуховичская СШ]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

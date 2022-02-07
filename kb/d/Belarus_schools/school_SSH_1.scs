@@ -1,5 +1,5 @@
 school_SSH_1 <-concept_school;
 => nrel_main_idtf:
-[СШ№1]
+[�ع1]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

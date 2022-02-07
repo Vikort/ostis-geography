@@ -1,5 +1,5 @@
 school_Ostroshitsko_gorodokskaya_SSH <-concept_school;
 => nrel_main_idtf:
-[РћСЃС‚СЂРѕС€РёС†РєРѕ-РіРѕСЂРѕРґРѕРєСЃРєР°СЏ РЎРЁ]
+[Острошицко-городокская СШ]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

@@ -1,5 +1,5 @@
 school_Srednyaya_shkola_d_Tel_my_1 <-concept_school;
 => nrel_main_idtf:
-[РЎСЂРµРґРЅСЏСЏ С€РєРѕР»Р° Рґ.РўРµР»СЊРјС‹-1]
+[Средняя школа д.Тельмы-1]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

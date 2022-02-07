@@ -1,5 +1,5 @@
 school_Shkola_iskusstv_Maladik_ <-concept_school;
 => nrel_main_idtf:
-[РЁРєРѕР»Р° РёСЃРєСѓСЃСЃС‚РІ В«РњР°Р»Р°РґРёРєВ»]
+[Школа искусств «Маладик»]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

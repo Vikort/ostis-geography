@@ -1,5 +1,5 @@
 school_Shkola_19 <-concept_school;
 => nrel_main_idtf:
-[РЁРєРѕР»Р° 19]
+[Школа 19]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

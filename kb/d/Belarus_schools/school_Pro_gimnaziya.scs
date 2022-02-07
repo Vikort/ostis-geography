@@ -1,5 +1,5 @@
 school_Pro_gimnaziya <-concept_school;
 => nrel_main_idtf:
-[Pro-РіРёРјРЅР°Р·РёСЏ]
+[Pro-гимназия]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

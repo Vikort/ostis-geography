@@ -1,5 +1,5 @@
 school_Rechitskiy_rayonnyy_litsey <-concept_school;
 => nrel_main_idtf:
-[Р РµС‡РёС†РєРёР№ СЂР°Р№РѕРЅРЅС‹Р№ Р»РёС†РµР№]
+[Речицкий районный лицей]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

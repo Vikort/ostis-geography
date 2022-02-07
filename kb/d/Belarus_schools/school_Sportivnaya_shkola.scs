@@ -1,5 +1,5 @@
 school_Sportivnaya_shkola <-concept_school;
 => nrel_main_idtf:
-[РЎРїРѕСЂС‚РёРІРЅР°СЏ С€РєРѕР»Р°]
+[Спортивная школа]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

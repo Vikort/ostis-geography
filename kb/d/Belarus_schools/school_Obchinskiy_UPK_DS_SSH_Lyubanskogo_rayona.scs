@@ -1,5 +1,5 @@
 school_Obchinskiy_UPK_DS_SSH_Lyubanskogo_rayona <-concept_school;
 => nrel_main_idtf:
-[РћР±С‡РёРЅСЃРєРёР№ РЈРџРљ Р”РЎ-РЎРЁ Р›СЋР±Р°РЅСЃРєРѕРіРѕ СЂР°Р№РѕРЅР°]
+[Обчинский УПК ДС-СШ Любанского района]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

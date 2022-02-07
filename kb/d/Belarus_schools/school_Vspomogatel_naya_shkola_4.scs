@@ -1,5 +1,5 @@
 school_Vspomogatel_naya_shkola_4 <-concept_school;
 => nrel_main_idtf:
-[Р’СЃРїРѕРјРѕРіР°С‚РµР»СЊРЅР°СЏ С€РєРѕР»Р° в„–4]
+[Вспомогательная школа №4]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;

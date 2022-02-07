@@ -1,5 +1,5 @@
 school_SDYUSHOR_Sektsiya_greko_rimskoy_bor_by <-concept_school;
 => nrel_main_idtf:
-[РЎР”Р®РЁРћР  РЎРµРєС†РёСЏ РіСЂРµРєРѕ-СЂРёРјСЃРєРѕР№ Р±РѕСЂСЊР±С‹]
+[СДЮШОР Секция греко-римской борьбы]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
+=>nrel_search_area: belarus;;
