@@ -1,5 +1,7 @@
-morg<-concept_hospital;
+morg <- concept_hospital;
 => nrel_main_idtf:
 [Морг]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_by;; <- name_by;;*);
+[Морг]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

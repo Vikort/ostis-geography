@@ -1,5 +1,7 @@
-brestskaja_gorodskaja_poliklinika_6<-concept_hospital;
+brestskaja_gorodskaja_poliklinika_6 <- concept_hospital;
 => nrel_main_idtf:
+[Паліклініка №6]
+(* <- lang_by;; <- name_by;;*);
 [Брестская городская поликлиника №6]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

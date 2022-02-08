@@ -1,5 +1,5 @@
-medtsentr_idealmed<-concept_hospital;
+medtsentr_idealmed <- concept_hospital;
 => nrel_main_idtf:
 [Медцентр ИдеалМед]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

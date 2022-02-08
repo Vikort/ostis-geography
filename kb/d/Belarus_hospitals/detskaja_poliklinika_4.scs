@@ -1,5 +1,5 @@
-detskaja_poliklinika_4<-concept_hospital;
+detskaja_poliklinika_4 <- concept_hospital;
 => nrel_main_idtf:
 [Детская поликлиника №4]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

@@ -1,5 +1,5 @@
-kamenskij_psihonevrologicheskij_dominternat<-concept_hospital;
+kamenskij_psihonevrologicheskij_dominternat <- concept_hospital;
 => nrel_main_idtf:
 [Каменский психоневрологический дом-интернат]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

@@ -1,5 +1,7 @@
-meditsinskij_tsentr_roden<-concept_hospital;
+meditsinskij_tsentr_roden <- concept_hospital;
 => nrel_main_idtf:
+[RODEN]
+(* <- lang_en;; <- name_en;;*);
 [Медицинский центр "RODEN"]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

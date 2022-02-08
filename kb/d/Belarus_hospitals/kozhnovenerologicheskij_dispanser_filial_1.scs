@@ -1,5 +1,5 @@
-kozhnovenerologicheskij_dispanser_filial_1<-concept_hospital;
+kozhnovenerologicheskij_dispanser_filial_1 <- concept_hospital;
 => nrel_main_idtf:
 [Кожно-венерологический диспансер, филиал №1]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

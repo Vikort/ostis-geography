@@ -1,5 +1,7 @@
-oblastnaja_bolnitsa<-concept_hospital;
+oblastnaja_bolnitsa <- concept_hospital;
 => nrel_main_idtf:
+[Абласная бальніца]
+(* <- lang_by;; <- name_by;;*);
 [Областная больница]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

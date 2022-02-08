@@ -1,5 +1,7 @@
-klinika_zhenskogo_zdorovja<-concept_hospital;
+klinika_zhenskogo_zdorovja <- concept_hospital;
 => nrel_main_idtf:
+[Women's Health Clinic]
+(* <- lang_en;; <- name_en;;*);
 [Клиника женского здоровья]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

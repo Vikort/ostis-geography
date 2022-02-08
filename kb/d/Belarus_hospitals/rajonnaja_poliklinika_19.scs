@@ -1,5 +1,7 @@
-rajonnaja_poliklinika_19<-concept_hospital;
+rajonnaja_poliklinika_19 <- concept_hospital;
 => nrel_main_idtf:
+[Polyclinic #19]
+(* <- lang_en;; <- name_en;;*);
 [Районная поликлиника №19]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

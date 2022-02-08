@@ -1,5 +1,5 @@
-poliklinika_36<-concept_hospital;
+poliklinika_36 <- concept_hospital;
 => nrel_main_idtf:
 [Поликлиника №36]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

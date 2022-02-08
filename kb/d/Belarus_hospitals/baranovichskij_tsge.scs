@@ -1,5 +1,5 @@
-baranovichskij_tsge<-concept_hospital;
+baranovichskij_tsge <- concept_hospital;
 => nrel_main_idtf:
 [Барановичский ЦГЭ]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

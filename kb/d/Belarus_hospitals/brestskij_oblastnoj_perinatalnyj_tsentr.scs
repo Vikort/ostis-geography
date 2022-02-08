@@ -1,5 +1,5 @@
-brestskij_oblastnoj_perinatalnyj_tsentr<-concept_hospital;
+brestskij_oblastnoj_perinatalnyj_tsentr <- concept_hospital;
 => nrel_main_idtf:
 [Брестский областной перинатальный центр]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

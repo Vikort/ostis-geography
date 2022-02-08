@@ -40,8 +40,10 @@ def filter_elements_by_requires(
     )
 
 
-def add_kb_names(elements: List[Dict]) -> List[Dict]:
+def add_kb_data(elements: List[Dict]) -> List[Dict]:
     [element.get("tags").update(
+        language_info=format_language_info(
+            element.get("tags")),
         kb_name=re.sub("[\([{})\]'/\.,`\"#№-]",
             "",
             (translit(
@@ -70,6 +72,22 @@ def create_kb_fragments(
     ]
 
 
+def format_language_info(tags: Dict) -> str:
+    lang_tags_mapper = {
+        "name:be": ["lang_by", "name_by"],
+        "name:en": ["lang_en", "name_en"],
+        "name": ["lang_ru", "name_ru", "name"]
+    }
+    structure = "[{}]\n(* <- {};;*);"
+    return "\n".join([
+        structure.format(tags.get(lang_tag), ";; <- ".join(
+            lang_values
+        ))
+        for lang_tag, lang_values in lang_tags_mapper.items()
+        if tags.get(lang_tag) != None
+    ])
+
+
 def save_fragments(
     fragments: List[str], path: str
 ) -> None:
@@ -79,11 +97,17 @@ def save_fragments(
             file.write(fragment.get("body"))
 
 
-def process(template: str, amenities: List[str], query_part: str, source: str, save_path: str) -> None:
+def process(
+    template: str,
+    amenities: List[str],
+    query_part: str,
+    source: str,
+    save_path: str
+) -> None:
     # try to read it =)))
     save_fragments(
         fragments=create_kb_fragments(
-            elements=add_kb_names(
+            elements=add_kb_data(
                 filter_elements_by_requires(
                     get_data(
                         build_url(
@@ -105,10 +129,9 @@ def process(template: str, amenities: List[str], query_part: str, source: str, s
 
 if __name__ == "__main__":
     template =\
-"""{kb_name}<-concept_hospital;
+"""{kb_name} <- concept_hospital;
 => nrel_main_idtf:
-[{name}]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+{language_info}
 =>nrel_search_area: Belarus;;
 """
     amenities = ['hospital', 'clinic']

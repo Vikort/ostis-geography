@@ -1,5 +1,5 @@
-vzroslaja_poliklinika<-concept_hospital;
+vzroslaja_poliklinika <- concept_hospital;
 => nrel_main_idtf:
 [Взрослая поликлиника]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

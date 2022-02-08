@@ -1,5 +1,5 @@
-kabinet_uzi<-concept_hospital;
+kabinet_uzi <- concept_hospital;
 => nrel_main_idtf:
 [Кабинет УЗИ]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

@@ -1,5 +1,5 @@
-krasnyj_krest<-concept_hospital;
+krasnyj_krest <- concept_hospital;
 => nrel_main_idtf:
 [Красный крест]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

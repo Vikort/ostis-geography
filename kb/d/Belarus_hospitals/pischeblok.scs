@@ -1,5 +1,7 @@
-pischeblok<-concept_hospital;
+pischeblok <- concept_hospital;
 => nrel_main_idtf:
+[Блок для ежы]
+(* <- lang_by;; <- name_by;;*);
 [Пищеблок]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

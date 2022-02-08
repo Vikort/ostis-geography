@@ -1,5 +1,5 @@
-marinogorskaja_tsentralnaja_rajonnaja_bolnitsa<-concept_hospital;
+marinogorskaja_tsentralnaja_rajonnaja_bolnitsa <- concept_hospital;
 => nrel_main_idtf:
 [Марьиногорская центральная районная больница]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

@@ -1,5 +1,5 @@
-administratsija_lidskaja_tsrb<-concept_hospital;
+administratsija_lidskaja_tsrb <- concept_hospital;
 => nrel_main_idtf:
 [Администрация Лидская ЦРБ]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

@@ -1,5 +1,7 @@
-meditsinskij_tsentr_«marta»<-concept_hospital;
+meditsinskij_tsentr_«marta» <- concept_hospital;
 => nrel_main_idtf:
+[Medical Center «Marta»]
+(* <- lang_en;; <- name_en;;*);
 [Медицинский центр «Марта»]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

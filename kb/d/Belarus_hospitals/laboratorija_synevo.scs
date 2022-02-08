@@ -1,5 +1,5 @@
-laboratorija_synevo<-concept_hospital;
+laboratorija_synevo <- concept_hospital;
 => nrel_main_idtf:
 [Лаборатория Synevo]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

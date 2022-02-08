@@ -1,5 +1,5 @@
-tsentr_eko_«bina»<-concept_hospital;
+tsentr_eko_«bina» <- concept_hospital;
 => nrel_main_idtf:
 [центр ЭКО «Бина»]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

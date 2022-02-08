@@ -1,5 +1,5 @@
-korpus_mrtdiagnostiki<-concept_hospital;
+korpus_mrtdiagnostiki <- concept_hospital;
 => nrel_main_idtf:
 [Корпус МРТ-диагностики]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

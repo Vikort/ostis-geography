@@ -1,5 +1,5 @@
-glavnyj_korpus<-concept_hospital;
+glavnyj_korpus <- concept_hospital;
 => nrel_main_idtf:
 [Главный корпус]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

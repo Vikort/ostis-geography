@@ -1,5 +1,5 @@
-reabilitatsionnyj_tsentr_eleos<-concept_hospital;
+reabilitatsionnyj_tsentr_eleos <- concept_hospital;
 => nrel_main_idtf:
 [Реабилитационный центр "Элеос"]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

@@ -1,5 +1,5 @@
-rajonnaja_poliklinika<-concept_hospital;
+rajonnaja_poliklinika <- concept_hospital;
 => nrel_main_idtf:
 [Районная поликлиника]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

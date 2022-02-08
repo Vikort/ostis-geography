@@ -1,5 +1,5 @@
-eko_tsentr_reproduktivnoj_meditsiny<-concept_hospital;
+eko_tsentr_reproduktivnoj_meditsiny <- concept_hospital;
 => nrel_main_idtf:
 [ЭКО Центр репродуктивной медицины]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

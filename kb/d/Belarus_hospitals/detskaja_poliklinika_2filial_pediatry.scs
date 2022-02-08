@@ -1,5 +1,5 @@
-detskaja_poliklinika_2filial_pediatry<-concept_hospital;
+detskaja_poliklinika_2filial_pediatry <- concept_hospital;
 => nrel_main_idtf:
 [Детская поликлиника 2(филиал, педиатры)]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

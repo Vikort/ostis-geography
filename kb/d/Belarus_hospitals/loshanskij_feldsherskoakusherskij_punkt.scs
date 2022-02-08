@@ -1,5 +1,5 @@
-loshanskij_feldsherskoakusherskij_punkt<-concept_hospital;
+loshanskij_feldsherskoakusherskij_punkt <- concept_hospital;
 => nrel_main_idtf:
 [Лошанский фельдшерско-акушерский пункт]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

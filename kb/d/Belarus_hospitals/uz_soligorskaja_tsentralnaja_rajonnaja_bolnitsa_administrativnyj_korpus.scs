@@ -1,5 +1,5 @@
-uz_soligorskaja_tsentralnaja_rajonnaja_bolnitsa_administrativnyj_korpus<-concept_hospital;
+uz_soligorskaja_tsentralnaja_rajonnaja_bolnitsa_administrativnyj_korpus <- concept_hospital;
 => nrel_main_idtf:
 [УЗ "Солигорская центральная районная больница" Административный корпус]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

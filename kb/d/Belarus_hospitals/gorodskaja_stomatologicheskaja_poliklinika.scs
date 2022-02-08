@@ -1,5 +1,7 @@
-gorodskaja_stomatologicheskaja_poliklinika<-concept_hospital;
+gorodskaja_stomatologicheskaja_poliklinika <- concept_hospital;
 => nrel_main_idtf:
+[Гарадская стаматалагічная паліклініка]
+(* <- lang_by;; <- name_by;;*);
 [Городская стоматологическая поликлиника]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

@@ -1,5 +1,5 @@
-medeja<-concept_hospital;
+medeja <- concept_hospital;
 => nrel_main_idtf:
 [Медея]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

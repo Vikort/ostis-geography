@@ -1,5 +1,5 @@
-rad_hass<-concept_hospital;
+rad_hass <- concept_hospital;
 => nrel_main_idtf:
 [Рад Хасс]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

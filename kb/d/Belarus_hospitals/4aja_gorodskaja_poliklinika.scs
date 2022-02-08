@@ -1,5 +1,7 @@
-4aja_gorodskaja_poliklinika<-concept_hospital;
+4aja_gorodskaja_poliklinika <- concept_hospital;
 => nrel_main_idtf:
+[4-ая гарадская паліклініка]
+(* <- lang_by;; <- name_by;;*);
 [4-ая городская поликлиника]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;

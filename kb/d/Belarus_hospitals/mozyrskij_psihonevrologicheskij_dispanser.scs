@@ -1,5 +1,5 @@
-mozyrskij_psihonevrologicheskij_dispanser<-concept_hospital;
+mozyrskij_psihonevrologicheskij_dispanser <- concept_hospital;
 => nrel_main_idtf:
 [Мозырский психоневрологический диспансер]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_search_area: Belarus;;
