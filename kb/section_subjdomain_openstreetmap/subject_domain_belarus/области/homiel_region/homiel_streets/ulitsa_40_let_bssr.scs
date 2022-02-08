@@ -1,7 +1,0 @@
-ulitsa_40_let_bssr_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца 40 год БССР]
-(* <- lang_by;; <- name_by;;*);
-[улица 40 лет БССР]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

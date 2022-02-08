@@ -1,7 +1,0 @@
-2j_pereulok_jagovkina_homiel <- concept_way;
-=> nrel_main_idtf:
-[2-і завулак Ягоўкіна]
-(* <- lang_by;; <- name_by;;*);
-[2-й переулок Яговкина]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

@@ -1,7 +1,0 @@
-ulitsa_shevchenko_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Шаўчэнкі]
-(* <- lang_by;; <- name_by;;*);
-[улица Шевченко]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

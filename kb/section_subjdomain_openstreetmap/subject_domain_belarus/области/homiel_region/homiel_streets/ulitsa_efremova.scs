@@ -1,7 +1,0 @@
-ulitsa_efremova_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Яфрэмава]
-(* <- lang_by;; <- name_by;;*);
-[улица Ефремова]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

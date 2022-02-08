@@ -1,7 +1,0 @@
-ulitsa_sklezneva_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Склязнёва]
-(* <- lang_by;; <- name_by;;*);
-[улица Склезнёва]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

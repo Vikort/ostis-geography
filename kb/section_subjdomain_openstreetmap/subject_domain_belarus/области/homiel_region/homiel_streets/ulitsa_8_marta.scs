@@ -1,7 +1,0 @@
-ulitsa_8_marta_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца 8 Сакавіка]
-(* <- lang_by;; <- name_by;;*);
-[улица 8 Марта]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

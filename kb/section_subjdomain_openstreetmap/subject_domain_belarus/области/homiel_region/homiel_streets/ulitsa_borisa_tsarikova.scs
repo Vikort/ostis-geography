@@ -1,7 +1,0 @@
-ulitsa_borisa_tsarikova_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Барыса Царыкава]
-(* <- lang_by;; <- name_by;;*);
-[улица Бориса Царикова]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

@@ -1,7 +1,0 @@
-ulitsa_barykina_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Барыкіна]
-(* <- lang_by;; <- name_by;;*);
-[улица Барыкина]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

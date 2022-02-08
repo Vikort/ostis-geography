@@ -1,7 +1,0 @@
-ulitsa_kosareva_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Косарава]
-(* <- lang_by;; <- name_by;;*);
-[улица Косарева]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

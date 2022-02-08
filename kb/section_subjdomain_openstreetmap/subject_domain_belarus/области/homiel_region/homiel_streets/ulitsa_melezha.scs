@@ -1,7 +1,0 @@
-ulitsa_melezha_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Мележа]
-(* <- lang_by;; <- name_by;;*);
-[улица Мележа]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

@@ -1,7 +1,0 @@
-mezhdugorodnjaja_ulitsa_homiel <- concept_way;
-=> nrel_main_idtf:
-[Міжгародняя вуліца]
-(* <- lang_by;; <- name_by;;*);
-[Междугородняя улица]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

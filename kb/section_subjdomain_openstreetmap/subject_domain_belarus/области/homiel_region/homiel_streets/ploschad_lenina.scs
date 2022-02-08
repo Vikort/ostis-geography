@@ -1,7 +1,0 @@
-ploschad_lenina_homiel <- concept_way;
-=> nrel_main_idtf:
-[плошча Леніна]
-(* <- lang_by;; <- name_by;;*);
-[площадь Ленина]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

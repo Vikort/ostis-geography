@@ -1,7 +1,0 @@
-kuznechnyjii_most_homiel <- concept_way;
-=> nrel_main_idtf:
-[Кавальны-II мост]
-(* <- lang_by;; <- name_by;;*);
-[Кузнечный-II мост]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

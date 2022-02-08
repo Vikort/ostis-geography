@@ -1,7 +1,0 @@
-ulitsa_fedjuninskogo_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Фядзюнінскага]
-(* <- lang_by;; <- name_by;;*);
-[улица Федюнинского]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

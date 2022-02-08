@@ -1,7 +1,0 @@
-1ja_ulitsa_lunacharskogo_homiel <- concept_way;
-=> nrel_main_idtf:
-[1-я вуліца Луначарскага]
-(* <- lang_by;; <- name_by;;*);
-[1-я улица Луначарского]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

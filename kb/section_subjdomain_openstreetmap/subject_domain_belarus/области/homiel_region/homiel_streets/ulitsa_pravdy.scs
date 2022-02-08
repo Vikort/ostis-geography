@@ -1,7 +1,0 @@
-ulitsa_pravdy_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Праўды]
-(* <- lang_by;; <- name_by;;*);
-[улица Правды]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

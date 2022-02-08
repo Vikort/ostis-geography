@@ -1,7 +1,0 @@
-2j_pereulok_krupskoj_homiel <- concept_way;
-=> nrel_main_idtf:
-[2-і завулак Крупскай]
-(* <- lang_by;; <- name_by;;*);
-[2-й переулок Крупской]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

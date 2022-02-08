@@ -1,7 +1,0 @@
-vosmaja_ulitsa_homiel <- concept_way;
-=> nrel_main_idtf:
-[Восьмая вуліца]
-(* <- lang_by;; <- name_by;;*);
-[Восьмая улица]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;

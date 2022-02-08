@@ -1,7 +1,0 @@
-ulitsa_borisenko_homiel <- concept_way;
-=> nrel_main_idtf:
-[вуліца Барысенкі]
-(* <- lang_by;; <- name_by;;*);
-[улица Борисенко]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: homiel;;
