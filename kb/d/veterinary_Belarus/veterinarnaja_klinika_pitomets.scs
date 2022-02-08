@@ -1,0 +1,5 @@
+veterinarnaja_klinika_pitomets <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная клиника "Питомец"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

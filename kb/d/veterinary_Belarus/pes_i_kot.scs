@@ -1,0 +1,5 @@
+pes_i_kot <- concept_veterinary;
+=> nrel_main_idtf:
+[Пес и кот]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

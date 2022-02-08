@@ -1,0 +1,5 @@
+veterinarnaja_stantsija_tsentralnogo_rajona <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная станция Центрального района]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

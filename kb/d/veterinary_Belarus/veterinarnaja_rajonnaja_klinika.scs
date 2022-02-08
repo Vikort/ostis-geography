@@ -1,0 +1,5 @@
+veterinarnaja_rajonnaja_klinika <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная районная клиника]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

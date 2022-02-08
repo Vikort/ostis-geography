@@ -1,0 +1,5 @@
+doktor_vet <- concept_veterinary;
+=> nrel_main_idtf:
+[Доктор Вет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

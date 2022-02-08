@@ -1,0 +1,5 @@
+veterinarnaja_apteka_strelka <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная аптека "Стрелка"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

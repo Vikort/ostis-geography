@@ -1,0 +1,5 @@
+matroskin_i_ko <- concept_veterinary;
+=> nrel_main_idtf:
+[Матроскин и Ко]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

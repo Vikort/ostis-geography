@@ -1,0 +1,7 @@
+spektrumvet <- concept_veterinary;
+=> nrel_main_idtf:
+[SpectrumVet]
+(* <- lang_en;; <- name_en;;*);
+[СпектрумВет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

@@ -1,0 +1,5 @@
+veterinarnaja_apteka_doktor_vet <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная аптека "Доктор Вет"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

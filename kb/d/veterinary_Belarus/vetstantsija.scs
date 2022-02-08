@@ -1,0 +1,5 @@
+vetstantsija <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветстанция]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

@@ -1,0 +1,7 @@
+veterinarnaja_stantsija_moskovskogo_rajona <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветэрынарная станцыя Маскоўскага раёна]
+(* <- lang_by;; <- name_by;;*);
+[Ветеринарная станция Московского района]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

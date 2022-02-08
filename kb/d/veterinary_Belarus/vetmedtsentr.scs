@@ -1,0 +1,7 @@
+vetmedtsentr <- concept_veterinary;
+=> nrel_main_idtf:
+[VetMed]
+(* <- lang_en;; <- name_en;;*);
+[ВетМедЦентр]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

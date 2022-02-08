@@ -1,0 +1,5 @@
+gelavet <- concept_veterinary;
+=> nrel_main_idtf:
+[Гела-Вет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;

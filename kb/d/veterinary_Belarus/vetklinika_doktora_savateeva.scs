@@ -1,0 +1,5 @@
+vetklinika_doktora_savateeva <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветклиника доктора Саватеева]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: Belarus;;
