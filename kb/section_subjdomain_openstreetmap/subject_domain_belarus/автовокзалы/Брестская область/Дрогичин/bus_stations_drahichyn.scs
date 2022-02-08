@@ -1,0 +1,15 @@
+bus_station_drahichyn <- concept_bus_station;
+<- concept_bus_station_of_the_drahichyn;
+=>nrel_main_idtf:
+    [автовокзал "Дрогичин"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    drahichyn_district;
+=>nrel_city:
+    drahichyn;
+=>nrel_search_area:
+    drahichyn;;

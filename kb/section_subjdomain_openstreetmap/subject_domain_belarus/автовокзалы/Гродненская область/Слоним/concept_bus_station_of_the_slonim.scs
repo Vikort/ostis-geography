@@ -1,0 +1,37 @@
+concept_bus_station_of_the_slonim
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Слоним]
+	(* <- lang_ru;; *);
+	[bus station of the Slonim]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Слоним)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Slonim)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Слоним — автовокзал, который располагается в городе Слоним.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Slonim bus Station is a bus station located in the city of Slonim.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			slonim;
+           		belarus
+		};;
+	*);;

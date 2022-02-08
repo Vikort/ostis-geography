@@ -1,0 +1,15 @@
+bus_station_hantsavichy <- concept_bus_station;
+<- concept_bus_station_of_the_hantsavichy_hantsavichy_district;
+=>nrel_main_idtf:
+    [автовокзал "Кобрин"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    hantsavichy_district;
+=>nrel_city:
+    hantsavichy_hantsavichy_district;
+=>nrel_search_area:
+    hantsavichy_hantsavichy_district;;

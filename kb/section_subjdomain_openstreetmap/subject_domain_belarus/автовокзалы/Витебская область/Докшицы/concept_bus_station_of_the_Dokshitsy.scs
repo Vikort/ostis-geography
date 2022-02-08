@@ -1,0 +1,37 @@
+concept_bus_station_of_the_Dokshitsy
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Докшицы]
+	(* <- lang_ru;; *);
+	[bus station of the Dokshitsy]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Докшицы)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Dokshitsy)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Докшицы — автовокзал, который располагается в городе Докшицы.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Dokshitsy bus Station is a bus station located in the city of Dokshitsy.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			dokshytsy;
+           		belarus
+		};;
+	*);;

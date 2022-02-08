@@ -1,0 +1,37 @@
+concept_bus_station_of_the_hantsavichy_hantsavichy_district
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Ганцевичи]
+	(* <- lang_ru;; *);
+	[bus station of the Рantsavichy]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Ганцевичи)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Рantsavichy)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Ганцевичи — автовокзал, который располагается в городе Ганцевичи.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Рantsavichy bus Station is a bus station located in the city of Рantsavichy.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			hantsavichy_hantsavichy_district;
+           		belarus
+		};;
+	*);;

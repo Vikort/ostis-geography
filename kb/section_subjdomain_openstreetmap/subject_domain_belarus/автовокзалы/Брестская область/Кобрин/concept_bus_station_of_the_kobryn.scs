@@ -1,0 +1,37 @@
+concept_bus_station_of_the_kobryn
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Кобрин]
+	(* <- lang_ru;; *);
+	[bus station of the Kobryn]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Кобрин)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Kobryn)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Кобрин — автовокзал, который располагается в городе Кобрин.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Kobryn bus Station is a bus station located in the city of Kobryn.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			kobryn;
+           		belarus
+		};;
+	*);;

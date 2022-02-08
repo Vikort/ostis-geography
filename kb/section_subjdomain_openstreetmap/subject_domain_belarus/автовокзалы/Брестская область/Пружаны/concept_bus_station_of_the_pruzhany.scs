@@ -1,0 +1,37 @@
+concept_bus_station_of_the_pruzhany
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Пружаны]
+	(* <- lang_ru;; *);
+	[bus station of the Pruzhany]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Пружаны)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Pruzhany)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Пружаны — автовокзал, который располагается в городе Пружаны.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Pruzhany bus Station is a bus station located in the city of Pruzhany.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			pruzhany;
+           		belarus
+		};;
+	*);;

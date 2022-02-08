@@ -1,0 +1,16 @@
+bus_station_hlybokaye <- concept_bus_station;
+<- concept_bus_station_of_the_hlybokaye;
+=>nrel_main_idtf:
+    [автостанция "Глубокое"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    hlybokaye_district;
+=>nrel_city:
+    hlybokaye;
+=>nrel_search_area:
+    hlybokaye;;
+

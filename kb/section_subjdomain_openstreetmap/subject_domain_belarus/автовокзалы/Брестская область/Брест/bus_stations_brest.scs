@@ -1,0 +1,51 @@
+bus_station_brest <- concept_bus_station;
+<- concept_bus_station_of_the_brest;
+=>nrel_main_idtf:
+    [автовокзал "Брест"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_city:
+    brest;
+=>nrel_search_area:
+    brest;;
+
+
+bus_station_brestoblavtotrans <- concept_bus_station;
+<- concept_bus_station_of_the_brest;
+=>nrel_main_idtf:
+    [автостанция "Брестоблавтотранс"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_city:
+    brest;
+=>nrel_search_area:
+    brest;;
+
+
+bus_station_yltradent <- concept_bus_station;
+<- concept_bus_station_of_the_brest;
+=>nrel_main_idtf:
+    [автостанция "Ультрадент"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_city:
+    brest;
+=>nrel_search_area:
+    brest;;
+
+

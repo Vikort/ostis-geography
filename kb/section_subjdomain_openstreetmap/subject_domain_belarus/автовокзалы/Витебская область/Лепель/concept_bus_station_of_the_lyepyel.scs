@@ -1,0 +1,37 @@
+concept_bus_station_of_the_lyepyel
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Лепель]
+	(* <- lang_ru;; *);
+	[bus station of the Lyepyel]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Лепель)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Lyepyel)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Лепель — автовокзал, который располагается в городе Лепель.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Lyepyel bus Station is a bus station located in the city of Lyepyel.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			lyepyel;
+           		belarus
+		};;
+	*);;

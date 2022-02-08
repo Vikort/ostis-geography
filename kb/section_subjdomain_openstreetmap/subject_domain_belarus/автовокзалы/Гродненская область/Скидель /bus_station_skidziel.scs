@@ -1,0 +1,15 @@
+bus_station_skidziel <- concept_bus_station;
+<- concept_bus_station_of_the_skidziel;
+=>nrel_main_idtf:
+    [автовокзал "Скидель"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    hrodna_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_city:
+    skidziel;
+=>nrel_search_area:
+    skidziel;;

@@ -1,0 +1,83 @@
+bus_station_orsha <- concept_bus_station;
+<- concept_bus_station_of_the_orsha;
+=>nrel_main_idtf:
+    [автовокзал "Орша"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    orsha_district;
+=>nrel_city:
+    orsha;
+=>nrel_search_area:
+    orsha;;
+
+
+bus_station_kyteenka <- concept_bus_station;
+<- concept_bus_station_of_the_orsha;
+=>nrel_main_idtf:
+    [автовокзал "Кутеенка"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    orsha_district;
+=>nrel_city:
+    orsha;
+=>nrel_search_area:
+    orsha;;
+
+
+bus_station_leshoz <- concept_bus_station;
+<- concept_bus_station_of_the_orsha;
+=>nrel_main_idtf:
+    [автостанция "Лесхоз"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    orsha_district;
+=>nrel_city:
+    orsha;
+=>nrel_search_area:
+    orsha;;
+
+
+bus_station_lnokombinat <- concept_bus_station;
+<- concept_bus_station_of_the_orsha;
+=>nrel_main_idtf:
+    [автостанция "Льнокомбинат"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    orsha_district;
+=>nrel_city:
+    orsha;
+=>nrel_search_area:
+    orsha;;
+
+
+bus_station_prestish <- concept_bus_station;
+<- concept_bus_station_of_the_orsha;
+=>nrel_main_idtf:
+    [автовокзал "Престиж"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    orsha_district;
+=>nrel_city:
+    orsha;
+=>nrel_search_area:
+    orsha;;

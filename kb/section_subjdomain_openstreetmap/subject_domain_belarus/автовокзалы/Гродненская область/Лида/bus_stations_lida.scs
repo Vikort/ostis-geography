@@ -1,0 +1,16 @@
+bus_station_lida <- concept_bus_station;
+<- concept_bus_station_of_the_lida;
+=>nrel_main_idtf:
+    [автостанция "Лида"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_city:
+    lida;
+=>nrel_search_area:
+    lida;;
+

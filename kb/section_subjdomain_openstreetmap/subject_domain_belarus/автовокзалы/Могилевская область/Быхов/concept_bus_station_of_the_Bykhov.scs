@@ -1,0 +1,37 @@
+concept_bus_station_of_the_Bykhaw
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Быхов]
+	(* <- lang_ru;; *);
+	[bus station of the Bykhaw]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Быхов)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Bykhaw)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Быхов — автовокзал, который располагается в городе Быхов.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Bykhaw bus Station is a bus station located in the city of Bykhaw.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			Bykhaw;
+           		belarus
+		};;
+	*);;
