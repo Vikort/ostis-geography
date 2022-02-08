@@ -2,9 +2,5 @@ santa_shop_ulitsa_Ivana_Bogatiryova_139 <- concept_santa_shop;
 => nrel_main_idtf:
 [Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-[53.1043424]
-(* <- lang_ru;; <- latitude;;*);
-[30.0636737]
-(* <- lang_ru;; <- longitude;;*);
 =>nrel_search_area: 
-minsk;;
+belarus;;

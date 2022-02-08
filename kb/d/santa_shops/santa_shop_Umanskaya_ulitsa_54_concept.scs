@@ -2,9 +2,5 @@ santa_shop_Umanskaya_ulitsa_54 <- concept_santa_shop;
 => nrel_main_idtf:
 [Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-[53.8750017]
-(* <- lang_ru;; <- latitude;;*);
-[27.4982614]
-(* <- lang_ru;; <- longitude;;*);
 =>nrel_search_area: 
-minsk;;
+belarus;;

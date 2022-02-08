@@ -2,9 +2,5 @@ santa_shop_ulitsa_Lenina_17_19 <- concept_santa_shop;
 => nrel_main_idtf:
 [Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-[52.2119809]
-(* <- lang_ru;; <- latitude;;*);
-[24.3562289]
-(* <- lang_ru;; <- longitude;;*);
 =>nrel_search_area: 
-minsk;;
+belarus;;

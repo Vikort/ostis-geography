@@ -2,9 +2,5 @@ santa_shop_ulitsa_Veri_Khoruzhei_25_k1 <- concept_santa_shop;
 => nrel_main_idtf:
 [Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-[53.9211115]
-(* <- lang_ru;; <- latitude;;*);
-[27.5669585]
-(* <- lang_ru;; <- longitude;;*);
 =>nrel_search_area: 
-minsk;;
+belarus;;

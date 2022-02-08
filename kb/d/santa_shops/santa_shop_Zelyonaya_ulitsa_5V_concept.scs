@@ -1,4 +1,4 @@
-santa_shop_Uruchskaya_ulitsa_11A <- concept_santa_shop;
+santa_shop_Zelyonaya_ulitsa_5V <- concept_santa_shop;
 => nrel_main_idtf:
 [Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);

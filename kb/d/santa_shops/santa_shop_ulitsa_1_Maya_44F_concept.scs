@@ -2,9 +2,5 @@ santa_shop_ulitsa_1_Maya_44F <- concept_santa_shop;
 => nrel_main_idtf:
 [Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-[53.2223653]
-(* <- lang_ru;; <- latitude;;*);
-[26.6654101]
-(* <- lang_ru;; <- longitude;;*);
 =>nrel_search_area: 
-minsk;;
+belarus;;
