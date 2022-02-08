@@ -1,9 +1,0 @@
-belinsky_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Belinsky street]
-                (* <- lang_en;; <- name_en;;*);
-                [Белинского улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

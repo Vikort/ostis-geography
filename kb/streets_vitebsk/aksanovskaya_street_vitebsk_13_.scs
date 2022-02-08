@@ -4,8 +4,8 @@ aksanovskaya_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Аксановская улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3000;
-                =>nrel_number_of_house:79;
+                =>nrel_street_length:3100;
+                =>nrel_number_of_house:38;
                 =>nrel_search_area:
                 vitebsk;;
                 

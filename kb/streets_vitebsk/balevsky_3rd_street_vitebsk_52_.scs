@@ -1,9 +1,0 @@
-balevsky_3rd_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Balevsky 3rd street]
-                (* <- lang_en;; <- name_en;;*);
-                [Билевский 3-й улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

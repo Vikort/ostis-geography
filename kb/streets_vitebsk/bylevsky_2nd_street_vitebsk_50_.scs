@@ -4,8 +4,8 @@ bylevsky_2nd_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Билевский 2-й улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:700;
-                =>nrel_number_of_house:48;
+                =>nrel_street_length:2600;
+                =>nrel_number_of_house:62;
                 =>nrel_search_area:
                 vitebsk;;
                 

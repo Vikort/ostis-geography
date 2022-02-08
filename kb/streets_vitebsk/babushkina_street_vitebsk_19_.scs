@@ -1,9 +1,0 @@
-babushkina_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Babushkina street]
-                (* <- lang_en;; <- name_en;;*);
-                [Бабушкина улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

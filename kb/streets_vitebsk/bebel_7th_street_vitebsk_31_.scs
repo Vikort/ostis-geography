@@ -4,8 +4,8 @@ bebel_7th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Бебеля 7-я улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1100;
-                =>nrel_number_of_house:32;
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:26;
                 =>nrel_search_area:
                 vitebsk;;
                 

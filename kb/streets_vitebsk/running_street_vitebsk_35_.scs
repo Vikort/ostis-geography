@@ -1,9 +1,0 @@
-running_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Running street]
-                (* <- lang_en;; <- name_en;;*);
-                [Беговая улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

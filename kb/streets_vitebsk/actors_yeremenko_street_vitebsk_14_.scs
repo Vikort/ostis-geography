@@ -4,8 +4,8 @@ actors_yeremenko_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Актёров Ерёменко улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2200;
-                =>nrel_number_of_house:50;
+                =>nrel_street_length:2000;
+                =>nrel_number_of_house:66;
                 =>nrel_search_area:
                 vitebsk;;
                 

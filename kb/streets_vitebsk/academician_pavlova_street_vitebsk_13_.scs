@@ -1,9 +1,0 @@
-academician_pavlova_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Academician Pavlova street]
-                (* <- lang_en;; <- name_en;;*);
-                [Академика Павлова улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

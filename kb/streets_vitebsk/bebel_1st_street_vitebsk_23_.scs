@@ -4,8 +4,8 @@ bebel_1st_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Бебеля 1-я улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:600;
-                =>nrel_number_of_house:81;
+                =>nrel_street_length:700;
+                =>nrel_number_of_house:40;
                 =>nrel_search_area:
                 vitebsk;;
                 

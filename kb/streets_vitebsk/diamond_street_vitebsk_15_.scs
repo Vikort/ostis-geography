@@ -4,8 +4,8 @@ diamond_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Алмазный улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3200;
-                =>nrel_number_of_house:40;
+                =>nrel_street_length:2900;
+                =>nrel_number_of_house:16;
                 =>nrel_search_area:
                 vitebsk;;
                 

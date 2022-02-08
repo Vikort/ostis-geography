@@ -4,8 +4,8 @@ azina._street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Азина улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:700;
-                =>nrel_number_of_house:16;
+                =>nrel_street_length:2000;
+                =>nrel_number_of_house:53;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,8 @@ bolshevik_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Большевистская улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3400;
-                =>nrel_number_of_house:71;
+                =>nrel_street_length:1000;
+                =>nrel_number_of_house:83;
                 =>nrel_search_area:
                 vitebsk;;
                 

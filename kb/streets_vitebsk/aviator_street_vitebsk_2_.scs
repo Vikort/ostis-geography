@@ -1,9 +1,0 @@
-aviator_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Aviator street]
-                (* <- lang_en;; <- name_en;;*);
-                [Авиаторов улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

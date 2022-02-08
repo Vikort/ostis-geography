@@ -1,0 +1,11 @@
+velikoluksky_4th_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Velikoluksky 4th street]
+                (* <- lang_en;; <- name_en;;*);
+                [Великолукский 4-й улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2000;
+                =>nrel_number_of_house:52;
+                =>nrel_search_area:
+                vitebsk;;
+                

@@ -1,0 +1,11 @@
+velikoluksky_3rd_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Velikoluksky 3rd street]
+                (* <- lang_en;; <- name_en;;*);
+                [Великолукский 3-й улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:1300;
+                =>nrel_number_of_house:76;
+                =>nrel_search_area:
+                vitebsk;;
+                

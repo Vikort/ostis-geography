@@ -4,8 +4,8 @@ budenny_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Будённого улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2100;
-                =>nrel_number_of_house:15;
+                =>nrel_street_length:700;
+                =>nrel_number_of_house:56;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,8 @@ beshenkovichskaya_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Бешенковичская улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:900;
-                =>nrel_number_of_house:53;
+                =>nrel_street_length:1500;
+                =>nrel_number_of_house:78;
                 =>nrel_search_area:
                 vitebsk;;
                 

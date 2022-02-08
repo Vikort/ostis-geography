@@ -1,9 +1,0 @@
-general_lyudnikova_pr_t_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [General Lyudnikova Pr-T street]
-                (* <- lang_en;; <- name_en;;*);
-                [Генерала Людникова пр-т улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

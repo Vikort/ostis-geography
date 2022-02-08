@@ -4,8 +4,8 @@ aviation_3rd_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Авиационная 3-я улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1900;
-                =>nrel_number_of_house:34;
+                =>nrel_street_length:2600;
+                =>nrel_number_of_house:48;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,8 @@ bebel_10th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Бебеля 10-я улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1900;
-                =>nrel_number_of_house:44;
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:63;
                 =>nrel_search_area:
                 vitebsk;;
                 

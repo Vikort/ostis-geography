@@ -1,9 +1,0 @@
-voikova_2nd_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Voikova 2nd street]
-                (* <- lang_en;; <- name_en;;*);
-                [Войкова 2-я улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

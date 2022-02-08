@@ -4,8 +4,8 @@ bebel_13th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Бебеля 13-я улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2800;
-                =>nrel_number_of_house:47;
+                =>nrel_street_length:1900;
+                =>nrel_number_of_house:31;
                 =>nrel_search_area:
                 vitebsk;;
                 

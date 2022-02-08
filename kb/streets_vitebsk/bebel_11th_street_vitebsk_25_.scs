@@ -4,8 +4,8 @@ bebel_11th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Бебеля 11-я улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:500;
-                =>nrel_number_of_house:64;
+                =>nrel_street_length:800;
+                =>nrel_number_of_house:35;
                 =>nrel_search_area:
                 vitebsk;;
                 

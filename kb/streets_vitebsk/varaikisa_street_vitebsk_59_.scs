@@ -4,8 +4,8 @@ varaikisa_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Варейкиса улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3100;
-                =>nrel_number_of_house:38;
+                =>nrel_street_length:1500;
+                =>nrel_number_of_house:67;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,8 @@ bylevskaya_3rd_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Билевская 3-я улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2200;
-                =>nrel_number_of_house:64;
+                =>nrel_street_length:900;
+                =>nrel_number_of_house:52;
                 =>nrel_search_area:
                 vitebsk;;
                 

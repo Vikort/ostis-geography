@@ -1,9 +1,0 @@
-vatutin_street_vitebsk <- concept_way;
-                =>nrel_main_idtf:
-                [Vatutin street]
-                (* <- lang_en;; <- name_en;;*);
-                [Ватутина улица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_search_area:
-                vitebsk;;
-                

@@ -4,8 +4,8 @@ vatutin_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [Ватутина улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1000;
-                =>nrel_number_of_house:74;
+                =>nrel_street_length:3100;
+                =>nrel_number_of_house:64;
                 =>nrel_search_area:
                 vitebsk;;
                 
