@@ -1,0 +1,11 @@
+bebel_6th_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Bebel 6th street]
+                (* <- lang_en;; <- name_en;;*);
+                [Бебеля 6-я улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:1400;
+                =>nrel_number_of_house:27;
+                =>nrel_search_area:
+                vitebsk;;
+                

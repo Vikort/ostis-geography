@@ -1,0 +1,9 @@
+gorodokskaya_2nd_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Gorodokskaya 2nd street]
+                (* <- lang_en;; <- name_en;;*);
+                [Городокская 2-я улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

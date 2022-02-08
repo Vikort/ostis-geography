@@ -1,0 +1,11 @@
+beshenkovichskaya_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Beshenkovichskaya street]
+                (* <- lang_en;; <- name_en;;*);
+                [Бешенковичская улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:900;
+                =>nrel_number_of_house:53;
+                =>nrel_search_area:
+                vitebsk;;
+                

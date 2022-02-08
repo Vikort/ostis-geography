@@ -1,0 +1,9 @@
+gagarin_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Gagarin street]
+                (* <- lang_en;; <- name_en;;*);
+                [Гагарина улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

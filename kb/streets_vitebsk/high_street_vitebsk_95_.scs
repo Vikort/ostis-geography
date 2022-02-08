@@ -1,0 +1,9 @@
+high_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [High street]
+                (* <- lang_en;; <- name_en;;*);
+                [Высокий улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

@@ -1,0 +1,11 @@
+belitsky_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Belitsky street]
+                (* <- lang_en;; <- name_en;;*);
+                [Белицкого улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3100;
+                =>nrel_number_of_house:58;
+                =>nrel_search_area:
+                vitebsk;;
+                

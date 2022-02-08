@@ -1,0 +1,9 @@
+warriors___internationalists_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Warriors - internationalists street]
+                (* <- lang_en;; <- name_en;;*);
+                [Воинов-Интернационалистов улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

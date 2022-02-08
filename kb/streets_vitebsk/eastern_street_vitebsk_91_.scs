@@ -1,0 +1,11 @@
+eastern_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Eastern street]
+                (* <- lang_en;; <- name_en;;*);
+                [Восточная улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:200;
+                =>nrel_number_of_house:6;
+                =>nrel_search_area:
+                vitebsk;;
+                

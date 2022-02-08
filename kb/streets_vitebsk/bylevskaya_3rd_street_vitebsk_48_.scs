@@ -1,0 +1,11 @@
+bylevskaya_3rd_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Bylevskaya 3rd street]
+                (* <- lang_en;; <- name_en;;*);
+                [Билевская 3-я улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2200;
+                =>nrel_number_of_house:64;
+                =>nrel_search_area:
+                vitebsk;;
+                

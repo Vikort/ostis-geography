@@ -1,0 +1,11 @@
+vorovsky_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Vorovsky street]
+                (* <- lang_en;; <- name_en;;*);
+                [Воровского улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:400;
+                =>nrel_number_of_house:39;
+                =>nrel_search_area:
+                vitebsk;;
+                

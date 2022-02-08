@@ -1,0 +1,9 @@
+actors_yeremenko_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Actors Yeremenko street]
+                (* <- lang_en;; <- name_en;;*);
+                [Актёров Ерёменко улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

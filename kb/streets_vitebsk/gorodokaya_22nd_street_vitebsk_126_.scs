@@ -1,0 +1,11 @@
+gorodokaya_22nd_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Gorodokaya 22nd street]
+                (* <- lang_en;; <- name_en;;*);
+                [Городокская 22-я улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2400;
+                =>nrel_number_of_house:53;
+                =>nrel_search_area:
+                vitebsk;;
+                

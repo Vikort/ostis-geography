@@ -1,0 +1,9 @@
+vitebsky_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Vitebsky street]
+                (* <- lang_en;; <- name_en;;*);
+                [Витебский улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

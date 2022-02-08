@@ -1,0 +1,9 @@
+beshenkovichsk_w._street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Beshenkovichsk w. street]
+                (* <- lang_en;; <- name_en;;*);
+                [Бешенковичское ш. улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

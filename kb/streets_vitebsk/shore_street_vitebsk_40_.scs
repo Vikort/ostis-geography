@@ -1,0 +1,9 @@
+shore_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Shore street]
+                (* <- lang_en;; <- name_en;;*);
+                [Береговая улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

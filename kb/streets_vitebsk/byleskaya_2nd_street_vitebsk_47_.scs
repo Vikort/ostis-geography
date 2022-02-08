@@ -1,0 +1,11 @@
+byleskaya_2nd_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Byleskaya 2nd street]
+                (* <- lang_en;; <- name_en;;*);
+                [Билевская 2-я улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2900;
+                =>nrel_number_of_house:8;
+                =>nrel_search_area:
+                vitebsk;;
+                

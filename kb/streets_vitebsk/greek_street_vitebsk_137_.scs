@@ -1,0 +1,11 @@
+greek_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Greek street]
+                (* <- lang_en;; <- name_en;;*);
+                [Греческая улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:1800;
+                =>nrel_number_of_house:15;
+                =>nrel_search_area:
+                vitebsk;;
+                

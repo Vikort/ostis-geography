@@ -1,0 +1,11 @@
+cherry_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Cherry street]
+                (* <- lang_en;; <- name_en;;*);
+                [Вишнёвый улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2000;
+                =>nrel_number_of_house:47;
+                =>nrel_search_area:
+                vitebsk;;
+                

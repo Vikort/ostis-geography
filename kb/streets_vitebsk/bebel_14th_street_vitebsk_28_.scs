@@ -1,0 +1,11 @@
+bebel_14th_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Bebel 14th street]
+                (* <- lang_en;; <- name_en;;*);
+                [Бебеля 14-я улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:1400;
+                =>nrel_number_of_house:11;
+                =>nrel_search_area:
+                vitebsk;;
+                

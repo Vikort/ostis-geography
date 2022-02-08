@@ -1,0 +1,9 @@
+gastello_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Gastello street]
+                (* <- lang_en;; <- name_en;;*);
+                [Гастелло улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_search_area:
+                vitebsk;;
+                

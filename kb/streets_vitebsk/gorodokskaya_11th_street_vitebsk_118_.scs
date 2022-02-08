@@ -1,0 +1,11 @@
+gorodokskaya_11th_street_vitebsk <- concept_way;
+                =>nrel_main_idtf:
+                [Gorodokskaya 11th street]
+                (* <- lang_en;; <- name_en;;*);
+                [Городокская 11-я улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2900;
+                =>nrel_number_of_house:27;
+                =>nrel_search_area:
+                vitebsk;;
+                
