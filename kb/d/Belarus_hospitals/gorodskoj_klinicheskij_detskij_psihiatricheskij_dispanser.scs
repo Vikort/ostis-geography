@@ -1,7 +1,5 @@
-
 gorodskoj_klinicheskij_detskij_psihiatricheskij_dispanser<-concept_hospital;
 => nrel_main_idtf:
 [Городской клинический детский психиатрический диспансер]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

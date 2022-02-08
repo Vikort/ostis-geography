@@ -1,7 +1,5 @@
-
 gomelskij_oblastnoj_klinicheskij_kozhnovenerologicheskij_dispanser<-concept_hospital;
 => nrel_main_idtf:
 [Гомельский Областной Клинический Кожно-венерологический Диспансер]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

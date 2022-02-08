@@ -1,7 +1,5 @@
-
 tsentralnaja_rajonnaja_bolnitsa<-concept_hospital;
 => nrel_main_idtf:
 [Центральная районная больница]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

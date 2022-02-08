@@ -1,7 +1,5 @@
-
 amadej_klinik<-concept_hospital;
 => nrel_main_idtf:
 [Амадей Клиник]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

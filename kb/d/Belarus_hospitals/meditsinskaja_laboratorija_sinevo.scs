@@ -1,7 +1,5 @@
-
 meditsinskaja_laboratorija_sinevo<-concept_hospital;
 => nrel_main_idtf:
 [Медицинская лаборатория Синэво]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

@@ -1,7 +1,5 @@
-
 baranovichskij_zonalnyj_tsge<-concept_hospital;
 => nrel_main_idtf:
 [Барановичский зональный ЦГЭ]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

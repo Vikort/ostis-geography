@@ -1,7 +1,5 @@
-
 doktor_vitum<-concept_hospital;
 => nrel_main_idtf:
 [Доктор Витум]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

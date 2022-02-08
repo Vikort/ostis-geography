@@ -1,7 +1,5 @@
-
 kardiodispanser<-concept_hospital;
 => nrel_main_idtf:
 [Кардиодиспансер]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

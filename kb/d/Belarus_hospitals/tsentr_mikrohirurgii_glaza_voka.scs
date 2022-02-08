@@ -1,7 +1,5 @@
-
 tsentr_mikrohirurgii_glaza_voka<-concept_hospital;
 => nrel_main_idtf:
 [Центр микрохирургии глаза VOKA]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

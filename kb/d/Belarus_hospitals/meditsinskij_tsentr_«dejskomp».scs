@@ -1,7 +1,5 @@
-
 meditsinskij_tsentr_«dejskomp»<-concept_hospital;
 => nrel_main_idtf:
 [Медицинский центр «Дэйскомп»]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

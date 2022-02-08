@@ -1,7 +1,5 @@
-
 tsentr_detskogo_zrenija_zrok<-concept_hospital;
 => nrel_main_idtf:
 [Центр детского зрения Зрок]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

@@ -1,7 +1,5 @@
-
 priemnyj_pokoj<-concept_hospital;
 => nrel_main_idtf:
 [Приемный покой]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

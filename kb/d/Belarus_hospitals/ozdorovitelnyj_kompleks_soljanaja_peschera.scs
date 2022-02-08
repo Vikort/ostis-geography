@@ -1,7 +1,5 @@
-
 ozdorovitelnyj_kompleks_soljanaja_peschera<-concept_hospital;
 => nrel_main_idtf:
 [Оздоровительный комплекс "Соляная пещера"]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

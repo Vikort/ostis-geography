@@ -1,7 +1,5 @@
-
 lpu_gorodskoj_narkologicheskij_dispanser<-concept_hospital;
 => nrel_main_idtf:
 [ЛПУ "Городской наркологический диспансер"]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

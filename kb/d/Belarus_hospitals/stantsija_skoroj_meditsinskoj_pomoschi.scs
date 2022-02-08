@@ -1,7 +1,5 @@
-
 stantsija_skoroj_meditsinskoj_pomoschi<-concept_hospital;
 => nrel_main_idtf:
 [Станция скорой медицинской помощи]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

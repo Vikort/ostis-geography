@@ -1,7 +1,5 @@
-
 tsentr_meditsinskoj_reabilitatsii<-concept_hospital;
 => nrel_main_idtf:
 [Центр медицинской реабилитации]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

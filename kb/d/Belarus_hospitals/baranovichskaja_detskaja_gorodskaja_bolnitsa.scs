@@ -1,7 +1,5 @@
-
 baranovichskaja_detskaja_gorodskaja_bolnitsa<-concept_hospital;
 => nrel_main_idtf:
 [Барановичская детская городская больница]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

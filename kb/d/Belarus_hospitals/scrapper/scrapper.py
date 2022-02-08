@@ -79,19 +79,7 @@ def save_fragments(
             file.write(fragment.get("body"))
 
 
-def main() -> None:
-    template = """
-{kb_name}<-concept_hospital;
-=> nrel_main_idtf:
-[{name}]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
-    """
-    amenities = ['hospital', 'clinic']
-    query_part = "area[name='Беларусь'];node(area)[amenity={}];"
-    source = "http://overpass-api.de/api/interpreter?data=[out:json];({});out;"
-    save_path = "../"
-
+def process(template: str, amenities: List[str], query_part: str, source: str, save_path: str) -> None:
     # try to read it =)))
     save_fragments(
         fragments=create_kb_fragments(
@@ -115,5 +103,23 @@ def main() -> None:
     )
 
 
-main()
+if __name__ == "__main__":
+    template =\
+"""{kb_name}<-concept_hospital;
+=> nrel_main_idtf:
+[{name}]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+"""
+    amenities = ['hospital', 'clinic']
+    query_part = "area[name='Беларусь'];node(area)[amenity={}];"
+    source = "http://overpass-api.de/api/interpreter?data=[out:json];({});out;"
+    save_path = "../"
 
+    process(
+        template=template,
+        amenities=amenities,
+        query_part=query_part,
+        source=source,
+        save_path=save_path
+    )

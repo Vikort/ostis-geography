@@ -1,7 +1,5 @@
-
 zdrava<-concept_hospital;
 => nrel_main_idtf:
 [Здрава]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

@@ -1,7 +1,5 @@
-
 hirurgicheskij_korpus<-concept_hospital;
 => nrel_main_idtf:
 [Хирургический корпус]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

@@ -1,7 +1,5 @@
-
 belorusskij_detskij_hospis_novoe_zdanie<-concept_hospital;
 => nrel_main_idtf:
 [Белорусский детский хоспис (новое здание)]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    

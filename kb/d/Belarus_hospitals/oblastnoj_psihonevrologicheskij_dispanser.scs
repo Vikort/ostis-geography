@@ -1,7 +1,5 @@
-
 oblastnoj_psihonevrologicheskij_dispanser<-concept_hospital;
 => nrel_main_idtf:
 [Областной психоневрологический диспансер]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
 =>nrel_search_area: Belarus;;
-    
