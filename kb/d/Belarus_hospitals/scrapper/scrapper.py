@@ -43,8 +43,8 @@ def filter_elements_by_requires(
 
 def add_kb_names(elements: List[Dict]) -> List[Dict]:
     [element.get("tags").update(
-        kb_name=re.compile("(['/\.,`\"#№-])").sub(
-            r"",
+        kb_name=re.sub("[\([{})\]'/\.,`\"#№-]",
+            "",
             (translit(
                 u"{}".format(
                     element.get(

@@ -1,7 +1,0 @@
-
-poliklinika_15_(ingaljatorij_i_kabinet_lfk)<-concept_hospital;
-=> nrel_main_idtf:
-[Поликлиника №15 (ингаляторий и кабинет ЛФК)]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: Belarus;;
-    
