@@ -1,0 +1,7 @@
+tsentralnaja_ulitsa_homiel <- concept_way;
+=> nrel_main_idtf:
+[Цэнтральная вуліца]
+(* <- lang_by;; <- name_by;;*);
+[Центральная улица]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

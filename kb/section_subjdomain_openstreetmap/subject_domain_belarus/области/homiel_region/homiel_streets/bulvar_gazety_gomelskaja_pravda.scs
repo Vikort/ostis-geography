@@ -1,0 +1,7 @@
+bulvar_gazety_gomelskaja_pravda_homiel <- concept_way;
+=> nrel_main_idtf:
+[бульвар Газеты Гомельская праўда]
+(* <- lang_by;; <- name_by;;*);
+[бульвар Газеты Гомельская правда]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

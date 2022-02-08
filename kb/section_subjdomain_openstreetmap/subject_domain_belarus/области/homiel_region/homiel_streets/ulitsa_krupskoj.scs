@@ -1,0 +1,7 @@
+ulitsa_krupskoj_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Крупскай]
+(* <- lang_by;; <- name_by;;*);
+[улица Крупской]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

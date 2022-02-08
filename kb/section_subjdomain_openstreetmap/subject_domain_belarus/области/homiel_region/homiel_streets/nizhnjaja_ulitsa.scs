@@ -1,0 +1,7 @@
+nizhnjaja_ulitsa_homiel <- concept_way;
+=> nrel_main_idtf:
+[Ніжняя вуліца]
+(* <- lang_by;; <- name_by;;*);
+[Нижняя улица]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

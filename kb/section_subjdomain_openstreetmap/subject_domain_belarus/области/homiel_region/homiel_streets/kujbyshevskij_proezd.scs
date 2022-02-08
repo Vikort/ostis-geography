@@ -1,0 +1,7 @@
+kujbyshevskij_proezd_homiel <- concept_way;
+=> nrel_main_idtf:
+[Куйбышаўскі праезд]
+(* <- lang_by;; <- name_by;;*);
+[Куйбышевский проезд]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

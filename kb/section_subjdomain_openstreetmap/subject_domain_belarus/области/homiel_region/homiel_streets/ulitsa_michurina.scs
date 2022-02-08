@@ -1,0 +1,7 @@
+ulitsa_michurina_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Мічурына]
+(* <- lang_by;; <- name_by;;*);
+[улица Мичурина]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

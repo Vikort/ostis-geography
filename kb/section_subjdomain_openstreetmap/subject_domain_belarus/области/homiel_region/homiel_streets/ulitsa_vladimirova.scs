@@ -1,0 +1,7 @@
+ulitsa_vladimirova_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Уладзімірава]
+(* <- lang_by;; <- name_by;;*);
+[улица Владимирова]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

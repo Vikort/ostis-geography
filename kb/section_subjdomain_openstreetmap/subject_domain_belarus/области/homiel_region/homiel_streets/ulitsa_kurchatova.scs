@@ -1,0 +1,7 @@
+ulitsa_kurchatova_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Курчатава]
+(* <- lang_by;; <- name_by;;*);
+[улица Курчатова]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

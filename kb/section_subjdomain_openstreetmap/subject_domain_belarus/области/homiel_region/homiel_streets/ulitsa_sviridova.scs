@@ -1,0 +1,7 @@
+ulitsa_sviridova_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Свірыдава]
+(* <- lang_by;; <- name_by;;*);
+[улица Свиридова]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

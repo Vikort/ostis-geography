@@ -1,0 +1,7 @@
+ulitsa_pavlova_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Паўлава]
+(* <- lang_by;; <- name_by;;*);
+[улица Павлова]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

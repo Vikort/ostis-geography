@@ -1,0 +1,7 @@
+ulitsa_bogdana_hmelnitskogo_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Багдана Хмяльніцкага]
+(* <- lang_by;; <- name_by;;*);
+[улица Богдана Хмельницкого]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

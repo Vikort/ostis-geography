@@ -1,0 +1,7 @@
+ulitsa_mendeleeva_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Мендзялеева]
+(* <- lang_by;; <- name_by;;*);
+[улица Менделеева]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

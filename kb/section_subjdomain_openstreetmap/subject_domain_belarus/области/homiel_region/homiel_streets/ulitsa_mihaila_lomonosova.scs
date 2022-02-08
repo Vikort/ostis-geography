@@ -1,0 +1,7 @@
+ulitsa_mihaila_lomonosova_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца Міхаіла Ламаносава]
+(* <- lang_by;; <- name_by;;*);
+[улица Михаила Ломоносова]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

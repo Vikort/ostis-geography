@@ -1,0 +1,7 @@
+korotkaja_ulitsa_homiel <- concept_way;
+=> nrel_main_idtf:
+[Кароткая вуліца]
+(* <- lang_by;; <- name_by;;*);
+[Короткая улица]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

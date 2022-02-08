@@ -1,0 +1,7 @@
+jubilejnaja_ulitsa_homiel <- concept_way;
+=> nrel_main_idtf:
+[Юбілейная вуліца]
+(* <- lang_by;; <- name_by;;*);
+[Юбилейная улица]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;

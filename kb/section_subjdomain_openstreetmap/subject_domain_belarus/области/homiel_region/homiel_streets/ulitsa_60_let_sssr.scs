@@ -1,0 +1,7 @@
+ulitsa_60_let_sssr_homiel <- concept_way;
+=> nrel_main_idtf:
+[вуліца 60 год СССР]
+(* <- lang_by;; <- name_by;;*);
+[улица 60 лет СССР]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area: homiel;;
