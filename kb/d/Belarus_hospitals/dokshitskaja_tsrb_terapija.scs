@@ -1,0 +1,7 @@
+
+dokshitskaja_tsrb_terapija<-concept_hospital;
+=> nrel_main_idtf:
+[Докшицкая ЦРБ (терапия)]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    

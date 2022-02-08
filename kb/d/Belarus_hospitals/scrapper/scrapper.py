@@ -1,4 +1,3 @@
-from importlib.resources import path
 from typing import Dict, List
 from transliterate import translit
 import requests
@@ -74,7 +73,6 @@ def create_kb_fragments(
 def save_fragments(
     fragments: List[str], path: str
 ) -> None:
-    print(len(fragments))
     for fragment in fragments:
         with open('{}{}.scs'.format(path,
                 fragment.get("name")), 'w') as file:

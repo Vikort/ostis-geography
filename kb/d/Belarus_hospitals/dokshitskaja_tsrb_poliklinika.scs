@@ -1,0 +1,7 @@
+
+dokshitskaja_tsrb_poliklinika<-concept_hospital;
+=> nrel_main_idtf:
+[Докшицкая ЦРБ (поликлиника)]
+(* <-lang_ru;;<- name_ru;;<- name;;*);
+=>nrel_search_area: Belarus;;
+    
