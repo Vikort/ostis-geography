@@ -11,5 +11,5 @@
     =>nrel_type:
         national;
     =>nrel_availability;
-        close;
+        close;;
                     

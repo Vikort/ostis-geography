@@ -11,5 +11,5 @@
     =>nrel_type:
         puppet;
     =>nrel_availability;
-        available;
+        available;;
                     
