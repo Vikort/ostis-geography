@@ -1,0 +1,154 @@
+vitebsk_Parish_of_the_Church_of_St_Tikhon_of_Zadonsk
+=> nrel_main_idtf: [Parish of the Church of St. Tikhon of Zadonsk] (* <- lang_en;; *);
+=> nrel_main_idtf: [Приход храма святителя Тихона Задонского] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Titova;
+=>nrel_location_house_number:115;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_St_Euphrosyne_of_Polotsk
+=> nrel_main_idtf: [Church of St. Euphrosyne of Polotsk] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм Святой Преподобной Евфросинии Полоцкой] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Lieninhradskaja;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_the_Holy_Apostle_Luke
+=> nrel_main_idtf: [Church of the Holy Apostle Luke] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм Святого Апостола Луки] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Karl_Marx;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_the_Holy_Great_Martyr_Demetrius_Thessalonica
+=> nrel_main_idtf: [Church of the Holy Great Martyr Demetrius of Thessalonica] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм Святого великомученика Димитрия Солунского] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Krasnogvardeiskaya;
+=>nrel_location_house_number:20;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_the_Assumption_of_the_Blessed_Virgin_Mary
+=> nrel_main_idtf: [Church of the Assumption of the Blessed Virgin Mary] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм Успения Пресвятой Богородицы] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Communist;
+=>nrel_location_house_number:15;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Holy_Dormition_Cathedral
+=> nrel_main_idtf: [Holy Dormition Cathedral] (* <- lang_en;; *);
+=> nrel_main_idtf: [Свято-Успенский кафедральный собор] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Putna;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_the_Resurrection
+=> nrel_main_idtf: [Church of the Resurrection] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм Воскресения Христова] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Resurrection;
+=>nrel_location_house_number:1;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_the_Annunciation
+=> nrel_main_idtf: [Church of the Annunciation] (* <- lang_en;; *);
+=> nrel_main_idtf: [Благовещенская церковь] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Castle;
+=>nrel_location_house_number:1;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_church_of_st_Alexander_Nevsky
+=> nrel_main_idtf: [church of st. Alexander Nevsky] (* <- lang_en;; *);
+=> nrel_main_idtf: [церковь св. Александра Невского] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Castle;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Holy_Intercession_Cathedral
+=> nrel_main_idtf: [Holy Intercession Cathedral] (* <- lang_en;; *);
+=> nrel_main_idtf: [Свято-Покровский кафедральный собор] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Shubina;
+=>nrel_location_house_number:2;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_St_George_Church
+=> nrel_main_idtf: [St. George's Church] (* <- lang_en;; *);
+=> nrel_main_idtf: [Свято-Георгиевская церковь] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Chernyakhovsky;
+=>nrel_location_house_number:28;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_Holy_Apostle_Andrew_the_First_Called
+=> nrel_main_idtf: [Church of the Holy Apostle Andrew the First-Called] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм Святого Апостола Андрея Первозванного] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Chkalova;
+=>nrel_location_house_number:44;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Temple_of_the_Icon_of_the_Mother_of_God_Healer
+=> nrel_main_idtf: [Temple of the Icon of the Mother of God Healer] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм иконы Божией Матери Целительница] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Warriors_Internationalist;
+=>nrel_location_house_number:37;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_the_Holy_Martyr_Tatiana
+=> nrel_main_idtf: [Church of the Holy Martyr Tatiana] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм святой мученицы Татьяны] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Moscow;
+=>nrel_location_house_number:72;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_New_Apostolic_Church_Vitebsk
+=> nrel_main_idtf: [New Apostolic Church Vitebsk] (* <- lang_en;; *);
+=> nrel_main_idtf: [Новоапостольская церковь Витебск] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Konoplev;
+=>nrel_location_house_number:43;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
+
+vitebsk_Church_of_the_Holy_Blessed_Matrona_of_Moscow
+=> nrel_main_idtf: [Church of the Holy Blessed Matrona of Moscow] (* <- lang_en;; *);
+=> nrel_main_idtf: [Храм святой блаженной Матроны Московской] (* <- lang_ru;; <-name;; *);
+=>nrel_country:Belarus;
+=>nrel_region:vitebsk;
+=>nrel_street:ulica_Bagramyan;
+=>nrel_search_area: vitebsk;
+<-concept_faith_place;;
