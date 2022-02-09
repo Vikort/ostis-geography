@@ -1,0 +1,9 @@
+
+Lukoyl_№71 <- concept_way;
+=>nrel_main_idtf:
+    [Lukoyl_№71]
+    (* <- lang_en;; <- name_en;;*);
+    [Лукойл №71]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

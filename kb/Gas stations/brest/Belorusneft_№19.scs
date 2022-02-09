@@ -1,0 +1,9 @@
+
+Belorusneft_№19 <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№19]
+    (* <- lang_en;; <- name_en;;*);
+    [Белоруснефть №19]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

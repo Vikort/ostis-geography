@@ -1,0 +1,9 @@
+
+Gazpromneft_№27g_Borisov_Zeleniy_gorodok_2 <- concept_way;
+=>nrel_main_idtf:
+    [Gazpromneft_№27g_Borisov_Zeleniy_gorodok_2]
+    (* <- lang_en;; <- name_en;;*);
+    ["Газпромнефть №27г. Борисов, Зеленый городок, 2"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

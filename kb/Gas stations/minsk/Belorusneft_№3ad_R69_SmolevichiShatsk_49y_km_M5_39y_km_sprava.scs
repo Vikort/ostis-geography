@@ -1,0 +1,9 @@
+
+Belorusneft_№3ad_R69_SmolevichiShatsk_49y_km_M5_39y_km_sprava <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№3ad_R69_SmolevichiShatsk_49y_km_M5_39y_km_sprava]
+    (* <- lang_en;; <- name_en;;*);
+    ["Белоруснефть №3а/д Р69, Смолевичи-Шацк, 49-й км, М5, 39-й км, справа"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

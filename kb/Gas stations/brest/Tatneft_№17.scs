@@ -1,0 +1,9 @@
+
+Tatneft_№17 <- concept_way;
+=>nrel_main_idtf:
+    [Tatneft_№17]
+    (* <- lang_en;; <- name_en;;*);
+    [Татнефть №17]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

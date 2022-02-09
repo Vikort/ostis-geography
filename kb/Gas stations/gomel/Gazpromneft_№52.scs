@@ -1,0 +1,9 @@
+
+Gazpromneft_№52 <- concept_way;
+=>nrel_main_idtf:
+    [Gazpromneft_№52]
+    (* <- lang_en;; <- name_en;;*);
+    [Газпромнефть №52]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

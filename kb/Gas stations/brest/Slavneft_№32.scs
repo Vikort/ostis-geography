@@ -1,0 +1,9 @@
+
+Slavneft_№32 <- concept_way;
+=>nrel_main_idtf:
+    [Slavneft_№32]
+    (* <- lang_en;; <- name_en;;*);
+    [Славнефть №32]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

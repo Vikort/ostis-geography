@@ -1,0 +1,9 @@
+
+Belorusneft_№2ad_MinskMolodechno_17km_R28_17y_km_sleva <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№2ad_MinskMolodechno_17km_R28_17y_km_sleva]
+    (* <- lang_en;; <- name_en;;*);
+    ["Белоруснефть №2а/д Минск-Молодечно, 17км, Р28, 17-й км, слева"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

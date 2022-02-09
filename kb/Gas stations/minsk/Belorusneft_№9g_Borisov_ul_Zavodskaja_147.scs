@@ -1,0 +1,9 @@
+
+Belorusneft_№9g_Borisov_ul_Zavodskaja_147 <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№9g_Borisov_ul_Zavodskaja_147]
+    (* <- lang_en;; <- name_en;;*);
+    ["Белоруснефть №9г. Борисов, ул. Заводская, 147"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

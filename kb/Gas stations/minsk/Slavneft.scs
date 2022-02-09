@@ -1,0 +1,9 @@
+
+Slavneft <- concept_way;
+=>nrel_main_idtf:
+    [Slavneft]
+    (* <- lang_en;; <- name_en;;*);
+    [Славнефть]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

@@ -1,0 +1,9 @@
+
+Belorusneft_№56 <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№56]
+    (* <- lang_en;; <- name_en;;*);
+    [Белоруснефть №56]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

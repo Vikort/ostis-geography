@@ -1,0 +1,9 @@
+
+AGZS <- concept_way;
+=>nrel_main_idtf:
+    [AGZS]
+    (* <- lang_en;; <- name_en;;*);
+    [АГЗС]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

@@ -1,0 +1,9 @@
+
+Tatneft_№16 <- concept_way;
+=>nrel_main_idtf:
+    [Tatneft_№16]
+    (* <- lang_en;; <- name_en;;*);
+    [Татнефть №16]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

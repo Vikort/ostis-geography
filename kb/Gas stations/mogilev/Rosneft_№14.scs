@@ -1,0 +1,9 @@
+
+Rosneft_№14 <- concept_way;
+=>nrel_main_idtf:
+    [Rosneft_№14]
+    (* <- lang_en;; <- name_en;;*);
+    [Роснефть №14]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

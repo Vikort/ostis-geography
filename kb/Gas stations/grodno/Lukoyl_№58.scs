@@ -1,0 +1,9 @@
+
+Lukoyl_№58 <- concept_way;
+=>nrel_main_idtf:
+    [Lukoyl_№58]
+    (* <- lang_en;; <- name_en;;*);
+    [Лукойл №58]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

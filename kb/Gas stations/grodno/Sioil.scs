@@ -1,0 +1,9 @@
+
+Sioil <- concept_way;
+=>nrel_main_idtf:
+    [Sioil]
+    (* <- lang_en;; <- name_en;;*);
+    [Sioil]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

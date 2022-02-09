@@ -1,0 +1,9 @@
+
+Gazpromneft_№44 <- concept_way;
+=>nrel_main_idtf:
+    [Gazpromneft_№44]
+    (* <- lang_en;; <- name_en;;*);
+    [Газпромнефть №44]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

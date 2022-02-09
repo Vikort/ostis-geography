@@ -1,0 +1,9 @@
+
+Belorusneft_№12g_Vileyka_ul_Stahanovskaja_281 <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№12g_Vileyka_ul_Stahanovskaja_281]
+    (* <- lang_en;; <- name_en;;*);
+    ["Белоруснефть №12г. Вилейка, ул. Стахановская, 281"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

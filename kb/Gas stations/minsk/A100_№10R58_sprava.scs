@@ -1,0 +1,9 @@
+
+A100_№10R58_sprava <- concept_way;
+=>nrel_main_idtf:
+    [A100_№10R58_sprava]
+    (* <- lang_en;; <- name_en;;*);
+    ["А-100 №10Р58, справа"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

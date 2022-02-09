@@ -1,0 +1,9 @@
+
+Traypl <- concept_way;
+=>nrel_main_idtf:
+    [Traypl]
+    (* <- lang_en;; <- name_en;;*);
+    [Трайпл]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

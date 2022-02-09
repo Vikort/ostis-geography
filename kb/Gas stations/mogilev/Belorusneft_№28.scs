@@ -1,0 +1,9 @@
+
+Belorusneft_№28 <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№28]
+    (* <- lang_en;; <- name_en;;*);
+    [Белоруснефть №28]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

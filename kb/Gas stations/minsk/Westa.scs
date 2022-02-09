@@ -1,0 +1,9 @@
+
+Westa <- concept_way;
+=>nrel_main_idtf:
+    [Westa]
+    (* <- lang_en;; <- name_en;;*);
+    [Westa]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

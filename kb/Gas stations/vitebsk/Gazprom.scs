@@ -1,0 +1,9 @@
+
+Gazprom <- concept_way;
+=>nrel_main_idtf:
+    [Gazprom]
+    (* <- lang_en;; <- name_en;;*);
+    [Газпром]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

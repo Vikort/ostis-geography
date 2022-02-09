@@ -1,0 +1,9 @@
+
+Belorusneft_№64 <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№64]
+    (* <- lang_en;; <- name_en;;*);
+    [Белоруснефть №64]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

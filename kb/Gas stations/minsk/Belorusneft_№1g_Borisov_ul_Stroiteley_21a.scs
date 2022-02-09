@@ -1,0 +1,9 @@
+
+Belorusneft_№1g_Borisov_ul_Stroiteley_21a <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№1g_Borisov_ul_Stroiteley_21a]
+    (* <- lang_en;; <- name_en;;*);
+    ["Белоруснефть №1г. Борисов, ул. Строителей, 21а"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

@@ -1,0 +1,9 @@
+
+United_Company_№10 <- concept_way;
+=>nrel_main_idtf:
+    [United_Company_№10]
+    (* <- lang_en;; <- name_en;;*);
+    [United Company №10]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

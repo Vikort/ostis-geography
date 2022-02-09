@@ -1,0 +1,9 @@
+
+Lukoyl_№35 <- concept_way;
+=>nrel_main_idtf:
+    [Lukoyl_№35]
+    (* <- lang_en;; <- name_en;;*);
+    [Лукойл №35]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

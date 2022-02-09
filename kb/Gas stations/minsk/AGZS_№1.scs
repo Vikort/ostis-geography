@@ -1,0 +1,9 @@
+
+AGZS_№1 <- concept_way;
+=>nrel_main_idtf:
+    [AGZS_№1]
+    (* <- lang_en;; <- name_en;;*);
+    [АГЗС №1]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

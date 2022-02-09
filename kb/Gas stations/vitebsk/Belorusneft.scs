@@ -1,0 +1,9 @@
+
+Belorusneft <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft]
+    (* <- lang_en;; <- name_en;;*);
+    [Белоруснефть]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

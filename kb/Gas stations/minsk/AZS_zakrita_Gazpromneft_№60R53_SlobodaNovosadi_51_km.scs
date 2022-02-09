@@ -1,0 +1,9 @@
+
+AZS_zakrita_Gazpromneft_№60R53_SlobodaNovosadi_51_km <- concept_way;
+=>nrel_main_idtf:
+    [AZS_zakrita_Gazpromneft_№60R53_SlobodaNovosadi_51_km]
+    (* <- lang_en;; <- name_en;;*);
+    ["(АЗС закрыта) Газпромнефть №60Р53 Слобода-Новосады, 51 км"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

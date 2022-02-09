@@ -1,0 +1,9 @@
+
+AZS <- concept_way;
+=>nrel_main_idtf:
+    [AZS]
+    (* <- lang_en;; <- name_en;;*);
+    [АЗС]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

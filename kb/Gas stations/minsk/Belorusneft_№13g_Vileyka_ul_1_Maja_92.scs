@@ -1,0 +1,9 @@
+
+Belorusneft_№13g_Vileyka_ul_1_Maja_92 <- concept_way;
+=>nrel_main_idtf:
+    [Belorusneft_№13g_Vileyka_ul_1_Maja_92]
+    (* <- lang_en;; <- name_en;;*);
+    ["Белоруснефть №13г. Вилейка, ул. 1 Мая, 92"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;
