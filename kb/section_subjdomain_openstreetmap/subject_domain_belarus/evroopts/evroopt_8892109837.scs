@@ -1,0 +1,10 @@
+evroopt_8892109837 <- concept_chain_store;
+=> nrel_main_idtf:
+[Евроопт головной офис]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[53,874481]
+(* <- lang_ru;; <- latitude;;*);
+[27,417494]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

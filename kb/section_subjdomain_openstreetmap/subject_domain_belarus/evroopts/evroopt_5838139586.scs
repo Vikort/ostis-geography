@@ -1,0 +1,10 @@
+evroopt_5838139586 <- concept_chain_store;
+=> nrel_main_idtf:
+[Евроопт]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[54,300205]
+(* <- lang_ru;; <- latitude;;*);
+[29,071016]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

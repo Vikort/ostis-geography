@@ -1,0 +1,10 @@
+evroopt_7883692476 <- concept_chain_store;
+=> nrel_main_idtf:
+[Цветы в Евроопт]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[54,206844]
+(* <- lang_ru;; <- latitude;;*);
+[28,485847]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

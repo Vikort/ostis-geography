@@ -1,0 +1,10 @@
+evroopt_7020251557 <- concept_chain_store;
+=> nrel_main_idtf:
+[Biggz]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[53,891644]
+(* <- lang_ru;; <- latitude;;*);
+[27,527552]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;

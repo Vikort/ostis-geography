@@ -1,0 +1,10 @@
+evroopt_7760502093 <- concept_chain_store;
+=> nrel_main_idtf:
+[Евроопт Минимаркет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[52,267838]
+(* <- lang_ru;; <- latitude;;*);
+[30,720381]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;;
