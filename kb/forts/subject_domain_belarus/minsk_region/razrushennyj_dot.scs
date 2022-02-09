@@ -1,0 +1,27 @@
+razrushennyj_dot
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [Разрушенный ДОТ]
+    (* <- lang_ru;; <-name;; *);
+    [Razrushennyj DOT]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Фортификационный элемент Линии Сталина.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [54°1'8"N   27°11'57"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [Неизвестен];
+<-concept_fort_dot;;

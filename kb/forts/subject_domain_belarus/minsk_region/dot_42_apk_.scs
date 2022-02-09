@@ -1,0 +1,27 @@
+dot_42_apk_
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ДОТ № 42 (АПК) ]
+    (* <- lang_ru;; <-name;; *);
+    [DOT № 42 (APK) ]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Батальонный район обороны «VII» Минского укрепрайона.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [54°0'8"N   27°14'13"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [42];
+<-concept_fort_dot;;

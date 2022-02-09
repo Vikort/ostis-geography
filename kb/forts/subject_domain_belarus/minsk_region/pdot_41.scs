@@ -1,0 +1,27 @@
+pdot_41
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ПДОТ № 41]
+    (* <- lang_ru;; <-name;; *);
+    [PDOT № 41]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Фортификационный элемент Линии Сталина.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [53°48'43"N   27°7'33"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [41];
+<-concept_fort_dot;;

@@ -1,0 +1,27 @@
+dot_9_bro_viii_miur
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ДОТ № 9 БРО «VIII» МиУР]
+    (* <- lang_ru;; <-name;; *);
+    [DOT № 9 BRO «VIII» MiUR]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Одноамбразурный, «Москит». Ротный район «Е».]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [53°53'42"N   27°7'45"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [9];
+<-concept_fort_dot;;

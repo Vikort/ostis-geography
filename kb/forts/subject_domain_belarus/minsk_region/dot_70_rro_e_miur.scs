@@ -1,0 +1,27 @@
+dot_70_rro_e_miur
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ДОТ № 70 РРО «Е» МиУР]
+    (* <- lang_ru;; <-name;; *);
+    [DOT № 70 RRO «E» MiUR]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Минский укрепрайон. Совершенно загажен местными жителями.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [53°52'8"N   27°9'28"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [70];
+<-concept_fort_dot;;

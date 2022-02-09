@@ -1,0 +1,27 @@
+pdot_132
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ПДОТ № 132]
+    (* <- lang_ru;; <-name;; *);
+    [PDOT № 132]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Батальонный район обороны «VII» Минского укрепрайона.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [53°57'58"N   27°13'42"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [132];
+<-concept_fort_dot;;

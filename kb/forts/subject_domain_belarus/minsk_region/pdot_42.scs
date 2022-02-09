@@ -1,0 +1,27 @@
+pdot_42
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ПДОТ № 42]
+    (* <- lang_ru;; <-name;; *);
+    [PDOT № 42]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Батальонный район обороны «IX» Минского укрепрайона.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [53°48'25"N   27°8'49"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [42];
+<-concept_fort_dot;;

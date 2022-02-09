@@ -1,0 +1,27 @@
+dot_48_bro_9_miur_
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ДОТ № 48 БРО № 9 МиУР ]
+    (* <- lang_ru;; <-name;; *);
+    [DOT № 48 BRO № 9 MiUR ]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Фортификационный элемент Линии Сталина.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [ 53°51'28"N   27°7'34"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [48];
+<-concept_fort_dot;;

@@ -1,0 +1,27 @@
+dot_47_bro_9_miur
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ДОТ № 47 БРО № 9 МиУР]
+    (* <- lang_ru;; <-name;; *);
+    [DOT № 47 BRO № 9 MiUR]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Минский УР.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [ 53°51'7"N   27°7'17"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [47];
+<-concept_fort_dot;;

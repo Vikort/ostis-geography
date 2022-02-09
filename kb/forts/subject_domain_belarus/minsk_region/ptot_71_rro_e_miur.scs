@@ -1,0 +1,27 @@
+ptot_71_rro_e_miur
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+    [ПТОТ № 71 РРО «Е» МиУР]
+    (* <- lang_ru;; <-name;; *);
+    [PTOT № 71 RRO «E» MiUR]
+    (* <- lang_en;; *);
+<= nrel_sc_text_translation:
+    ...
+    (*
+    ->rrel_example:
+        [Ротный район обороны «Е» Минского укрепрайона.]
+        (* <- lang_ru;; *);;
+    *);
+=>nrel_coords:
+    [ 53°52'48"N   27°8'54"E];
+=>nrel_country:
+    Belarus;
+=>nrel_search_area:
+    Belarus;
+=>nrel_region:
+    minsk;
+=>nrel_fort_district:
+    concept_minsk_fort_district;
+=>nrel_fort_number:
+    [71];
+<-concept_fort_dot;;
