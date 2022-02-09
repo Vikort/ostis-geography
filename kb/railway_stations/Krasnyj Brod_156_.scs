@@ -1,0 +1,12 @@
+Krasnyj Brod <- concept_way;
+                =>nrel_main_idtf:
+                [Krasnyj Brod]
+                (* <- lang_en;; <- name_en;;*);
+                [Красный Брод]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1700;
+                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_trains:4;
+                =>nrel_rajon:Bobrujskij;;
+                

@@ -1,0 +1,12 @@
+Kalinkovichi-Juzhnye <- concept_way;
+                =>nrel_main_idtf:
+                [Kalinkovichi-Juzhnye]
+                (* <- lang_en;; <- name_en;;*);
+                [Калинковичи-Южные]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1200;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:8;
+                =>nrel_gorod:Kalinkovichi;;
+                

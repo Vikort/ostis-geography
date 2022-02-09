@@ -1,0 +1,12 @@
+Belarus' <- concept_way;
+                =>nrel_main_idtf:
+                [Belarus']
+                (* <- lang_en;; <- name_en;;*);
+                [Беларусь]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1000;
+                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_trains:6;
+                =>nrel_rajon:Volozhinskij;;
+                

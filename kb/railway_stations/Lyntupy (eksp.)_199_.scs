@@ -1,0 +1,12 @@
+Lyntupy (eksp.) <- concept_way;
+                =>nrel_main_idtf:
+                [Lyntupy (eksp.)]
+                (* <- lang_en;; <- name_en;;*);
+                [Лынтупы (эксп.)]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1000;
+                =>nrel_number_of_employees: 20;
+                =>nrel_number_of_trains:5;
+                =>nrel_oblast:Vitebskaja;;
+                

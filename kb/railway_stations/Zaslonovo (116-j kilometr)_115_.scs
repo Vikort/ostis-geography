@@ -1,0 +1,12 @@
+Zaslonovo (116-j kilometr) <- concept_way;
+                =>nrel_main_idtf:
+                [Zaslonovo (116-j kilometr)]
+                (* <- lang_en;; <- name_en;;*);
+                [Заслоново (116-й километр)]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:900;
+                =>nrel_number_of_employees: 16;
+                =>nrel_number_of_trains:7;
+                =>nrel_rajon:Lepel'skij;;
+                

@@ -1,0 +1,12 @@
+Lyschitsy <- concept_way;
+                =>nrel_main_idtf:
+                [Lyschitsy]
+                (* <- lang_en;; <- name_en;;*);
+                [Лыщицы]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:700;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:4;
+                =>nrel_rajon:Brestskij;;
+                

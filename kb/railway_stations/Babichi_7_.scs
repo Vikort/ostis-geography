@@ -1,0 +1,12 @@
+Babichi <- concept_way;
+                =>nrel_main_idtf:
+                [Babichi]
+                (* <- lang_en;; <- name_en;;*);
+                [Бабичи]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:3200;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:3;
+                =>nrel_oblast:Gomel'skaja;;
+                

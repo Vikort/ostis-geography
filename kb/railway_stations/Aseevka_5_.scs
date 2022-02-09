@@ -1,0 +1,12 @@
+Aseevka <- concept_way;
+                =>nrel_main_idtf:
+                [Aseevka]
+                (* <- lang_en;; <- name_en;;*);
+                [Асеевка]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:700;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:2;
+                =>nrel_rajon:Minskij;;
+                

@@ -1,0 +1,12 @@
+Brest-Tsentral'nyj (Pol'sha eksp.) <- concept_way;
+                =>nrel_main_idtf:
+                [Brest-Tsentral'nyj (Pol'sha eksp.)]
+                (* <- lang_en;; <- name_en;;*);
+                [Брест-Центральный (Польша эксп.)]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:200;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:2;
+                =>nrel_oblast:Brestskaja;;
+                

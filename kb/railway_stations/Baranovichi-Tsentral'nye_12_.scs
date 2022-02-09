@@ -1,0 +1,12 @@
+Baranovichi-Tsentral'nye <- concept_way;
+                =>nrel_main_idtf:
+                [Baranovichi-Tsentral'nye]
+                (* <- lang_en;; <- name_en;;*);
+                [Барановичи-Центральные]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1800;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:6;
+                =>nrel_gorod:Baranovichi;;
+                

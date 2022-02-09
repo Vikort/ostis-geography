@@ -1,0 +1,12 @@
+LESNAJa-STYK <- concept_way;
+                =>nrel_main_idtf:
+                [LESNAJa-STYK]
+                (* <- lang_en;; <- name_en;;*);
+                [ЛЕСНАЯ-СТЫК]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:700;
+                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_trains:3;
+                =>nrel_oblast:Brestskaja;;
+                

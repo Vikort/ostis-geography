@@ -1,0 +1,12 @@
+Demehi <- concept_way;
+                =>nrel_main_idtf:
+                [Demehi]
+                (* <- lang_en;; <- name_en;;*);
+                [Демехи]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:3400;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:7;
+                =>nrel_oblast:Gomel'skaja;;
+                

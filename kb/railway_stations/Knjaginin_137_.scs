@@ -1,0 +1,12 @@
+Knjaginin <- concept_way;
+                =>nrel_main_idtf:
+                [Knjaginin]
+                (* <- lang_en;; <- name_en;;*);
+                [Княгинин]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1700;
+                =>nrel_number_of_employees: 16;
+                =>nrel_number_of_trains:2;
+                =>nrel_rajon:Mjadel'skij;;
+                

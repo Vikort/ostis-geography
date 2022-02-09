@@ -1,0 +1,12 @@
+Klinsk <- concept_way;
+                =>nrel_main_idtf:
+                [Klinsk]
+                (* <- lang_en;; <- name_en;;*);
+                [Клинск]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:3200;
+                =>nrel_number_of_employees: 12;
+                =>nrel_number_of_trains:5;
+                =>nrel_oblast:Gomel'skaja;;
+                

@@ -1,0 +1,12 @@
+El'sk <- concept_way;
+                =>nrel_main_idtf:
+                [El'sk]
+                (* <- lang_en;; <- name_en;;*);
+                [Ельск]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1200;
+                =>nrel_number_of_employees: 14;
+                =>nrel_number_of_trains:2;
+                =>nrel_gorod:El'sk;;
+                

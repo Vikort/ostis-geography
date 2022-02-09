@@ -1,0 +1,12 @@
+Zaol'sha <- concept_way;
+                =>nrel_main_idtf:
+                [Zaol'sha]
+                (* <- lang_en;; <- name_en;;*);
+                [Заольша]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1400;
+                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_trains:8;
+                =>nrel_oblast:Vitebskaja;;
+                

@@ -1,0 +1,12 @@
+Adamovo <- concept_way;
+                =>nrel_main_idtf:
+                [Adamovo]
+                (* <- lang_en;; <- name_en;;*);
+                [Адамово]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:2400;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:4;
+                =>nrel_rajon:Polotskij;;
+                

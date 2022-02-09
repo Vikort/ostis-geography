@@ -1,0 +1,12 @@
+Zales'e <- concept_way;
+                =>nrel_main_idtf:
+                [Zales'e]
+                (* <- lang_en;; <- name_en;;*);
+                [Залесье]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:2200;
+                =>nrel_number_of_employees: 14;
+                =>nrel_number_of_trains:8;
+                =>nrel_rajon:Smorgonskij;;
+                

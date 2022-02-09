@@ -1,0 +1,12 @@
+Gribachi <- concept_way;
+                =>nrel_main_idtf:
+                [Gribachi]
+                (* <- lang_en;; <- name_en;;*);
+                [Грибачи]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:2100;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:6;
+                =>nrel_rajon:Gorodokskij;;
+                

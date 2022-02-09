@@ -1,0 +1,12 @@
+Lemnitsa <- concept_way;
+                =>nrel_main_idtf:
+                [Lemnitsa]
+                (* <- lang_en;; <- name_en;;*);
+                [Лемница]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:200;
+                =>nrel_number_of_employees: 18;
+                =>nrel_number_of_trains:6;
+                =>nrel_rajon:Tolochinskij;;
+                

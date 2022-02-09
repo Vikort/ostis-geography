@@ -1,0 +1,12 @@
+Gudy <- concept_way;
+                =>nrel_main_idtf:
+                [Gudy]
+                (* <- lang_en;; <- name_en;;*);
+                [Гуды]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:200;
+                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_trains:2;
+                =>nrel_gorod:Lida;;
+                

@@ -1,0 +1,12 @@
+Gritsevets <- concept_way;
+                =>nrel_main_idtf:
+                [Gritsevets]
+                (* <- lang_en;; <- name_en;;*);
+                [Грицевец]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:3100;
+                =>nrel_number_of_employees: 18;
+                =>nrel_number_of_trains:3;
+                =>nrel_rajon:Baranovichskij;;
+                

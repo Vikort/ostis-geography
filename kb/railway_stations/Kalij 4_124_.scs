@@ -1,0 +1,12 @@
+Kalij 4 <- concept_way;
+                =>nrel_main_idtf:
+                [Kalij 4]
+                (* <- lang_en;; <- name_en;;*);
+                [Калий 4]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:3200;
+                =>nrel_number_of_employees: 15;
+                =>nrel_number_of_trains:6;
+                =>nrel_oblast:Minskaja;;
+                
