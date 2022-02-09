@@ -1,10 +1,8 @@
-
-post_office_number_212027 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_212027 => nrel_main_idtf:
 [post_office_number_212027]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (222) 76 10 60]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [212027]
 (* <- lang_ru;; <- postcode;;*);
 [30.3226418]
@@ -17,7 +15,7 @@ post_office_number_212027 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [40]
 (* <- lang_ru;; <- house;;*);
-[Могилев]
+[mohilev]
 (* <- lang_ru;; <- city;;*);
 [-]
 (* <- lang_ru;; <- leader_fio;;*);

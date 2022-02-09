@@ -1,10 +1,8 @@
-
-post_office_number_224010 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_224010 => nrel_main_idtf:
 [post_office_number_224010]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (162) 57 42 08]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [224010]
 (* <- lang_ru;; <- postcode;;*);
 [23.6905372]
@@ -17,7 +15,7 @@ post_office_number_224010 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [32]
 (* <- lang_ru;; <- house;;*);
-[Брест]
+[brest]
 (* <- lang_ru;; <- city;;*);
 [Остапович Елена Сергеевна]
 (* <- lang_ru;; <- leader_fio;;*);

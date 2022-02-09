@@ -1,10 +1,8 @@
-
-post_office_number_210014 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_210014 => nrel_main_idtf:
 [post_office_number_210014]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (212) 69 67 70]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [210014]
 (* <- lang_ru;; <- postcode;;*);
 [30.256058]
@@ -17,7 +15,7 @@ post_office_number_210014 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [3]
 (* <- lang_ru;; <- house;;*);
-[Витебск]
+[vitebsk]
 (* <- lang_ru;; <- city;;*);
 [Сухоржевская Лина Владимировна]
 (* <- lang_ru;; <- leader_fio;;*);

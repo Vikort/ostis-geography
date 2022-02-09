@@ -1,10 +1,8 @@
-
-post_office_number_220120 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220120 => nrel_main_idtf:
 [post_office_number_220120]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 324 21 55]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220120]
 (* <- lang_ru;; <- postcode;;*);
 [27.5041809]
@@ -17,7 +15,7 @@ post_office_number_220120 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [120]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Калюта Екатерина Васильевна]
 (* <- lang_ru;; <- leader_fio;;*);

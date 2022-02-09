@@ -1,10 +1,8 @@
-
-post_office_number_220024 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220024 => nrel_main_idtf:
 [post_office_number_220024]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 324 73 11]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220024]
 (* <- lang_ru;; <- postcode;;*);
 [27.54550249]
@@ -17,7 +15,7 @@ post_office_number_220024 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [40Б]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Сливец Виктория Викторовна]
 (* <- lang_ru;; <- leader_fio;;*);

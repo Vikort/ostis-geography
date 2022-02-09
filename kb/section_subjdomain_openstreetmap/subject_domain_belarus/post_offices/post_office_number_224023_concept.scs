@@ -1,10 +1,8 @@
-
-post_office_number_224023 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_224023 => nrel_main_idtf:
 [post_office_number_224023]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (162) 34 08 77]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [224023]
 (* <- lang_ru;; <- postcode;;*);
 [23.7687637]
@@ -17,7 +15,7 @@ post_office_number_224023 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [340]
 (* <- lang_ru;; <- house;;*);
-[Брест]
+[brest]
 (* <- lang_ru;; <- city;;*);
 [Басаргина Натпалья Вячеславовна]
 (* <- lang_ru;; <- leader_fio;;*);

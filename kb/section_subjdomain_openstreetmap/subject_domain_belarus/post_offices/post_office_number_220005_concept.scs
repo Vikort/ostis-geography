@@ -1,10 +1,8 @@
-
-post_office_number_220005 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220005 => nrel_main_idtf:
 [post_office_number_220005]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 224 33 98]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220005]
 (* <- lang_ru;; <- postcode;;*);
 [27.580556]
@@ -17,7 +15,7 @@ post_office_number_220005 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [46]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Амельянович Елена Алексеевна]
 (* <- lang_ru;; <- leader_fio;;*);

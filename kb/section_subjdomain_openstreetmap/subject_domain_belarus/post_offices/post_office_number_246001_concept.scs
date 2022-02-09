@@ -1,10 +1,8 @@
-
-post_office_number_246001 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_246001 => nrel_main_idtf:
 [post_office_number_246001]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (232) 50 40 37]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [246001]
 (* <- lang_ru;; <- postcode;;*);
 [30.9975752]
@@ -17,7 +15,7 @@ post_office_number_246001 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [1]
 (* <- lang_ru;; <- house;;*);
-[Гомель]
+[homel]
 (* <- lang_ru;; <- city;;*);
 [.]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_220026 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220026 => nrel_main_idtf:
 [post_office_number_220026]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 370 77 33]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220026]
 (* <- lang_ru;; <- postcode;;*);
 [27.6270424]
@@ -17,7 +15,7 @@ post_office_number_220026 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [26]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Курочкина Ирина Фёдоровна]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_220013 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220013 => nrel_main_idtf:
 [post_office_number_220013]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 351 75 25]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220013]
 (* <- lang_ru;; <- postcode;;*);
 [27.5912619]
@@ -17,7 +15,7 @@ post_office_number_220013 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [31]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Раковец Анна Викторовна]
 (* <- lang_ru;; <- leader_fio;;*);

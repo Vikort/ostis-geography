@@ -1,10 +1,8 @@
-
-post_office_number_224024 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_224024 => nrel_main_idtf:
 [post_office_number_224024]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (162) 25 32 18]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [224024]
 (* <- lang_ru;; <- postcode;;*);
 [23.6907252]
@@ -17,7 +15,7 @@ post_office_number_224024 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [104]
 (* <- lang_ru;; <- house;;*);
-[Брест]
+[brest]
 (* <- lang_ru;; <- city;;*);
 [Собко Валентина Михайловна]
 (* <- lang_ru;; <- leader_fio;;*);

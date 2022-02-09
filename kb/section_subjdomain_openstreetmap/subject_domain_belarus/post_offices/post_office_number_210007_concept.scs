@@ -1,10 +1,8 @@
-
-post_office_number_210007 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_210007 => nrel_main_idtf:
 [post_office_number_210007]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (212) 61 64 03]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [210007]
 (* <- lang_ru;; <- postcode;;*);
 [30.187723]
@@ -17,7 +15,7 @@ post_office_number_210007 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [10]
 (* <- lang_ru;; <- house;;*);
-[Витебск]
+[vitebsk]
 (* <- lang_ru;; <- city;;*);
 [Козловская Анастасия Борисовна]
 (* <- lang_ru;; <- leader_fio;;*);

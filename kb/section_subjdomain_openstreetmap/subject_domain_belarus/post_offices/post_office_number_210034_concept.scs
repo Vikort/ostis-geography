@@ -1,10 +1,8 @@
-
-post_office_number_210034 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_210034 => nrel_main_idtf:
 [post_office_number_210034]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (212) 61 64 11]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [210034]
 (* <- lang_ru;; <- postcode;;*);
 [30.127141]
@@ -17,7 +15,7 @@ post_office_number_210034 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [140]
 (* <- lang_ru;; <- house;;*);
-[Витебск]
+[vitebsk]
 (* <- lang_ru;; <- city;;*);
 [Смирнова Юлия Леонидовна]
 (* <- lang_ru;; <- leader_fio;;*);

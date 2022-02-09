@@ -1,10 +1,8 @@
-
-post_office_number_220002 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220002 => nrel_main_idtf:
 [post_office_number_220002]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 375 60 98]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220002]
 (* <- lang_ru;; <- postcode;;*);
 [27.5547185]
@@ -17,7 +15,7 @@ post_office_number_220002 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [8]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Гаврильчик Антонина Михайловна]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_224018 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_224018 => nrel_main_idtf:
 [post_office_number_224018]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (162) 25 32 75]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [224018]
 (* <- lang_ru;; <- postcode;;*);
 [23.6550504]
@@ -17,7 +15,7 @@ post_office_number_224018 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [74]
 (* <- lang_ru;; <- house;;*);
-[Брест]
+[brest]
 (* <- lang_ru;; <- city;;*);
 [Воронович Жанна Алексеевна]
 (* <- lang_ru;; <- leader_fio;;*);

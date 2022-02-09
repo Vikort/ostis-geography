@@ -1,10 +1,8 @@
-
-post_office_number_224008 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_224008 => nrel_main_idtf:
 [post_office_number_224008]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (162) 93 32 95]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [224008]
 (* <- lang_ru;; <- postcode;;*);
 [23.6889366]
@@ -17,7 +15,7 @@ post_office_number_224008 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [44]
 (* <- lang_ru;; <- house;;*);
-[Брест]
+[brest]
 (* <- lang_ru;; <- city;;*);
 [Остапчук Людмила Константиновна]
 (* <- lang_ru;; <- leader_fio;;*);

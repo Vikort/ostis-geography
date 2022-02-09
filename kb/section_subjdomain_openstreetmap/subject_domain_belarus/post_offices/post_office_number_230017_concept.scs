@@ -1,10 +1,8 @@
-
-post_office_number_230017 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230017 => nrel_main_idtf:
 [post_office_number_230017]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 67 69 98]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230017]
 (* <- lang_ru;; <- postcode;;*);
 [23.81287333]
@@ -17,7 +15,7 @@ post_office_number_230017 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [7]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [1]
 (* <- lang_ru;; <- leader_fio;;*);

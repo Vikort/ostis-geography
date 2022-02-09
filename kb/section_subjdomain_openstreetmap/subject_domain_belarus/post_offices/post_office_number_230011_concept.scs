@@ -1,10 +1,8 @@
-
-post_office_number_230011 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230011 => nrel_main_idtf:
 [post_office_number_230011]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 39 21 05]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230011]
 (* <- lang_ru;; <- postcode;;*);
 [23.819703]
@@ -17,7 +15,7 @@ post_office_number_230011 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [10]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [Жидель Ирина леонидовна]
 (* <- lang_ru;; <- leader_fio;;*);

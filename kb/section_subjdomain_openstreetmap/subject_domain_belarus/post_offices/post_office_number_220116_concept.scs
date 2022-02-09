@@ -1,10 +1,8 @@
-
-post_office_number_220116 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220116 => nrel_main_idtf:
 [post_office_number_220116]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 207 46 02]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220116]
 (* <- lang_ru;; <- postcode;;*);
 [27.48407114]
@@ -17,7 +15,7 @@ post_office_number_220116 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [20А]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Леонович Инесса Эдуардовна]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_224026 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_224026 => nrel_main_idtf:
 [post_office_number_224026]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (162) 25 32 26]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [224026]
 (* <- lang_ru;; <- postcode;;*);
 [23.8103695]
@@ -17,7 +15,7 @@ post_office_number_224026 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [113]
 (* <- lang_ru;; <- house;;*);
-[Брест]
+[brest]
 (* <- lang_ru;; <- city;;*);
 [Левчук Анастасия Николаевна временно]
 (* <- lang_ru;; <- leader_fio;;*);

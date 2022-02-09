@@ -1,10 +1,8 @@
-
-post_office_number_220015 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220015 => nrel_main_idtf:
 [post_office_number_220015]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 397 18 82]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220015]
 (* <- lang_ru;; <- postcode;;*);
 [27.4913398]
@@ -17,7 +15,7 @@ post_office_number_220015 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [33А]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Жизневская Марина Александровна]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_220275 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220275 => nrel_main_idtf:
 [post_office_number_220275]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 357 97 23]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220275]
 (* <- lang_ru;; <- postcode;;*);
 [27.7010018]
@@ -17,7 +15,7 @@ post_office_number_220275 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [12]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Маркова Наталья Николаевна]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_220126 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220126 => nrel_main_idtf:
 [post_office_number_220126]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 375 58 68]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220126]
 (* <- lang_ru;; <- postcode;;*);
 [27.54514389]
@@ -17,7 +15,7 @@ post_office_number_220126 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [21]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Башаренкова Наталья Евгеньевна]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_220020 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220020 => nrel_main_idtf:
 [post_office_number_220020]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 320 24 04]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220020]
 (* <- lang_ru;; <- postcode;;*);
 [27.4912123]
@@ -17,7 +15,7 @@ post_office_number_220020 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [22]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Мисюн Елена Васильевна]
 (* <- lang_ru;; <- leader_fio;;*);

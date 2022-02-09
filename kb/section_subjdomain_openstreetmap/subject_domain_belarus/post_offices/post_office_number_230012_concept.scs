@@ -1,10 +1,8 @@
-
-post_office_number_230012 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230012 => nrel_main_idtf:
 [post_office_number_230012]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 55 63 10]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230012]
 (* <- lang_ru;; <- postcode;;*);
 [23.831823]
@@ -17,7 +15,7 @@ post_office_number_230012 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [30]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [Белошевская Зоя Леонидовна]
 (* <- lang_ru;; <- leader_fio;;*);

@@ -1,10 +1,8 @@
-
-post_office_number_230005 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230005 => nrel_main_idtf:
 [post_office_number_230005]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 60 98 75]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230005]
 (* <- lang_ru;; <- postcode;;*);
 [23.840706]
@@ -17,7 +15,7 @@ post_office_number_230005 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [113]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [Басаревская Ирина Владиславовна]
 (* <- lang_ru;; <- leader_fio;;*);

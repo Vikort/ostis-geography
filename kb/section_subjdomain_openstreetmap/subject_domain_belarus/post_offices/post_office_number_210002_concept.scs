@@ -1,10 +1,8 @@
-
-post_office_number_210002 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_210002 => nrel_main_idtf:
 [post_office_number_210002]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (212) 61 64 08]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [210002]
 (* <- lang_ru;; <- postcode;;*);
 [30.151189]
@@ -17,7 +15,7 @@ post_office_number_210002 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [67/1]
 (* <- lang_ru;; <- house;;*);
-[Витебск]
+[vitebsk]
 (* <- lang_ru;; <- city;;*);
 [Шлома Наталья Александровна]
 (* <- lang_ru;; <- leader_fio;;*);

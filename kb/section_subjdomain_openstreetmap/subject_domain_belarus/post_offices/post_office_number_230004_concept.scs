@@ -1,10 +1,8 @@
-
-post_office_number_230004 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230004 => nrel_main_idtf:
 [post_office_number_230004]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 62 15 64]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230004]
 (* <- lang_ru;; <- postcode;;*);
 [23.847109]
@@ -17,7 +15,7 @@ post_office_number_230004 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [23]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [Купрашевич Елена Иосифовна]
 (* <- lang_ru;; <- leader_fio;;*);

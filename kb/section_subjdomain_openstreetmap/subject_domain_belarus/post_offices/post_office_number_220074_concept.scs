@@ -1,10 +1,8 @@
-
-post_office_number_220074 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220074 => nrel_main_idtf:
 [post_office_number_220074]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 395 65 63]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220074]
 (* <- lang_ru;; <- postcode;;*);
 [27.5058794]
@@ -17,7 +15,7 @@ post_office_number_220074 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [24/1]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Толкачева Надежда Васильевна]
 (* <- lang_ru;; <- leader_fio;;*);

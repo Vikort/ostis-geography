@@ -1,10 +1,8 @@
-
-post_office_number_210021 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_210021 => nrel_main_idtf:
 [post_office_number_210021]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (212) 61-64-21]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [210021]
 (* <- lang_ru;; <- postcode;;*);
 [30.1526368]
@@ -17,7 +15,7 @@ post_office_number_210021 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [136а]
 (* <- lang_ru;; <- house;;*);
-[Витебск]
+[vitebsk]
 (* <- lang_ru;; <- city;;*);
 [Медведева Светлана Ильинична]
 (* <- lang_ru;; <- leader_fio;;*);

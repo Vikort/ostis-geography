@@ -1,10 +1,8 @@
-
-post_office_number_224033 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_224033 => nrel_main_idtf:
 [post_office_number_224033]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (162) 29 24 68]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [224033]
 (* <- lang_ru;; <- postcode;;*);
 [23.7312647]
@@ -17,7 +15,7 @@ post_office_number_224033 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [58]
 (* <- lang_ru;; <- house;;*);
-[Брест]
+[brest]
 (* <- lang_ru;; <- city;;*);
 [Лебедева Лариса Ивановна]
 (* <- lang_ru;; <- leader_fio;;*);

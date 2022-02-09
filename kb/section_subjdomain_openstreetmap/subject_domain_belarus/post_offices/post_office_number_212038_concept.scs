@@ -1,10 +1,8 @@
-
-post_office_number_212038 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_212038 => nrel_main_idtf:
 [post_office_number_212038]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (222) 64 46 80]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [212038]
 (* <- lang_ru;; <- postcode;;*);
 [30.3666185]
@@ -17,7 +15,7 @@ post_office_number_212038 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [1В]
 (* <- lang_ru;; <- house;;*);
-[Могилев]
+[mohilev]
 (* <- lang_ru;; <- city;;*);
 [Козлова Ирина Владимировна]
 (* <- lang_ru;; <- leader_fio;;*);

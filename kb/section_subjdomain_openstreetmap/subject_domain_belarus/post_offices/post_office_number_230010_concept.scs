@@ -1,10 +1,8 @@
-
-post_office_number_230010 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230010 => nrel_main_idtf:
 [post_office_number_230010]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 68 77 61]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230010]
 (* <- lang_ru;; <- postcode;;*);
 [23.8394]
@@ -17,7 +15,7 @@ post_office_number_230010 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [11]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [Жук Оксана Рамуальдовна]
 (* <- lang_ru;; <- leader_fio;;*);

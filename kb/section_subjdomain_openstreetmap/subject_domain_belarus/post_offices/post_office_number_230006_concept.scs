@@ -1,10 +1,8 @@
-
-post_office_number_230006 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230006 => nrel_main_idtf:
 [post_office_number_230006]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 69 17 75]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230006]
 (* <- lang_ru;; <- postcode;;*);
 [23.781992]
@@ -17,7 +15,7 @@ post_office_number_230006 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [15]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [Кащей Светлана Андрекевна]
 (* <- lang_ru;; <- leader_fio;;*);

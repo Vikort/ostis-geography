@@ -1,10 +1,8 @@
-
-post_office_number_230025 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_230025 => nrel_main_idtf:
 [post_office_number_230025]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (152) 31 39 70]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [230025]
 (* <- lang_ru;; <- postcode;;*);
 [23.83824]
@@ -17,7 +15,7 @@ post_office_number_230025 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [29]
 (* <- lang_ru;; <- house;;*);
-[Гродно]
+[hrodna]
 (* <- lang_ru;; <- city;;*);
 [Титова Алла Сергеевна.]
 (* <- lang_ru;; <- leader_fio;;*);

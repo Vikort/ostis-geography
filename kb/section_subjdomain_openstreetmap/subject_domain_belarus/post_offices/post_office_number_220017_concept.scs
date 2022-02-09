@@ -1,10 +1,8 @@
-
-post_office_number_220017 <- concept_way;
-=>nrel_main_idtf:
+post_office_number_220017 => nrel_main_idtf:
 [post_office_number_220017]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [+375 (17) 354 20 06]
-(* <- lang_ru;; <- phone_number;;*);
+(* <- phone_number;;*);
 [220017]
 (* <- lang_ru;; <- postcode;;*);
 [27.4352337]
@@ -17,7 +15,7 @@ post_office_number_220017 <- concept_way;
 (* <- lang_ru;; <- street;;*);
 [35]
 (* <- lang_ru;; <- house;;*);
-[Минск]
+[minsk]
 (* <- lang_ru;; <- city;;*);
 [Вилесова Татьяна Ивановна]
 (* <- lang_ru;; <- leader_fio;;*);
