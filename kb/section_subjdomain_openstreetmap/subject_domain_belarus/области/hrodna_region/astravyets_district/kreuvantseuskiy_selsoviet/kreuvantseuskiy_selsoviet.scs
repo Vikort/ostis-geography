@@ -1,6 +1,6 @@
 kiemielishkauskiy_selsoviet <- concept_selsoviet;
 =>nrel_main_idtf:
-    [Кемелисовский сельский Совет]
+    [Крейванцевский сельский Совет]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [8]
