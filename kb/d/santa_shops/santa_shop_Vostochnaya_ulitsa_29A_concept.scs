@@ -1,6 +1,5 @@
 santa_shop_Vostochnaya_ulitsa_29A <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: Vostochnaya_ulitsa(* => nrel_main_idtf: [Восточная улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
+=>nrel_search_area:
 belarus;;

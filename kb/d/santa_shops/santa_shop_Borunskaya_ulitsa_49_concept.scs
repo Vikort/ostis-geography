@@ -1,6 +1,5 @@
 santa_shop_Borunskaya_ulitsa_49 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: Borunskaya_ulitsa(* => nrel_main_idtf: [Борунская улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
+=>nrel_search_area:
 belarus;;

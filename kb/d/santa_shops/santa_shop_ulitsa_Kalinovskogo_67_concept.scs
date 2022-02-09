@@ -1,6 +1,5 @@
 santa_shop_ulitsa_Kalinovskogo_67 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: ulitsa_Kalinovskogo(* => nrel_main_idtf: [улица Калиновского] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+minsk;;

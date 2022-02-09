@@ -1,6 +1,5 @@
 santa_shop_Umanskaya_ulitsa_54 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: Umanskaya_ulitsa(* => nrel_main_idtf: [Уманская улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+minsk;;

@@ -1,6 +1,5 @@
 santa_shop_ulitsa_Voronyanskogo_19 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: ulitsa_Voronyanskogo(* => nrel_main_idtf: [улица Воронянского] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+minsk;;

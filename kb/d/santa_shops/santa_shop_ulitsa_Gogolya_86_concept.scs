@@ -1,6 +1,5 @@
 santa_shop_ulitsa_Gogolya_86 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: ulitsa_Gogolya(* => nrel_main_idtf: [улица Гоголя] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+brest;;

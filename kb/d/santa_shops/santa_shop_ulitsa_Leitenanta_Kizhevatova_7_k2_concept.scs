@@ -1,6 +1,5 @@
 santa_shop_ulitsa_Leitenanta_Kizhevatova_7_k2 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: ulitsa_Leitenanta_Kizhevatova(* => nrel_main_idtf: [улица Лейтенанта Кижеватова] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+minsk;;

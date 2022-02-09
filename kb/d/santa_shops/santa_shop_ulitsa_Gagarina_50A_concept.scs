@@ -1,6 +1,5 @@
 santa_shop_ulitsa_Gagarina_50A <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: ulitsa_Gagarina(* => nrel_main_idtf: [улица Гагарина] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+bragin;;

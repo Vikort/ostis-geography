@@ -1,6 +1,5 @@
 santa_shop_prospekt_Stroitelei_27 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: prospekt_Stroitelei(* => nrel_main_idtf: [проспект Строителей] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
+=>nrel_search_area:
 belarus;;

@@ -1,6 +1,5 @@
 santa_shop_prospekt_Dzerzhinskogo_106 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: prospekt_Dzerzhinskogo(* => nrel_main_idtf: [проспект Дзержинского] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+minsk;;

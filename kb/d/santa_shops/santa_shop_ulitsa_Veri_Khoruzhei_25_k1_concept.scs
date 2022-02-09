@@ -1,6 +1,5 @@
 santa_shop_ulitsa_Veri_Khoruzhei_25_k1 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: ulitsa_Veri_Khoruzhei(* => nrel_main_idtf: [улица Веры Хоружей] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+minsk;;

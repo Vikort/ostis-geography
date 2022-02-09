@@ -1,6 +1,5 @@
 santa_shop_ulitsa_1_Maya_44F <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: ulitsa_1_Maya(* => nrel_main_idtf: [улица 1 Мая] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+nesvizh;;

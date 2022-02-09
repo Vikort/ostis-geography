@@ -1,6 +1,5 @@
 santa_shop_pereulok_Kosmonavtov_15 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: pereulok_Kosmonavtov(* => nrel_main_idtf: [переулок Космонавтов] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
+=>nrel_search_area:
 belarus;;

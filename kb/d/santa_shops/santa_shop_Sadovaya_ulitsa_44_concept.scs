@@ -1,6 +1,5 @@
 santa_shop_Sadovaya_ulitsa_44 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: Sadovaya_ulitsa(* => nrel_main_idtf: [Садовая улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
-belarus;;
+=>nrel_search_area:
+stolin;;

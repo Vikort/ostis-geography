@@ -1,6 +1,5 @@
 santa_shop_Krasnoarmeiskaya_ulitsa_23 <- concept_santa_shop;
-=> nrel_main_idtf:
-[Санта]
+=> nrel_street: Krasnoarmeiskaya_ulitsa(* => nrel_main_idtf: [Красноармейская улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
 (* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: 
+=>nrel_search_area:
 belarus;;
