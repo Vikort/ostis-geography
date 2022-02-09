@@ -5,7 +5,7 @@
         [Золотой ключик]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        maryina gorka;
+        maryina_gorka;
     =>nrel_country:
         belarus;
     =>nrel_type:
