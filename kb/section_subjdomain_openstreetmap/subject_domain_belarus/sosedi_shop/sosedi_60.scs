@@ -1,0 +1,11 @@
+
+sosedi_60 <- concept_shop;
+=> nrel_main_idtf:
+[Соседи]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[53.928776]
+(* <- lang_ru;; <- latitude;;*);
+[27.587610]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;; 
