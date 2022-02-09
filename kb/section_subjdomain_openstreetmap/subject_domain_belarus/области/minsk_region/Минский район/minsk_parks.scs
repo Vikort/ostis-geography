@@ -5,7 +5,7 @@ alleya_940_letiya_minska <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Alleya 940 letiya Minska]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     21000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -25,11 +25,11 @@ alleya_940_letiya_minska <- concept_park;
 park_semeynoe_derevo <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Парк Семейное дерево]
+    [парк Семейное дерево]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Park Semeynoe derevo]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [park Semeynoe derevo]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     81200
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -49,11 +49,11 @@ park_semeynoe_derevo <- concept_park;
 prud_kuncevshina <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Пруд Кунцевщина]
+    [пруд Кунцевщина]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Prud Kuncevshina]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [prud Kuncevshina]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     64400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -73,11 +73,11 @@ prud_kuncevshina <- concept_park;
 park_divivelka <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Парк Дививелка]
+    [парк Дививелка]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Park Divivelka]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [park Divivelka]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     167400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -101,7 +101,7 @@ lesopark_medvejino <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Lesopark Medvejino]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     156400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -125,7 +125,7 @@ semeyniy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Semeyniy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     22100
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -149,7 +149,7 @@ skver_yakubovskoho <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Yakubovskoho]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     15600
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -173,7 +173,7 @@ dendropark <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Dendropark]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     224400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -197,7 +197,7 @@ yabloneviy_sad <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Yabloneviy sad]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     124200
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -221,7 +221,7 @@ park_mikhaila_pavlova <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Mikhaila Pavlova]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     296000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -245,7 +245,7 @@ skver_60_letiya_minskoho_hosudarstvennoho_medicinskoho_universiteta <- concept_p
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver 60 letiya Minskoho Hosudarstvennoho Medicinskoho Universiteta]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     20000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -269,7 +269,7 @@ dubovo_lipoviy_massiv_belaya_datcha <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Dubovo-lipoviy massiv "Belaya Datcha"]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     66000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -293,7 +293,7 @@ skver_minina <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Minina]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     27300
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -317,7 +317,7 @@ skver_imeni_jukova <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver imeni Jukova]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     19000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -341,7 +341,7 @@ hrushevskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Hrushevskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     20580
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -365,7 +365,7 @@ skver_polyanka <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Polyanka]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     27200
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -389,7 +389,7 @@ tutchinskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Tutchinskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     65100
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -413,7 +413,7 @@ lyuteranskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Lyuteranskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     11900
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -437,7 +437,7 @@ kalvariyskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Kalvariyskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     15120
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -461,7 +461,7 @@ olshevskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Olshevskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     27802
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -478,14 +478,14 @@ olshevskiy_skver <- concept_park;
 =>nrel_district:
     minsk_district;;
         
-skvera_imeni_so_pritickoho <- concept_park;
+skver_imeni_so_pritickoho <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Сквера имени С.О. Притыцкого]
+    [Сквер имени С.О. Притыцкого]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Skvera imeni S.O. Pritickoho]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Skver imeni S.O. Pritickoho]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     32800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -509,7 +509,7 @@ bulvar_danili_serditcha <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Bulvar Danili Serditcha]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     41280
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -533,7 +533,7 @@ skver_dubki <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Dubki]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     19484
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -557,7 +557,7 @@ park_tivali <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Tivali]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     406000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -581,7 +581,7 @@ skver_pohulyanka <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Pohulyanka]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     30800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -605,7 +605,7 @@ park_uho_tchavesa <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Uho Tchavesa]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     265000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -629,7 +629,7 @@ park_60_letiya_oktyabrya <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park 60-letiya Oktyabrya]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     270000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -653,7 +653,7 @@ evreyskiy_memorialniy_park <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Evreyskiy memorialniy park]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     76500
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -677,7 +677,7 @@ yubileyniy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Yubileyniy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     16500
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -701,7 +701,7 @@ tatarskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Tatarskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     12600
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -725,7 +725,7 @@ park_kurasovshina <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Kurasovshina]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     288000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -749,7 +749,7 @@ sad_hashkevitcha <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Sad Hashkevitcha]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     50000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -773,7 +773,7 @@ vilkaushtchina <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Vilkaushtchina]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     43440
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -797,7 +797,7 @@ loshickiy_yar <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Loshickiy yar]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     30000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -821,7 +821,7 @@ loshickiy_park <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Loshickiy park]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     1140000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -845,7 +845,7 @@ serebryaniy_loh <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Serebryaniy Loh]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     279000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -869,7 +869,7 @@ park_hrekovoy <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Hrekovoy]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     689000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -893,7 +893,7 @@ park_900_letiya_minska <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park 900-letiya Minska]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     265000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -917,7 +917,7 @@ alleya_molodojyonov <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Alleya molodojyonov]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     22000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -941,7 +941,7 @@ skver_zinoviya_kolobanova <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Zinoviya Kolobanova]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     11000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -965,7 +965,7 @@ alleya_bhaa <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Alleya BHAA]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     10800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -989,7 +989,7 @@ park_im_tchinhiza_aytmatova <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park im. Tchinhiza Aytmatova]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     303000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1013,7 +1013,7 @@ skver_imeni_omara_khayyama <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver imeni Omara Khayyama]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     58000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1037,7 +1037,7 @@ antonovskiy_park <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Antonovskiy park]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     292800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1061,7 +1061,7 @@ skver_klumova <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Klumova]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     36800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1085,7 +1085,7 @@ skver_po_ul_stakhanovskoy_v_rayone_domov_3335 <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver po ul. Stakhanovskoy v rayone domov №33,35]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     5500
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1109,7 +1109,7 @@ sodrujestvo <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Sodrujestvo]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     11658
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1133,7 +1133,7 @@ park_imeni_50_letiya_oktyabrya <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park imeni 50-letiya Oktyabrya]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     348180
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1157,7 +1157,7 @@ perspektivniy_park <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Perspektivniy park]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     2000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1181,7 +1181,7 @@ mikhaylovskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Mikhaylovskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     9900
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1205,7 +1205,7 @@ malomedvejinskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Malomedvejinskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     88400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1229,7 +1229,7 @@ polockiy_park <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Polockiy park]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     345000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1246,14 +1246,14 @@ polockiy_park <- concept_park;
 =>nrel_district:
     minsk_district;;
         
-lesopark_zelyoniy_lun <- concept_park;
+lesopark_zelyoniy_luh <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Лесопарк Зелёный Лун]
+    [Лесопарк Зелёный Луг]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Lesopark Zelyoniy Lun]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Lesopark Zelyoniy Luh]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     491400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1277,7 +1277,7 @@ sevastopolskiy_park <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Sevastopolskiy park]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     820800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1301,7 +1301,7 @@ park_pisateley <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Pisateley]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     429400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1321,11 +1321,11 @@ park_pisateley <- concept_park;
 park_kamney <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Парк Камней]
+    [Парк камней]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Park Kamney]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Park kamney]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     63800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1349,7 +1349,7 @@ park_tchelyuskincev <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Tchelyuskincev]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     711000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1373,7 +1373,7 @@ botanitcheskiy_sad <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Botanitcheskiy sad]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     869200
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1397,7 +1397,7 @@ bulvar_vmulyavina <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Bulvar V.Mulyavina]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     6120
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1421,7 +1421,7 @@ bondarevskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Bondarevskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     3726
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1445,7 +1445,7 @@ komarovskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Komarovskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     14385
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1469,7 +1469,7 @@ skver_horoda_pobratima_tchantchun <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver horoda-pobratima Tchantchun]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     4399
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1493,7 +1493,7 @@ shpitalniy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Shpitalniy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     5555
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1517,7 +1517,7 @@ park_drujbi_narodov <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Drujbi Narodov]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     542800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1541,7 +1541,7 @@ kievskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Kievskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     71300
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1565,7 +1565,7 @@ mozirskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Mozirskiy Skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     9900
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1585,11 +1585,11 @@ mozirskiy_skver <- concept_park;
 brahinskiy_skver <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Брагинский Сквер]
+    [Брагинский сквер]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Brahinskiy Skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Brahinskiy skver]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     22540
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1613,7 +1613,7 @@ park_pobedi <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Pobedi]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     536800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1637,7 +1637,7 @@ skver_simona_bolivara <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Simona Bolivara]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     37400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1661,7 +1661,7 @@ park_horkoho <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Horkoho]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     228800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1685,7 +1685,7 @@ park_yanki_kupali <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Yanki Kupali]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     95200
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1709,7 +1709,7 @@ park_marata_kazeya <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park Marata Kazeya]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     59400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1733,7 +1733,7 @@ alleya_drujbi <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Alleya Drujbi]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     27200
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1757,7 +1757,7 @@ skver_starostinskaya_sloboda <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Starostinskaya sloboda]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     303600
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1781,7 +1781,7 @@ tatarskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Tatarskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     12600
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1805,7 +1805,7 @@ lesopark_anharskaya_2 <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Lesopark Anharskaya-2]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     202500
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1829,7 +1829,7 @@ lesopark_stepyanka <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Lesopark Stepyanka]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     454300
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1846,14 +1846,14 @@ lesopark_stepyanka <- concept_park;
 =>nrel_district:
     minsk_district;;
         
-park_im_aleksandra_herasimenka <- concept_park;
+park_im_aleksandra_herasimenko <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Парк им. Александра Герасименка]
+    [Парк им. Александра Герасименко]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Park im. Aleksandra Herasimenka]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Park im. Aleksandra Herasimenko]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     117300
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1877,7 +1877,7 @@ sad_hashkevitcha <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Sad Hashkevitcha]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     48300
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1901,7 +1901,7 @@ skver_senojani <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Senojani]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     9100
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1921,11 +1921,11 @@ skver_senojani <- concept_park;
 pamyatnik_prirodi_dubrava <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Памятник природы "Дубрава"]
+    [Памятник природы «Дубрава»]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Pamyatnik prirodi "Dubrava"]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Pamyatnik prirodi «Dubrava»]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     341400
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1942,14 +1942,14 @@ pamyatnik_prirodi_dubrava <- concept_park;
 =>nrel_district:
     minsk_district;;
         
-storojevskiy_skver <- concept_park;
+storojyovskiy_skver <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Сторожевский сквер]
+    [Сторожёвский сквер]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Storojevskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Storojyovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     11880
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1973,7 +1973,7 @@ perespenskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Perespenskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     9350
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -1997,7 +1997,7 @@ stepanovskiy_sad <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Stepanovskiy sad]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     9800
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2021,7 +2021,7 @@ skver_adama_mickevitcha <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Adama Mickevitcha]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     14000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2045,7 +2045,7 @@ skver_edvarda_voynilovitcha <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Edvarda Voynilovitcha]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     6147
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2069,7 +2069,7 @@ sendayskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Sendayskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     23368
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2093,7 +2093,7 @@ bobruyskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Bobruyskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     17310
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2117,7 +2117,7 @@ lyakhovskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Lyakhovskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     11970
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2141,7 +2141,7 @@ lesopark_drozdi <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Lesopark Drozdi]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     235600
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2161,11 +2161,11 @@ lesopark_drozdi <- concept_park;
 aleksandrovskiy_skver <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Александровский Сквер]
+    [Александровский сквер]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Aleksandrovskiy Skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [Aleksandrovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     2100
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2189,7 +2189,7 @@ skver_hricevca <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Hricevca]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     6100
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2213,7 +2213,7 @@ park_40_letiya_oktyabrya <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Park 40-letiya Oktyabrya]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     195000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2237,7 +2237,7 @@ alleya_pobedi <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Alleya pobedi]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     3689
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2261,7 +2261,7 @@ antonovskiy_skver <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Antonovskiy skver]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     2279
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2285,7 +2285,7 @@ kuropati <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Kuropati]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     504000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2305,11 +2305,11 @@ kuropati <- concept_park;
 skver_belarus_partizanskaya <- concept_park;
 <-concept_minsk_parks;
 =>nrel_main_idtf:
-    [Сквер Беларусь партизанская]
+    [сквер Беларусь партизанская]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
-    [Skver Belarus partizanskaya]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    [skver Belarus partizanskaya]
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     66000
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2333,7 +2333,7 @@ landshaftniy_park <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Landshaftniy park]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     96600
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2357,7 +2357,7 @@ skver_kotovka <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Skver Kotovka]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     34700
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2381,7 +2381,7 @@ bulvar_tolbukhina <- concept_park;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_main_idtf:
     [Bulvar Tolbukhina]
-    (* <- lang_en;; <- name_en;; <- name;;*);
+    (* <- lang_en;; <- name_en;;*);
 =>nrel_square:
     36791
     (* <- concept_square;; <- concept_square_meters;;*);
@@ -2397,4 +2397,3 @@ bulvar_tolbukhina <- concept_park;
     minsk_region;
 =>nrel_district:
     minsk_district;;
-
