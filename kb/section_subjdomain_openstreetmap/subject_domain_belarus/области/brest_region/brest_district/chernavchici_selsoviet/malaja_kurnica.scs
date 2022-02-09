@@ -1,0 +1,15 @@
+village_Malaja_Kurnica <- concept_village;
+=> nrel_main_idtf:
+   [Малая_Курница]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   brest_region;
+=>nrel_district:
+    brestski_district;
+=>nrel_selsoviet:
+    chernavchici_selsoviet;;

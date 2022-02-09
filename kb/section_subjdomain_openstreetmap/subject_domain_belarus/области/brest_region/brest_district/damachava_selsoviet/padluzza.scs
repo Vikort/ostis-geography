@@ -1,0 +1,15 @@
+village_Padluzza <- concept_village;
+=> nrel_main_idtf:
+   [Подлужье]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   brest_region;
+=>nrel_district:
+    brestski_district;
+=>nrel_selsoviet:
+    damachava_selsoviet;;
