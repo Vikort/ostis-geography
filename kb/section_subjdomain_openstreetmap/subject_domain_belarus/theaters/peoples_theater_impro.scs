@@ -1,11 +1,11 @@
-    drama_theatre <- concept_theatre;
+    peoples_theater_impro <- concept_theatre;
     =>nrel_main_idtf:
-        [Drama theatre. melezha]
+        [Peoples theater impro]
         (* <- lang_en;; <- name_en;;*);
-        [Драматический театр им. мележа]
+        [Народный театр  импро]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        mozir;
+        rechitsa;
     =>nrel_country:
         belarus;
     =>nrel_type:

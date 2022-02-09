@@ -2,7 +2,7 @@
     =>nrel_main_idtf:
         [Theater of the game   gudodim cdt ivatsevichi]
         (* <- lang_en;; <- name_en;;*);
-        [Гудодим «цдт г. ивацевичи»]
+        [Гудодим «цдт г ивацевичи»]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
         ivatsevichi;

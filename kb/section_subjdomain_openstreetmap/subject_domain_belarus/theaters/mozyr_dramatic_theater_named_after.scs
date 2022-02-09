@@ -2,7 +2,7 @@
     =>nrel_main_idtf:
         [Mozyr dramatic theater named after]
         (* <- lang_en;; <- name_en;;*);
-        [Мозырский драматический театр им.и.мележа]
+        [Мозырский драматический театр имимележа]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
         maryina gorka;

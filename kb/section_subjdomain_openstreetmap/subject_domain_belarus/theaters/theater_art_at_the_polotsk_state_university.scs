@@ -1,8 +1,8 @@
     theater_art_at_the_polotsk_state_university <- concept_theatre;
     =>nrel_main_idtf:
-        [Theater art at the polotsk state university.]
+        [Theater art at the polotsk state university]
         (* <- lang_en;; <- name_en;;*);
-        [Театр арт» при полоцком государственном университете.]
+        [Театр арт» при полоцком государственном университете]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
         polotsk;

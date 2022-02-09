@@ -1,11 +1,11 @@
-    peoples_theater_impro! <- concept_theatre;
+    national_academic_theatre_ya_kupala_state_university <- concept_theatre;
     =>nrel_main_idtf:
-        [Peoples theater impro!]
+        [National academic theatre ya kupala state university]
         (* <- lang_en;; <- name_en;;*);
-        [Народный театр  импро!]
+        [Национальный академический театр им я купалы гу]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        rechitsa;
+        minsk;
     =>nrel_country:
         belarus;
     =>nrel_type:

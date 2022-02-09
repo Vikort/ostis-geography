@@ -1,11 +1,11 @@
-    national_academic_theatre <- concept_theatre;
+    national_academic_theatre_yakupala <- concept_theatre;
     =>nrel_main_idtf:
-        [National academic theatre. ya. kupala small stage]
+        [National academic theatre yakupala]
         (* <- lang_en;; <- name_en;;*);
-        [Национальный академический театр им. я. купалы малая сцена]
+        [Национальный академический театр им якупалы]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        minsk;
+        lida;
     =>nrel_country:
         belarus;
     =>nrel_type:
