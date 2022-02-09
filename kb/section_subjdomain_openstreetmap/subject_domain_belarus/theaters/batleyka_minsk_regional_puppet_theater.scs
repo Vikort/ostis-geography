@@ -1,0 +1,15 @@
+    batleyka_minsk_regional_puppet_theater <- concept_theatre;
+    =>nrel_main_idtf:
+        [Batleyka minsk regional puppet theater]
+        (* <- lang_en;; <- name_en;;*);
+        [Батлейка минский областной театр кукол гу]
+        (* <- lang_ru;; <- name_ru;;<- name;;*);
+    =>nrel_city:
+        molodechno;
+    =>nrel_country:
+        belarus;
+    =>nrel_type:
+        puppet;
+    =>nrel_availability;
+        available;
+                    

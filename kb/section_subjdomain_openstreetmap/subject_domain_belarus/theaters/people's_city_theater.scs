@@ -1,0 +1,15 @@
+    people's_city_theater <- concept_theatre;
+    =>nrel_main_idtf:
+        [People's city theater]
+        (* <- lang_en;; <- name_en;;*);
+        [Народный городской театр]
+        (* <- lang_ru;; <- name_ru;;<- name;;*);
+    =>nrel_city:
+        nesvizh;
+    =>nrel_country:
+        belarus;
+    =>nrel_type:
+        national;
+    =>nrel_availability;
+        available;
+                    
