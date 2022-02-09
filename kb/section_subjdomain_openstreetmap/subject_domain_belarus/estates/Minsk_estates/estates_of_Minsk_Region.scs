@@ -1,0 +1,8398 @@
+        
+//1
+estates_zarechnayayuzufovo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Заречная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yuzufovo.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//2
+estates_ravnovesie
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Равновесие]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Small dainovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//3
+estates_otdyhplus
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Отдых ПЛЮС]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Sloboda
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//4
+estates_aleksandra
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Александра]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Loboda
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//5
+estates_khutortroki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Троки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Sivitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//6
+estates_ovoshevod
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Овощевод]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Vegetable breeding
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//7
+estates_galereya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Галерея]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Veragi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//8
+estates_narochanskibereg
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Нарочанский берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Steying
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//9
+estates_nakvasy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Наквасы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Nasty
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//10
+estates_gasceunya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гасцёўня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Drozdovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//11
+estates_mashinhutor
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Машин Хутор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Kruglitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//12
+estates_bobrovahatka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бобровая хатка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Galimtsy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//13
+estates_domiknaislochi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик на Ислочи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Belokorets
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//14
+estates_berezka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Березка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Sudners
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//15
+estates_patioiznachalnoe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [гостевой домик «Прованс»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Prileses
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//16
+estates_kamyanica
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Камяница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Lebedevo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//17
+estates_parusiznachalnoe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой домик "Парус" в усадьбе "Изначальное"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Prileses
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//18
+estates_strekoza
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Стрекоза]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Flat
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//19
+estates_severnyysklon
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Северный Склон]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ratomka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//20
+estates_fvraskosha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Фальварак Раскоша]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Polesie
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//21
+estates_batorinousadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Баторино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Azarka Pudovinka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//22
+estates_logoyskiteremok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Логойский Теремок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Crazy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//23
+estates_alekssemkovo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Алекс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//24
+estates_familyholiday
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Family Holiday]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    New Field
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//25
+estates_naslavu
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Славу]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yelnitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//26
+estates_narostanyah
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На ростанях]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Lyuban_district;
+=>nrel_city:
+    Ureche
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//27
+estates_tihihutorok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихий хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Volodya
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//28
+estates_gulyanka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Евгения]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Plebans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//29
+estates_koniponi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кони-пони]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Mikhalovo.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//30
+estates_chistvozduh
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чистый воздух]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Small cheese
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//31
+estates_alpiyskidvorik
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Альпийский дворик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Radoshkovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//32
+estates_ulese
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Маёнтак Улесье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Kurganovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//33
+estates_slutskistraus
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Слуцкий страус]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Slutsky_district;
+=>nrel_city:
+    Lesiste
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//34
+estates_zvenyachi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Big House]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Links
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//35
+estates_gusilebedi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гуси-Лебеди]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Zubtnevka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//36
+estates_dolina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Долина уют]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//37
+estates_putishka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Путишка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Book
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//38
+estates_nesvizhskiymayontak
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Несвижский Маёнтак]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Nesvizh
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//39
+estates_gatovichi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой дом Гатовичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Gatovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//40
+estates_pomestyetretii
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Поместье», третий дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Cossacks
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//41
+estates_polkinxutor
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Полькин Хутор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Solkovskaya
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//42
+estates_royalhall
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Royal Hall]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Maudians
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//43
+estates_lastgnezdo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ласточкино гнездо]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Dry mountain
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//44
+estates_domikulesa
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик у леса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Rakov
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//45
+estates_midas
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мидас]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Krusky_district;
+=>nrel_city:
+    Kamenka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//46
+estates_domskazka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом-сказка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Green Garden
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//47
+estates_usadbanapolesnoy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Усадьба на Подлесной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yuhnovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//48
+estates_nanosydom3
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Общинный дом №3 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//49
+estates_podminskom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик под Минском]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//50
+estates_verhom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Конная Буцевичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Butsevichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//51
+estates_navileyskom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Вилейском водохранилище]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Esnovantsy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//52
+estates_tabory
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Таборы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tabor
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//53
+estates_naderevelosev
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лосиный горб, домик на дереве]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Terebuty
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//54
+estates_zarachanskie
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Зарачанские Янины]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Zarechye
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//55
+estates_veselyugol
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Веселый угол]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Cheerful corner
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//56
+estates_domikvostroshickom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в Острошицком городке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ostrositsky town
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//57
+estates_domikborovlyany
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в Боровлянах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//58
+estates_uvalentina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Валентина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Deccents
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//59
+estates_petravinka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Петравинка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Chervensky_district;
+=>nrel_city:
+    Petrovinka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//60
+estates_kuty
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [VIP Усадьба "Куты"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//61
+estates_tihayagavan
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихая гавань]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Glivin.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//62
+estates_naberegu
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На берегу]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Skident
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//63
+estates_umorya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У моря]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Laporovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//64
+estates_zabrodje
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Забродье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Ogon
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//65
+estates_vyazyn
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вязынь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Vazynn.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//66
+estates_gaj
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сасновы гай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Slutsky_district;
+=>nrel_city:
+    Adamovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//67
+estates_uruchia
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом у ручья]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Links
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//68
+estates_unikolaevicha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [В гостях у Николаевича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Fairy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//69
+estates_usadbamalinovka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Малиновка под Логойском]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Soligorsky_district;
+=>nrel_city:
+    Letnet
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//70
+estates_houseapartment
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [House Apartment]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//71
+estates_falvarakkupala
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Фальварак KUPALA]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Senica
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//72
+estates_romanovich
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Романович]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//73
+estates_uzdenskiileshoz
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик ГЛХУ «Узденский лесхоз»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Sloboda
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//74
+estates_br
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Березинская рыбалка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Coastal
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//75
+estates_dedmihed
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дед Михед]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Honoles.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//76
+estates_novgorodishe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Новое Городище,Панский дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    New settlement
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//77
+estates_ohotniknovgorodishe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Новое Городище», дом охотника]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    New settlement
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//78
+estates_gainaistoki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гайненские истоки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Gaina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//79
+estates_krasnapolyana
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Красная поляна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Nepheloe
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//80
+estates_respecthouse
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Respect House]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Chocyers
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//81
+estates_leckovshina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лецковщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Letskovschina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//82
+estates_anely
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Анелы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//83
+estates_lofthall
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Loft Hall]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ratomka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//84
+estates_kostykin
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Костыкин двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Ludvinovo.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//85
+estates_busli
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Буслы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Steying
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//86
+estates_zolotayagorka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Золотая горка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Markovschina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//87
+estates_guesthouselabodyanka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой дом в усадьбе «Лабодянка»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Labody
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//88
+estates_kalinahutar
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Калі на хутар]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Vasyukovschina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//89
+estates_brileyskaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Брилевская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Big Stakhovo.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//90
+estates_semeinoeusadbantil
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [у Антила - семейное бунгало с камином]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Prustromy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//91
+estates_veragi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вераги]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Veragi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//92
+estates_tatsiana
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Татьяна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Annopol
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//93
+estates_beliiruchiidom5
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой дом №5 в усадьбе «Белые ручьи»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Belarus
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//94
+estates_sinichki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Синички]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Chiki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//95
+estates_hutorberezhok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Бережок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Berezhok
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//96
+estates_voroncy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Воронцы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Vorontsz
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//97
+estates_dashki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дашки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Dashi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//98
+estates_belydom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белый дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Cherki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//99
+estates_nanosydom9
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Общинный дом №9 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//100
+estates_rancho
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ранчо-Санчо]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Angles
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//101
+estates_vyuhnovke
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Банька в Юхновке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yuhnovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//102
+estates_maxirelax
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Maxi-Relax]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Minsk
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//103
+estates_narochromantic
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Нарочь-Романтик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Naroch
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//104
+estates_sbanketnymzalom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом с банкетным залом в Боровлянах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//105
+estates_dom3berlogahall
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом №3 в усадьбе «Берлога холл»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Ostrovsky Pass
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//106
+estates_vlesu
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Усадьба в лесу]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Capplants
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//107
+estates_lyadubochka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ля дубочка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Soligorsky_district;
+=>nrel_city:
+    New Guta
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//108
+estates_mechtadetstva
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мечта детства]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Tividovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//109
+estates_holmi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Холмы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Sili
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//110
+estates_vyazych
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вязычин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Vyazychin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//111
+estates_domvmyadele
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом с баней в Мяделе]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Madel
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//112
+estates_zindan
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [ZinDan]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//113
+estates_lebedevo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лебедево]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Lebedevo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//114
+estates_upetrovichasilichi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    ["У Петровича" в Силичах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Sili
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//115
+estates_vysgora
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Высокая гора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    High mountain
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//116
+estates_pekalin
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пекалин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Pekalin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//117
+estates_shpilki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Шпильки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Studes
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//118
+estates_uvolodi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Володи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Senica
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//119
+estates_usadbadubrova
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дуброва]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Dubrov
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//120
+estates_horoshiydom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хороший Дом с Баней]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Dzerzhinsk
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//121
+estates_nanosydom7
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Общинный дом №7 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//122
+estates_gtfohota
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белый Лось]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Crocke
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//123
+estates_nesvij
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Несвижская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Nesvizh
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//124
+estates_panigalagowska
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пани Галаговска (Pani Galagowska)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Rudnya Pilnyanskaya
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//125
+estates_napodlesnoy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом-баня на Подлесной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Minsk
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//126
+estates_usadbazolotayarybka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Золотая Рыбка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Fish
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//127
+estates_sezony
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сезоны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Drozdovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//128
+estates_banyasemkovo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Баня в Семково]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//129
+estates_udranka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Удранка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Untranka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//130
+estates_vtarasovo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тарасово - Relax]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tarasovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//131
+estates_medvezhyazavod
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Медвежья заводь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Upirevichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//132
+estates_zovpredkov
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Зов предков]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    May Day.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//133
+estates_petrovichborisov
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Петровича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Big Stakhovo.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//134
+estates_nashahata
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Наша хата]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovaya
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//135
+estates_nalibokitrio
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Налибоки-трио]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Naliboki
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//136
+estates_skazochnyy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сказочный домик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Green Garden
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//137
+estates_banka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Банька на выбор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//138
+estates_usadbadomochag
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домашний очаг]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Kopyl_district;
+=>nrel_city:
+    Kamenshchina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//139
+estates_lyazatoki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ля затоки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Sands
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//140
+estates_agrosilichi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [- отель Силичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Sili
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//141
+estates_domspa
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом со СПА-зоной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Root
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//142
+estates_sosvovayaroscha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сосновая роща]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Likhachi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//143
+estates_uleonida
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Леонида]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Nesvizh
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//144
+estates_vyachzorka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вячынская зорка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Vishnevka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//145
+estates_bydtezdorovu
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Будьте здоровы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Okchak
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//146
+estates_mayarudnya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мая Рудня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Rudnya Pilnyanskaya
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//147
+estates_titenkoff
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Титенкофф]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Soligorsky_district;
+=>nrel_city:
+    Kulaki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//148
+estates_domvderevne
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом в деревне]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Mankovschina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//149
+estates_akolica
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Аколица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Okolitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//150
+estates_selyavaotdyh
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Селява-отдых]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Krusky_district;
+=>nrel_city:
+    Firmware
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//151
+estates_gulenkovo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гуленково]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Smolevichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//152
+estates_hatalespol
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Лесная Поляна», дом «Хата»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Midhaw
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//153
+estates_kipshale
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кипшале]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Moshnino
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//154
+estates_dubki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дубки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Okchak
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//155
+estates_guesthouseberezmechta
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Березинская мечта», гостевой дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Poplar
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//156
+estates_usadbantil
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [у Антила - домики под Минском от 2-х до 10 человек]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Prustromy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//157
+estates_guesthousenich
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«У Нічыпараў», гостевой дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Mogly
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//158
+estates_domusadbantil
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [у Антила - дом до 10 человек]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Prustromy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//159
+estates_hutorsmelyh
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Смелых]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Sula
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//160
+estates_nanosydom5
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Общинный дом №5 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//161
+estates_kseniya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ксения]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//162
+estates_casablancacomfort
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Casa Blanca Comfort]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Naroch
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//163
+estates_tihayadacha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихая дача]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Mikhalovo.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//164
+estates_nanarochi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Нарочи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Gatovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//165
+estates_hata
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хата Адася]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Rodowing
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//166
+estates_usadbagera
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Nesvizh
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//167
+estates_santaluchiya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Санта Лючия]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Madel
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//168
+estates_antos
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Антось]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Trakai
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//169
+estates_nasemivetrah
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На семи ветрах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Rabun
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//170
+estates_lukomoryeminsk
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лукоморье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Radoshkovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//171
+estates_kalita
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Калита]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Kalita
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//172
+estates_beregovaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Береговая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Student
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//173
+estates_alekseevka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Алексеевка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Yushkovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//174
+estates_umikoly
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Миколы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Small cheese
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//175
+estates_rosohi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом охотника "Росохи" в Логойском лесхозе]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Rossonse
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//176
+estates_lesnaja
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Horses
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//177
+estates_polevayausadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Полевая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yelnitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//178
+estates_yaryninhutorok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ярынин хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Romashki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//179
+estates_belochkanovgorodishe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Новое Городище», дом белочки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    New settlement
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//180
+estates_selskiydom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сельский дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Padnevichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//181
+estates_shishkin
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Шишкин дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Shishki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//182
+estates_garadockaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гарадоцкая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Red
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//183
+estates_uzahara
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Захара]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Augusto
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//184
+estates_villalavender
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Villa Lavender]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Cherki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//185
+estates_zarechany
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Заречаны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Zarechan
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//186
+estates_beztabaka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Без табака]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Chernevichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//187
+estates_usha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Уша]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Ears
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//188
+estates_cyrvona
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чирвоная Дубрава]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Kopyl_district;
+=>nrel_city:
+    Cheervone Dubrava
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//189
+estates_alenka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Аленка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Aksakovshchyna
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//190
+estates_polevaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Полевая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Maudians
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//191
+estates_skazka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сказка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tsnyanka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//192
+estates_elnica
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ельница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yelnitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//193
+estates_uvictora
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Виктора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Sinks
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//194
+estates_gazdava
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Газдава]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Potting
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//195
+estates_11mestbazaolimpiec
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [11-ти местный дом на базе отдыха «Олимпиец»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//196
+estates_starymensk
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Стары Менск]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Gorodishche
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//197
+estates_domikkochergi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в деревне Кочерги]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Kochergi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//198
+estates_elkino
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ёлкино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Dudinka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//199
+estates_zacenusadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Зацень]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Root
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//200
+estates_umikhalycha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Михалыча]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Lan
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//201
+estates_banyavyacha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом с баней у озера Вяча]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Ostrositsky town
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//202
+estates_mirnyikutok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мирный куток]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Stankovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//203
+estates_rechnayakrasnitza
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Речная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Krasnitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//204
+estates_teremoklogoisky
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Теремок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Ruclees
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//205
+estates_bankauyut
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Банька "Уют"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Volozhin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//206
+estates_broda
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Брода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ostrositsky town
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//207
+estates_vdickah
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [В Дичках]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ducky
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//208
+estates_syabrynavileika
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сябрына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Susport
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//209
+estates_aleks
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Алекс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Casion
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//210
+estates_tridevyatoe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тридевятое]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Rudensk
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//211
+estates_plitchenka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Плитченка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Tilechenka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//212
+estates_bavariabel
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бавария]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Pine
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//213
+estates_krasnitsa
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вилейская Красница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Krasnitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//214
+estates_chuchelinshchina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чучэлиншчына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Chocyers
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//215
+estates_atmosferabanyy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Банный комплекс Атмосфера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Hatezhino
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//216
+estates_ilich
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ильича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Lucovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//217
+estates_pipstop
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [ПИП-STOP]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Angles
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//218
+estates_pomestyevtoroi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Поместье», второй дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Cossacks
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//219
+estates_usadbasluck
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Слуцкий ХуторОК]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Slutsky_district;
+=>nrel_city:
+    Bezverchovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//220
+estates_upetruhi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Петрухи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Soligorsky_district;
+=>nrel_city:
+    Krasnodorians
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//221
+estates_vedrusskayaskazka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ведрусская сказка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Soligorsky_district;
+=>nrel_city:
+    Starobin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//222
+estates_zhuki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Жуки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Beetles
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//223
+estates_ukazyuka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом у Казюка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Olshevo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//224
+estates_bobrdvor
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бобровый двор», основной дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Gaina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//225
+estates_iznachalnoe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Изначальное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Prileses
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//226
+estates_usadbaspadchina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Спадчына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Berezino.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//227
+estates_gostdomfest
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой дом в загородном комплексе «Фестивальный»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Orlovshchina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//228
+estates_guesthousevprostore
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вилейские просторы, гостевой дом №2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Yermolichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//229
+estates_nich
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Нічыпараў]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Mogly
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//230
+estates_nanosydom12
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мещанский дом №2 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//231
+estates_nanosydom8
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Общинный дом №8 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//232
+estates_domnanarochi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом на Нарочи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Naroch
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//233
+estates_nembereg
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Неманский берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Mogly
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//234
+estates_agrousadbautatyany
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Татьяны возле Несвижского замка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//235
+estates_dom2berlogahall
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом №6 с баней в усадьбе «Берлога холл»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Ostrovsky Pass
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//236
+estates_usadbacentralnaja
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Центральная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Glivin.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//237
+estates_logoyskgorkogo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом в Логойске на Горького]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Logoish
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//238
+estates_rodnojhutorok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Родной хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Tarasovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//239
+estates_zseminar
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Загородные семинары]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Cheerful corner
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//240
+estates_umihalicha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Михалыча]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Chizhevichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//241
+estates_banyamarkovshina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Баня Марковщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Markovschina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//242
+estates_nabereguminskogo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На берегу Минского моря]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zavalavl
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//243
+estates_ozerolesnoe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озеро "Лесное"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Eagle
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//244
+estates_percy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Перцы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Thrust
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//245
+estates_peregrod
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Перегродь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Neighborhood
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//246
+estates_myadeljkh
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой дом «Дом рыбака и охотника»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Zakard
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//247
+estates_forrestclub
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [FoRRest Club (Форэст Клаб)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Casion
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//248
+estates_damel
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дамелька]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Boguta
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//249
+estates_panaserzha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сядзiба пана Сержа]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zavalavl
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//250
+estates_tatdvor
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Татьянин двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Stern
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//251
+estates_vdesyatochku
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [В Десяточку]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Rudnya
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//252
+estates_svirsky
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Свирский уголок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Svir
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//253
+estates_vytoka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Нясвижския Вытоки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Kachanovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//254
+estates_dombanyahotezhino
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом-баня в Хатежино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Hatezhino
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//255
+estates_diana
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Диана]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//256
+estates_storonka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сторонка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Morrhe
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//257
+estates_karytko
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Карытько]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Nasilovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//258
+estates_zhilibyli
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Жили-были]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Honoles.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//259
+estates_ustepanycha
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Степаныча]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zavalavl
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//260
+estates_agrippina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Агриппина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Rudnya
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//261
+estates_samsebehozjain
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сам себе хозяин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Falcon
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//262
+estates_spansion
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [SPAnsionat]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zhdanovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//263
+estates_pomestye
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Поместье», первый дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Cossacks
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//264
+estates_varenik
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вареник]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Starina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//265
+estates_sherboki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Щербо-ki]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Lavnica
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//266
+estates_rabinushka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рябинушка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Mikhanovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//267
+estates_rakovskaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Раковская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Rakov
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//268
+estates_bannycomplex
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ozerstso
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//269
+estates_vkrugu
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [В кругу друзей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tarasovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//270
+estates_asaloda
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Асалода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Yakuta
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//271
+estates_tarasovskiymaentak
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тарасовский маентак]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tarasovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//272
+estates_stankovodom7
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [№7 базы отдыха «Центр экологического туризма Станьково»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Stankovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//273
+estates_sova
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Deccents
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//274
+estates_nalesnoyusadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Лесной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    New yard
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//275
+estates_blagodatjuki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Благодать]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Beetles
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//276
+estates_bluelakes
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Голубые озера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Groom bugs
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//277
+estates_zazere
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Зазерье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Casser
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//278
+estates_vyshkovo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вышково]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Wig
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//279
+estates_solnechnayadolina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Солнечная Долина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Baguta
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//280
+estates_userafim
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Серафимыча]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Okolitsa
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//281
+estates_iconicgarden
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Villa Iconic Garden]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ratomka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//282
+estates_skobrovka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Скобровка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Book
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//283
+estates_guesthouseuxnovka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Юхновский хутор», малый дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yuhnovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//284
+estates_domzaiachiapoliana
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой домик №1 на базе отдыха «Заячья поляна»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Robin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//285
+estates_druzya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Друзья]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Logoish
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//286
+estates_ohotnik
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Охотник у дуба]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Housewarming
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//287
+estates_bobr
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хата бобра]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Maryina Gorka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//288
+estates_toft
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тофт]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//289
+estates_palikberezinsky
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Палик» в Березинском биосферном заповеднике]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Palik
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//290
+estates_krupskiyleshoz
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик ГЛХУ «Крупский лесхоз»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Krusky_district;
+=>nrel_city:
+    Pie
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//291
+estates_berezino
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Березино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Berezino.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//292
+estates_sakovshina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Саковщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Sakovshchina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//293
+estates_laraki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ля Ракi]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Novoselki
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//294
+estates_vremenagoda
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Времена года]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Kalyuga
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//295
+estates_teremoknagore
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Теремок на Горе]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Chervensky_district;
+=>nrel_city:
+    Kutuzovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//296
+estates_agrousadbamechta
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мечта]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Deccents
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//297
+estates_poddubnaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Поддубная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Volovchchina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//298
+estates_tarasovo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тарасово]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tarasovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//299
+estates_aquilon
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Aquilon (Аквилон)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zhdanovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//300
+estates_upetra
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Петра]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Old village
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//301
+estates_natopolinoy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [на Тополиной в Ратомке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ratomka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//302
+estates_zapavetnykutok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Запаведны куток]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Cherki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//303
+estates_tusadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Татьянина усадьба]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Shipki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//304
+estates_dvabusly
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Два буслы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Zhukovets
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//305
+estates_karavay
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Каравай (Karavay.by)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Casion
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//306
+estates_hvr
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор в Раубичах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Raubichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//307
+estates_vileyskikrai
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вилейский край]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Dubrovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//308
+estates_lucynka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мартинова гусь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Small Lutinka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//309
+estates_kaxanaja
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Каханая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Kohanovschina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//310
+estates_viazynka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вязынка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    VicNick
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//311
+estates_sabalinka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сабалинка (SABALINKA)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Ruchin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//312
+estates_usadbagaspadar
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гаспадар]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    New Wester
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//313
+estates_vodarspa
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [VODAR (Водар)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Krusky_district;
+=>nrel_city:
+    Gumna
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//314
+estates_usadbaozerny
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерный]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Svisloch
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//315
+estates_lyabyarozy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ля Бярозы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Sands
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//316
+estates_hutorokzabolotye
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хуторок в Заболотье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Zaboloty
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//317
+estates_urybarya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Банька у рыбаря]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Chervensky_district;
+=>nrel_city:
+    Blade
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//318
+estates_kgorka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [VIP-Усадьба «Каменная Горка»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zhdanovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//319
+estates_zalese
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Залесье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Guerrilla
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//320
+estates_berrossa
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Berrossa]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Borovlyans
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//321
+estates_zdorovei
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Здоровей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Nikoltsy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//322
+estates_pilnitza
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пильница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Pilnet
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//323
+estates_grandrelax
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Grand Relax]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zhdanovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//324
+estates_terem
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Теремок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Dubenza
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//325
+estates_nakrasivoy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [В Тарасово на Красивой]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tarasovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//326
+estates_bolochanka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Болочанка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Red October
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//327
+estates_yanovyasen
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Янов ясень]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Bald mountain
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//328
+estates_hutorokbaeva
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хуторок у Баевых]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Soligorsky_district;
+=>nrel_city:
+    Podzhodsky graveyard
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//329
+estates_stonemagic
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Магия Камня (Stone Magic)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Root
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//330
+estates_snegiri
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Снегири]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Prileses
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//331
+estates_aronova
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Аронова Слобода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Aronova Sloboda
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//332
+estates_guesthousedorf
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Dorf, второй дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Rudniks
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//333
+estates_restonriver
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [За мосточком]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Windows
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//334
+estates_guesthousenaprudah
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«На прудах», малые дома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Chervensky_district;
+=>nrel_city:
+    Blade
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//335
+estates_terrassa
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [TERRASSA (Терраса)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Krusky_district;
+=>nrel_city:
+    Firmware
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//336
+estates_uxnovka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Юхновский хутор», основной дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yuhnovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//337
+estates_domikivlesu
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домики в лесу, домик с баней]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Likhachi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//338
+estates_fansport
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Двухуровневый гостевой дом в ФОК "Вячорки" рядом с Минском]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Raubichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//339
+estates_malyypriles
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«В Прилесье», коттедж №3]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Adhere
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//340
+estates_bukovichi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Буковичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Bukovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//341
+estates_usadbasan
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Usadba_san]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Markovschina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//342
+estates_koloda
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Колода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Casion
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//343
+estates_waterskicentr
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом воднолыжника]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Volkovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//344
+estates_stankovodom5
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [№5 базы отдыха «Центр экологического туризма Станьково»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Stankovo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//345
+estates_nesvizhskiyposad
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Несвижский посад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Nesvizh
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//346
+estates_naozere
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Отдых на озере Нарочь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Naroch
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//347
+estates_radyushi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Радюши]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Radyushi.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//348
+estates_belswiss
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белорусская Швейцария]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Pine
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//349
+estates_nanosydom2
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Общинный дом №2 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//350
+estates_lesnyedali
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесные дали]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Wet
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//351
+estates_ecodom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Эко Дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Malinovshchka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//352
+estates_krolichyanora
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кроличья нора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Honoles.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//353
+estates_stepenevo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Степенево]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Naroch
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//354
+estates_domikuozera
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик у озера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Svir
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//355
+estates_bagatahata
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Багата хата]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Peresada
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//356
+estates_starina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Старина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Starina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//357
+estates_dvabusla
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Два бусла]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Robin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//358
+estates_vikey
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [VIKEY Guest House]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Petrovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//359
+estates_urozhaynaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Урожайная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yield
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//360
+estates_razgyl
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Разгуляево]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Capplants
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//361
+estates_silentplace
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Silent Place]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Casion
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//362
+estates_nanosydom6
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Общинный дом №6 в этнокультурном комплексе «Наносы Отдых»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//363
+estates_nata
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Натальи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ratomka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//364
+estates_yanechkin
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Янэчкин домик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Naroch
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//365
+estates_solnechnayausadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Солнечная в Логойске]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Logoish
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//366
+estates_krestyanka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Крестьянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Slutsky_district;
+=>nrel_city:
+    Slutsk
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//367
+estates_zlatavilla
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Злата Вилла]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Sili
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//368
+estates_zanarochusadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Занарочь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Zakard
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//369
+estates_4cezona
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Четыре сезона]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Sili
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//370
+estates_dumki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Думки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Mikhalovo.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//371
+estates_khutorokzarechnaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Tulenka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//372
+estates_vasilekyurkovichi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Василек]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Yurkovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//373
+estates_hutorles
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор в лесу]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Chervensky_district;
+=>nrel_city:
+    Ivanichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//374
+estates_naokolnoi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом на Окольной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Yuhnovka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//375
+estates_gostdom
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой домик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Veragi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//376
+estates_uliavona
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Лявона]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Vishnevka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//377
+estates_vraj
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Волшебный рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Aronova Sloboda
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//378
+estates_rodniki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Родниковой]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Aksakovshchyna
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//379
+estates_6mestbazaolimpiec
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [6-ти местный дом на базе отдыха «Олимпиец»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Seven
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//380
+estates_podvoriegolovki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Подворье в Головках]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Heads
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//381
+estates_guesthousemolodi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Молоди», малый дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    More
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//382
+estates_batskovhata
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бацькоуская хата]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Lesuna
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//383
+estates_honeyworld
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мир пчел]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Bark
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//384
+estates_volat
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Волат]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Minsk
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//385
+estates_ugolok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Нарочанский уголок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//386
+estates_gorodishe
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Городище]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Gorodishche
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//387
+estates_bellajio
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белладжио VIP]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zhdanovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//388
+estates_kutenyata
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кутенята]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Kutenyata
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//389
+estates_udrozda
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Дрозда]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Gatovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//390
+estates_prostokvashinonesvizh
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Простоквашино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Nesvizh
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//391
+estates_domugolok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом-баня в усадьбе «Нарочанский уголок»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Values
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//392
+estates_plashevburg
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Плашевбург]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Dzerzhinsky_district;
+=>nrel_city:
+    Plashevo
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//393
+estates_rodnya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Родня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Nodny
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//394
+estates_vboyarah
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в Боярах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Boyars
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//395
+estates_rybatskidomikyunitskogo
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Bungalow в загородном экопарке «Акварель»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Maryina Gorka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//396
+estates_naprudah
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На прудах, большой дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Chervensky_district;
+=>nrel_city:
+    Blade
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//397
+estates_cnyanskaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Цнянская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Tsnyanka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//398
+estates_daryvelesa
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дары Велеса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Bluja
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//399
+estates_syabryna
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сябрына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Priluki
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//400
+estates_levelup
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [LevelUp]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Zhukov meadow
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//401
+estates_basandajka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Басандайка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ostroshitsky city
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//402
+estates_dubravushka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дубравушка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Machines
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//403
+estates_pavlovbastion
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Павлов бастион]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Borisov.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//404
+estates_berezinskaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Березинская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Skin
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//405
+estates_oray
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [О-рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ratomka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//406
+estates_vhata
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вясёлая Хата]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Kalyuga
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//407
+estates_panskikutok
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Панский куток]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Great Bakshts.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//408
+estates_brili
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Брили]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Brillia
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//409
+estates_domikrybaka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик рыбака]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Pine
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//410
+estates_artusadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [АРТ Усадьба]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Calnesses
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//411
+estates_starinki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Старинки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Old people
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//412
+estates_okolitsamolodechno
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Околица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Molodenensky_district;
+=>nrel_city:
+    Lobachevka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//413
+estates_ludmila
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Людмила]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    New yard
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//414
+estates_pasechnik
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пасечник]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Svir
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//415
+estates_lagodnaye
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лагоднае возера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Pleshchenitsy
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//416
+estates_mitinatsel
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Митина цель]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Target
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//417
+estates_alexandria
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Александрии]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Sili
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//418
+estates_useregi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Сереги в Маяке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Slutsky_district;
+=>nrel_city:
+    Lighthouse
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//419
+estates_klevaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Клевая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Bykovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//420
+estates_uozerausadba
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Озера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Kopyl_district;
+=>nrel_city:
+    Bogushi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//421
+estates_botyan
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ботян]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Volozhinsky_district;
+=>nrel_city:
+    Dolknevichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//422
+estates_novosele
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Новоселье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Column_area;
+=>nrel_city:
+    Housewarming
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//423
+estates_tdg
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тишь да гладь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Berezinsky_district;
+=>nrel_city:
+    Red Zork
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//424
+estates_svetlaya
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Светлая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Glivin.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//425
+estates_syalyanka
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сялянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Big Holor
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//426
+estates_usadbadomikupruda
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик у пруда]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Vilesky_district;
+=>nrel_city:
+    Old people
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//427
+estates_ubondaranazagrebli
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Бондара на Загрэблі]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Uzdensky_district;
+=>nrel_city:
+    Highs
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//428
+estates_dikizapad
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дикий запад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Logoysky_district;
+=>nrel_city:
+    Logoish
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//429
+estates_snyatsauna
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сауна люкс в Сенице]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Senica
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//430
+estates_seljava
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Селява]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Krusky_district;
+=>nrel_city:
+    Sturgeon
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//431
+estates_aksakovshina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Аксаковщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Aksakovshchyna
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//432
+estates_uozerapasynki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У озера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Madelsky_district;
+=>nrel_city:
+    Steying
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//433
+estates_lakamina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [La Kamina]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Ratomka
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//434
+estates_dlyadushi
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Для души]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Smolevichsky_district;
+=>nrel_city:
+    Bridge
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//435
+estates_malinniki
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Малинники]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Malniki.
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//436
+estates_kupalie
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Купалье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Pukhovichi_district;
+=>nrel_city:
+    Kupali
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//437
+estates_woodenvilla
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Wooden Villa (Вуден Вилла)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Casion
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//438
+estates_veseluyhutor
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вяселы хутар]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Kletsky_district;
+=>nrel_city:
+    Starosela
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//439
+estates_banyastarina
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом-баня Старина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Starina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//440
+estates_trilisy
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Три лисы»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Minsk_district;
+=>nrel_city:
+    Volovchchina
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//441
+estates_ubatorino
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Местечко у Баторино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Nesvizhsky_district;
+=>nrel_city:
+    Shikovichi
+=>nrel_search_area:
+    Minsk_Region;;
+        
+//442
+estates_krug
+<- concept_estates;
+<- concept_estates_of_the_Minsk_Region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Круг друзей на Березине]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Minsk_Region;
+=>nrel_district:
+    Borisovsky_district;
+=>nrel_city:
+    Sands
+=>nrel_search_area:
+    Minsk_Region;;

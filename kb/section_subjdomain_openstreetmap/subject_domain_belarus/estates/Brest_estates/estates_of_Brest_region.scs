@@ -1,0 +1,3116 @@
+
+//1
+estates_usadbaskazka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сказка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Cyochinovka
+=>nrel_search_area:
+    Brest_region;;
+        
+//2
+estates_ozernayazhemchuzhina
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерная жемчужина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Brest_region;;
+        
+//3
+estates_pomeshichya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Помещичья усадьба]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Dubrava
+=>nrel_search_area:
+    Brest_region;;
+        
+//4
+estates_tomai
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Томай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Berezovka
+=>nrel_search_area:
+    Brest_region;;
+        
+//5
+estates_duboe
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дубое над Пиной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Dube
+=>nrel_search_area:
+    Brest_region;;
+        
+//6
+estates_gortol
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гортоль]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivatsevichsky_district;
+=>nrel_city:
+    Gorostol
+=>nrel_search_area:
+    Brest_region;;
+        
+//7
+estates_ezera
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ezera Park Hotel]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Elm
+=>nrel_search_area:
+    Brest_region;;
+        
+//8
+estates_dom3ezera
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом №3 в усадьбе Ezera Park Hotel]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Elm
+=>nrel_search_area:
+    Brest_region;;
+        
+//9
+estates_dom1ezera
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом №1 в усадьбе Ezera Park Hotel]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Elm
+=>nrel_search_area:
+    Brest_region;;
+        
+//10
+estates_hutorstolinskiy
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Столинский]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Stolinsky_district;
+=>nrel_city:
+    Stolin
+=>nrel_search_area:
+    Brest_region;;
+        
+//11
+estates_polesskie
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Полесские традиции]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Andronovo.
+=>nrel_search_area:
+    Brest_region;;
+        
+//12
+estates_tihiykray
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихий край]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Lipovo.
+=>nrel_search_area:
+    Brest_region;;
+        
+//13
+estates_shalebelovezskoe
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Шале Беловежское]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pruzhansky_district;
+=>nrel_city:
+    Chabahi
+=>nrel_search_area:
+    Brest_region;;
+        
+//14
+estates_rada
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рада]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Kuldjaki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//15
+estates_grechihi
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гречихи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Buckwheat
+=>nrel_search_area:
+    Brest_region;;
+        
+//16
+estates_pchelka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пчелка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Cherni.
+=>nrel_search_area:
+    Brest_region;;
+        
+//17
+estates_maz
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мазычи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Mazi
+=>nrel_search_area:
+    Brest_region;;
+        
+//18
+estates_shadrinyh
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Шадриных]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Zhabinkovsky_district;
+=>nrel_city:
+    Lady
+=>nrel_search_area:
+    Brest_region;;
+        
+//19
+estates_bobrovichi
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бобровичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivatsevichsky_district;
+=>nrel_city:
+    Bobrovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//20
+estates_loft
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Loft]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Brest
+=>nrel_search_area:
+    Brest_region;;
+        
+//21
+estates_prigranichnoe
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Приграничное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Domachevo
+=>nrel_search_area:
+    Brest_region;;
+        
+//22
+estates_sadyradosti
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сады радости]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Zhabinkovsky_district;
+=>nrel_city:
+    Zhitkovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//23
+estates_naturlich
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Naturlich]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Decals
+=>nrel_search_area:
+    Brest_region;;
+        
+//24
+estates_verasbrest
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Верас]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Brest
+=>nrel_search_area:
+    Brest_region;;
+        
+//25
+estates_pozitiv
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Позитив]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Zhabinkovsky_district;
+=>nrel_city:
+    Petrovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//26
+estates_bb
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [B&B]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Kamenyuki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//27
+estates_nadubrovkebrest
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Дубровке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Brest
+=>nrel_search_area:
+    Brest_region;;
+        
+//28
+estates_monomah
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Поместье Мономах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Dmitrovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//29
+estates_yasnayapolyana
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ясная Поляна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Priluki
+=>nrel_search_area:
+    Brest_region;;
+        
+//30
+estates_prostosashino
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [ПростоСашино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Forks
+=>nrel_search_area:
+    Brest_region;;
+        
+//31
+estates_medovajapoljana
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Медовая поляна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Zubunin
+=>nrel_search_area:
+    Brest_region;;
+        
+//32
+estates_zamkovayagora
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Замковая гора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Old mouse
+=>nrel_search_area:
+    Brest_region;;
+        
+//33
+estates_katashi
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Каташи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Kabashi
+=>nrel_search_area:
+    Brest_region;;
+        
+//34
+estates_naprostor
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На просторах Полесья]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Luninetsky_district;
+=>nrel_city:
+    Lakhovka
+=>nrel_search_area:
+    Brest_region;;
+        
+//35
+estates_usadbanazarechnoy
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Заречной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Large Purnevichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//36
+estates_volosyukovhutor
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Волосюков хутор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Bachi.
+=>nrel_search_area:
+    Brest_region;;
+        
+//37
+estates_stolinzrzby
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик заказника Средняя Припять]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Stolinsky_district;
+=>nrel_city:
+    Kristen
+=>nrel_search_area:
+    Brest_region;;
+        
+//38
+estates_lesnayapaulinka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесная Паулинка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Mlyna
+=>nrel_search_area:
+    Brest_region;;
+        
+//39
+estates_tihievody
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихие воды]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Botovo
+=>nrel_search_area:
+    Brest_region;;
+        
+//40
+estates_brestusadba
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белорусская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Brest
+=>nrel_search_area:
+    Brest_region;;
+        
+//41
+estates_agrobrest
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Уютный уголок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Claycini
+=>nrel_search_area:
+    Brest_region;;
+        
+//42
+estates_provansbrest
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Прованс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Bannoman
+=>nrel_search_area:
+    Brest_region;;
+        
+//43
+estates_sosnovyyrai
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сосновый рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Peace
+=>nrel_search_area:
+    Brest_region;;
+        
+//44
+estates_domikvsadu
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в саду]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Tuhinichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//45
+estates_yablonevysad
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Яблоневый сад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Dogs
+=>nrel_search_area:
+    Brest_region;;
+        
+//46
+estates_podsolnux
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Подсолнух]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Gornovo
+=>nrel_search_area:
+    Brest_region;;
+        
+//47
+estates_usadbakalinka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Калинка 2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Naked bare
+=>nrel_search_area:
+    Brest_region;;
+        
+//48
+estates_pushchanskaya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пущанская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Kamenyuki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//49
+estates_naslagdenie
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Наслаждение]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Babiches
+=>nrel_search_area:
+    Brest_region;;
+        
+//50
+estates_bulbyanka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бульбянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Vistuchi.
+=>nrel_search_area:
+    Brest_region;;
+        
+//51
+estates_zubachi
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Заезд Зубачи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Berezovsky_district;
+=>nrel_city:
+    Zubachi
+=>nrel_search_area:
+    Brest_region;;
+        
+//52
+estates_pruska
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пруска]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Priska-Volgin
+=>nrel_search_area:
+    Brest_region;;
+        
+//53
+estates_aronovka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ароновка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Stakes
+=>nrel_search_area:
+    Brest_region;;
+        
+//54
+estates_teremokpuscha
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Теремок в Беловежской пуще]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Kamenyuki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//55
+estates_nikanora
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Никанора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Boruna
+=>nrel_search_area:
+    Brest_region;;
+        
+//56
+estates_derevenskiyray
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Деревенский рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Makovische
+=>nrel_search_area:
+    Brest_region;;
+        
+//57
+estates_berezovayarosha
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Березовая роща]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Cherki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//58
+estates_veluta
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Велута]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Veluta
+=>nrel_search_area:
+    Brest_region;;
+        
+//59
+estates_pushchanskiyhutorok
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пущанский хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Kamenyuki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//60
+estates_folkhouse
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Folk house]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Selische
+=>nrel_search_area:
+    Brest_region;;
+        
+//61
+estates_polskimaentak
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Польский маёнтак]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    White
+=>nrel_search_area:
+    Brest_region;;
+        
+//62
+estates_urekilva
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У реки Льва]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Stolinsky_district;
+=>nrel_city:
+    Sokara
+=>nrel_search_area:
+    Brest_region;;
+        
+//63
+estates_krivol
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Криволь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Priluki
+=>nrel_search_area:
+    Brest_region;;
+        
+//64
+estates_dubravskiirai
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дубравский рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Dubrava
+=>nrel_search_area:
+    Brest_region;;
+        
+//65
+estates_yalinka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ялинка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Drogichinsky_district;
+=>nrel_city:
+    Selische
+=>nrel_search_area:
+    Brest_region;;
+        
+//66
+estates_gfamilyhome
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Семейная усадьба Горчаковых]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivatsevichsky_district;
+=>nrel_city:
+    Ivatsevichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//67
+estates_sosnoviybereg
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сосновый берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Gorodishche
+=>nrel_search_area:
+    Brest_region;;
+        
+//68
+estates_mechtakleiniki
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мечта]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Claycini
+=>nrel_search_area:
+    Brest_region;;
+        
+//69
+estates_vyaz
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вяз]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Elm
+=>nrel_search_area:
+    Brest_region;;
+        
+//70
+estates_kataleya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Каталея]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Zhabinkovsky_district;
+=>nrel_city:
+    Digeted
+=>nrel_search_area:
+    Brest_region;;
+        
+//71
+estates_domachevo
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домачево]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Domachevo
+=>nrel_search_area:
+    Brest_region;;
+        
+//72
+estates_domoxotnika
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом охотника в Иваново]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivanovsky_district;
+=>nrel_city:
+    Ivanovo.
+=>nrel_search_area:
+    Brest_region;;
+        
+//73
+estates_dvorik
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дворик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Peaceful
+=>nrel_search_area:
+    Brest_region;;
+        
+//74
+estates_uzaliva
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Залива]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Sipband
+=>nrel_search_area:
+    Brest_region;;
+        
+//75
+estates_niva
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Нива]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Berezovsky_district;
+=>nrel_city:
+    Nivy
+=>nrel_search_area:
+    Brest_region;;
+        
+//76
+estates_belylesok
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белый лесок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Telma
+=>nrel_search_area:
+    Brest_region;;
+        
+//77
+estates_belovezhgost
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Беловежская гостевая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Novitkovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//78
+estates_galas
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Галас]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Drogichinsky_district;
+=>nrel_city:
+    Selische
+=>nrel_search_area:
+    Brest_region;;
+        
+//79
+estates_bogach
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Богач]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Kobrin
+=>nrel_search_area:
+    Brest_region;;
+        
+//80
+estates_napoleseuvasilya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Палессі ў Васіля]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Luninetsky_district;
+=>nrel_city:
+    Mikashevichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//81
+estates_usadbarusalochka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Русалочка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Brest_region;;
+        
+//82
+estates_trikolodca
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Три колодца]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Baranci
+=>nrel_search_area:
+    Brest_region;;
+        
+//83
+estates_medzavala
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Медвежья завала]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    ENOUND
+=>nrel_search_area:
+    Brest_region;;
+        
+//84
+estates_foresthousepusha
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в Беловежской пуще "Forest House"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Lyatsky
+=>nrel_search_area:
+    Brest_region;;
+        
+//85
+estates_berezhnoe
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бережное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Stolinsky_district;
+=>nrel_city:
+    Berezhnoye
+=>nrel_search_area:
+    Brest_region;;
+        
+//86
+estates_veronabrest
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Верона]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Brest
+=>nrel_search_area:
+    Brest_region;;
+        
+//87
+estates_vishnya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вишня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    France
+=>nrel_search_area:
+    Brest_region;;
+        
+//88
+estates_domikueli
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик у ели]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Chvirki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//89
+estates_svidanochka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Свиданочка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Divine
+=>nrel_search_area:
+    Brest_region;;
+        
+//90
+estates_ualesja
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Алеся]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pruzhansky_district;
+=>nrel_city:
+    Seremier
+=>nrel_search_area:
+    Brest_region;;
+        
+//91
+estates_neplyanka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Неплянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Nepoublee
+=>nrel_search_area:
+    Brest_region;;
+        
+//92
+estates_belovezhskiykut
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Беловежский кут]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Small Murines
+=>nrel_search_area:
+    Brest_region;;
+        
+//93
+estates_zhemchuzhinabrest
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Жемчужина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Brest
+=>nrel_search_area:
+    Brest_region;;
+        
+//94
+estates_auvaleria
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Валерия]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Blasting
+=>nrel_search_area:
+    Brest_region;;
+        
+//95
+estates_oblaka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Облака]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivanovsky_district;
+=>nrel_city:
+    Ivanovo.
+=>nrel_search_area:
+    Brest_region;;
+        
+//96
+estates_vetvitsa
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ветвица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Mazi
+=>nrel_search_area:
+    Brest_region;;
+        
+//97
+estates_panskiyalazni
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Панския лазни]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Bobrovtsy
+=>nrel_search_area:
+    Brest_region;;
+        
+//98
+estates_dachavprilukax
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дача в Прилуках]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Priluki
+=>nrel_search_area:
+    Brest_region;;
+        
+//99
+estates_ustepanychanapaseke
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Степаныча на пасеке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Melnok.
+=>nrel_search_area:
+    Brest_region;;
+        
+//100
+estates_babulinahatka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бабулина хатка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Luninetsky_district;
+=>nrel_city:
+    Leather town
+=>nrel_search_area:
+    Brest_region;;
+        
+//101
+estates_nazabrode
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Заброде]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivatsevichsky_district;
+=>nrel_city:
+    Somino
+=>nrel_search_area:
+    Brest_region;;
+        
+//102
+estates_dachavlesu
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дача в лесу]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Priluki
+=>nrel_search_area:
+    Brest_region;;
+        
+//103
+estates_zvanca
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хуторок Званца]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Drogichinsky_district;
+=>nrel_city:
+    Selische
+=>nrel_search_area:
+    Brest_region;;
+        
+//104
+estates_mlinok
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Млынок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Mlyna
+=>nrel_search_area:
+    Brest_region;;
+        
+//105
+estates_panskieprudy
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Панские пруды]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Kuzevichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//106
+estates_medunica
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Медуница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Lyakhovichsky_district;
+=>nrel_city:
+    Embankment
+=>nrel_search_area:
+    Brest_region;;
+        
+//107
+estates_solo
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Соловьиный рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Drogichinsky_district;
+=>nrel_city:
+    Selische
+=>nrel_search_area:
+    Brest_region;;
+        
+//108
+estates_lyavoniha
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лявониха]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Podgorn
+=>nrel_search_area:
+    Brest_region;;
+        
+//109
+estates_vipbanyabrest
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом для отдыха с русской баней]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Claycini
+=>nrel_search_area:
+    Brest_region;;
+        
+//110
+estates_pripyatskijples
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Припятский плёс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Luninetsky_district;
+=>nrel_city:
+    Lakhovka
+=>nrel_search_area:
+    Brest_region;;
+        
+//111
+estates_veselkrol
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик №1 в усадьбе «Веселый кролик»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Baranovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//112
+estates_puschamechta
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мечта]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Selische
+=>nrel_search_area:
+    Brest_region;;
+        
+//113
+estates_zaparomom
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [За паромом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Drogichinsky_district;
+=>nrel_city:
+    Belink
+=>nrel_search_area:
+    Brest_region;;
+        
+//114
+estates_nadezhdaplanety
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Надежда планеты]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Berezovsky_district;
+=>nrel_city:
+    Prickly
+=>nrel_search_area:
+    Brest_region;;
+        
+//115
+estates_otzakatadorassveta
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [От заката до рассвета]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Legali
+=>nrel_search_area:
+    Brest_region;;
+        
+//116
+estates_gastinets
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гасцiнец]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Chernavchitsy
+=>nrel_search_area:
+    Brest_region;;
+        
+//117
+estates_yagodnaya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ягодная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Berry
+=>nrel_search_area:
+    Brest_region;;
+        
+//118
+estates_naparkovoy
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Парковой]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Berezovsky_district;
+=>nrel_city:
+    Belooozersk
+=>nrel_search_area:
+    Brest_region;;
+        
+//119
+estates_zadvorskimaentak
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Задворский маёнтак]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Brest
+=>nrel_search_area:
+    Brest_region;;
+        
+//120
+estates_pushanskoe
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пущанское затишье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pruzhansky_district;
+=>nrel_city:
+    Klepachi.
+=>nrel_search_area:
+    Brest_region;;
+        
+//121
+estates_shlyakhetskikut
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Шляхецкi кут]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Sushitsk
+=>nrel_search_area:
+    Brest_region;;
+        
+//122
+estates_netronutyjkusochek
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Нетронутый кусочек Полесья]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pinsky_district;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Brest_region;;
+        
+//123
+estates_staryhutar
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Стары хутар]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Stolinsky_district;
+=>nrel_city:
+    Berezhnoye
+=>nrel_search_area:
+    Brest_region;;
+        
+//124
+estates_soneyka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сонейка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Babiches
+=>nrel_search_area:
+    Brest_region;;
+        
+//125
+estates_uozerabelovezh
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Беловежская светлица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Osinniki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//126
+estates_mishkinapolyana
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мишкина поляна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Yattelz
+=>nrel_search_area:
+    Brest_region;;
+        
+//127
+estates_vpusche
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в пуще]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Makovische
+=>nrel_search_area:
+    Brest_region;;
+        
+//128
+estates_zavyshansky
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Завышанский рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivanovsky_district;
+=>nrel_city:
+    Crowing
+=>nrel_search_area:
+    Brest_region;;
+        
+//129
+estates_vkamence
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Усадьба в Каменце]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Kamenets
+=>nrel_search_area:
+    Brest_region;;
+        
+//130
+estates_tihiy
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихий уголок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivanovsky_district;
+=>nrel_city:
+    Druzhilovichi.
+=>nrel_search_area:
+    Brest_region;;
+        
+//131
+estates_gvozd
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Фольварк Гвоздь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Nail-1.
+=>nrel_search_area:
+    Brest_region;;
+        
+//132
+estates_dom3veselkrol
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик №3 в усадьбе «Веселый кролик»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Baranovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//133
+estates_carskayausadba
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Царская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Nail-1.
+=>nrel_search_area:
+    Brest_region;;
+        
+//134
+estates_dom2bazakamyshi
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом №2 на базе отдыха «Камыши»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Shebrin
+=>nrel_search_area:
+    Brest_region;;
+        
+//135
+estates_dobritsino
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Добрицыно]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivatsevichsky_district;
+=>nrel_city:
+    Wolk.
+=>nrel_search_area:
+    Brest_region;;
+        
+//136
+estates_falvarakvozera
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Фальварак ля возера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Mitskevichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//137
+estates_knyazhayagora
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Княжая гора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Lyakhchitsy
+=>nrel_search_area:
+    Brest_region;;
+        
+//138
+estates_mshanka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мшанка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Msanka
+=>nrel_search_area:
+    Brest_region;;
+        
+//139
+estates_naberezhnaja
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Набережная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Lyakhovichsky_district;
+=>nrel_city:
+    Embankment
+=>nrel_search_area:
+    Brest_region;;
+        
+//140
+estates_tribogatyrya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Три богатыря]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Sands-1.
+=>nrel_search_area:
+    Brest_region;;
+        
+//141
+estates_domlesnoyugolok
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесной уголок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Bobinka
+=>nrel_search_area:
+    Brest_region;;
+        
+//142
+estates_zolotayapodkowa
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Золотая подкова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Podloogier
+=>nrel_search_area:
+    Brest_region;;
+        
+//143
+estates_puschanka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пущанка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Homutina
+=>nrel_search_area:
+    Brest_region;;
+        
+//144
+estates_ejonka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ежонка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    ENOUND
+=>nrel_search_area:
+    Brest_region;;
+        
+//145
+estates_kalinka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Калинка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Chernavchitsy
+=>nrel_search_area:
+    Brest_region;;
+        
+//146
+estates_domribaka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом рыбака]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Kamenyuki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//147
+estates_chemely
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чемелы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivatsevichsky_district;
+=>nrel_city:
+    Chetsels
+=>nrel_search_area:
+    Brest_region;;
+        
+//148
+estates_staryjhutor
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Старый хутор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Small Radvanichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//149
+estates_kupalinka
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Купалинка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Pliers
+=>nrel_search_area:
+    Brest_region;;
+        
+//150
+estates_stuly
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Стулы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Pruzhansky_district;
+=>nrel_city:
+    Stalls
+=>nrel_search_area:
+    Brest_region;;
+        
+//151
+estates_dom2veselkrol
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик №2 в усадьбе «Веселый кролик»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Baranovichi_district;
+=>nrel_city:
+    Baranovichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//152
+estates_tokari
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Токари]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Tolochin
+=>nrel_search_area:
+    Brest_region;;
+        
+//153
+estates_rechnaya
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Речная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Zhabinkovsky_district;
+=>nrel_city:
+    Ababye
+=>nrel_search_area:
+    Brest_region;;
+        
+//154
+estates_lesnayausadba
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    White
+=>nrel_search_area:
+    Brest_region;;
+        
+//155
+estates_borisovo
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Борисово]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Borisovo.
+=>nrel_search_area:
+    Brest_region;;
+        
+//156
+estates_redcat
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рыжая кошка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Claycini
+=>nrel_search_area:
+    Brest_region;;
+        
+//157
+estates_yatvyazskikut
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ятвяжский кут]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Gantsevichi
+=>nrel_search_area:
+    Brest_region;;
+        
+//158
+estates_agrousadbaalva
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [АлВа]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Kamenyuki.
+=>nrel_search_area:
+    Brest_region;;
+        
+//159
+estates_sparom
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [С легким паром]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kamenetsky_district;
+=>nrel_city:
+    Vidomil
+=>nrel_search_area:
+    Brest_region;;
+        
+//160
+estates_chizhi
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чижи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Lyakhovichsky_district;
+=>nrel_city:
+    Daraganovo
+=>nrel_search_area:
+    Brest_region;;
+        
+//161
+estates_guesthousemishel
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мишель]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Cherni.
+=>nrel_search_area:
+    Brest_region;;
+        
+//162
+estates_darina
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дарина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Brest_district;
+=>nrel_city:
+    Bannoman
+=>nrel_search_area:
+    Brest_region;;
+        
+//163
+estates_cvetochnyrai
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Цветочный рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Kobrinsky_district;
+=>nrel_city:
+    Sands-1.
+=>nrel_search_area:
+    Brest_region;;
+        
+//164
+estates_domiknaokraine
+<- concept_estates;
+<- concept_estates_of_the_Brest_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик на окраине]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Brest_region;
+=>nrel_district:
+    Ivanovsky_district;
+=>nrel_city:
+    Tyyshkovichi
+=>nrel_search_area:
+    Brest_region;;

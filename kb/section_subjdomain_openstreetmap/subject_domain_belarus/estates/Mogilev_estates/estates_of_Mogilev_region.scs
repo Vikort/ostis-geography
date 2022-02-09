@@ -1,0 +1,1862 @@
+        
+//1
+estates_otdyhvchechevichah
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Отдых в Чечевичах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Chechevichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//2
+estates_vjaskovija
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вясковыя фарбы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Svisloch
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//3
+estates_schatkovo
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Щатково]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bobruisk_district;
+=>nrel_city:
+    Schalkovo
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//4
+estates_nakamnyah
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На камнях]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Vendryzh
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//5
+estates_batskouskayaspadchyna
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бацькоуская спадчына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Lapichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//6
+estates_zhuravliniykrik
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Журавлиный крик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Starina
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//7
+estates_lesnoidvor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесной двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Zhukovo.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//8
+estates_elkipalki
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Елки-палки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Voronino
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//9
+estates_zhuravinkausadba
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Журавинка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//10
+estates_rajugolok
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Райский уголок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Butforming
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//11
+estates_siadzibashapavaly
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сядзиба Шапавалы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Dribinsky_district;
+=>nrel_city:
+    Pokhety
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//12
+estates_usadbaapelsin
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Апельсин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Sugzhu
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//13
+estates_magnoliya
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Магнолия]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Krezhunsky_district;
+=>nrel_city:
+    Prigani-1.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//14
+estates_klevyybereg
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Клевый Берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Kirovsky_district;
+=>nrel_city:
+    Podloogier
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//15
+estates_kamennayagorka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Каменная горка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Svisloch
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//16
+estates_upavlinki
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Треугольный домик «У Павлинки»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Pavlinka
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//17
+estates_udenisovicha
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Денисовича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Brakovo
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//18
+estates_klevoemestechko
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Клевое местечко»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Smyk
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//19
+estates_ilicha
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ильича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Klimovichsky_District;
+=>nrel_city:
+    Ivanovsk
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//20
+estates_svislochus
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Свислочь(Усадьба)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Svisloch
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//21
+estates_naberegubereziny
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Усадьба на берегу Березины]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Ugracti.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//22
+estates_mircvetov
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мир цветов]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Slavgorodsky_district;
+=>nrel_city:
+    Slavgorod
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//23
+estates_pankovskijzakutok
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Панковский закуток]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Klichevsky_district;
+=>nrel_city:
+    Voevichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//24
+estates_staroepashkovo
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Старое Пашково]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Old high
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//25
+estates_fedor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У дяди Федора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bobruisk_district;
+=>nrel_city:
+    New Sharaevshchina
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//26
+estates_egorie
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Егорье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Zhukovo.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//27
+estates_liholapichi
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лихолапичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Lapichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//28
+estates_ulyavonausadba
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Лявона]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Goretsky_district;
+=>nrel_city:
+    Senkovo
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//29
+estates_priozernaya
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Приозёрная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Polykovichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//30
+estates_dlyadvoih
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Для двоих]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Glovsky_district;
+=>nrel_city:
+    Simonovichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//31
+estates_zarechnaya
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Заречная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Krezhunsky_district;
+=>nrel_city:
+    Round
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//32
+estates_dudik
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сядзiба Дудзiка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Seal
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//33
+estates_chausyleshoz
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом охотника "Ля прони"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Chausky_district;
+=>nrel_city:
+    Plilepovka
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//34
+estates_podvorie
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостиное подворье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Lapichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//35
+estates_belyptah
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белы птах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Rafolovo
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//36
+estates_protochnoe
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в Проточном]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Forthworthy
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//37
+estates_priganskijbereg
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Приганьский берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Krezhunsky_district;
+=>nrel_city:
+    Prigani-1.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//38
+estates_klevoemestechkovip
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик-банька (VIP-номер на двоих) в "Клёвом местечке"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Smyk
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//39
+estates_domikvlesuchechevichi
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в лесу]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Chechevichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//40
+estates_dom2kurkul
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом №2 в усадьбе «Куркуля»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Sugzhu
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//41
+estates_melnikusadba
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мельник]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Miller
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//42
+estates_klimovichileshoz
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом охотника Климовичского лесхоза]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Klimovichsky_District;
+=>nrel_city:
+    Breaking
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//43
+estates_chigirinka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Охотничий стан]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Forthworthy
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//44
+estates_lileya
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лилея]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Cheryikovsky_district;
+=>nrel_city:
+    Mirbish
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//45
+estates_gai
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [В Гаях]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    GAI
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//46
+estates_rybdvor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рыбацкий двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Chechevichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//47
+estates_skazkabyhov
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сказка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Bykhov
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//48
+estates_bungalo2chigirinka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бунгало №2 в усадьбе «Охотничий стан»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Forthworthy
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//49
+estates_holmogory
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Холмогоры]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Goretsky_district;
+=>nrel_city:
+    Senkovo
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//50
+estates_rpulva
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рыбацкая Пульва]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Chechevichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//51
+estates_kurkul
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Куркуля]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Sugzhu
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//52
+estates_blakitnysozh
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Блакiтны Сож]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mstislavsky_district;
+=>nrel_city:
+    Kaskovo
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//53
+estates_gostinydvor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостиный двор (Усадьба)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Crash
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//54
+estates_peschanybereg
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Песчаный берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Breastchino
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//55
+estates_serayasheika
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Серая Шейка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Polykovichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//56
+estates_kordon
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Одиннадцатый кордон]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Krichevsky_district;
+=>nrel_city:
+    Bubble
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//57
+estates_starki
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Старки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Belynichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//58
+estates_starayaolsa
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Старая Ольса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Klichevsky_district;
+=>nrel_city:
+    Small Olsa
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//59
+estates_relaxby
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чигиринское предместье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Chechevichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//60
+estates_lugovaya
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Луговая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bobruisk_district;
+=>nrel_city:
+    Boyars
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//61
+estates_spachynaksyabr
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Спачынак Сябрыны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Forthworthy
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//62
+estates_zatoka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Затока]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    New Bykov
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//63
+estates_fedorovo
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Федорово подворье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Kirovsky_district;
+=>nrel_city:
+    Podloogier
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//64
+estates_usadbaudruzey
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Друзей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    City
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//65
+estates_klevoemestechkogostevoydomik
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик для семьи в усадьбе «Клевое местечко»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Smyk
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//66
+estates_domikvlyubuzhe
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в Любуже]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Sugzhu
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//67
+estates_simonovichi
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Симоновичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Glovsky_district;
+=>nrel_city:
+    Simonya
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//68
+estates_zabavy
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Забавы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Fun.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//69
+estates_podvorje
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рыбацкое подворье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Dribinsky_district;
+=>nrel_city:
+    Shelves
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//70
+estates_uvodyugrigor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Дом рыбака «У Григорьевича», Домик у воды на 6 человек]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Red
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//71
+estates_bazachigirinkadom
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Трехэтажный гостевой дом на базе отдыха «Чигиринка»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Kirovsky_district;
+=>nrel_city:
+    Kolbovo.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//72
+estates_guesthouseugrigor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Дом рыбака «У Григорьевича» на 10 человек]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Red
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//73
+estates_usadbapodluzhie
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Подлужье, дом №3]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Kirovsky_district;
+=>nrel_city:
+    Chigirinka
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//74
+estates_vsaltanovke
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом в Салтановке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Saltanovka
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//75
+estates_dachaypalycha
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дача у Палыча]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Breastchino
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//76
+estates_klevoemestechkostudia
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик для двоих в венецианском стиле в «Клевом местечке»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Smyk
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//77
+estates_solnyshko
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Солнышко]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Red
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//78
+estates_protoka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чигиринская протока]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Forthworthy
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//79
+estates_daryina
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дарьина усадьба]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Korovichino
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//80
+estates_unadezhdy
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Надежды на Полевой]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Bykhov
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//81
+estates_russiandvor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Русский двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Foino.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//82
+estates_falvaraklazenki
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Фальварак «Лазеньки»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Newslines
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//83
+estates_michurki
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мичурки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Tehtin
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//84
+estates_bolonovka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Болоновка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Bolonka.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//85
+estates_vaverachkasonya
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ваверочка Соня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bobruisk_district;
+=>nrel_city:
+    Domanovo.
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//86
+estates_napolyane
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На поляне]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Breastchino
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//87
+estates_grydichinaozernaya13
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерная 13]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Breastchino
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//88
+estates_kvevoedomrybaka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик рыбака в "Клёвом местечке"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Smyk
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//89
+estates_sosnovterem
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сосновый терем]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Kostyukovichi_district;
+=>nrel_city:
+    Kanichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//90
+estates_bobrovahata
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Подлужье, дом №1]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Kirovsky_district;
+=>nrel_city:
+    Podloogier
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//91
+estates_blagodat
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Благодать в Чечевичах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Chechevichi
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//92
+estates_ugrigor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Дом рыбака «У Григорьевича», VIP-дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Osipovichsky_district;
+=>nrel_city:
+    Red
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//93
+estates_protochanka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Проточанка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Forthworthy
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//94
+estates_dfedor
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дядя Федор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bobruisk_district;
+=>nrel_city:
+    New Sharaevshchina
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//95
+estates_chigirinskoe
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чигиринское раздолье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Bykhovsky_district;
+=>nrel_city:
+    Breastchino
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//96
+estates_zaroschey
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [За рощей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Mogilev_district;
+=>nrel_city:
+    Mogilev
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//97
+estates_yagodka
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ягодка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Belynichsky_District;
+=>nrel_city:
+    Yagodka
+=>nrel_search_area:
+    Mogilev_region;;
+        
+//98
+estates_lesnoirai
+<- concept_estates;
+<- concept_estates_of_the_Mogilev_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесной Рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Mogilev_region;
+=>nrel_district:
+    Kirovsky_district;
+=>nrel_city:
+    Chigirinka
+=>nrel_search_area:
+    Mogilev_region;;

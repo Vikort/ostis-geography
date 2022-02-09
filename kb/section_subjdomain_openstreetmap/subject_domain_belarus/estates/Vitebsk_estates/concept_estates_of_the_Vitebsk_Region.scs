@@ -1,0 +1,36 @@
+concept_estate_of_the_Vitebsk_region
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[усадьба Витебской области]
+	(* <- lang_ru;; *);
+	[estate of the Vitebsk region]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (усадьба Витебской области)]
+		(* <- lang_ru;; *);
+		[Def. (estate of the Vitebsk region)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Усадьба Витебской области — усадьба, которое располагается в Витебской области.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Estate of the Vitebsk region is a estate, which is located in the Vitebsk region.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_estate;
+			vitebsk_region;
+            belarus
+		};;
+	*);;

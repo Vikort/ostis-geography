@@ -1,0 +1,34 @@
+concept_estate
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[усадьба]
+	(* <- lang_ru;; *);
+	[estate]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (усадьба)]
+		(* <- lang_ru;; *);
+		[Def. (estate)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Усадьба - комплекс жилых, хозяйственных, парковых и иных построек, а также, как правило, усадебный парк, составляющих единое целое.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Estate - a complex of residential, utility, park and other buildings, as well as, as a rule, a manor park that make up a single whole.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_estate
+		};;
+	*);;

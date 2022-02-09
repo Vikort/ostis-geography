@@ -1,0 +1,6916 @@
+        
+//1
+estates_4sezona
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [4 сезона]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//2
+estates_agrousadbaostrov
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Остров]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Rudnya
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//3
+estates_chaykadubki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чайка в Дубках]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Dubci
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//4
+estates_akarina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Акарына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Novoselki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//5
+estates_biosfera
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Наша Хата. Биосфера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Dokshitsky_district;
+=>nrel_city:
+    Klianniki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//6
+estates_trisosny
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Три сосны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//7
+estates_kozlovichi
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Козловичи-1]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Orshansky_district;
+=>nrel_city:
+    Kozlovichi-1.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//8
+estates_rozalinausadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Розалина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Tails
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//9
+estates_privolye
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Приволье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Kuzho
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//10
+estates_osotnousadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Осотно]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Gorodoksky_district;
+=>nrel_city:
+    NEW
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//11
+estates_lika
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лика]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Courtyard
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//12
+estates_berejje
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бережье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Nadberzhye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//13
+estates_letnysoneika
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Летний домик агроусадьбы «Сонейка (Солнышко)»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//14
+estates_chistyeklyuchi
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чистые ключи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Communar
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//15
+estates_belmonty
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бельмонты (Рыбачок на Дривятах)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ahremovtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//16
+estates_horen
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хорень]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Klyastitsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//17
+estates_luxpluslode
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Люкс+ в пансионате ЛОДЭ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    New Ladna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//18
+estates_ekonomlode
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Эконом-класс в пансионате ЛОДЭ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    New Ladna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//19
+estates_gribnoybabariki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бабарики», «Грибной» дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Gorodoksky_district;
+=>nrel_city:
+    Bobanyki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//20
+estates_medovyybabariki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бабарики», «Медовый» дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Gorodoksky_district;
+=>nrel_city:
+    Bobanyki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//21
+estates_sinica
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Синица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Petukhovschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//22
+estates_uiana
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Яна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Verkhnedvinsky_district;
+=>nrel_city:
+    Verkhnedvinsk
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//23
+estates_hunttolochin
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом охотника и рыболова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Tolochinsky_district;
+=>nrel_city:
+    Racey
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//24
+estates_nashirokih
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [На широких просторах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ratoney
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//25
+estates_snegipark
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Снеги-парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Snow
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//26
+estates_jivica
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Живица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Long
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//27
+estates_zarubezhe
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Зарубежье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//28
+estates_uninel
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Нинель]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lioznensky_district;
+=>nrel_city:
+    Guns
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//29
+estates_vdubah
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [В 4-х дубах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Great
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//30
+estates_plisskayagubernya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Плисская Губерня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Plisa
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//31
+estates_mezhozernaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Межозерная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Beshenkovichsky_district;
+=>nrel_city:
+    Panteles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//32
+estates_baykal2
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белорусский Байкал,гостевой дом №2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Zyabki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//33
+estates_nordost
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Норд-Ост]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Fence
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//34
+estates_yanovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [В Яново]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Yanovo.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//35
+estates_zamoshskiyeozera
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Замошские озёра]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Zawshye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//36
+estates_portartur
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Порт-Артур]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rase
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//37
+estates_orehovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Орехово]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Hooks
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//38
+estates_bolduk
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевые домики на Голубых озёрах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Tuskins
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//39
+estates_domikohotnika
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик охотника]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Shumilinsky_district;
+=>nrel_city:
+    Equal
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//40
+estates_inovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Inovo lake view]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Inovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//41
+estates_ozeroluchay
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [На берегу озера Лучай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Looda
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//42
+estates_domiknabraslavah
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик на Браславах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Gavrilovtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//43
+estates_krainamar
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Краина мар]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Khroli.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//44
+estates_ustelife
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Устье LIFE]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mouth
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//45
+estates_utatiany
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Татьяны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Dokshitsky_district;
+=>nrel_city:
+    Pomework
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//46
+estates_vintageusadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Vintage]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//47
+estates_tatyana
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Татьяна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//48
+estates_utrina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Утрина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Morgue
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//49
+estates_miheevskiy
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихий дворик "Михеевский"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mikheevtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//50
+estates_malta
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мальта]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//51
+estates_edishki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Едишки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Deans
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//52
+estates_krivoselcy
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кривосельцы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    KrivoSells
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//53
+estates_mihaylovskayazavodz
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Михайловская заводь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Gendics
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//54
+estates_paparatkvetka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Папараць кветка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//55
+estates_kacyaryna
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кацярына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Zakharny.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//56
+estates_buzhanka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бужанка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Kuzho
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//57
+estates_vnk
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Виктора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    New Ladna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//58
+estates_yustiyanovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Юстияново]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Verkhnedvinsky_district;
+=>nrel_city:
+    Uritshi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//59
+estates_alesyabraslav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Алеся]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//60
+estates_spadchynasenno
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Спадчына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//61
+estates_panskoemestechko
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Панское местечко]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    NEW SPIREN
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//62
+estates_uborisovicha
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Борисовича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mouth
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//63
+estates_uzhuravlya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Журавля]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Leonpol
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//64
+estates_uyutdvortolochin
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Уютный дворик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Tolochinsky_district;
+=>nrel_city:
+    Zagodie.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//65
+estates_erashouskihutarok
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ерашоуски хутарок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Shumilinsky_district;
+=>nrel_city:
+    Erashovo.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//66
+estates_naopyshke
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«На опушке», большой дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Humna fence
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//67
+estates_novoselovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом отдыха в Новосёлово]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Chesnik_district;
+=>nrel_city:
+    Novoselovo.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//68
+estates_dolgoe
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Долгое]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Zyabki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//69
+estates_lvinoeserdtse
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Львиное сердце]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//70
+estates_babariki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бабарики», «Гостевой» дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Gorodoksky_district;
+=>nrel_city:
+    Bobanyki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//71
+estates_guesthousemedv1
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Медвежий угол», дом на 10 человек]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Bobruischyna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//72
+estates_bobrenata
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бобренята]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Chesnik_district;
+=>nrel_city:
+    Abasser
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//73
+estates_otdykhnaprudu
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Отдых на пруду]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//74
+estates_brachislav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сядзіба на Азёрнай (На Озерной)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//75
+estates_hutormustang
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Мустанг]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Suitovskoye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//76
+estates_shaleinovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бунгало усадьбы Inovo lake view]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Inovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//77
+estates_postavyforest
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик охотника Поставского лесхоза]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Guta.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//78
+estates_strustodacha
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом-дача «Струсто»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//79
+estates_nomerbaykal
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Белорусский Байкал», семейный номер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Zyabki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//80
+estates_usadbalesnaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесная на Браславах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Degtyari
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//81
+estates_gnezdo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гнездо орла]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//82
+estates_sonechnyebary
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сонечныя бары]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lioznensky_district;
+=>nrel_city:
+    Dobromysli
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//83
+estates_kupcheli
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Купчели]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Purchase
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//84
+estates_cernishki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чернишки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//85
+estates_ubozheny
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Божены]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rubezh
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//86
+estates_vostr
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Востриковка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Cryption
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//87
+estates_uknyazya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Князя]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Snow
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//88
+estates_nedrovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Недрово]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mouth
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//89
+estates_usadbadomikvderevne
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в деревне]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Ushachsky_district;
+=>nrel_city:
+    Zawshye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//90
+estates_pousvizh
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Поусвиж (Полсвиж)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Big Polysvizh
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//91
+estates_dachavstrusto
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дача-коттедж в Струсто]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//92
+estates_romashka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ромашка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//93
+estates_demeh
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Демех]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Demee.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//94
+estates_domikulisa
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик у Лиса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    White
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//95
+estates_braslavskiyfort
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Браславский Форт]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Mural
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//96
+estates_agrodubrava
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дубрава]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Verkhnedvinsky_district;
+=>nrel_city:
+    Verkhnedvinsk
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//97
+estates_ualeksandrovicha
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Александровича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Prickly
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//98
+estates_sonnayaloshchina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сонная лощина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//99
+estates_nadolje
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик на Долже]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Dome
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//100
+estates_nalepelskih
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Агроусадьба на озере Островно, большой дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Dammer
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//101
+estates_milashki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Милашки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bobyli
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//102
+estates_khomkovshchina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хомковщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//103
+estates_dachastrusto
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дача в Струсто]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//104
+estates_uyasya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Яся]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Cherven
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//105
+estates_vpanteleykah
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом в Пантелейках]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Panteles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//106
+estates_ozernyjkraj
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерный край]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Dokshitsky_district;
+=>nrel_city:
+    Stanislavtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//107
+estates_bannydvor
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Банный двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sharkovshchinsky_district;
+=>nrel_city:
+    Olkhovtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//108
+estates_solnechnaia
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Солнечная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Lyatohi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//109
+estates_strustostyle
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Струсто Style]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//110
+estates_regentzhemchuzhina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом «Регент» в усадьбе «Озерная жемчужина Струсто»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Panteles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//111
+estates_utatianyozernaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Татьяны на Озёрной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Skulls
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//112
+estates_kupalnica
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Купальница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Melikovo.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//113
+estates_gagarina9
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гагарина 9]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//114
+estates_shalelode
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Шале в пансионате ЛОДЭ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    New Ladna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//115
+estates_molodezhpoluostrov
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Молодёжный дом» на базе отдыха «Полуостров сокровищ»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Panteles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//116
+estates_medv
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Медвежий угол», дом на 12 человек]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Bobruischyna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//117
+estates_derevenskybabariki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бабарики», «Деревенский» дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Gorodoksky_district;
+=>nrel_city:
+    Bobanyki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//118
+estates_uanny
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Анны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Milyunsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//119
+estates_osinovka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Осиновка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Mioras
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//120
+estates_soneika
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сонейка (Солнышко)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//121
+estates_radost
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Радость на озере Болдук]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Tuskins
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//122
+estates_usadbastrusto
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Струсто-Водолей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//123
+estates_nikolayevskiposad
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Николаевский Посад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Ushachsky_district;
+=>nrel_city:
+    Sergeany
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//124
+estates_ukonstantina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Константина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogdanovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//125
+estates_bogino
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Богино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//126
+estates_mezhduozer
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Между двух озер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Maskovichi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//127
+estates_braslavchanka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Браславчанка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Datschkeket.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//128
+estates_vslobodke
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерный берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//129
+estates_pavelena
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Павелена]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//130
+estates_zabelskyhutorok
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Забельский хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Beshenkovichsky_district;
+=>nrel_city:
+    Dashkovka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//131
+estates_dostatok
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Достаток]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Disna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//132
+estates_bibirevkaroyal
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бибиревка "ROYAL"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Bibirevka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//133
+estates_naozereboginskoe
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом на озере Богинское]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslavskaya Luka.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//134
+estates_vozeracherty
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ля возера Черты]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Traits
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//135
+estates_usadbanalesnoy
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Лесной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Orekhovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//136
+estates_zamokelen
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Замок Элен]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rase
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//137
+estates_tihdvorik
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихий дворик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Buzzani
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//138
+estates_vslabodke
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в Слободке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//139
+estates_montekristo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Монте-Кристо]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//140
+estates_buslinoe
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Буслиное гнездо]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Vasilins
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//141
+estates_gusarovschina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гусаровщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Gusarovskaya
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//142
+estates_sokorovo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сокорово]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Beshenkovichsky_district;
+=>nrel_city:
+    Sokorso
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//143
+estates_petrovich
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Петровича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Lyatohi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//144
+estates_guesthousenalepelskih
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Агроусадьба на озере Островно, деревенский дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Dammer
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//145
+estates_derevenskayak
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Деревенская колыбель]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Kamenka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//146
+estates_usadbakosarzevskih
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Косаржевских]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Kozlovichi.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//147
+estates_bogudenki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Богуденьки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Orches
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//148
+estates_uricharda
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Ричарда]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Petukhovschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//149
+estates_uzamkovoygory
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У подножья Замковой горы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//150
+estates_dyhanielesa
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дыхание леса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Panteles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//151
+estates_aleksandrovka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Александровка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Antonovtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//152
+estates_uvladimira
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Владимира]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//153
+estates_tihayazavod
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихая заводь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Chesnik_district;
+=>nrel_city:
+    Abasser
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//154
+estates_rozalina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Rozalina]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//155
+estates_etnodomlina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Этно-дом Лина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Chernevo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//156
+estates_shale3mishkiclub
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Шале» в загородном клубе «Три Медведя»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mouth
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//157
+estates_syabryik
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сябры и К]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Orshansky_district;
+=>nrel_city:
+    Signs
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//158
+estates_usadbamechta
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мечта]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//159
+estates_berd
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Берд]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Mosar
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//160
+estates_apanasenki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Апанасенки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Aronova Sloboda
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//161
+estates_podlipoybraslav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Под Липой]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//162
+estates_luxlode
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Люкс в пансионате ЛОДЭ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    New Ladna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//163
+estates_guesthousemedv2
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Медвежий угол», дом на 4 человека]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Bobruischyna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//164
+estates_yakimmanya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Яким+Маня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Ekiman-1
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//165
+estates_9kordon
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [9 кордон]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ozsa
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//166
+estates_poozerie
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Поозерье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Gorodoksky_district;
+=>nrel_city:
+    Konasha
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//167
+estates_dom2ukonstantina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Константина. Дом 2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogdanovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//168
+estates_voiso
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Войсо]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mikheevtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//169
+estates_paulikina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пауликина хатка (Паулiкiна хатка)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Simonya
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//170
+estates_karteya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Картея]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sharkovshchinsky_district;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//171
+estates_sadovaja
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Садовая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Beshenkovichsky_district;
+=>nrel_city:
+    Hotin
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//172
+estates_domuozerabolduk
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом у озера Болдук]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Tuskins
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//173
+estates_uklya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Укля]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Golubovishchi.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//174
+estates_domuozerakamen
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом у озера Камень]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    A rock
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//175
+estates_marlin
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Марлин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rase
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//176
+estates_saunaohotnica
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Баня в Охотнице]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Huntry
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//177
+estates_karpiki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Карпики]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Voronovo.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//178
+estates_gemchugniykray
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Жемчужный край», трёхэтажный коттедж]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Tuskins
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//179
+estates_albenevskayatish
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Альбеневская тишь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Tovschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//180
+estates_orcovskayapristan
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Орцовская пристань]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Orches
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//181
+estates_torchikhouse
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Torchikhouse]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lioznensky_district;
+=>nrel_city:
+    Merchitsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//182
+estates_lapeho
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лапехо]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Senno
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//183
+estates_bober
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бобёр]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Vitebsk
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//184
+estates_macuki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мацуки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//185
+estates_nadozerom
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Над Озером]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//186
+estates_usadbajv
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Живая вода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Orshansky_district;
+=>nrel_city:
+    Simoi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//187
+estates_gavrilovich
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Гавриловича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Yard Porechye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//188
+estates_glushanin
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Павла Глушанина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Yard Porechye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//189
+estates_ordyshevo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ордышево]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Orshansky_district;
+=>nrel_city:
+    Sofiyevka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//190
+estates_boginskaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Богинская сказка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//191
+estates_eridandom
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом Отдыха Эридан]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Dome
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//192
+estates_atmichael
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Михаила Михайловича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rubezh
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//193
+estates_berendeevocarstvo
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Берендеево царство]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Orches
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//194
+estates_gornaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Горная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//195
+estates_puzyri
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пузыри]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bubbles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//196
+estates_zbrodovichi
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Збродовичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Zbrodovichi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//197
+estates_bolshayalistveniza
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Большая лиственница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//198
+estates_usadbazhemchuzhina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерная жемчужина Струсто]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Panteles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//199
+estates_ivan
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Ивана]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//200
+estates_trabutishki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Трабутишки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Trabutishi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//201
+estates_utihona
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Тихона]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Makarichi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//202
+estates_maentokgorbacheva
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Маентак Горбачева]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Druia
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//203
+estates_usadbauvictora
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Виктора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//204
+estates_vasilkiusadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Васильки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Budila
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//205
+estates_zhuravli
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Журавли]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//206
+estates_sosnybraslav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сосны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//207
+estates_izubrica
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Изубрица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Verkhnedvinsky_district;
+=>nrel_city:
+    Izubric
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//208
+estates_vstrusto
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [В Струсто]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//209
+estates_usadbaesnoeozero
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лесное озеро]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//210
+estates_naobolyanke
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Оболянке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Korchevschsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//211
+estates_nadolzhe
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Долже]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Shabani.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//212
+estates_sunlit
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Солнечный угол]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Gornovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//213
+estates_hutorok
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Petukhovschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//214
+estates_rosomaha
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Росомаха]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Tails
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//215
+estates_nabraslavskih
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Отдых на Браславских озёрах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rubezh
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//216
+estates_bobrxata
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бобровая хата]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Ukleenka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//217
+estates_apelsin
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Апельсин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Ushachsky_district;
+=>nrel_city:
+    Ushachi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//218
+estates_zapovedostrovdom5
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Заповедный остров», дом №5]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Sho
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//219
+estates_babochka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик «Бабочка / Божья Коровка» на базе отдыха «Красногорка»,]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Krasnogorka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//220
+estates_odvor
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Охотный Двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Bobyanychi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//221
+estates_murazhi21
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [МУРАЖИ 21]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//222
+estates_brpriozere
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Приозёрная на Браславах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//223
+estates_scezhki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сцежкi]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Tracks
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//224
+estates_chist
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чистые]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//225
+estates_lavrinovka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [В Лавриновке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Lavrinovka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//226
+estates_falvarekvalevko
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Фальварек Валевко]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//227
+estates_dubkibraslav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дубки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    New project
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//228
+estates_comforthousemurazhi
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Comfort house]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//229
+estates_teremokbraslav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Теремок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ahremovtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//230
+estates_domuruchya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом у ручья]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Posnudye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//231
+estates_vaspan
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой дом Васпан]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Vyatki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//232
+estates_standartbazaaktam
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дома «Стандарт» на базе отдыха «Актам»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Mural
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//233
+estates_padklenami
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хата "Пад кленамі"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Noviki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//234
+estates_fort
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Южный форт]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//235
+estates_babymoroz
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бабы Мороз]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Disna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//236
+estates_aleksandrina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Александрина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Lipovtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//237
+estates_ozernyykray
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерный край]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//238
+estates_domikvderevne
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в деревне]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Doby.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//239
+estates_shirki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мини гостиница "Ширки"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Shirki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//240
+estates_narostaniah
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [На ростанях]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Paraski
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//241
+estates_olsya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Олься]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Big Olsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//242
+estates_vidzi
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Видзы-Ловчинские]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Viosa-Lovechinsky
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//243
+estates_yablonovca
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Яблоновка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Verkhnedvinsky_district;
+=>nrel_city:
+    Great village
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//244
+estates_rozeta
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Розета]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rase
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//245
+estates_byaseda
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бяседа]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Pulische
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//246
+estates_domikvsosnah
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик в соснах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//247
+estates_sumovka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сумовка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Yanovo.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//248
+estates_vrhleshos
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом охотника и рыбака ГЛХУ Верхнедвинский лесхоз]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Verkhnedvinsky_district;
+=>nrel_city:
+    Justianovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//249
+estates_chistyybereg
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чистый берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Zawshye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//250
+estates_mishki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мишки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mural
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//251
+estates_motorezervation
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Моторезервация]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Zaozerier
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//252
+estates_uzatoki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Затоки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//253
+estates_relaxusadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Relax]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Beshenkovichsky_district;
+=>nrel_city:
+    Gorod
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//254
+estates_gornydomlesnoerydnya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Горный дом №2 в пансионате «Лесное-Рудня»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Rudnya
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//255
+estates_braslavluka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Браславская Лука]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslavskaya Luka.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//256
+estates_zagorani
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Загорани]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Signs
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//257
+estates_luchay
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Лучайский куток]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Looda
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//258
+estates_zareche
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Заречная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//259
+estates_edukdedu
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Еду к деду]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Tuskins
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//260
+estates_saro
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Саро]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Novoselki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//261
+estates_mestopodsosnami
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Место под соснами]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//262
+estates_ostrovlyany
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Остров Ляны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Gorodoksky_district;
+=>nrel_city:
+    Ostlenians
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//263
+estates_dom2greenvillage
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик №2 в загородном комплексе Green village]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Snow
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//264
+estates_muraje
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Муражье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//265
+estates_vival
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Vi Val' (ВиВаль)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//266
+estates_kopchenlesh
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Копченый лещ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Gavrilovichi.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//267
+estates_kordondolgoe
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кордон Долгое]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//268
+estates_letnyaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Летняя]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//269
+estates_chudnybereg
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Чудный берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Traits
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//270
+estates_topolya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тополя]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Orshansky_district;
+=>nrel_city:
+    Oak
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//271
+estates_cihizakutok
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Цiхi закуток]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//272
+estates_valoshka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Валошка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Zarechye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//273
+estates_ugennadiya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Геннадия Кима]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Vyatki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//274
+estates_toptigin
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Топтыгина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Dokshitsky_district;
+=>nrel_city:
+    Klianniki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//275
+estates_viking
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Викинг]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Leoshki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//276
+estates_balsan
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бальсан]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ikazn
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//277
+estates_ugennadiyausadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Геннадия]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//278
+estates_guesthousedoljastyle
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Семейный домик в усадьбе DoljaStyle]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Dome
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//279
+estates_volkbobrxata
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бобровая хата», коттедж «Волчий лог»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Ukleenka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//280
+estates_sasnovyvodar
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сасновы водар]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//281
+estates_kotra
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Котра]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Gushchino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//282
+estates_zhemchuzhinadom
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Жемчужина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//283
+estates_naberegustrusto
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик на берегу Струсто]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//284
+estates_dobry
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Добрый дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//285
+estates_karchmadudara
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Карчма Дудара]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Plisa
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//286
+estates_dvinskaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Двинская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Coptevo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//287
+estates_kleny
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Клены]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Big ababye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//288
+estates_hutor
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор у Креницы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Vladychino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//289
+estates_dachabraslav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дача на Браславских озерах]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Oven
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//290
+estates_usadbamayak
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Маяк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Kesiki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//291
+estates_zhuravno
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Журавно]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Zhuravno
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//292
+estates_izba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Изба]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//293
+estates_rodnikovykray
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Родниковый край]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Zhepherki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//294
+estates_ozernayaplus
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерная плюс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Personian
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//295
+estates_tomki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Томки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Tomka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//296
+estates_savonartihiiugolok
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Савонар» в агроусадьбе «Тихий уголок»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mekyana
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//297
+estates_mashaimedved
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Маша и медведь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//298
+estates_nagore
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом на горе]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Milyunsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//299
+estates_uyevgeniya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Евгения]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//300
+estates_razdolie
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Раздолье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Petukhovschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//301
+estates_udnepra
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик у Днепра]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Orshansky_district;
+=>nrel_city:
+    Orsha
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//302
+estates_vzakutke
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [В закутке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Beshenkovichsky_district;
+=>nrel_city:
+    Panteles
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//303
+estates_motylkovaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мотыльковая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//304
+estates_poteh
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Потех]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//305
+estates_inovousadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Иново]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Rase
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//306
+estates_dobra
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Добрая]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Gvozdovo
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//307
+estates_sosnovydom
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Сосновый дом]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ovsovka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//308
+estates_zhemch
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Жемчужина Браслава]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Vyatki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//309
+estates_nespish
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Неспиш]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//310
+estates_navoiso
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Войсо]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Muragi
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//311
+estates_centreurope
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Центр Европы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Jewness
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//312
+estates_priozernaya48
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Приозёрная 48]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Krasnosheltsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//313
+estates_elno
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Шале Ельно]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Petukhovschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//314
+estates_podsolnuhi
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Подсолнухи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ababye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//315
+estates_tovshchina
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Товщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Tovschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//316
+estates_malrai
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Маленький рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mouth
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//317
+estates_velikolepnydomik
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Великолепный домик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//318
+estates_usadbaberezki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Березки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Sennensky_district;
+=>nrel_city:
+    Berezino.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//319
+estates_sinyayadacha
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Синяя дача]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//320
+estates_serebristiybereg
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Серебристый берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Kesiki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//321
+estates_mateykavasyaliba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мацейкава сялiба]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Prickly
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//322
+estates_raiskoemestecko
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Райское местечко]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//323
+estates_zapovedostrovdom2
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Заповедный остров», дом №2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Sho
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//324
+estates_zapovedostrovdom3
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Заповедный остров», дом №3]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Sho
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//325
+estates_lisbobrxata
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бобровая хата», коттедж «Лисья нора»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Ukleenka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//326
+estates_zapovedostrov
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Заповедный остров» - усадьба между трёх озёр]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Sho
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//327
+estates_medvbobrxata
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Бобровая хата», коттедж «Медвежий угол»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Ukleenka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//328
+estates_kanashiagro
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [КФХ "Канаши-Агро"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Polotsk_region;
+=>nrel_city:
+    Konasha
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//329
+estates_solnechnyydvorik
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Солнечный дворик]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Noviki.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//330
+estates_usvetlany
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Светланы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Saplin
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//331
+estates_yozera
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Озера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Shabani.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//332
+estates_pervomayskaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Первомайская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//333
+estates_priozernajavitebsk
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Приозёрная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Vitebsk
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//334
+estates_ubronislavovica
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Брониславовича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//335
+estates_upetrovichabraslav
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Петровича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//336
+estates_dolga
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Птичий рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Dome
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//337
+estates_ryjiikot
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рыжий кот]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//338
+estates_dom3greenvillage
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик №3 в загородном комплексе Green village]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Snow
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//339
+estates_strustianochka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Струстяночка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//340
+estates_karlamarksausadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Карла Маркса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//341
+estates_obole
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Оболе]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Mikheevtsy
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//342
+estates_beloyechornoye
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белое и Черное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    White lake
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//343
+estates_domikozero
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик у озера]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Drissyty
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//344
+estates_zvezhye
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Звежье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Rossonsky_district;
+=>nrel_city:
+    Rudnya
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//345
+estates_vishnevyysad
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Вишневый сад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Ovsovka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//346
+estates_zadvinie
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Задвинье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Invali
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//347
+estates_malinki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Малинки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    External
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//348
+estates_rudaki
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом в деревне Рудаки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Vitebsk_District.;
+=>nrel_city:
+    Rudaki
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//349
+estates_domujabloni
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом у Яблони]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Posnudye
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//350
+estates_derevenskayablagodat
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Деревенская благодать]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Dokshitsky_district;
+=>nrel_city:
+    Pomework
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//351
+estates_ponilend
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пони Лэнд]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Old yard
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//352
+estates_kaptaruny
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Каптаруны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Delivery_area;
+=>nrel_city:
+    Captaruna
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//353
+estates_mazber
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мазурный берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Verkhnedvinsky_district;
+=>nrel_city:
+    Mazurino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//354
+estates_yakimovich
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Якимович]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Deepskiy_district;
+=>nrel_city:
+    Deep
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//355
+estates_murashkiplus
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Мурашки плюс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Sobolevschina
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//356
+estates_chernitza
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Черница]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Danilovichi.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//357
+estates_braslavskoevzmore
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    ["На Дривятах"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//358
+estates_irinausadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ирина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Myster_district;
+=>nrel_city:
+    Courtyard
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//359
+estates_adpachynakusadba
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Адпачынак]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Braslav.
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//360
+estates_ukazimirycha
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Казимирыча]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Bogino
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//361
+estates_mezhozer
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [МежОзер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Slobodka
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//362
+estates_dolgoozernaya
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Долгоозерная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Lepelsky_district;
+=>nrel_city:
+    Courtyard
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//363
+estates_strustyanka
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Струстянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Strst
+=>nrel_search_area:
+    Vitebsk_region.;;
+        
+//364
+estates_inkognito
+<- concept_estates;
+<- concept_estates_of_the_Vitebsk_region.;
+<- concept_way;
+=>nrel_main_idtf:
+    [Инкогнито]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Vitebsk_region.;
+=>nrel_district:
+    Braslavsky_district;
+=>nrel_city:
+    Leoshki.
+=>nrel_search_area:
+    Vitebsk_region.;;

@@ -1,0 +1,1444 @@
+        
+//1
+estates_dom2agroberezina
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Березина-2»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Gagali.
+=>nrel_search_area:
+    Gomel_region;;
+        
+//2
+estates_bobrovrychei
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бобров ручей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Dobrush_district;
+=>nrel_city:
+    Red October
+=>nrel_search_area:
+    Gomel_region;;
+        
+//3
+estates_ulesanaopushke
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У леса на опушке]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Red
+=>nrel_search_area:
+    Gomel_region;;
+        
+//4
+estates_nikolaevskayasloboda
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Николаевская Слобода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Svetlogorsky_district;
+=>nrel_city:
+    New Belitsa
+=>nrel_search_area:
+    Gomel_region;;
+        
+//5
+estates_floridanarancho
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Флорида» в загородном комплексе «Ранчо»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Student Guta
+=>nrel_search_area:
+    Gomel_region;;
+        
+//6
+estates_alyaskanarancho
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Аляска» в загородном комплексе «Ранчо»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Student Guta
+=>nrel_search_area:
+    Gomel_region;;
+        
+//7
+estates_kolostrumena
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Коло Струменя]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhitkovichi_district;
+=>nrel_city:
+    Tours
+=>nrel_search_area:
+    Gomel_region;;
+        
+//8
+estates_toroka
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Торока]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Copsevichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//9
+estates_spadchinamak
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Спадчына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Makarichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//10
+estates_nikolinostrov
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор Николин Остров]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Svetlogorsky_district;
+=>nrel_city:
+    Mlyna
+=>nrel_search_area:
+    Gomel_region;;
+        
+//11
+estates_tixijomut
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тихий Омут]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rogachevsky_district;
+=>nrel_city:
+    Glynsk
+=>nrel_search_area:
+    Gomel_region;;
+        
+//12
+estates_parhouse
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пар House]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Sevruki
+=>nrel_search_area:
+    Gomel_region;;
+        
+//13
+estates_svetlogorskileshoz
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Светлогорский лесхоз]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Svetlogorsky_district;
+=>nrel_city:
+    Stuzhka
+=>nrel_search_area:
+    Gomel_region;;
+        
+//14
+estates_uzolotoypchelki
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У золотой пчёлки Медовый рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Yelsky_district;
+=>nrel_city:
+    Old high
+=>nrel_search_area:
+    Gomel_region;;
+        
+//15
+estates_krupka
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Крупка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Lelchitsky_district;
+=>nrel_city:
+    Krukka
+=>nrel_search_area:
+    Gomel_region;;
+        
+//16
+estates_turayskiyalegendi
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тураускiя легенды]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhitkovichi_district;
+=>nrel_city:
+    Tours
+=>nrel_search_area:
+    Gomel_region;;
+        
+//17
+estates_solnechnyybereg
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Солнечный берег]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Bluebits
+=>nrel_search_area:
+    Gomel_region;;
+        
+//18
+estates_gomelrechnaya
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Речная в Гомеле]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Chenki.
+=>nrel_search_area:
+    Gomel_region;;
+        
+//19
+estates_village
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [The Village 35]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Vetkovsky_district;
+=>nrel_city:
+    HALCH
+=>nrel_search_area:
+    Gomel_region;;
+        
+//20
+estates_vrechice
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Горького]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Rechitsa
+=>nrel_search_area:
+    Gomel_region;;
+        
+//21
+estates_milygrad
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Милый Град]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Milograd
+=>nrel_search_area:
+    Gomel_region;;
+        
+//22
+estates_zherelec
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хутор "Жерелец"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Lelchitsky_district;
+=>nrel_city:
+    Jerelets
+=>nrel_search_area:
+    Gomel_region;;
+        
+//23
+estates_indiana
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Индиана» в загородном комплексе «Ранчо»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Student Guta
+=>nrel_search_area:
+    Gomel_region;;
+        
+//24
+estates_nevadanarancho
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Невада» в загородном комплексе «Ранчо»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Student Guta
+=>nrel_search_area:
+    Gomel_region;;
+        
+//25
+estates_tehasnarancho
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Техас» в загородном комплексе «Ранчо»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Student Guta
+=>nrel_search_area:
+    Gomel_region;;
+        
+//26
+estates_vouchynkut
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Воўчын кут]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Svetlogorsky_district;
+=>nrel_city:
+    Osinovka
+=>nrel_search_area:
+    Gomel_region;;
+        
+//27
+estates_palyaunichy
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Домик охотника "Паляуничы"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Petrikov
+=>nrel_search_area:
+    Gomel_region;;
+        
+//28
+estates_loshadki
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Лошадиный остров»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Granovka
+=>nrel_search_area:
+    Gomel_region;;
+        
+//29
+estates_babushkinahata
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Бабушкина Хата]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhlobinsky_district;
+=>nrel_city:
+    Lesan
+=>nrel_search_area:
+    Gomel_region;;
+        
+//30
+estates_gorval
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Поместье Горваль]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Gorval
+=>nrel_search_area:
+    Gomel_region;;
+        
+//31
+estates_stanitza
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Станица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhitkovichi_district;
+=>nrel_city:
+    Zhitkovichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//32
+estates_milograd
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Милоград]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Milograd
+=>nrel_search_area:
+    Gomel_region;;
+        
+//33
+estates_domrybaka
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом рыбака]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Ilyich
+=>nrel_search_area:
+    Gomel_region;;
+        
+//34
+estates_agrousadbarelaks
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Релакс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Polyana
+=>nrel_search_area:
+    Gomel_region;;
+        
+//35
+estates_gagali
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гагали-10]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Gagali.
+=>nrel_search_area:
+    Gomel_region;;
+        
+//36
+estates_kentukkinarancho
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Кентукки» в загородном комплексе «Ранчо»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Student Guta
+=>nrel_search_area:
+    Gomel_region;;
+        
+//37
+estates_californiyanarancho
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [«Калифорния» в загородном комплексе «Ранчо»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Student Guta
+=>nrel_search_area:
+    Gomel_region;;
+        
+//38
+estates_avrorarechica
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Аврора]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Rechitsa
+=>nrel_search_area:
+    Gomel_region;;
+        
+//39
+estates_ozernayaklenovica
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Озерная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Buda-Koshelevsky_district;
+=>nrel_city:
+    Klenovitsa
+=>nrel_search_area:
+    Gomel_region;;
+        
+//40
+estates_agrokalinka
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Калинка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Mozyr_district;
+=>nrel_city:
+    Gurines
+=>nrel_search_area:
+    Gomel_region;;
+        
+//41
+estates_unoritza
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Унорица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Units
+=>nrel_search_area:
+    Gomel_region;;
+        
+//42
+estates_hochen
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хочень]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhitkovichi_district;
+=>nrel_city:
+    I want
+=>nrel_search_area:
+    Gomel_region;;
+        
+//43
+estates_fazendagomel
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Фазенда]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Gomel
+=>nrel_search_area:
+    Gomel_region;;
+        
+//44
+estates_belyerosyusadba
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Белые Росы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Makarichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//45
+estates_vasilisaprekrasnaya
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Василисы Прекрасной]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Yelsky_district;
+=>nrel_city:
+    Beetles
+=>nrel_search_area:
+    Gomel_region;;
+        
+//46
+estates_uyutnaya
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Уютная]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Chechersky_district;
+=>nrel_city:
+    Bottvino
+=>nrel_search_area:
+    Gomel_region;;
+        
+//47
+estates_ulybka
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Улыбка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Chechersky_district;
+=>nrel_city:
+    TURISPEKHEVICHI
+=>nrel_search_area:
+    Gomel_region;;
+        
+//48
+estates_rybackoe
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Рыбацкое счастье]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Loevsky_District;
+=>nrel_city:
+    Bushitin
+=>nrel_search_area:
+    Gomel_region;;
+        
+//49
+estates_namira
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На Мира]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Milograd
+=>nrel_search_area:
+    Gomel_region;;
+        
+//50
+estates_svidnoe
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Свидное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Lelchitsky_district;
+=>nrel_city:
+    SWID
+=>nrel_search_area:
+    Gomel_region;;
+        
+//51
+estates_bannayaderevnya
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Банная деревня]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Granovka
+=>nrel_search_area:
+    Gomel_region;;
+        
+//52
+estates_forestparadise
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Forest Paradise]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Gorval
+=>nrel_search_area:
+    Gomel_region;;
+        
+//53
+estates_pr
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Пчелиный рай]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Chechersky_district;
+=>nrel_city:
+    Spark
+=>nrel_search_area:
+    Gomel_region;;
+        
+//54
+estates_kremno
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Кремное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhitkovichi_district;
+=>nrel_city:
+    Silicon
+=>nrel_search_area:
+    Gomel_region;;
+        
+//55
+estates_ruchnoe
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Ручное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Lelchitsky_district;
+=>nrel_city:
+    Manual
+=>nrel_search_area:
+    Gomel_region;;
+        
+//56
+estates_navode
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На воде]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Polyubichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//57
+estates_usadbahutorok
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Агроусадьба Хуторок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Demena
+=>nrel_search_area:
+    Gomel_region;;
+        
+//58
+estates_domokhotnikazhlobin
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом охотника и рыболова "Приднепровский"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhlobinsky_district;
+=>nrel_city:
+    Zupper
+=>nrel_search_area:
+    Gomel_region;;
+        
+//59
+estates_greenwayfruit
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гринвэй Фрут]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Amber
+=>nrel_search_area:
+    Gomel_region;;
+        
+//60
+estates_zelenayapolyanagomel
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Зелёная поляна]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Vetkovsky_district;
+=>nrel_city:
+    Yurkovichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//61
+estates_otala
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Отала]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhlobinsky_district;
+=>nrel_city:
+    Ogon
+=>nrel_search_area:
+    Gomel_region;;
+        
+//62
+estates_rodnyikut
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Родны кут]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rogachevsky_district;
+=>nrel_city:
+    Zavoye
+=>nrel_search_area:
+    Gomel_region;;
+        
+//63
+estates_agrotadosi
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Тадоси]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Lyaskovichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//64
+estates_valentini
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У Валентины]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rogachevsky_district;
+=>nrel_city:
+    Schabrin
+=>nrel_search_area:
+    Gomel_region;;
+        
+//65
+estates_ztklestur
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Дом Охотника Червоное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhitkovichi_district;
+=>nrel_city:
+    Chervona
+=>nrel_search_area:
+    Gomel_region;;
+        
+//66
+estates_guestforestparadise
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Гостевой дом усадьбы Forest Paradise]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Gorval
+=>nrel_search_area:
+    Gomel_region;;
+        
+//67
+estates_napol
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [На поляне]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Polyana
+=>nrel_search_area:
+    Gomel_region;;
+        
+//68
+estates_umelnica
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [У мельника]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Mozyr_district;
+=>nrel_city:
+    Noviki.
+=>nrel_search_area:
+    Gomel_region;;
+        
+//69
+estates_agoodplace
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Хорошее место]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Osovtsy
+=>nrel_search_area:
+    Gomel_region;;
+        
+//70
+estates_okolitsarogachev
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Околица]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rogachevsky_district;
+=>nrel_city:
+    Schabrin
+=>nrel_search_area:
+    Gomel_region;;
+        
+//71
+estates_ostrovokzhitkovichi
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Островок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Zhitkovichi_district;
+=>nrel_city:
+    Zhitkovichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//72
+estates_talasha
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Деда Талаша]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Petrikov
+=>nrel_search_area:
+    Gomel_region;;
+        
+//73
+estates_bogomazov
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Богомазов двор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Novoselki
+=>nrel_search_area:
+    Gomel_region;;
+        
+//74
+estates_beregsloboda
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Береговая Слабода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Rechitsky_district;
+=>nrel_city:
+    Shore
+=>nrel_search_area:
+    Gomel_region;;
+        
+//75
+estates_malinkiusadba
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Малинки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Gomel_district;
+=>nrel_city:
+    Romanovichi
+=>nrel_search_area:
+    Gomel_region;;
+        
+//76
+estates_npp
+<- concept_estates;
+<- concept_estates_of_the_Gomel_region;
+<- concept_way;
+=>nrel_main_idtf:
+    [Национальный парк «Припятский»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    Gomel_region;
+=>nrel_district:
+    Petrikovsky_district;
+=>nrel_city:
+    Lyaskovichi
+=>nrel_search_area:
+    Gomel_region;;
