@@ -1,0 +1,25 @@
+post_office_number_210032 => nrel_main_idtf:
+[post_office_number_210032]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 68 76]
+(* <- phone_number;;*);
+[210032]
+(* <- lang_ru;; <- postcode;;*);
+[30.212277]
+(* <- lang_ru;; <- longitude;;*);
+[210032, г. Витебск, ул. Чкалова 34]
+(* <- lang_ru;; <- address;;*);
+[55.1680214]
+(* <- lang_ru;; <- latitude;;*);
+[Чкалова]
+(* <- lang_ru;; <- street;;*);
+[34]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Цвиликова Татьяна Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210032]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

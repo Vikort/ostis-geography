@@ -1,0 +1,25 @@
+post_office_number_212038 => nrel_main_idtf:
+[post_office_number_212038]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 64 46 80]
+(* <- phone_number;;*);
+[212038]
+(* <- lang_ru;; <- postcode;;*);
+[30.3666185]
+(* <- lang_ru;; <- longitude;;*);
+[212038, г. Могилев, ул. Мовчанского 1В]
+(* <- lang_ru;; <- address;;*);
+[53.872967]
+(* <- lang_ru;; <- latitude;;*);
+[Мовчанского]
+(* <- lang_ru;; <- street;;*);
+[1В]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[Козлова Ирина Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212038]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

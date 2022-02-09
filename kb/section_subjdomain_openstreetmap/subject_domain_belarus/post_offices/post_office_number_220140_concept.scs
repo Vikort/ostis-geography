@@ -1,0 +1,25 @@
+post_office_number_220140 => nrel_main_idtf:
+[post_office_number_220140]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 364 05 21]
+(* <- phone_number;;*);
+[220140]
+(* <- lang_ru;; <- postcode;;*);
+[27.44547065]
+(* <- lang_ru;; <- longitude;;*);
+[220140, г. Минск, улица. Притыцкого 78]
+(* <- lang_ru;; <- address;;*);
+[53.90713812]
+(* <- lang_ru;; <- latitude;;*);
+[Притыцкого]
+(* <- lang_ru;; <- street;;*);
+[78]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Салова Людмила Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220140]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

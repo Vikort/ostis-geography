@@ -1,0 +1,25 @@
+post_office_number_220304 => nrel_main_idtf:
+[post_office_number_220304]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 258 47 20]
+(* <- phone_number;;*);
+[220304]
+(* <- lang_ru;; <- postcode;;*);
+[27.4795371]
+(* <- lang_ru;; <- longitude;;*);
+[220304, г. Минск, ул. Жудро 59]
+(* <- lang_ru;; <- address;;*);
+[53.9208447]
+(* <- lang_ru;; <- latitude;;*);
+[Жудро]
+(* <- lang_ru;; <- street;;*);
+[59]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Мингинос Светлана Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220304]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

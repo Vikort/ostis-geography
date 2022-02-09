@@ -1,0 +1,25 @@
+post_office_number_220123 => nrel_main_idtf:
+[post_office_number_220123]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 351 89 86]
+(* <- phone_number;;*);
+[220123]
+(* <- lang_ru;; <- postcode;;*);
+[27.56540468]
+(* <- lang_ru;; <- longitude;;*);
+[220123, г. Минск, улица. Максима Богдановича 53]
+(* <- lang_ru;; <- address;;*);
+[53.91954223]
+(* <- lang_ru;; <- latitude;;*);
+[Максима Богдановича]
+(* <- lang_ru;; <- street;;*);
+[53]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Сердюк Людмила Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220123]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

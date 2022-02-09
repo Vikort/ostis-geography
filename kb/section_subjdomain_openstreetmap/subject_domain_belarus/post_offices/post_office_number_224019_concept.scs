@@ -1,0 +1,25 @@
+post_office_number_224019 => nrel_main_idtf:
+[post_office_number_224019]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 32 85]
+(* <- phone_number;;*);
+[224019]
+(* <- lang_ru;; <- postcode;;*);
+[23.704932]
+(* <- lang_ru;; <- longitude;;*);
+[224019, г. Брест, ул. Свято-Афанасьевская 83 2]
+(* <- lang_ru;; <- address;;*);
+[52.049883]
+(* <- lang_ru;; <- latitude;;*);
+[Свято-Афанасьевская]
+(* <- lang_ru;; <- street;;*);
+[83]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Лукина Екатерина Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224019]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

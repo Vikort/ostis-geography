@@ -1,0 +1,25 @@
+post_office_number_220241 => nrel_main_idtf:
+[post_office_number_220241]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 375 94 98]
+(* <- phone_number;;*);
+[220241]
+(* <- lang_ru;; <- postcode;;*);
+[27.4531552]
+(* <- lang_ru;; <- longitude;;*);
+[220241, г. Минск, ул. Рафиева 44]
+(* <- lang_ru;; <- address;;*);
+[53.8653862]
+(* <- lang_ru;; <- latitude;;*);
+[Рафиева]
+(* <- lang_ru;; <- street;;*);
+[44]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Устилович Екатерина Эдуардовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220241]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

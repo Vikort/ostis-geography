@@ -1,0 +1,25 @@
+post_office_number_224020 => nrel_main_idtf:
+[post_office_number_224020]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 28 25 30]
+(* <- phone_number;;*);
+[224020]
+(* <- lang_ru;; <- postcode;;*);
+[23.7237181]
+(* <- lang_ru;; <- longitude;;*);
+[224020, г. Брест, ул. Пионерская 42]
+(* <- lang_ru;; <- address;;*);
+[52.1014583]
+(* <- lang_ru;; <- latitude;;*);
+[Пионерская]
+(* <- lang_ru;; <- street;;*);
+[42]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Селивон Людмила Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224020]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

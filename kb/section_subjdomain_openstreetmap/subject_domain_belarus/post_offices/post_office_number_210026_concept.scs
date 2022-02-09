@@ -1,0 +1,25 @@
+post_office_number_210026 => nrel_main_idtf:
+[post_office_number_210026]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 64 13]
+(* <- phone_number;;*);
+[210026]
+(* <- lang_ru;; <- postcode;;*);
+[30.206974]
+(* <- lang_ru;; <- longitude;;*);
+[210026, г. Витебск, ул. Советская 13]
+(* <- lang_ru;; <- address;;*);
+[55.199388]
+(* <- lang_ru;; <- latitude;;*);
+[Советская]
+(* <- lang_ru;; <- street;;*);
+[13]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Чернявская Екатерина Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210026]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

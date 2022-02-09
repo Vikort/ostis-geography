@@ -1,0 +1,25 @@
+post_office_number_220125 => nrel_main_idtf:
+[post_office_number_220125]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 357 74 99]
+(* <- phone_number;;*);
+[220125]
+(* <- lang_ru;; <- postcode;;*);
+[27.6717844]
+(* <- lang_ru;; <- longitude;;*);
+[220125, г. Минск, улица. Гинтовта 14]
+(* <- lang_ru;; <- address;;*);
+[53.9484225]
+(* <- lang_ru;; <- latitude;;*);
+[Гинтовта]
+(* <- lang_ru;; <- street;;*);
+[14]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220125]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

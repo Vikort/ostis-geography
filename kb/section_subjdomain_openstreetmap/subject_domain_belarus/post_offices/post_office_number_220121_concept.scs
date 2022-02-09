@@ -1,0 +1,25 @@
+post_office_number_220121 => nrel_main_idtf:
+[post_office_number_220121]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 351 41 21]
+(* <- phone_number;;*);
+[220121]
+(* <- lang_ru;; <- postcode;;*);
+[27.473759]
+(* <- lang_ru;; <- longitude;;*);
+[220121, г. Минск, улица. Петра Глебки 2]
+(* <- lang_ru;; <- address;;*);
+[53.9087921]
+(* <- lang_ru;; <- latitude;;*);
+[Петра Глебки]
+(* <- lang_ru;; <- street;;*);
+[2]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Арешко Лариса Васильевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220121]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

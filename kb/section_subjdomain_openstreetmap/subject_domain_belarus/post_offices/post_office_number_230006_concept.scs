@@ -1,0 +1,25 @@
+post_office_number_230006 => nrel_main_idtf:
+[post_office_number_230006]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 69 17 75]
+(* <- phone_number;;*);
+[230006]
+(* <- lang_ru;; <- postcode;;*);
+[23.781992]
+(* <- lang_ru;; <- longitude;;*);
+[230006, г. Гродно, ул. Фолюш 15 204]
+(* <- lang_ru;; <- address;;*);
+[53.662133]
+(* <- lang_ru;; <- latitude;;*);
+[Фолюш]
+(* <- lang_ru;; <- street;;*);
+[15]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Кащей Светлана Андрекевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230006]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

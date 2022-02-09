@@ -1,0 +1,25 @@
+post_office_number_212013 => nrel_main_idtf:
+[post_office_number_212013]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 73 29 02]
+(* <- phone_number;;*);
+[212013]
+(* <- lang_ru;; <- postcode;;*);
+[30.36061171]
+(* <- lang_ru;; <- longitude;;*);
+[212013, г. Могилев, ул. Гомельское шоссе 12А]
+(* <- lang_ru;; <- address;;*);
+[53.86150079]
+(* <- lang_ru;; <- latitude;;*);
+[Гомельское шоссе]
+(* <- lang_ru;; <- street;;*);
+[12А]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212013]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

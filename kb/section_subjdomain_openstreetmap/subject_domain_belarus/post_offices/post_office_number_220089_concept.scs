@@ -1,0 +1,25 @@
+post_office_number_220089 => nrel_main_idtf:
+[post_office_number_220089]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 375 43 56]
+(* <- phone_number;;*);
+[220089]
+(* <- lang_ru;; <- postcode;;*);
+[27.4981464]
+(* <- lang_ru;; <- longitude;;*);
+[220089, г. Минск, улица. Уманская 55]
+(* <- lang_ru;; <- address;;*);
+[53.8764986]
+(* <- lang_ru;; <- latitude;;*);
+[Уманская]
+(* <- lang_ru;; <- street;;*);
+[55]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Нестеренко Ольга Григорьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220089]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

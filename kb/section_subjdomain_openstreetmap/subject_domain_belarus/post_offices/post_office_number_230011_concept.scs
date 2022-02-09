@@ -1,0 +1,25 @@
+post_office_number_230011 => nrel_main_idtf:
+[post_office_number_230011]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 39 21 05]
+(* <- phone_number;;*);
+[230011]
+(* <- lang_ru;; <- postcode;;*);
+[23.819703]
+(* <- lang_ru;; <- longitude;;*);
+[230011, г. Гродно, ул. Гагарина 10]
+(* <- lang_ru;; <- address;;*);
+[53.671634]
+(* <- lang_ru;; <- latitude;;*);
+[Гагарина]
+(* <- lang_ru;; <- street;;*);
+[10]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Жидель Ирина леонидовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230011]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

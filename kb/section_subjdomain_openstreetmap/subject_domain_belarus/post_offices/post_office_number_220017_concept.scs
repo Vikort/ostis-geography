@@ -1,0 +1,25 @@
+post_office_number_220017 => nrel_main_idtf:
+[post_office_number_220017]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 354 20 06]
+(* <- phone_number;;*);
+[220017]
+(* <- lang_ru;; <- postcode;;*);
+[27.4352337]
+(* <- lang_ru;; <- longitude;;*);
+[220017, г. Минск, улица. Кунцевщина 35]
+(* <- lang_ru;; <- address;;*);
+[53.9143385]
+(* <- lang_ru;; <- latitude;;*);
+[Кунцевщина]
+(* <- lang_ru;; <- street;;*);
+[35]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Вилесова Татьяна Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220017]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

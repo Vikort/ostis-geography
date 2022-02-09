@@ -1,0 +1,25 @@
+post_office_number_230021 => nrel_main_idtf:
+[post_office_number_230021]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 56 39 00]
+(* <- phone_number;;*);
+[230021]
+(* <- lang_ru;; <- postcode;;*);
+[23.853127]
+(* <- lang_ru;; <- longitude;;*);
+[230021, г. Гродно, ул. Малыщинская 5]
+(* <- lang_ru;; <- address;;*);
+[53.71212]
+(* <- lang_ru;; <- latitude;;*);
+[Малыщинская]
+(* <- lang_ru;; <- street;;*);
+[5]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Тотчик Людмида Никоваевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230021]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

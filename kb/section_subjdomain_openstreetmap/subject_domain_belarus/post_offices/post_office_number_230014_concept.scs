@@ -1,0 +1,25 @@
+post_office_number_230014 => nrel_main_idtf:
+[post_office_number_230014]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 43 17 90]
+(* <- phone_number;;*);
+[230014]
+(* <- lang_ru;; <- postcode;;*);
+[23.815315]
+(* <- lang_ru;; <- longitude;;*);
+[230014, г. Гродно, ул. Грандичская 81]
+(* <- lang_ru;; <- address;;*);
+[53.725817]
+(* <- lang_ru;; <- latitude;;*);
+[Грандичская]
+(* <- lang_ru;; <- street;;*);
+[81]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Серко Регина Иосифовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230014]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

@@ -1,0 +1,25 @@
+post_office_number_210040 => nrel_main_idtf:
+[post_office_number_210040]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 66 49]
+(* <- phone_number;;*);
+[210040]
+(* <- lang_ru;; <- postcode;;*);
+[30.248108]
+(* <- lang_ru;; <- longitude;;*);
+[210040, г. Витебск, ул. Гагарина 162]
+(* <- lang_ru;; <- address;;*);
+[55.223468]
+(* <- lang_ru;; <- latitude;;*);
+[Гагарина]
+(* <- lang_ru;; <- street;;*);
+[162]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Смульская Светлана Борисовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210040]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

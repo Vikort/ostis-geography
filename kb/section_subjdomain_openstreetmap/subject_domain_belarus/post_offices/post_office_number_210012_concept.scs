@@ -1,0 +1,25 @@
+post_office_number_210012 => nrel_main_idtf:
+[post_office_number_210012]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 69 67 72]
+(* <- phone_number;;*);
+[210012]
+(* <- lang_ru;; <- postcode;;*);
+[30.306624]
+(* <- lang_ru;; <- longitude;;*);
+[210012, город. Витебск, ул. Центральная 21]
+(* <- lang_ru;; <- address;;*);
+[55.297395]
+(* <- lang_ru;; <- latitude;;*);
+[Центральная]
+(* <- lang_ru;; <- street;;*);
+[21]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Дубко Наталья Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210012]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

@@ -1,0 +1,25 @@
+post_office_number_220026 => nrel_main_idtf:
+[post_office_number_220026]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 370 77 33]
+(* <- phone_number;;*);
+[220026]
+(* <- lang_ru;; <- postcode;;*);
+[27.6270424]
+(* <- lang_ru;; <- longitude;;*);
+[220026, г. Минск, улица. Жилуновича 26]
+(* <- lang_ru;; <- address;;*);
+[53.8697652]
+(* <- lang_ru;; <- latitude;;*);
+[Жилуновича]
+(* <- lang_ru;; <- street;;*);
+[26]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Курочкина Ирина Фёдоровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220026]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

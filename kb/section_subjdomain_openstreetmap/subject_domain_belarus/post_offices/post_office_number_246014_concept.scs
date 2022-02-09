@@ -1,0 +1,25 @@
+post_office_number_246014 => nrel_main_idtf:
+[post_office_number_246014]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 23 28 20]
+(* <- phone_number;;*);
+[246014]
+(* <- lang_ru;; <- postcode;;*);
+[30.97642422]
+(* <- lang_ru;; <- longitude;;*);
+[246014, г. Гомель, ул. Хмельницкого Богдана 13А]
+(* <- lang_ru;; <- address;;*);
+[52.43565895]
+(* <- lang_ru;; <- latitude;;*);
+[Хмельницкого Богдана]
+(* <- lang_ru;; <- street;;*);
+[13А]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[,]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246014]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

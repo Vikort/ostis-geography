@@ -1,0 +1,25 @@
+post_office_number_224016 => nrel_main_idtf:
+[post_office_number_224016]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 32 68]
+(* <- phone_number;;*);
+[224016]
+(* <- lang_ru;; <- postcode;;*);
+[23.6950777]
+(* <- lang_ru;; <- longitude;;*);
+[224016, г. Брест, б-р. Космонавтов 24]
+(* <- lang_ru;; <- address;;*);
+[52.099027]
+(* <- lang_ru;; <- latitude;;*);
+[Космонавтов]
+(* <- lang_ru;; <- street;;*);
+[24]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Рудяк Наталья Геннадьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224016]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

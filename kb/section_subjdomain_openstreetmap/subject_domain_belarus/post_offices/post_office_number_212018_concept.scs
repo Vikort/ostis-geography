@@ -1,0 +1,25 @@
+post_office_number_212018 => nrel_main_idtf:
+[post_office_number_212018]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 65 87 68]
+(* <- phone_number;;*);
+[212018]
+(* <- lang_ru;; <- postcode;;*);
+[30.39657646]
+(* <- lang_ru;; <- longitude;;*);
+[212018, г. Могилев, ул. Ярославская 17 А]
+(* <- lang_ru;; <- address;;*);
+[53.87331169]
+(* <- lang_ru;; <- latitude;;*);
+[Ярославская]
+(* <- lang_ru;; <- street;;*);
+[17 А]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212018]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

@@ -1,0 +1,25 @@
+post_office_number_246020 => nrel_main_idtf:
+[post_office_number_246020]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 35 04 99]
+(* <- phone_number;;*);
+[246020]
+(* <- lang_ru;; <- postcode;;*);
+[30.94923735]
+(* <- lang_ru;; <- longitude;;*);
+[246020, г. Гомель, ул. Владимирова 63]
+(* <- lang_ru;; <- address;;*);
+[52.42422405]
+(* <- lang_ru;; <- latitude;;*);
+[Владимирова]
+(* <- lang_ru;; <- street;;*);
+[63]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246020]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

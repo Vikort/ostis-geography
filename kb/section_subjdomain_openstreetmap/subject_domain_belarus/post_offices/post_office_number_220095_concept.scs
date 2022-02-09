@@ -1,0 +1,25 @@
+post_office_number_220095 => nrel_main_idtf:
+[post_office_number_220095]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 397 83 04]
+(* <- phone_number;;*);
+[220095]
+(* <- lang_ru;; <- postcode;;*);
+[27.40250916]
+(* <- lang_ru;; <- longitude;;*);
+[220095, г. Минск, улица. Якубова 66/2]
+(* <- lang_ru;; <- address;;*);
+[53.87895019]
+(* <- lang_ru;; <- latitude;;*);
+[Якубова]
+(* <- lang_ru;; <- street;;*);
+[66/2]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Олехнович Ольга Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220095]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,25 @@
+post_office_number_220034 => nrel_main_idtf:
+[post_office_number_220034]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 297 16 99]
+(* <- phone_number;;*);
+[220034]
+(* <- lang_ru;; <- postcode;;*);
+[27.5792831]
+(* <- lang_ru;; <- longitude;;*);
+[220034, г. Минск, улица. Азгура 4]
+(* <- lang_ru;; <- address;;*);
+[53.8977578]
+(* <- lang_ru;; <- latitude;;*);
+[Азгура]
+(* <- lang_ru;; <- street;;*);
+[4]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Деревяго Елена Геннадьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220034]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

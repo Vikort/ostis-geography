@@ -1,0 +1,25 @@
+post_office_number_220112 => nrel_main_idtf:
+[post_office_number_220112]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 375 78 82]
+(* <- phone_number;;*);
+[220112]
+(* <- lang_ru;; <- postcode;;*);
+[27.5685037]
+(* <- lang_ru;; <- longitude;;*);
+[220112, г. Минск, улица. Лучины 8]
+(* <- lang_ru;; <- address;;*);
+[53.8385049]
+(* <- lang_ru;; <- latitude;;*);
+[Лучины]
+(* <- lang_ru;; <- street;;*);
+[8]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Игнатова Ольга Валентиновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220112]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

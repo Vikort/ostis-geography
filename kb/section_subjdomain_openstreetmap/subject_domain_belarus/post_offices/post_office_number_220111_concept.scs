@@ -1,0 +1,25 @@
+post_office_number_220111 => nrel_main_idtf:
+[post_office_number_220111]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 55 81]
+(* <- phone_number;;*);
+[220111]
+(* <- lang_ru;; <- postcode;;*);
+[27.60278113]
+(* <- lang_ru;; <- longitude;;*);
+[220111, г. Минск, проспект. Рокоссовского 49]
+(* <- lang_ru;; <- address;;*);
+[53.86736243]
+(* <- lang_ru;; <- latitude;;*);
+[Рокоссовского]
+(* <- lang_ru;; <- street;;*);
+[49]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Дятко Ирина Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220111]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

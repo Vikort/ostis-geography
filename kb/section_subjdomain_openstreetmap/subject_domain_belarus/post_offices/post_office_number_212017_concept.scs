@@ -1,0 +1,25 @@
+post_office_number_212017 => nrel_main_idtf:
+[post_office_number_212017]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 78 10 36]
+(* <- phone_number;;*);
+[212017]
+(* <- lang_ru;; <- postcode;;*);
+[30.3593751]
+(* <- lang_ru;; <- longitude;;*);
+[212017, г. Могилев, ул. Народного Ополчения 18]
+(* <- lang_ru;; <- address;;*);
+[53.9046384]
+(* <- lang_ru;; <- latitude;;*);
+[Народного Ополчения]
+(* <- lang_ru;; <- street;;*);
+[18]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212017]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

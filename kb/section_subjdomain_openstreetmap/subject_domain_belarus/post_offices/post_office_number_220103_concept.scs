@@ -1,0 +1,25 @@
+post_office_number_220103 => nrel_main_idtf:
+[post_office_number_220103]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 397 94 01]
+(* <- phone_number;;*);
+[220103]
+(* <- lang_ru;; <- postcode;;*);
+[27.6297354]
+(* <- lang_ru;; <- longitude;;*);
+[220103, г. Минск, улица. Калиновского 55В]
+(* <- lang_ru;; <- address;;*);
+[53.9470508]
+(* <- lang_ru;; <- latitude;;*);
+[Калиновского]
+(* <- lang_ru;; <- street;;*);
+[55В]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220103]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

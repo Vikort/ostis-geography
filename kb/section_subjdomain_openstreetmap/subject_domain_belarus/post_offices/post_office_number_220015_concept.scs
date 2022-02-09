@@ -1,0 +1,25 @@
+post_office_number_220015 => nrel_main_idtf:
+[post_office_number_220015]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 397 18 82]
+(* <- phone_number;;*);
+[220015]
+(* <- lang_ru;; <- postcode;;*);
+[27.4913398]
+(* <- lang_ru;; <- longitude;;*);
+[220015, г. Минск, улица. Я. Мавра 33А]
+(* <- lang_ru;; <- address;;*);
+[53.8969414]
+(* <- lang_ru;; <- latitude;;*);
+[Я. Мавра]
+(* <- lang_ru;; <- street;;*);
+[33А]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Жизневская Марина Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220015]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

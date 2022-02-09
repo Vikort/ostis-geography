@@ -1,0 +1,25 @@
+post_office_number_220046 => nrel_main_idtf:
+[post_office_number_220046]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 35 95]
+(* <- phone_number;;*);
+[220046]
+(* <- lang_ru;; <- postcode;;*);
+[27.6495613]
+(* <- lang_ru;; <- longitude;;*);
+[220046, г. Минск, улица. Солтыса 189]
+(* <- lang_ru;; <- address;;*);
+[53.8990608]
+(* <- lang_ru;; <- latitude;;*);
+[Солтыса]
+(* <- lang_ru;; <- street;;*);
+[189]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Пусенкова Тамара Михайловна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220046]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

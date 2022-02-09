@@ -1,0 +1,25 @@
+post_office_number_220290 => nrel_main_idtf:
+[post_office_number_220290]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 352 14 67]
+(* <- phone_number;;*);
+[220290]
+(* <- lang_ru;; <- postcode;;*);
+[27.60545633]
+(* <- lang_ru;; <- longitude;;*);
+[220290, г. Минск, тр-т. Логойский 9]
+(* <- lang_ru;; <- address;;*);
+[53.9418787]
+(* <- lang_ru;; <- latitude;;*);
+[Логойский]
+(* <- lang_ru;; <- street;;*);
+[9]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Гуменяк-Лемтюгова Ольга Петровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220290]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

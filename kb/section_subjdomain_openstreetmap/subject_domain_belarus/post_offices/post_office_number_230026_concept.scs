@@ -1,0 +1,25 @@
+post_office_number_230026 => nrel_main_idtf:
+[post_office_number_230026]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 69 39 69]
+(* <- phone_number;;*);
+[230026]
+(* <- lang_ru;; <- postcode;;*);
+[23.836883]
+(* <- lang_ru;; <- longitude;;*);
+[230026, город. Гродно, ул. Пестрака 56]
+(* <- lang_ru;; <- address;;*);
+[53.650826]
+(* <- lang_ru;; <- latitude;;*);
+[Пестрака]
+(* <- lang_ru;; <- street;;*);
+[56]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Бирилло Наталья Вячеславовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230026]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

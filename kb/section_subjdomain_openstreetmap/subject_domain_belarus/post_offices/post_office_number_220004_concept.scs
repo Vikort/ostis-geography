@@ -1,0 +1,25 @@
+post_office_number_220004 => nrel_main_idtf:
+[post_office_number_220004]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 54 36]
+(* <- phone_number;;*);
+[220004]
+(* <- lang_ru;; <- postcode;;*);
+[27.5301021]
+(* <- lang_ru;; <- longitude;;*);
+[220004, г. Минск, улица. М. Танка 36/2]
+(* <- lang_ru;; <- address;;*);
+[53.9093723]
+(* <- lang_ru;; <- latitude;;*);
+[М. Танка]
+(* <- lang_ru;; <- street;;*);
+[36/2]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Асрян Элина Эдуардовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220004]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

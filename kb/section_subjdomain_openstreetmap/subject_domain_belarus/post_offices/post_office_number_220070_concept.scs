@@ -1,0 +1,25 @@
+post_office_number_220070 => nrel_main_idtf:
+[post_office_number_220070]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 363  91 66]
+(* <- phone_number;;*);
+[220070]
+(* <- lang_ru;; <- postcode;;*);
+[27.6120158]
+(* <- lang_ru;; <- longitude;;*);
+[220070, г. Минск, улица. Ванеева 18]
+(* <- lang_ru;; <- address;;*);
+[53.8819787]
+(* <- lang_ru;; <- latitude;;*);
+[Ванеева]
+(* <- lang_ru;; <- street;;*);
+[18]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Бородовская Людмила Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220070]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

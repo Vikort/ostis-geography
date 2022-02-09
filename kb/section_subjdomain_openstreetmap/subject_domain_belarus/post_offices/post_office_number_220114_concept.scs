@@ -1,0 +1,25 @@
+post_office_number_220114 => nrel_main_idtf:
+[post_office_number_220114]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 374 57 81]
+(* <- phone_number;;*);
+[220114]
+(* <- lang_ru;; <- postcode;;*);
+[27.6433933]
+(* <- lang_ru;; <- longitude;;*);
+[220114, г. Минск, проспект. Независимости 131/1]
+(* <- lang_ru;; <- address;;*);
+[53.9330876]
+(* <- lang_ru;; <- latitude;;*);
+[Независимости]
+(* <- lang_ru;; <- street;;*);
+[131/1]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Реут Ольга Петровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220114]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

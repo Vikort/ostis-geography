@@ -1,0 +1,25 @@
+post_office_number_220102 => nrel_main_idtf:
+[post_office_number_220102]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 250 29 91]
+(* <- phone_number;;*);
+[220102]
+(* <- lang_ru;; <- postcode;;*);
+[27.6674644]
+(* <- lang_ru;; <- longitude;;*);
+[220102, г. Минск, пр. Партизанский 147]
+(* <- lang_ru;; <- address;;*);
+[53.8645567]
+(* <- lang_ru;; <- latitude;;*);
+[Партизанский]
+(* <- lang_ru;; <- street;;*);
+[147]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Лабада Елена Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220102]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

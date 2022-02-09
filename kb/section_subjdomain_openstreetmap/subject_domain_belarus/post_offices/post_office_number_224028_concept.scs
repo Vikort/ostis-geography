@@ -1,0 +1,25 @@
+post_office_number_224028 => nrel_main_idtf:
+[post_office_number_224028]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 53 89 80]
+(* <- phone_number;;*);
+[224028]
+(* <- lang_ru;; <- postcode;;*);
+[23.7742814]
+(* <- lang_ru;; <- longitude;;*);
+[224028, г. Брест, ул. Гаврилова 21]
+(* <- lang_ru;; <- address;;*);
+[52.1090184]
+(* <- lang_ru;; <- latitude;;*);
+[Гаврилова]
+(* <- lang_ru;; <- street;;*);
+[21]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Васильчук Наталья Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224028]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

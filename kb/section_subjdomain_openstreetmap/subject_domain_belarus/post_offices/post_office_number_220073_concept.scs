@@ -1,0 +1,25 @@
+post_office_number_220073 => nrel_main_idtf:
+[post_office_number_220073]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 347 53 75]
+(* <- phone_number;;*);
+[220073]
+(* <- lang_ru;; <- postcode;;*);
+[27.5047123]
+(* <- lang_ru;; <- longitude;;*);
+[220073, г. Минск, улица. Ольшевского 11]
+(* <- lang_ru;; <- address;;*);
+[53.9134461]
+(* <- lang_ru;; <- latitude;;*);
+[Ольшевского]
+(* <- lang_ru;; <- street;;*);
+[11]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220073]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

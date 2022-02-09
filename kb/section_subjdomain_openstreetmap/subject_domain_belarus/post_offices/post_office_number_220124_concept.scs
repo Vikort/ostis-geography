@@ -1,0 +1,25 @@
+post_office_number_220124 => nrel_main_idtf:
+[post_office_number_220124]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 377 60 62]
+(* <- phone_number;;*);
+[220124]
+(* <- lang_ru;; <- postcode;;*);
+[27.47357216]
+(* <- lang_ru;; <- longitude;;*);
+[220124, г. Минск, улица. Лынькова 59]
+(* <- lang_ru;; <- address;;*);
+[53.92905661]
+(* <- lang_ru;; <- latitude;;*);
+[Лынькова]
+(* <- lang_ru;; <- street;;*);
+[59]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Романова Елена Ростиславовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220124]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,25 @@
+post_office_number_224031 => nrel_main_idtf:
+[post_office_number_224031]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 59 26 38]
+(* <- phone_number;;*);
+[224031]
+(* <- lang_ru;; <- postcode;;*);
+[23.73335]
+(* <- lang_ru;; <- longitude;;*);
+[224031, г. Брест, ул. Янки Купалы 16 2]
+(* <- lang_ru;; <- address;;*);
+[52.1026766]
+(* <- lang_ru;; <- latitude;;*);
+[Янки Купалы]
+(* <- lang_ru;; <- street;;*);
+[16]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Рабчук Анна Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224031]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

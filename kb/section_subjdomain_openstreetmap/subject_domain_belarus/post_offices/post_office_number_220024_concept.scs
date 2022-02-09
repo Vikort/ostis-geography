@@ -1,0 +1,25 @@
+post_office_number_220024 => nrel_main_idtf:
+[post_office_number_220024]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 324 73 11]
+(* <- phone_number;;*);
+[220024]
+(* <- lang_ru;; <- postcode;;*);
+[27.54550249]
+(* <- lang_ru;; <- longitude;;*);
+[220024, город. Минск, улица. Асаналиева 40Б]
+(* <- lang_ru;; <- address;;*);
+[53.85076851]
+(* <- lang_ru;; <- latitude;;*);
+[Асаналиева]
+(* <- lang_ru;; <- street;;*);
+[40Б]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Сливец Виктория Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220024]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

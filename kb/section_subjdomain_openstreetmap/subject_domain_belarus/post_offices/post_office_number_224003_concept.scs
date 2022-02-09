@@ -1,0 +1,25 @@
+post_office_number_224003 => nrel_main_idtf:
+[post_office_number_224003]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 52 42 43]
+(* <- phone_number;;*);
+[224003]
+(* <- lang_ru;; <- postcode;;*);
+[23.7102499]
+(* <- lang_ru;; <- longitude;;*);
+[224003, г. Брест, ш. Варшавское шоссе 37]
+(* <- lang_ru;; <- address;;*);
+[52.074005]
+(* <- lang_ru;; <- latitude;;*);
+[Варшавское шоссе]
+(* <- lang_ru;; <- street;;*);
+[37]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Елец Алла Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224003]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

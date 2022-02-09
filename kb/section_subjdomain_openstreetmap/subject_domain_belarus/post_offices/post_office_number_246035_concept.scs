@@ -1,0 +1,25 @@
+post_office_number_246035 => nrel_main_idtf:
+[post_office_number_246035]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 51 79 84]
+(* <- phone_number;;*);
+[246035]
+(* <- lang_ru;; <- postcode;;*);
+[30.97292146]
+(* <- lang_ru;; <- longitude;;*);
+[246035, г. Гомель, ул. Героев Подпольщиков 17]
+(* <- lang_ru;; <- address;;*);
+[52.46673632]
+(* <- lang_ru;; <- latitude;;*);
+[Героев Подпольщиков]
+(* <- lang_ru;; <- street;;*);
+[17]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246035]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

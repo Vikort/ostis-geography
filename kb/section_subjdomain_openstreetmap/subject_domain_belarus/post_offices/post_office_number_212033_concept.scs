@@ -1,0 +1,25 @@
+post_office_number_212033 => nrel_main_idtf:
+[post_office_number_212033]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 78 53 54]
+(* <- phone_number;;*);
+[212033]
+(* <- lang_ru;; <- postcode;;*);
+[30.36970747]
+(* <- lang_ru;; <- longitude;;*);
+[212033, г. Могилев, ул. Королева 14]
+(* <- lang_ru;; <- address;;*);
+[53.90309224]
+(* <- lang_ru;; <- latitude;;*);
+[Королева]
+(* <- lang_ru;; <- street;;*);
+[14]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212033]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

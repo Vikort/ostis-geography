@@ -1,0 +1,25 @@
+post_office_number_246025 => nrel_main_idtf:
+[post_office_number_246025]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 27 68 24]
+(* <- phone_number;;*);
+[246025]
+(* <- lang_ru;; <- postcode;;*);
+[30.94476342]
+(* <- lang_ru;; <- longitude;;*);
+[246025, г. Гомель, ул. 8 Иногородняя 2 2]
+(* <- lang_ru;; <- address;;*);
+[52.44431165]
+(* <- lang_ru;; <- latitude;;*);
+[8 Иногородняя]
+(* <- lang_ru;; <- street;;*);
+[2]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246025]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

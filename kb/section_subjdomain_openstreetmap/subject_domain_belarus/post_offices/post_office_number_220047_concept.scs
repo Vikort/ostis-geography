@@ -1,0 +1,25 @@
+post_office_number_220047 => nrel_main_idtf:
+[post_office_number_220047]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 338 46 71]
+(* <- phone_number;;*);
+[220047]
+(* <- lang_ru;; <- postcode;;*);
+[27.6836725]
+(* <- lang_ru;; <- longitude;;*);
+[220047, г. Минск, улица. Нестерова 51]
+(* <- lang_ru;; <- address;;*);
+[53.884729]
+(* <- lang_ru;; <- latitude;;*);
+[Нестерова]
+(* <- lang_ru;; <- street;;*);
+[51]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220047]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

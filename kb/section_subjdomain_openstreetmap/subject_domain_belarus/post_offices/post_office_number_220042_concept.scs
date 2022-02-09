@@ -1,0 +1,25 @@
+post_office_number_220042 => nrel_main_idtf:
+[post_office_number_220042]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 300 79 23]
+(* <- phone_number;;*);
+[220042]
+(* <- lang_ru;; <- postcode;;*);
+[27.48180305]
+(* <- lang_ru;; <- longitude;;*);
+[220042, г. Минск, проспект. Дзержинского 91]
+(* <- lang_ru;; <- address;;*);
+[53.85948949]
+(* <- lang_ru;; <- latitude;;*);
+[Дзержинского]
+(* <- lang_ru;; <- street;;*);
+[91]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220042]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

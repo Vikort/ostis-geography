@@ -1,0 +1,25 @@
+post_office_number_220044 => nrel_main_idtf:
+[post_office_number_220044]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 368 61 10]
+(* <- phone_number;;*);
+[220044]
+(* <- lang_ru;; <- postcode;;*);
+[27.9025589]
+(* <- lang_ru;; <- longitude;;*);
+[220044, г. Минск, улица. Барамзиной 16]
+(* <- lang_ru;; <- address;;*);
+[53.8768181]
+(* <- lang_ru;; <- latitude;;*);
+[Барамзиной]
+(* <- lang_ru;; <- street;;*);
+[16]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Воробьева Оксана Геннадьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220044]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

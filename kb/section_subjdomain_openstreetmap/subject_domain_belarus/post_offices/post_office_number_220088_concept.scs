@@ -1,0 +1,25 @@
+post_office_number_220088 => nrel_main_idtf:
+[post_office_number_220088]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 377 59 21]
+(* <- phone_number;;*);
+[220088]
+(* <- lang_ru;; <- postcode;;*);
+[27.5792831]
+(* <- lang_ru;; <- longitude;;*);
+[220088, г. Минск, улица. Пулихова 19]
+(* <- lang_ru;; <- address;;*);
+[53.8977578]
+(* <- lang_ru;; <- latitude;;*);
+[Пулихова]
+(* <- lang_ru;; <- street;;*);
+[19]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220088]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

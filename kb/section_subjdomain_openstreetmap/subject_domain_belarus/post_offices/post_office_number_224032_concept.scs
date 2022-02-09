@@ -1,0 +1,25 @@
+post_office_number_224032 => nrel_main_idtf:
+[post_office_number_224032]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 14 10]
+(* <- phone_number;;*);
+[224032]
+(* <- lang_ru;; <- postcode;;*);
+[23.7535866]
+(* <- lang_ru;; <- longitude;;*);
+[224032, г. Брест, ул. Молодогвардейская 8]
+(* <- lang_ru;; <- address;;*);
+[52.1045695]
+(* <- lang_ru;; <- latitude;;*);
+[Молодогвардейская]
+(* <- lang_ru;; <- street;;*);
+[8]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Коляда Елена Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224032]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

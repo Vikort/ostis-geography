@@ -1,0 +1,25 @@
+post_office_number_220072 => nrel_main_idtf:
+[post_office_number_220072]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 284 19 84]
+(* <- phone_number;;*);
+[220072]
+(* <- lang_ru;; <- postcode;;*);
+[27.59805503]
+(* <- lang_ru;; <- longitude;;*);
+[220072, г. Минск, улица. Академическая 1]
+(* <- lang_ru;; <- address;;*);
+[53.91977799]
+(* <- lang_ru;; <- latitude;;*);
+[Академическая]
+(* <- lang_ru;; <- street;;*);
+[1]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Гулевич Юлия Юрьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220072]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

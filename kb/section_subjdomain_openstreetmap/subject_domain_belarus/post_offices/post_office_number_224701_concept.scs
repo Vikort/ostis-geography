@@ -1,0 +1,25 @@
+post_office_number_224701 => nrel_main_idtf:
+[post_office_number_224701]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 50 40 44]
+(* <- phone_number;;*);
+[224701]
+(* <- lang_ru;; <- postcode;;*);
+[23.6791936]
+(* <- lang_ru;; <- longitude;;*);
+[224701, г. Брест, пл. Привокзальная площадь -]
+(* <- lang_ru;; <- address;;*);
+[52.0997425]
+(* <- lang_ru;; <- latitude;;*);
+[Привокзальная площадь]
+(* <- lang_ru;; <- street;;*);
+[-]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Антонович Наталья Михайловна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224701]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

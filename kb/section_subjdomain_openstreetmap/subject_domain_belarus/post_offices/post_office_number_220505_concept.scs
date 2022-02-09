@@ -1,0 +1,25 @@
+post_office_number_220505 => nrel_main_idtf:
+[post_office_number_220505]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 377 17 24]
+(* <- phone_number;;*);
+[220505]
+(* <- lang_ru;; <- postcode;;*);
+[27.45510274]
+(* <- lang_ru;; <- longitude;;*);
+[220505, г. Минск, улица. Матусевича 66]
+(* <- lang_ru;; <- address;;*);
+[53.91802415]
+(* <- lang_ru;; <- latitude;;*);
+[Матусевича]
+(* <- lang_ru;; <- street;;*);
+[66]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Гойко Юлия Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220505]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

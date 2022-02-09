@@ -1,0 +1,25 @@
+post_office_number_220010 => nrel_main_idtf:
+[post_office_number_220010]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 222 64 70]
+(* <- phone_number;;*);
+[220010]
+(* <- lang_ru;; <- postcode;;*);
+[27.54656145]
+(* <- lang_ru;; <- longitude;;*);
+[220010, г. Минск, улица. Советская 11]
+(* <- lang_ru;; <- address;;*);
+[53.89603357]
+(* <- lang_ru;; <- latitude;;*);
+[Советская]
+(* <- lang_ru;; <- street;;*);
+[11]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Витунова Ольга Ивановна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220010]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

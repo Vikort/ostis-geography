@@ -1,0 +1,25 @@
+post_office_number_220093 => nrel_main_idtf:
+[post_office_number_220093]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 379 07 13]
+(* <- phone_number;;*);
+[220093]
+(* <- lang_ru;; <- postcode;;*);
+[27.4929214]
+(* <- lang_ru;; <- longitude;;*);
+[220093, г. Минск, улица. Ольшевского 57]
+(* <- lang_ru;; <- address;;*);
+[53.9205461]
+(* <- lang_ru;; <- latitude;;*);
+[Ольшевского]
+(* <- lang_ru;; <- street;;*);
+[57]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Коломиец Любовь Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220093]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

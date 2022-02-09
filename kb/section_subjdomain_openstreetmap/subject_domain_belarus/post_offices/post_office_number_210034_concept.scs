@@ -1,0 +1,25 @@
+post_office_number_210034 => nrel_main_idtf:
+[post_office_number_210034]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 64 11]
+(* <- phone_number;;*);
+[210034]
+(* <- lang_ru;; <- postcode;;*);
+[30.127141]
+(* <- lang_ru;; <- longitude;;*);
+[210034, г. Витебск, ул. Ленинградская 140]
+(* <- lang_ru;; <- address;;*);
+[55.217506]
+(* <- lang_ru;; <- latitude;;*);
+[Ленинградская]
+(* <- lang_ru;; <- street;;*);
+[140]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Смирнова Юлия Леонидовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210034]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

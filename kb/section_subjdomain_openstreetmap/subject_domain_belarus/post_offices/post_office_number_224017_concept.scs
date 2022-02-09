@@ -1,0 +1,25 @@
+post_office_number_224017 => nrel_main_idtf:
+[post_office_number_224017]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 28 22 51]
+(* <- phone_number;;*);
+[224017]
+(* <- lang_ru;; <- postcode;;*);
+[23.7673733]
+(* <- lang_ru;; <- longitude;;*);
+[224017, г. Брест, ул. Богданчука 124]
+(* <- lang_ru;; <- address;;*);
+[52.0922496]
+(* <- lang_ru;; <- latitude;;*);
+[Богданчука]
+(* <- lang_ru;; <- street;;*);
+[124]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Буцанец Дарья Захировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224017]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

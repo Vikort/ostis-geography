@@ -1,0 +1,25 @@
+post_office_number_220059 => nrel_main_idtf:
+[post_office_number_220059]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 343 81 43]
+(* <- phone_number;;*);
+[220059]
+(* <- lang_ru;; <- postcode;;*);
+[27.4156752]
+(* <- lang_ru;; <- longitude;;*);
+[220059, г. Минск, улица. Пимена Панченко 60]
+(* <- lang_ru;; <- address;;*);
+[53.8896648]
+(* <- lang_ru;; <- latitude;;*);
+[Пимена Панченко]
+(* <- lang_ru;; <- street;;*);
+[60]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Майсиевич Анна Валентиновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220059]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

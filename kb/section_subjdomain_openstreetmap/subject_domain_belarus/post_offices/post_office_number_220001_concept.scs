@@ -1,0 +1,25 @@
+post_office_number_220001 => nrel_main_idtf:
+[post_office_number_220001]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 354 76 15]
+(* <- phone_number;;*);
+[220001]
+(* <- lang_ru;; <- postcode;;*);
+[27.53819908]
+(* <- lang_ru;; <- longitude;;*);
+[220001, г. Минск, улица. Московская 16]
+(* <- lang_ru;; <- address;;*);
+[53.8878685]
+(* <- lang_ru;; <- latitude;;*);
+[Московская]
+(* <- lang_ru;; <- street;;*);
+[16]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Пляшкевич Ольга Славовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220001]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,25 @@
+post_office_number_220005 => nrel_main_idtf:
+[post_office_number_220005]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 224 33 98]
+(* <- phone_number;;*);
+[220005]
+(* <- lang_ru;; <- postcode;;*);
+[27.580556]
+(* <- lang_ru;; <- longitude;;*);
+[220005, г. Минск, проспект. Независимости 46]
+(* <- lang_ru;; <- address;;*);
+[53.912704]
+(* <- lang_ru;; <- latitude;;*);
+[Независимости]
+(* <- lang_ru;; <- street;;*);
+[46]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Амельянович Елена Алексеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220005]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

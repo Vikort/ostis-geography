@@ -1,0 +1,25 @@
+post_office_number_220067 => nrel_main_idtf:
+[post_office_number_220067]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 347 22 51]
+(* <- phone_number;;*);
+[220067]
+(* <- lang_ru;; <- postcode;;*);
+[27.5631309]
+(* <- lang_ru;; <- longitude;;*);
+[220067, г. Минск, улица. Шпилевского 54]
+(* <- lang_ru;; <- address;;*);
+[53.8465908]
+(* <- lang_ru;; <- latitude;;*);
+[Шпилевского]
+(* <- lang_ru;; <- street;;*);
+[54]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Пашкевич Алеся Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220067]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

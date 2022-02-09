@@ -1,0 +1,25 @@
+post_office_number_212012 => nrel_main_idtf:
+[post_office_number_212012]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 20 82 93]
+(* <- phone_number;;*);
+[212012]
+(* <- lang_ru;; <- postcode;;*);
+[30.2785778]
+(* <- lang_ru;; <- longitude;;*);
+[212012, г. Могилев, ул. Челюскинцев 149]
+(* <- lang_ru;; <- address;;*);
+[53.8869209]
+(* <- lang_ru;; <- latitude;;*);
+[Челюскинцев]
+(* <- lang_ru;; <- street;;*);
+[149]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212012]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

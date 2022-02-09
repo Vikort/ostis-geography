@@ -1,0 +1,25 @@
+post_office_number_230016 => nrel_main_idtf:
+[post_office_number_230016]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 68 49 29]
+(* <- phone_number;;*);
+[230016]
+(* <- lang_ru;; <- postcode;;*);
+[23.770339]
+(* <- lang_ru;; <- longitude;;*);
+[230016, г. Гродно, ул. Ткацкая 24]
+(* <- lang_ru;; <- address;;*);
+[53.676074]
+(* <- lang_ru;; <- latitude;;*);
+[Ткацкая]
+(* <- lang_ru;; <- street;;*);
+[24]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Кукла Светлана Евгеньевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230016]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

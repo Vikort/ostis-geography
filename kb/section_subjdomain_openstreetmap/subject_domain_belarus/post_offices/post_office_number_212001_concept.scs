@@ -1,0 +1,25 @@
+post_office_number_212001 => nrel_main_idtf:
+[post_office_number_212001]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 21 17 22]
+(* <- phone_number;;*);
+[212001]
+(* <- lang_ru;; <- postcode;;*);
+[30.3383253]
+(* <- lang_ru;; <- longitude;;*);
+[212001, г. Могилев, ул. Первомайская 82]
+(* <- lang_ru;; <- address;;*);
+[53.9270687]
+(* <- lang_ru;; <- latitude;;*);
+[Первомайская]
+(* <- lang_ru;; <- street;;*);
+[82]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[Белоус Татьяна Алексеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212001]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

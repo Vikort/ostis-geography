@@ -1,0 +1,25 @@
+post_office_number_220325 => nrel_main_idtf:
+[post_office_number_220325]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 357 79 13]
+(* <- phone_number;;*);
+[220325]
+(* <- lang_ru;; <- postcode;;*);
+[27.6717844]
+(* <- lang_ru;; <- longitude;;*);
+[220325, г. Минск, ул. Гинтовта 14]
+(* <- lang_ru;; <- address;;*);
+[53.9484225]
+(* <- lang_ru;; <- latitude;;*);
+[Гинтовта]
+(* <- lang_ru;; <- street;;*);
+[14]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Винцевич Ольга Валентиновна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220325]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

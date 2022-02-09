@@ -1,0 +1,25 @@
+post_office_number_246034 => nrel_main_idtf:
+[post_office_number_246034]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 35 15 85]
+(* <- phone_number;;*);
+[246034]
+(* <- lang_ru;; <- postcode;;*);
+[30.94904423]
+(* <- lang_ru;; <- longitude;;*);
+[246034, г. Гомель, ул. Бочкина 223]
+(* <- lang_ru;; <- address;;*);
+[52.42956245]
+(* <- lang_ru;; <- latitude;;*);
+[Бочкина]
+(* <- lang_ru;; <- street;;*);
+[223]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246034]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

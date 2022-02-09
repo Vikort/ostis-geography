@@ -1,0 +1,25 @@
+post_office_number_220006 => nrel_main_idtf:
+[post_office_number_220006]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 358 06 41]
+(* <- phone_number;;*);
+[220006]
+(* <- lang_ru;; <- postcode;;*);
+[27.5671139]
+(* <- lang_ru;; <- longitude;;*);
+[220006, г. Минск, улица. Маяковского 8]
+(* <- lang_ru;; <- address;;*);
+[53.8835765]
+(* <- lang_ru;; <- latitude;;*);
+[Маяковского]
+(* <- lang_ru;; <- street;;*);
+[8]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Леоненко Ольга Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220006]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

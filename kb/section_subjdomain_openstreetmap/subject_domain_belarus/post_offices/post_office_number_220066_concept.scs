@@ -1,0 +1,25 @@
+post_office_number_220066 => nrel_main_idtf:
+[post_office_number_220066]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 62 95]
+(* <- phone_number;;*);
+[220066]
+(* <- lang_ru;; <- postcode;;*);
+[27.6312469]
+(* <- lang_ru;; <- longitude;;*);
+[220066, г. Минск, улица. Ташкентская 16/1]
+(* <- lang_ru;; <- address;;*);
+[53.8411257]
+(* <- lang_ru;; <- latitude;;*);
+[Ташкентская]
+(* <- lang_ru;; <- street;;*);
+[16/1]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Росолько Наталья Петровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220066]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,25 @@
+post_office_number_220055 => nrel_main_idtf:
+[post_office_number_220055]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 242 56 72]
+(* <- phone_number;;*);
+[220055]
+(* <- lang_ru;; <- postcode;;*);
+[27.4420717]
+(* <- lang_ru;; <- longitude;;*);
+[220055, г. Минск, улица. Иосифа Жиновича 21]
+(* <- lang_ru;; <- address;;*);
+[53.9234785]
+(* <- lang_ru;; <- latitude;;*);
+[Иосифа Жиновича]
+(* <- lang_ru;; <- street;;*);
+[21]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Саленко Людмила Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220055]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

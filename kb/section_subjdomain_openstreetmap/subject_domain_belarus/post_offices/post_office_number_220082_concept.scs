@@ -1,0 +1,25 @@
+post_office_number_220082 => nrel_main_idtf:
+[post_office_number_220082]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 263 39 26]
+(* <- phone_number;;*);
+[220082]
+(* <- lang_ru;; <- postcode;;*);
+[27.4890942]
+(* <- lang_ru;; <- longitude;;*);
+[220082, г. Минск, улица. Данилы Сердича 10]
+(* <- lang_ru;; <- address;;*);
+[53.9116757]
+(* <- lang_ru;; <- latitude;;*);
+[Данилы Сердича]
+(* <- lang_ru;; <- street;;*);
+[10]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Рутковская Оксана Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220082]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

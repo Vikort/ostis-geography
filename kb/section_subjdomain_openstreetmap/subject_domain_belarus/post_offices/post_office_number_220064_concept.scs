@@ -1,0 +1,25 @@
+post_office_number_220064 => nrel_main_idtf:
+[post_office_number_220064]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 212 08 40]
+(* <- phone_number;;*);
+[220064]
+(* <- lang_ru;; <- postcode;;*);
+[27.4936564]
+(* <- lang_ru;; <- longitude;;*);
+[220064, г. Минск, улица. Ландера 36а]
+(* <- lang_ru;; <- address;;*);
+[53.84253924]
+(* <- lang_ru;; <- latitude;;*);
+[Ландера]
+(* <- lang_ru;; <- street;;*);
+[36а]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Копылова Валентина Чеславовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220064]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

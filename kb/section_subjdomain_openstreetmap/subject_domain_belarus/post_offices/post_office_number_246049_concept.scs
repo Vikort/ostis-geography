@@ -1,0 +1,25 @@
+post_office_number_246049 => nrel_main_idtf:
+[post_office_number_246049]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 50 28 54]
+(* <- phone_number;;*);
+[246049]
+(* <- lang_ru;; <- postcode;;*);
+[30.97968578]
+(* <- lang_ru;; <- longitude;;*);
+[246049, г. Гомель, ул. 60 лет СССР 4]
+(* <- lang_ru;; <- address;;*);
+[52.40472293]
+(* <- lang_ru;; <- latitude;;*);
+[60 лет СССР]
+(* <- lang_ru;; <- street;;*);
+[4]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246049]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

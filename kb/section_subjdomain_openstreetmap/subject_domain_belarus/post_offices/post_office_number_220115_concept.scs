@@ -1,0 +1,25 @@
+post_office_number_220115 => nrel_main_idtf:
+[post_office_number_220115]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 375 76 12]
+(* <- phone_number;;*);
+[220115]
+(* <- lang_ru;; <- postcode;;*);
+[27.5331571]
+(* <- lang_ru;; <- longitude;;*);
+[220115, г. Минск, улица. Кижеватова 80/1]
+(* <- lang_ru;; <- address;;*);
+[53.8442983]
+(* <- lang_ru;; <- latitude;;*);
+[Кижеватова]
+(* <- lang_ru;; <- street;;*);
+[80/1]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Пытляк Полина Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220115]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

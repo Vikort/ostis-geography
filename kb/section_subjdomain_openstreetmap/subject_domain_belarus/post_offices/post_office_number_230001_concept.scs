@@ -1,0 +1,25 @@
+post_office_number_230001 => nrel_main_idtf:
+[post_office_number_230001]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 60 43 51]
+(* <- phone_number;;*);
+[230001]
+(* <- lang_ru;; <- postcode;;*);
+[23.819753]
+(* <- lang_ru;; <- longitude;;*);
+[230001, г. Гродно, ул. Лелевеля 22]
+(* <- lang_ru;; <- address;;*);
+[53.664706]
+(* <- lang_ru;; <- latitude;;*);
+[Лелевеля]
+(* <- lang_ru;; <- street;;*);
+[22]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Сергеева Оксана Борисовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230001]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

@@ -1,0 +1,25 @@
+post_office_number_220205 => nrel_main_idtf:
+[post_office_number_220205]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 263 15 11]
+(* <- phone_number;;*);
+[220205]
+(* <- lang_ru;; <- postcode;;*);
+[27.58064795]
+(* <- lang_ru;; <- longitude;;*);
+[220205, г. Минск, ул. Независимости 46]
+(* <- lang_ru;; <- address;;*);
+[53.91267054]
+(* <- lang_ru;; <- latitude;;*);
+[Независимости]
+(* <- lang_ru;; <- street;;*);
+[46]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Конько Ирина Алексеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220205]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

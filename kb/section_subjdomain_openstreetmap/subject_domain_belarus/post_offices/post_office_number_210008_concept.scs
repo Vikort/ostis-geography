@@ -1,0 +1,25 @@
+post_office_number_210008 => nrel_main_idtf:
+[post_office_number_210008]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 64 07]
+(* <- phone_number;;*);
+[210008]
+(* <- lang_ru;; <- postcode;;*);
+[30.12167]
+(* <- lang_ru;; <- longitude;;*);
+[210008, г. Витебск, ул. 2-я Бядули 3]
+(* <- lang_ru;; <- address;;*);
+[55.16846]
+(* <- lang_ru;; <- latitude;;*);
+[2-я Бядули]
+(* <- lang_ru;; <- street;;*);
+[3]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Попова Виктория Станиславовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210008]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

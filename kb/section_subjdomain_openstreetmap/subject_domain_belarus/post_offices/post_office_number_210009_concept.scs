@@ -1,0 +1,25 @@
+post_office_number_210009 => nrel_main_idtf:
+[post_office_number_210009]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 60 15 23]
+(* <- phone_number;;*);
+[210009]
+(* <- lang_ru;; <- postcode;;*);
+[30.2140275]
+(* <- lang_ru;; <- longitude;;*);
+[210009, г. Витебск, ул. Доватора д. 1]
+(* <- lang_ru;; <- address;;*);
+[55.1932727]
+(* <- lang_ru;; <- latitude;;*);
+[Доватора д.]
+(* <- lang_ru;; <- street;;*);
+[1]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Минкевич Анжела Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210009]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

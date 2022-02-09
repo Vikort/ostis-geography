@@ -1,0 +1,25 @@
+post_office_number_210014 => nrel_main_idtf:
+[post_office_number_210014]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 69 67 70]
+(* <- phone_number;;*);
+[210014]
+(* <- lang_ru;; <- postcode;;*);
+[30.256058]
+(* <- lang_ru;; <- longitude;;*);
+[210014, город. Витебск, ул. Партизанская 3]
+(* <- lang_ru;; <- address;;*);
+[55.28805]
+(* <- lang_ru;; <- latitude;;*);
+[Партизанская]
+(* <- lang_ru;; <- street;;*);
+[3]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Сухоржевская Лина Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210014]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

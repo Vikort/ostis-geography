@@ -1,0 +1,25 @@
+post_office_number_220076 => nrel_main_idtf:
+[post_office_number_220076]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 271 01 94]
+(* <- phone_number;;*);
+[220076]
+(* <- lang_ru;; <- postcode;;*);
+[27.65419196]
+(* <- lang_ru;; <- longitude;;*);
+[220076, г. Минск, улица. К. Туровского 4]
+(* <- lang_ru;; <- address;;*);
+[53.93160341]
+(* <- lang_ru;; <- latitude;;*);
+[К. Туровского]
+(* <- lang_ru;; <- street;;*);
+[4]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Ганец Лорена Олеговна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220076]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

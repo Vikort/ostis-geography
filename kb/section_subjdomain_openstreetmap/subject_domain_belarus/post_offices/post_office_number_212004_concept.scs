@@ -1,0 +1,25 @@
+post_office_number_212004 => nrel_main_idtf:
+[post_office_number_212004]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 64 24 23]
+(* <- phone_number;;*);
+[212004]
+(* <- lang_ru;; <- postcode;;*);
+[30.4106538]
+(* <- lang_ru;; <- longitude;;*);
+[212004, г. Могилев, ул. Автозаводская 20]
+(* <- lang_ru;; <- address;;*);
+[53.8864263]
+(* <- lang_ru;; <- latitude;;*);
+[Автозаводская]
+(* <- lang_ru;; <- street;;*);
+[20]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212004]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

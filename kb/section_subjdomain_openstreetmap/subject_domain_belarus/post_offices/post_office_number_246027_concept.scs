@@ -1,0 +1,25 @@
+post_office_number_246027 => nrel_main_idtf:
+[post_office_number_246027]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 20 74 04]
+(* <- phone_number;;*);
+[246027]
+(* <- lang_ru;; <- postcode;;*);
+[30.96472979]
+(* <- lang_ru;; <- longitude;;*);
+[246027, г. Гомель, пр-т. Речицкий 4]
+(* <- lang_ru;; <- address;;*);
+[52.41692196]
+(* <- lang_ru;; <- latitude;;*);
+[Речицкий]
+(* <- lang_ru;; <- street;;*);
+[4]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246027]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

@@ -1,0 +1,25 @@
+post_office_number_210015 => nrel_main_idtf:
+[post_office_number_210015]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 61 41 25]
+(* <- phone_number;;*);
+[210015]
+(* <- lang_ru;; <- postcode;;*);
+[30.2064719]
+(* <- lang_ru;; <- longitude;;*);
+[210015, г. Витебск, пр-т. Московский 10]
+(* <- lang_ru;; <- address;;*);
+[55.1826018]
+(* <- lang_ru;; <- latitude;;*);
+[Московский]
+(* <- lang_ru;; <- street;;*);
+[10]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Кутько Анна Анатольевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210015]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

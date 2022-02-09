@@ -1,0 +1,25 @@
+post_office_number_247038 => nrel_main_idtf:
+[post_office_number_247038]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (44) 588 06 46]
+(* <- phone_number;;*);
+[247038]
+(* <- lang_ru;; <- postcode;;*);
+[30.9927524]
+(* <- lang_ru;; <- longitude;;*);
+[247038, г. Гомель, ул. Курчатова 2]
+(* <- lang_ru;; <- address;;*);
+[52.4327807]
+(* <- lang_ru;; <- latitude;;*);
+[Курчатова]
+(* <- lang_ru;; <- street;;*);
+[2]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_247038]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

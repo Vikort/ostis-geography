@@ -1,0 +1,25 @@
+post_office_number_230019 => nrel_main_idtf:
+[post_office_number_230019]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 68 69 78]
+(* <- phone_number;;*);
+[230019]
+(* <- lang_ru;; <- postcode;;*);
+[23.871884]
+(* <- lang_ru;; <- longitude;;*);
+[230019, г. Гродно, ул. Южная 2]
+(* <- lang_ru;; <- address;;*);
+[53.643849]
+(* <- lang_ru;; <- latitude;;*);
+[Южная]
+(* <- lang_ru;; <- street;;*);
+[2]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Будай Наталья Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230019]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

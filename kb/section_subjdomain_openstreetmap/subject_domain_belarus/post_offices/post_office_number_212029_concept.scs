@@ -1,0 +1,25 @@
+post_office_number_212029 => nrel_main_idtf:
+[post_office_number_212029]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 76 55 42]
+(* <- phone_number;;*);
+[212029]
+(* <- lang_ru;; <- postcode;;*);
+[30.3443898]
+(* <- lang_ru;; <- longitude;;*);
+[212029, г. Могилев, ул. Габровская 24]
+(* <- lang_ru;; <- address;;*);
+[53.8668845]
+(* <- lang_ru;; <- latitude;;*);
+[Габровская]
+(* <- lang_ru;; <- street;;*);
+[24]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212029]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

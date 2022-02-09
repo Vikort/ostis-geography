@@ -1,0 +1,25 @@
+post_office_number_220086 => nrel_main_idtf:
+[post_office_number_220086]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 373 04 75]
+(* <- phone_number;;*);
+[220086]
+(* <- lang_ru;; <- postcode;;*);
+[27.6420039]
+(* <- lang_ru;; <- longitude;;*);
+[220086, г. Минск, улица. Славинского 45]
+(* <- lang_ru;; <- address;;*);
+[53.9386498]
+(* <- lang_ru;; <- latitude;;*);
+[Славинского]
+(* <- lang_ru;; <- street;;*);
+[45]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Трофимович Наталья Алексеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220086]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,25 @@
+post_office_number_212037 => nrel_main_idtf:
+[post_office_number_212037]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 21 54 20]
+(* <- phone_number;;*);
+[212037]
+(* <- lang_ru;; <- postcode;;*);
+[30.43227643]
+(* <- lang_ru;; <- longitude;;*);
+[212037, г. Могилев, ул. Школьная 2А]
+(* <- lang_ru;; <- address;;*);
+[53.86556435]
+(* <- lang_ru;; <- latitude;;*);
+[Школьная]
+(* <- lang_ru;; <- street;;*);
+[2А]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212037]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

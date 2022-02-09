@@ -1,0 +1,25 @@
+post_office_number_220037 => nrel_main_idtf:
+[post_office_number_220037]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 325 96 27]
+(* <- phone_number;;*);
+[220037]
+(* <- lang_ru;; <- postcode;;*);
+[27.617349]
+(* <- lang_ru;; <- longitude;;*);
+[220037, г. Минск, улица. Уральская 16]
+(* <- lang_ru;; <- address;;*);
+[53.9024324]
+(* <- lang_ru;; <- latitude;;*);
+[Уральская]
+(* <- lang_ru;; <- street;;*);
+[16]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Юшкевич Анастасия Васильевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220037]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

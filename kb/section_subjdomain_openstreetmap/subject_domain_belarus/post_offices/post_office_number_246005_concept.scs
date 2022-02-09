@@ -1,0 +1,25 @@
+post_office_number_246005 => nrel_main_idtf:
+[post_office_number_246005]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 21 11 94]
+(* <- phone_number;;*);
+[246005]
+(* <- lang_ru;; <- postcode;;*);
+[31.0476251]
+(* <- lang_ru;; <- longitude;;*);
+[246005, г. Гомель, ул. Дубравная 11]
+(* <- lang_ru;; <- address;;*);
+[52.3534585]
+(* <- lang_ru;; <- latitude;;*);
+[Дубравная]
+(* <- lang_ru;; <- street;;*);
+[11]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246005]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

@@ -1,0 +1,25 @@
+post_office_number_220090 => nrel_main_idtf:
+[post_office_number_220090]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 56 47]
+(* <- phone_number;;*);
+[220090]
+(* <- lang_ru;; <- postcode;;*);
+[27.6177142]
+(* <- lang_ru;; <- longitude;;*);
+[220090, г. Минск, тракт. Логойский 27]
+(* <- lang_ru;; <- address;;*);
+[53.9528726]
+(* <- lang_ru;; <- latitude;;*);
+[Логойский]
+(* <- lang_ru;; <- street;;*);
+[27]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Козляковская Оксана Алексеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220090]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

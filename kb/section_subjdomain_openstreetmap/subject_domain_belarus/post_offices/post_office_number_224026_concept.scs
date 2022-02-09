@@ -1,0 +1,25 @@
+post_office_number_224026 => nrel_main_idtf:
+[post_office_number_224026]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 25 32 26]
+(* <- phone_number;;*);
+[224026]
+(* <- lang_ru;; <- postcode;;*);
+[23.8103695]
+(* <- lang_ru;; <- longitude;;*);
+[224026, г. Брест, ул. Вычулки 113]
+(* <- lang_ru;; <- address;;*);
+[52.0965056]
+(* <- lang_ru;; <- latitude;;*);
+[Вычулки]
+(* <- lang_ru;; <- street;;*);
+[113]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Левчук Анастасия Николаевна временно]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224026]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

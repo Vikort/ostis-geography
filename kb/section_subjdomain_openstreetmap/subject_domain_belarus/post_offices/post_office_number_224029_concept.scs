@@ -1,0 +1,25 @@
+post_office_number_224029 => nrel_main_idtf:
+[post_office_number_224029]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 28 23 61]
+(* <- phone_number;;*);
+[224029]
+(* <- lang_ru;; <- postcode;;*);
+[23.7689671]
+(* <- lang_ru;; <- longitude;;*);
+[224029, г. Брест, ул. Коммерческая 17]
+(* <- lang_ru;; <- address;;*);
+[52.1314065]
+(* <- lang_ru;; <- latitude;;*);
+[Коммерческая]
+(* <- lang_ru;; <- street;;*);
+[17]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Стукалова Татьяна Владимировна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224029]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

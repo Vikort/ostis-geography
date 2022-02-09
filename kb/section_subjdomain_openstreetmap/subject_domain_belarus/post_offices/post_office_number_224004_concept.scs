@@ -1,0 +1,25 @@
+post_office_number_224004 => nrel_main_idtf:
+[post_office_number_224004]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 57 40 91]
+(* <- phone_number;;*);
+[224004]
+(* <- lang_ru;; <- postcode;;*);
+[23.678787]
+(* <- lang_ru;; <- longitude;;*);
+[224004, г. Брест, пл. Привокзальная площадь 2 А]
+(* <- lang_ru;; <- address;;*);
+[52.099543]
+(* <- lang_ru;; <- latitude;;*);
+[Привокзальная площадь]
+(* <- lang_ru;; <- street;;*);
+[2]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Мартынюк Валентина Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224004]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

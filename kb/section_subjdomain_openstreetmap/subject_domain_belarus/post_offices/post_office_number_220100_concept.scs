@@ -1,0 +1,25 @@
+post_office_number_220100 => nrel_main_idtf:
+[post_office_number_220100]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 324 96 52]
+(* <- phone_number;;*);
+[220100]
+(* <- lang_ru;; <- postcode;;*);
+[27.5744593]
+(* <- lang_ru;; <- longitude;;*);
+[220100, г. Минск, улица. Максима Богдановича 78]
+(* <- lang_ru;; <- address;;*);
+[53.9281977]
+(* <- lang_ru;; <- latitude;;*);
+[Максима Богдановича]
+(* <- lang_ru;; <- street;;*);
+[78]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220100]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

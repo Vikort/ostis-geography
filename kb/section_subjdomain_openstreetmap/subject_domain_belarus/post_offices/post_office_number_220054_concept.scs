@@ -1,0 +1,25 @@
+post_office_number_220054 => nrel_main_idtf:
+[post_office_number_220054]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 294 02 10]
+(* <- phone_number;;*);
+[220054]
+(* <- lang_ru;; <- postcode;;*);
+[28.0408035]
+(* <- lang_ru;; <- longitude;;*);
+[220054, г. Минск, территория. Национального Аэропорта "Минск" 19-1]
+(* <- lang_ru;; <- address;;*);
+[53.8867539]
+(* <- lang_ru;; <- latitude;;*);
+[Национального Аэропорта "Минск"]
+(* <- lang_ru;; <- street;;*);
+[19-1]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Зубкевич Инна Георгиевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220054]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

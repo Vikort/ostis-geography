@@ -1,0 +1,25 @@
+post_office_number_246053 => nrel_main_idtf:
+[post_office_number_246053]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 25 56 60]
+(* <- phone_number;;*);
+[246053]
+(* <- lang_ru;; <- postcode;;*);
+[31.02654934]
+(* <- lang_ru;; <- longitude;;*);
+[246053, г. Гомель, ул. Мазурова 59]
+(* <- lang_ru;; <- address;;*);
+[52.45162883]
+(* <- lang_ru;; <- latitude;;*);
+[Мазурова]
+(* <- lang_ru;; <- street;;*);
+[59]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246053]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

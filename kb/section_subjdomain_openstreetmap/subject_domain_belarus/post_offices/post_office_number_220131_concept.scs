@@ -1,0 +1,25 @@
+post_office_number_220131 => nrel_main_idtf:
+[post_office_number_220131]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 42 88]
+(* <- phone_number;;*);
+[220131]
+(* <- lang_ru;; <- postcode;;*);
+[27.6053983]
+(* <- lang_ru;; <- longitude;;*);
+[220131, г. Минск, улица. Мирошниченко 1 1]
+(* <- lang_ru;; <- address;;*);
+[53.95859248]
+(* <- lang_ru;; <- latitude;;*);
+[Мирошниченко]
+(* <- lang_ru;; <- street;;*);
+[1]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Кулакович Инга Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220131]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

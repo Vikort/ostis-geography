@@ -1,0 +1,25 @@
+post_office_number_224039 => nrel_main_idtf:
+[post_office_number_224039]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 57 42 14]
+(* <- phone_number;;*);
+[224039]
+(* <- lang_ru;; <- postcode;;*);
+[23.6905372]
+(* <- lang_ru;; <- longitude;;*);
+[224039, г. Брест, пр-т. Машерова 32]
+(* <- lang_ru;; <- address;;*);
+[52.0864444]
+(* <- lang_ru;; <- latitude;;*);
+[Машерова]
+(* <- lang_ru;; <- street;;*);
+[32]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Остапович Елена Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224039]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

@@ -1,0 +1,25 @@
+post_office_number_220028 => nrel_main_idtf:
+[post_office_number_220028]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 365 47 21]
+(* <- phone_number;;*);
+[220028]
+(* <- lang_ru;; <- postcode;;*);
+[27.5708549]
+(* <- lang_ru;; <- longitude;;*);
+[220028, г. Минск, улица. Маяковского 164]
+(* <- lang_ru;; <- address;;*);
+[53.8635446]
+(* <- lang_ru;; <- latitude;;*);
+[Маяковского]
+(* <- lang_ru;; <- street;;*);
+[164]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Гилёва Ольга Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220028]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

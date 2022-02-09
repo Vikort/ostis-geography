@@ -1,0 +1,25 @@
+post_office_number_230020 => nrel_main_idtf:
+[post_office_number_230020]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 39 21 02]
+(* <- phone_number;;*);
+[230020]
+(* <- lang_ru;; <- postcode;;*);
+[23.844688]
+(* <- lang_ru;; <- longitude;;*);
+[230020, г. Гродно, ул. Кабяка 2]
+(* <- lang_ru;; <- address;;*);
+[53.64193]
+(* <- lang_ru;; <- latitude;;*);
+[Кабяка]
+(* <- lang_ru;; <- street;;*);
+[2]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Валюженич Марина Алексеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230020]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

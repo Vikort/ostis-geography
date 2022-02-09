@@ -1,0 +1,25 @@
+post_office_number_220031 => nrel_main_idtf:
+[post_office_number_220031]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 363 69 23]
+(* <- phone_number;;*);
+[220031]
+(* <- lang_ru;; <- postcode;;*);
+[27.71960342]
+(* <- lang_ru;; <- longitude;;*);
+[220031, г. Минск, улица. Славянская 4]
+(* <- lang_ru;; <- address;;*);
+[53.9366313]
+(* <- lang_ru;; <- latitude;;*);
+[Славянская]
+(* <- lang_ru;; <- street;;*);
+[4]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Куршина Наталья Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220031]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,25 @@
+post_office_number_220045 => nrel_main_idtf:
+[post_office_number_220045]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 395 26 84]
+(* <- phone_number;;*);
+[220045]
+(* <- lang_ru;; <- postcode;;*);
+[27.4803063]
+(* <- lang_ru;; <- longitude;;*);
+[220045, г. Минск, улица. Наполеона Орды 23]
+(* <- lang_ru;; <- address;;*);
+[53.8432825]
+(* <- lang_ru;; <- latitude;;*);
+[Наполеона Орды]
+(* <- lang_ru;; <- street;;*);
+[23]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Карпиевич Наталья Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220045]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

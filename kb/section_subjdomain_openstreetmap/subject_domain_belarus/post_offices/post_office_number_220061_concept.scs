@@ -1,0 +1,25 @@
+post_office_number_220061 => nrel_main_idtf:
+[post_office_number_220061]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 221 70 40]
+(* <- phone_number;;*);
+[220061]
+(* <- lang_ru;; <- postcode;;*);
+[27.41597464]
+(* <- lang_ru;; <- longitude;;*);
+[220061, г. Минск, улица. Каменногорская 3]
+(* <- lang_ru;; <- address;;*);
+[53.91068941]
+(* <- lang_ru;; <- latitude;;*);
+[Каменногорская]
+(* <- lang_ru;; <- street;;*);
+[3]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Кухарчик Наталья Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220061]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

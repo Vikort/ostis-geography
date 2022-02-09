@@ -1,0 +1,25 @@
+post_office_number_246040 => nrel_main_idtf:
+[post_office_number_246040]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 22 56 69]
+(* <- phone_number;;*);
+[246040]
+(* <- lang_ru;; <- postcode;;*);
+[31.03002012]
+(* <- lang_ru;; <- longitude;;*);
+[246040, г. Гомель, ул. Ильича 290]
+(* <- lang_ru;; <- address;;*);
+[52.36317498]
+(* <- lang_ru;; <- latitude;;*);
+[Ильича]
+(* <- lang_ru;; <- street;;*);
+[290]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246040]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

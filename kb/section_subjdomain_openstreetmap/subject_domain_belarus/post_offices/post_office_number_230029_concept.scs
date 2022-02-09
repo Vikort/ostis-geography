@@ -1,0 +1,25 @@
+post_office_number_230029 => nrel_main_idtf:
+[post_office_number_230029]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 44 12 76]
+(* <- phone_number;;*);
+[230029]
+(* <- lang_ru;; <- postcode;;*);
+[23.823192]
+(* <- lang_ru;; <- longitude;;*);
+[230029, г. Гродно, ул. Горького 24]
+(* <- lang_ru;; <- address;;*);
+[53.692418]
+(* <- lang_ru;; <- latitude;;*);
+[Горького]
+(* <- lang_ru;; <- street;;*);
+[24]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Чуладо Людмила Анатольевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230029]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

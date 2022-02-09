@@ -1,0 +1,25 @@
+post_office_number_246045 => nrel_main_idtf:
+[post_office_number_246045]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 34 63 71]
+(* <- phone_number;;*);
+[246045]
+(* <- lang_ru;; <- postcode;;*);
+[31.02358818]
+(* <- lang_ru;; <- longitude;;*);
+[246045, г. Гомель, ул. Огоренко 16]
+(* <- lang_ru;; <- address;;*);
+[52.47763124]
+(* <- lang_ru;; <- latitude;;*);
+[Огоренко]
+(* <- lang_ru;; <- street;;*);
+[16]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246045]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

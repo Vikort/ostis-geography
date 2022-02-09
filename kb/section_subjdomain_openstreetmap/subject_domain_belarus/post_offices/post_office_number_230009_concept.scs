@@ -1,0 +1,25 @@
+post_office_number_230009 => nrel_main_idtf:
+[post_office_number_230009]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 64 88 06]
+(* <- phone_number;;*);
+[230009]
+(* <- lang_ru;; <- postcode;;*);
+[23.807964]
+(* <- lang_ru;; <- longitude;;*);
+[230009, г. Гродно, ул. БЛК 38]
+(* <- lang_ru;; <- address;;*);
+[53.697407]
+(* <- lang_ru;; <- latitude;;*);
+[БЛК]
+(* <- lang_ru;; <- street;;*);
+[38]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Баранова Елена Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230009]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

@@ -1,0 +1,25 @@
+post_office_number_212011 => nrel_main_idtf:
+[post_office_number_212011]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 73 20 69]
+(* <- phone_number;;*);
+[212011]
+(* <- lang_ru;; <- postcode;;*);
+[30.36286354]
+(* <- lang_ru;; <- longitude;;*);
+[212011, г. Могилев, ул. 30 лет Победы 30]
+(* <- lang_ru;; <- address;;*);
+[53.93577198]
+(* <- lang_ru;; <- latitude;;*);
+[30 лет Победы]
+(* <- lang_ru;; <- street;;*);
+[30]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212011]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

@@ -1,0 +1,25 @@
+post_office_number_220040 => nrel_main_idtf:
+[post_office_number_220040]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 395 68 26]
+(* <- phone_number;;*);
+[220040]
+(* <- lang_ru;; <- postcode;;*);
+[27.5888466]
+(* <- lang_ru;; <- longitude;;*);
+[220040, г. Минск, улица. Беды 19]
+(* <- lang_ru;; <- address;;*);
+[53.9324015]
+(* <- lang_ru;; <- latitude;;*);
+[Беды]
+(* <- lang_ru;; <- street;;*);
+[19]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220040]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

@@ -1,0 +1,25 @@
+post_office_number_220003 => nrel_main_idtf:
+[post_office_number_220003]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 364 71 02]
+(* <- phone_number;;*);
+[220003]
+(* <- lang_ru;; <- postcode;;*);
+[27.42706159]
+(* <- lang_ru;; <- longitude;;*);
+[220003, г. Минск, улица. Одинцова 113]
+(* <- lang_ru;; <- address;;*);
+[53.90097231]
+(* <- lang_ru;; <- latitude;;*);
+[Одинцова]
+(* <- lang_ru;; <- street;;*);
+[113]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Соловей Анастасия Михайловна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220003]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

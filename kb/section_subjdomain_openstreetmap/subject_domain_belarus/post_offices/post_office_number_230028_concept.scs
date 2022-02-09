@@ -1,0 +1,25 @@
+post_office_number_230028 => nrel_main_idtf:
+[post_office_number_230028]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (152) 31 98 51]
+(* <- phone_number;;*);
+[230028]
+(* <- lang_ru;; <- postcode;;*);
+[23.854021]
+(* <- lang_ru;; <- longitude;;*);
+[230028, г. Гродно, ул. Садакова 8]
+(* <- lang_ru;; <- address;;*);
+[53.628524]
+(* <- lang_ru;; <- latitude;;*);
+[Садакова]
+(* <- lang_ru;; <- street;;*);
+[8]
+(* <- lang_ru;; <- house;;*);
+[hrodna]
+(* <- lang_ru;; <- city;;*);
+[Карпук Наталья Владимирровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_230028]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+hrodna;;

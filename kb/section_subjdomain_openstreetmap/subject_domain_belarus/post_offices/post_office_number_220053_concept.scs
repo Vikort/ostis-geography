@@ -1,0 +1,25 @@
+post_office_number_220053 => nrel_main_idtf:
+[post_office_number_220053]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 378 87 13]
+(* <- phone_number;;*);
+[220053]
+(* <- lang_ru;; <- postcode;;*);
+[27.5446218]
+(* <- lang_ru;; <- longitude;;*);
+[220053, г. Минск, тракт. Старовиленский 28/1]
+(* <- lang_ru;; <- address;;*);
+[53.9281916]
+(* <- lang_ru;; <- latitude;;*);
+[Старовиленский]
+(* <- lang_ru;; <- street;;*);
+[28/1]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Щербинская Татьяна Александровна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220053]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

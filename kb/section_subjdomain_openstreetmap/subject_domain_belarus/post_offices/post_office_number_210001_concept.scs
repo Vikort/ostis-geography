@@ -1,0 +1,25 @@
+post_office_number_210001 => nrel_main_idtf:
+[post_office_number_210001]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (212) 66 03 00]
+(* <- phone_number;;*);
+[210001]
+(* <- lang_ru;; <- postcode;;*);
+[30.1960194]
+(* <- lang_ru;; <- longitude;;*);
+[210001, г. Витебск, ул. Ильинского 45]
+(* <- lang_ru;; <- address;;*);
+[55.1921596]
+(* <- lang_ru;; <- latitude;;*);
+[Ильинского]
+(* <- lang_ru;; <- street;;*);
+[45]
+(* <- lang_ru;; <- house;;*);
+[vitebsk]
+(* <- lang_ru;; <- city;;*);
+[Рынкевич Галина Климентьевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_210001]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+vitebsk;;

@@ -1,0 +1,25 @@
+post_office_number_224027 => nrel_main_idtf:
+[post_office_number_224027]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 35 17 01]
+(* <- phone_number;;*);
+[224027]
+(* <- lang_ru;; <- postcode;;*);
+[23.8181779]
+(* <- lang_ru;; <- longitude;;*);
+[224027, г. Брест, ул. Медицинская 7]
+(* <- lang_ru;; <- address;;*);
+[52.1077588]
+(* <- lang_ru;; <- latitude;;*);
+[Медицинская]
+(* <- lang_ru;; <- street;;*);
+[7]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Карабанюк Тамара Николаевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224027]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

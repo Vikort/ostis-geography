@@ -1,0 +1,25 @@
+post_office_number_246047 => nrel_main_idtf:
+[post_office_number_246047]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (232) 24 05 89]
+(* <- phone_number;;*);
+[246047]
+(* <- lang_ru;; <- postcode;;*);
+[31.03470325]
+(* <- lang_ru;; <- longitude;;*);
+[246047, г. Гомель, ул. Склезнева 19]
+(* <- lang_ru;; <- address;;*);
+[52.38882772]
+(* <- lang_ru;; <- latitude;;*);
+[Склезнева]
+(* <- lang_ru;; <- street;;*);
+[19]
+(* <- lang_ru;; <- house;;*);
+[homel]
+(* <- lang_ru;; <- city;;*);
+[.]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_246047]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+homel;;

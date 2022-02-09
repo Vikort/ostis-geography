@@ -1,0 +1,25 @@
+post_office_number_220023 => nrel_main_idtf:
+[post_office_number_220023]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 347 89 45]
+(* <- phone_number;;*);
+[220023]
+(* <- lang_ru;; <- postcode;;*);
+[27.626541]
+(* <- lang_ru;; <- longitude;;*);
+[220023, город. Минск, проспект. Независимости 103]
+(* <- lang_ru;; <- address;;*);
+[53.9280942]
+(* <- lang_ru;; <- latitude;;*);
+[Независимости]
+(* <- lang_ru;; <- street;;*);
+[103]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220023]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

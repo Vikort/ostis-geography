@@ -1,0 +1,25 @@
+post_office_number_224007 => nrel_main_idtf:
+[post_office_number_224007]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (162) 34 26 39, 34 26 44]
+(* <- phone_number;;*);
+[224007]
+(* <- lang_ru;; <- postcode;;*);
+[23.7862001]
+(* <- lang_ru;; <- longitude;;*);
+[224007, г. Брест, ул. Стафеева 21]
+(* <- lang_ru;; <- address;;*);
+[52.1009723]
+(* <- lang_ru;; <- latitude;;*);
+[Стафеева]
+(* <- lang_ru;; <- street;;*);
+[21]
+(* <- lang_ru;; <- house;;*);
+[brest]
+(* <- lang_ru;; <- city;;*);
+[Ковалева Екатерина Сергеевна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_224007]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+brest;;

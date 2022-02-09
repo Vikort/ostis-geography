@@ -1,0 +1,25 @@
+post_office_number_220049 => nrel_main_idtf:
+[post_office_number_220049]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 255 91 81]
+(* <- phone_number;;*);
+[220049]
+(* <- lang_ru;; <- postcode;;*);
+[27.6138334]
+(* <- lang_ru;; <- longitude;;*);
+[220049, г. Минск, улица. Кнорина 16]
+(* <- lang_ru;; <- address;;*);
+[53.9353449]
+(* <- lang_ru;; <- latitude;;*);
+[Кнорина]
+(* <- lang_ru;; <- street;;*);
+[16]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220049]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

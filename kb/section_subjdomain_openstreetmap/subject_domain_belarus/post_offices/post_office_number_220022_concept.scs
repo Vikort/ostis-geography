@@ -1,0 +1,25 @@
+post_office_number_220022 => nrel_main_idtf:
+[post_office_number_220022]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 397 47 70]
+(* <- phone_number;;*);
+[220022]
+(* <- lang_ru;; <- postcode;;*);
+[27.4401783]
+(* <- lang_ru;; <- longitude;;*);
+[220022, город. Минск, улица. Шаранговича 48]
+(* <- lang_ru;; <- address;;*);
+[53.8826619]
+(* <- lang_ru;; <- latitude;;*);
+[Шаранговича]
+(* <- lang_ru;; <- street;;*);
+[48]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[Малыгина Ирина Викторовна]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220022]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;

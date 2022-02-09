@@ -1,0 +1,25 @@
+post_office_number_212039 => nrel_main_idtf:
+[post_office_number_212039]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (222) 72 74 80]
+(* <- phone_number;;*);
+[212039]
+(* <- lang_ru;; <- postcode;;*);
+[30.2593114]
+(* <- lang_ru;; <- longitude;;*);
+[212039, г. Могилев, ул. Профсоюзная 14]
+(* <- lang_ru;; <- address;;*);
+[53.9284211]
+(* <- lang_ru;; <- latitude;;*);
+[Профсоюзная]
+(* <- lang_ru;; <- street;;*);
+[14]
+(* <- lang_ru;; <- house;;*);
+[mohilev]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_212039]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+mohilev;;

@@ -1,0 +1,25 @@
+post_office_number_220019 => nrel_main_idtf:
+[post_office_number_220019]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[+375 (17) 355 95 76]
+(* <- phone_number;;*);
+[220019]
+(* <- lang_ru;; <- postcode;;*);
+[27.4330597]
+(* <- lang_ru;; <- longitude;;*);
+[220019, город. Минск, улица. Лобанка 109]
+(* <- lang_ru;; <- address;;*);
+[53.8817702]
+(* <- lang_ru;; <- latitude;;*);
+[Лобанка]
+(* <- lang_ru;; <- street;;*);
+[109]
+(* <- lang_ru;; <- house;;*);
+[minsk]
+(* <- lang_ru;; <- city;;*);
+[-]
+(* <- lang_ru;; <- leader_fio;;*);
+[post_office_number_220019]
+(* <- lang_ru;; <- name;;*);
+=>nrel_search_area:
+minsk;;
