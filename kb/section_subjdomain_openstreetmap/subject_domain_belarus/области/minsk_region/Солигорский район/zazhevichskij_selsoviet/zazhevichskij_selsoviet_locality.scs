@@ -1,4 +1,4 @@
-berezovka <- concept_village;
+berezovka_zazhevichskij <- concept_village;
 =>nrel_main_idtf:
     [Berezovka]
     (* <- lang_en;; <- name_en;;*);

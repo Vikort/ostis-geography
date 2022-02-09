@@ -128,7 +128,7 @@ krasnoe_ozero <- concept_village;
 =>nrel_main_idtf:
     [Krasnoe_Ozero]
     (* <- lang_en;; <- name_en;;*);
-    [Красное озера]
+    [Красное Озера]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -142,7 +142,7 @@ krasnoe_ozero <- concept_village;
 =>nrel_selsoviet:
     domanovichskij_selsoviet;;
 
-osovo <- concept_village;
+osovo_domanovichskij <- concept_village;
 =>nrel_main_idtf:
     [Osovo]
     (* <- lang_en;; <- name_en;;*);

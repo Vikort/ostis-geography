@@ -88,7 +88,7 @@ zelenij_bor <- concept_village;
 =>nrel_selsoviet:
     dolgovskij_selsoviet;;
 
-kamen <- concept_village;
+kamen_dolgovskij <- concept_village;
 =>nrel_main_idtf:
     [Kamen]
     (* <- lang_en;; <- name_en;;*);
@@ -236,7 +236,7 @@ roveckij_les <- concept_village;
 =>nrel_main_idtf:
     [Roveckij_Les]
     (* <- lang_en;; <- name_en;;*);
-    [Ровецкий лес]
+    [Ровецкий Лес]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]

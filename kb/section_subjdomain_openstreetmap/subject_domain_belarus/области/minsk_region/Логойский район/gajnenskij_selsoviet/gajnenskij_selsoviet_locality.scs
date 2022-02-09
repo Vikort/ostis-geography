@@ -146,7 +146,7 @@ krasniy_bor <- concept_village;
 =>nrel_main_idtf:
     [Krasniy_Bor]
     (* <- lang_en;; <- name_en;;*);
-    [Красный бор]
+    [Красный Бор]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -200,7 +200,7 @@ malye_ukropovichi <- concept_village;
 =>nrel_main_idtf:
     [Malye_Ukropovichi]
     (* <- lang_en;; <- name_en;;*);
-    [Малые укроповичи]
+    [Малые Укроповичи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
@@ -322,7 +322,7 @@ revjachino <- concept_village;
 =>nrel_selsoviet:
     gajnenskij_selsoviet;;
 
-rodevichi <- concept_village;
+rodevichi_gajnenskij <- concept_village;
 =>nrel_main_idtf:
     [Rodevichi]
     (* <- lang_en;; <- name_en;;*);
@@ -340,7 +340,7 @@ rodevichi <- concept_village;
 =>nrel_selsoviet:
     gajnenskij_selsoviet;;
 
-sloboda <- concept_village;
+sloboda_gajnenskij <- concept_village;
 =>nrel_main_idtf:
     [Sloboda]
     (* <- lang_en;; <- name_en;;*);
