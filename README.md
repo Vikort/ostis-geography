@@ -1,3 +1,6 @@
+## 1 задание - создание понятий 
+В ходе работы было создано 132 понятия из сайта https://avtoportal.by/cat/avtosalony-belarusi/
+
 ## OSTIS-geography
 OSTIS-geography is an open-source knowledge base for geographical system for Open Semantic Technology for Intelligent Systems. System includes OpenStreetMap support to display geographical objects. There is special agent that can display object on map according to their description.
 
