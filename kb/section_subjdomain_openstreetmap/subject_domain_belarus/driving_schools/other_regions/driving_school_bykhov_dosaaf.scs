@@ -1,0 +1,29 @@
+﻿driving_school_bykhov_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Bykhov DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Быховичская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    bykhov_district;
+=>nrel_city:
+    bykhov;
+=>nrel_postcode:
+    [213353]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213353, г.Быхов, ул.Щорса, 46]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Щорса]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [46]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

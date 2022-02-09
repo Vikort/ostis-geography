@@ -1,0 +1,29 @@
+﻿driving_school_cherikov_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Cherikov DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Чериковская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    cherikov_district;
+=>nrel_city:
+    cherikov;
+=>nrel_postcode:
+    [213530]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213530, г.Чериков, пр.Дзержинского, 9]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Дзержинского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [9]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

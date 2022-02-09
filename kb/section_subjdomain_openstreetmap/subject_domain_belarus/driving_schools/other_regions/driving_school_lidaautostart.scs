@@ -1,0 +1,29 @@
+﻿driving_school_lidaautostart <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School LidaAutoStart]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЛидаАвтоСтарт]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_city:
+    berezovka;
+=>nrel_postcode:
+    [231306]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231306, г.Берёзовка, ул.Школьная, 32]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Школьная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [32]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

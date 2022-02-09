@@ -1,0 +1,29 @@
+﻿driving_school_state_educational_institution_novoselkovsky_interschool_training_and_production_combine_for_labor_training_and_vocational_guidance <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School State Educational Institution Novoselkovsky Interschool Training and Production Combine for Labor Training and Vocational Guidance]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ГУО Новоселковский межшкольный учебно-производственный комбинат трудового обучения и профессиональной ориентации]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    petrikov_district;
+=>nrel_city:
+    petrikov;
+=>nrel_postcode:
+    [246027]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246027, г.Петриков, ул.Гагарина, 17]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Гагарина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [17]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

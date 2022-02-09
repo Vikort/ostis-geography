@@ -1,0 +1,36 @@
+concept_drivers_license
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+[водительские права]
+(* <- lang_ru;; *);
+[drivers license]
+(* <- lang_en;; *);
+<- rrel_key_sc_element:
+...
+(*
+=>nrel_main_idtf:
+[Опр. (водительские права)]
+(* <- lang_ru;; *);
+[Def. (drivers license)]
+(* <- lang_en;; *);;
+<- definition;;
+<= nrel_sc_text_translation:
+...
+(*
+->rrel_example:
+[Водительские права — документ, подтверждающий право на управление соответствующими категориями транспортных средств.]
+(* <- lang_ru;; *);;
+*);
+...
+(*
+-> rrel_example:
+[Drivers license  is a legal authorization, or the official document confirming such an authorization, for a specific individual to operate one or more types of motorized vehicles—such as motorcycles, cars, trucks, or buses—on a public road.]
+(* <- lang_en;; *);;
+*);;
+<= nrel_using_constants:
+{
+concept_driving_school;
+concept_vehicle;
+concept_driver;
+};;
+*);;

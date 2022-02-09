@@ -1,0 +1,29 @@
+﻿driving_school_volkovysk_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Volkovysk DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Волковысская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    volkovysk_district;
+=>nrel_city:
+    volkovysk;
+=>nrel_postcode:
+    [231891]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231891, г.Волковысск, ул.Октябрьская, 87]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Октябрьская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [87]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_glubokoe_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Glubokoe DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Глубокская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    glubokoe_district;
+=>nrel_city:
+    glubokoe;
+=>nrel_postcode:
+    [211800]
+    (* <- postcode;;*);
+=>nrel_address:
+    [211800, г.Глубокое, ул.Дзержинского, 3]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Дзержинского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [3]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

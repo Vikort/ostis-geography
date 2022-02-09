@@ -1,0 +1,29 @@
+﻿driving_school_gomel_state_professional_polytechnic_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gomel State Professional Polytechnic Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Гомельский государственный профессиональный политехнический лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246018]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246018, г.Гомель, ул.Я.Коласа, 6]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Я.Коласа]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [6]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_gomel_state_road_construction_college_lenin_komsomol_of_belarus <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gomel State Road Construction College. Lenin Komsomol of Belarus]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Гомельский государственный дорожно-строительный колледж им. Ленинского комсомола Белоруссии]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246050]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246050, г.Гомель, пл.Труда, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Труда]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

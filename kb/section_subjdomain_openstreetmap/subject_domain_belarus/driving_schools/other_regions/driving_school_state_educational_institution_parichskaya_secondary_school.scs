@@ -1,0 +1,29 @@
+﻿driving_school_state_educational_institution_parichskaya_secondary_school <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School State Educational Institution Parichskaya Secondary School]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ГУО Паричская средняя школа]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    svetlogorsk_district;
+=>nrel_city:
+    svetlogorsk;
+=>nrel_postcode:
+    [247400]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247400, г.Светлогорск, пл.Центральная, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Центральная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

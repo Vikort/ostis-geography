@@ -1,0 +1,29 @@
+﻿driving_school_lelchitsy_regional_organizational_structure_of_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Lelchitsy regional organizational structure of DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Лельчицкая районная организационная структура ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    lelchitsy_district;
+=>nrel_city:
+    lelchitsy;
+=>nrel_postcode:
+    [247841]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247841, г.Лельчицы,  ул.Ленина, 3]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ленина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [3]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

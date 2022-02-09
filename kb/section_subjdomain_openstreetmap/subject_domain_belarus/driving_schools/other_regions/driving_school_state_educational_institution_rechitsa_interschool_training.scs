@@ -1,0 +1,29 @@
+﻿driving_school_state_educational_institution_rechitsa_interschool_training_and_production_combine_of_labor_training_and_vocational_guidance_no_2_demekhi_village <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School State Educational Institution Rechitsa Interschool Training and Production Combine of Labor Training and Vocational Guidance No. 2 (Demekhi village)]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ГУО Речицкий межшкольный учебно-производственный комбинат трудового обучения и профессиональной ориентации № 2 (д. Демехи)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    rechitsa_district;
+=>nrel_city:
+    demekhi;
+=>nrel_postcode:
+    [247498]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247498, д.Демехи, ул.Центральная, 76]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Центральная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [76]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

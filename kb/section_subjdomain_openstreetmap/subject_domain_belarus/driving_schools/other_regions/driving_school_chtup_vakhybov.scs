@@ -1,0 +1,29 @@
+﻿driving_school_chtup_vakhybov <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School ChTUP "Vakhybov"]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧТУП «Вахыбов»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    kalinkovichi_district;
+=>nrel_city:
+    kalinkovichi;
+=>nrel_postcode:
+    [247710]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247710, г.Калинковичи, ул.Пионерская, 59-4]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Пионерская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [59-4]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_level <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Level]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Уровень]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246000]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246000, г.Гомель, ул.Советская, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Советская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

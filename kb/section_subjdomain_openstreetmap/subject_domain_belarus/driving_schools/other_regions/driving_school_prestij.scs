@@ -1,0 +1,29 @@
+﻿driving_school_prestij <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Prestij]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Престиж]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    bobruisk_district;
+=>nrel_city:
+    bobruisk;
+=>nrel_postcode:
+    [213827]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213827, г.Бобруйск, ул.Минская, 47-42]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Минская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [47-42]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

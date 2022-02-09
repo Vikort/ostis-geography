@@ -1,0 +1,37 @@
+concept_driving_school
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+[автошкола]
+(* <- lang_ru;; *);
+[driving school]
+(* <- lang_en;; *);
+<- rrel_key_sc_element:
+...
+(*
+=>nrel_main_idtf:
+[Опр. (автошкола)]
+(* <- lang_ru;; *);
+[Def. (driving school)]
+(* <- lang_en;; *);;
+<- definition;;
+<= nrel_sc_text_translation:
+...
+(*
+->rrel_example:
+[Автошкола — учебное заведение, готовящее водителей автомобиля.]
+(* <- lang_ru;; *);;
+*);
+...
+(*
+-> rrel_example:
+[Driving school  is a formal class or program that prepares a new driver to obtain a learner's permit or driver's license.]
+(* <- lang_en;; *);;
+*);;
+<= nrel_using_constants:
+{
+concept_drivers_license;
+concept_vehicle;
+concept_driver;
+concept_educational_institution
+};;
+*);;

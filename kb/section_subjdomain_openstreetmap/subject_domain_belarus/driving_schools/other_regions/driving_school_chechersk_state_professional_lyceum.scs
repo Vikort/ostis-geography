@@ -1,0 +1,29 @@
+﻿driving_school_chechersk_state_professional_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Chechersk State Professional Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Чечерский государственный профессиональный лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    chechersk_district;
+=>nrel_city:
+    chechersk;
+=>nrel_postcode:
+    [247152]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247152, г.Чечерск, ул.Крестьянская, 8]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Крестьянская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [8]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_klimovichi_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Klimovichi DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Климовичская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    klimovichi_district;
+=>nrel_city:
+    klimovichi;
+=>nrel_postcode:
+    [213633 ]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213633 , г.Климовичи, ул.Первомайская 16]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Первомайская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [16]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_secondary_school_no_2_turov <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Secondary school No. 2, Turov]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Средняя общеобразовательная школа № 2 г. Туров]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    zhitkovichi_district;
+=>nrel_city:
+    turov;
+=>nrel_postcode:
+    [247980]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247980, г.Туров, ул.Ленинская, 127]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ленинская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [127]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

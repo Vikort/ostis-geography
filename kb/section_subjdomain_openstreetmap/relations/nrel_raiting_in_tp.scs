@@ -1,0 +1,24 @@
+nrel_rating_in_tp <- sc_node_norole_relation;
+
+ => nrel_main_idtf: 
+   [рейтинг в ГАИ* ] (*<- lang_ru;;*);
+   [rating in TP* ] (*<- lang_en;;*);
+
+<- rrel_key_sc_element: ... (*
+  <- definition;;
+  => nrel_main_idtf: [Определение (рейтинг в ГАИ*)](*<- lang_ru;;*);;
+  
+  <= nrel_sc_text_translation: ...(*->[(Рейтинг в ГАИ - порядковый показатель, характеризующий автошколу.](*<-lang_ru;;*);;*);;
+*); 
+
+
+	=> nrel_first_domain:
+	concept_driving_school;
+	=> nrel_second_domain:
+	value;
+
+<- oriented_relation;
+<- binary_relation; 
+<- asymmetric_relation;
+<- antireflexive_relation;
+<|- transitive_relation;;

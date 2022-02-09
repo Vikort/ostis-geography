@@ -1,0 +1,29 @@
+﻿driving_school_shchuchin_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Shchuchin DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Щучинская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    shchuchin_district;
+=>nrel_city:
+    shchuchin;
+=>nrel_postcode:
+    [231513]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231513, г.Щучин, ул.Мичурина, 2]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Мичурина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [2]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

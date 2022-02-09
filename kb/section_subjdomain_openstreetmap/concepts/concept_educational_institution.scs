@@ -1,0 +1,30 @@
+concept_educational_institution
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+[учебное заведение]
+(* <- lang_ru;; *);
+[educational institution]
+(* <- lang_en;; *);
+<- rrel_key_sc_element:
+...
+(*
+=>nrel_main_idtf:
+[Опр. (учебное заведение)]
+(* <- lang_ru;; *);
+[Def. (educational institution)]
+(* <- lang_en;; *);;
+<- definition;;
+<= nrel_sc_text_translation:
+...
+(*
+->rrel_example:
+[Учебное заведение — это учреждение, осуществляющее образовательный процесс, то есть реализующее одну или несколько образовательных программ и (или) обеспечивающее содержание и воспитание обучающихся, воспитанников.]
+(* <- lang_ru;; *);;
+*);
+...
+(*
+-> rrel_example:
+[Educational institution is a place where people of different ages gain an education, including preschools, childcare, primary-elementary schools, secondary-high schools, and universities.]
+(* <- lang_en;; *);;
+*);;
+*);;

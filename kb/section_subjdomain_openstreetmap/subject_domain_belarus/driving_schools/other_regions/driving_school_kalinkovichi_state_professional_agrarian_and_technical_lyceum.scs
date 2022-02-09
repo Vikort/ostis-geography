@@ -1,0 +1,29 @@
+﻿driving_school_kalinkovichi_state_professional_agrarian_and_technical_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Kalinkovichi State Professional Agrarian and Technical Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Калинковичский государственный профессиональный аграрно-технический лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    kalinkovichi_district;
+=>nrel_city:
+    kalinkovichi;
+=>nrel_postcode:
+    [247710]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247710, г.Калинковичи, ул.50 лет Октября, 91]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [50 лет Октября]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [91]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

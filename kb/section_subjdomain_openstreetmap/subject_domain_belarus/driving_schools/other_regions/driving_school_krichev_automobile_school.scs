@@ -1,0 +1,29 @@
+﻿driving_school_krichev_automobile_school <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School richev Automobile School]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Кричевская Автомобильная Школа]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    krichev_district;
+=>nrel_city:
+    krichev;
+=>nrel_postcode:
+    [213500]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213500, г.Кричев, пр.Комсомольский 11A]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Комсомольский]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [11А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

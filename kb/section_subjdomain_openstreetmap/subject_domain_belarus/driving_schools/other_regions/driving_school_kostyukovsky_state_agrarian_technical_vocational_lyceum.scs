@@ -1,0 +1,29 @@
+﻿driving_school_kostyukovsky_state_agrarian_technical_vocational_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Kostyukovsky State Agrarian Technical Vocational Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Костюковский государственный аграрно-технический профессиональный лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    kostyukovka;
+=>nrel_postcode:
+    [247045]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247045, п.Костюковка, ул.Гомельская, 115]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Гомельская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [115]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

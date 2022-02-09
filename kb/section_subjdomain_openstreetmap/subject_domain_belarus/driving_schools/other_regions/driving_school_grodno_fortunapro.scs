@@ -1,0 +1,29 @@
+﻿driving_school_fortunapro <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School ArtDrive]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АртДрайв]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    grodno_district;
+=>nrel_city:
+    grodno;
+=>nrel_postcode:
+    [230023]
+    (* <- postcode;;*);
+=>nrel_address:
+    [230023, г.Гродно, ул.Будённого, 48А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Будённого]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [48A]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_zhlobin_city_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Zhlobin city ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Жлобинская городская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    zhlobin_district;
+=>nrel_city:
+    zhlobin;
+=>nrel_postcode:
+    [247210]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247210,  г.Жлобин, ул.Воровского, 46]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Воровского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [46]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

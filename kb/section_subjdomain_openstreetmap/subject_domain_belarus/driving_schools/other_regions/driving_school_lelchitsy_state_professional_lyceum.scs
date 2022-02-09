@@ -1,0 +1,29 @@
+﻿driving_school_lelchitsy_state_professional_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Lelchitsy State Professional Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Лельчицкий государственный профессиональный лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    lelchitsy_district;
+=>nrel_city:
+    lelchitsy;
+=>nrel_postcode:
+    [247840]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247840, г.п.Лельчицы, ул.Советская, 103]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Советская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [103]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

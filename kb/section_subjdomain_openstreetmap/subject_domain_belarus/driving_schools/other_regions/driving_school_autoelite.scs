@@ -1,0 +1,29 @@
+﻿driving_school_autoelite <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AutoElite]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Автоэлита]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    grodno_district;
+=>nrel_city:
+    grodno;
+=>nrel_postcode:
+    [230029]
+    (* <- postcode;;*);
+=>nrel_address:
+    [230029, г.Гродно, ул.Максима Горького, 6/25]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Максима Горького]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [6/25]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

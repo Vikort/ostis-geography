@@ -1,0 +1,29 @@
+﻿driving_school_gomelavtopark_no_2 <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School GomelAvtoPark № 2]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ГомельАвтоПарк № 2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    mazyr_district;
+=>nrel_city:
+    mazyr;
+=>nrel_postcode:
+    [247760]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247760, г.Мозырь, ул.Ветровая, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ветровая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

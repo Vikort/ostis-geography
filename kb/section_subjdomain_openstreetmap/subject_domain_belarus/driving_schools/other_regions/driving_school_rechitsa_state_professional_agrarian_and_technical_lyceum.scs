@@ -1,0 +1,29 @@
+﻿driving_school_rechitsa_state_professional_agrarian_and_technical_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Rechitsa State Professional Agrarian and Technical Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Речицкий государственный профессиональный аграрно-технический лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    rechitsa_district;
+=>nrel_city:
+    ozershchina;
+=>nrel_postcode:
+    [247519]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247519, д.Озерщина, ул.Фрунзе, 41]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Фрунзе]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [41]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

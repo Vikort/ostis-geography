@@ -1,0 +1,29 @@
+﻿driving_school_interschool_training_and_production_plant_for_labor_training_and_vocational_guidance_no_1_in_gomel <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Interschool training and production plant for labor training and vocational guidance No. 1 in Gomel]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Межшкольный учебно-производственный комбинат трудового обучения и профессиональной ориентации № 1 г. Гомеля]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246014]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246014, г.Гомель, ул.Кропоткина, 2]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Кропоткина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [2]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

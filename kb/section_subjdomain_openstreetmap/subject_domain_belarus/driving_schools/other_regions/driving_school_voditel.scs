@@ -1,0 +1,29 @@
+﻿driving_school_voditel <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Voditel]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Водитель]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    mogilev_district;
+=>nrel_city:
+    mogilev;
+=>nrel_postcode:
+    [212003]
+    (* <- postcode;;*);
+=>nrel_address:
+    [212003, г.Могилёв, ул.Свердлова, 7]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Свердлова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [7]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

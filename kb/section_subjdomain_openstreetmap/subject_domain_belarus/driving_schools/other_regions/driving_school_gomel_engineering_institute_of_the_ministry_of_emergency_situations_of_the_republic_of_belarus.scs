@@ -1,0 +1,29 @@
+﻿driving_school_gomel_engineering_institute_of_the_ministry_of_emergency_situations_of_the_republic_of_belarus <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gomel Engineering Institute of the Ministry of Emergency Situations of the Republic of Belarus]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Гомельский инженерный институт Министерства по чрезвычайным ситуациям Республики Беларусь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246023]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246023, г.Гомель, ш.Речицкое, 35А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Речицкое]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [35А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

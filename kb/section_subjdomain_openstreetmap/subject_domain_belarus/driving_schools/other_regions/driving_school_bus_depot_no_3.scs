@@ -1,0 +1,29 @@
+﻿driving_school_bus_depot_no_3 <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Bus Depot No. 3]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Автобусный парк № 3]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    rechitsa_district;
+=>nrel_city:
+    rechitsa;
+=>nrel_postcode:
+    [247485]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247485, г.Речица, ул.Трифонова, 70]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Трифонова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [70]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_unitary_enterprise_gomel_regional_ash_ngo_boaml_branch_in_the_city_of_bragin <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Unitary Enterprise Gomel Regional ASh NGO BOAML, branch in the city of Bragin]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УПУП Гомельская областная АШ ОО БОАМЛ, ф-л в г.п. Брагин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    bragin_district;
+=>nrel_city:
+    bragin;
+=>nrel_postcode:
+    [247632]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247632, г.п.Брагин, ул.Советская, 31]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Советская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [31]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

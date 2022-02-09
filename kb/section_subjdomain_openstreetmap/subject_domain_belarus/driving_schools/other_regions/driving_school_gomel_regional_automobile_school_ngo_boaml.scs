@@ -1,0 +1,29 @@
+﻿driving_school_gomel_regional_automobile_school_ngo_boaml <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gomel Regional Automobile School NGO BOAML]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Гомельская областная автомобильная школа ОО БОАМЛ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246008]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246008, г.Гомель, ул.Котовского, 49А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Котовского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [49А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

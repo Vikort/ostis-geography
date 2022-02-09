@@ -1,0 +1,2533 @@
+driving_school_va_rb <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School VA RB]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО ВА РБ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220007]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220007, г.Минск, ул. Горовца, д.24]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Горовца]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [24]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 1;
+=>nrel_failure_rate: 46;;
+
+
+driving_school_jokey <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Jokey]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ОДО “Жокей”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220095]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220095, г.Минск, ул.Московская, д.20]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Московская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [20]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 2;
+=>nrel_failure_rate: 48;;
+
+
+driving_school_bntu <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School BNTU]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ВТФ БНТУ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220088]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220088, г.Минск, ул.К.Либкнехта, д.54]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [К.Либкнехта]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [54]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 3;
+=>nrel_failure_rate: 60;;
+
+
+driving_school_avtovoditel <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtovoditel]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УП “Автоводитель“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220138]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220138, г.Минск, ул.Раковская, д.20]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Раковская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [20]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 4;
+=>nrel_failure_rate: 64;;
+
+
+driving_school_specavtomaster <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Specavtomaster]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧПСУП “Спецавтомастер”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220044]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220044, г.Минск, ул.Воронянского, д.50]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Воронянского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [275А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 5;
+=>nrel_failure_rate: 66;;
+
+
+driving_school_viraj_plus <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Viraj Plus]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ОДО “Вираж-плюс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220137]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220137, г.Минск, ул.Гинтовта, д.12А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Гинтовта]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [12А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 6;
+=>nrel_failure_rate: 66;;
+
+
+driving_school_cpkrr_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School CPKRR DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУО “ЦПКРР и С ДОСААФ”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220028]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220028, г.Минск, ул.Комсомольская, д.11]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Комсомольская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [11]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 7;
+=>nrel_failure_rate: 66;;
+
+
+
+driving_school_rusc_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School RUSC DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УСУП “РУСЦ” ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220049]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220049, г.Минск, ул.Каменногорская, д.70]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Каменногорская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [70]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 8;
+=>nrel_failure_rate: 67;;
+
+
+
+driving_school_frunz_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Frunz ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Фрунзенская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220113]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220113, г.Минск, ул.Фроликова, д.47]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Фроликова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [47]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 9;
+=>nrel_failure_rate: 69;;
+
+
+driving_school_minsksanavtotrans <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Minsksanavtotrans]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола КУП “Минсксанавтотранс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220123]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220123, г.Минск, ул.П.Бровки, д.40]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [П.Бровки]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [40]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 10;
+=>nrel_failure_rate: 70;;
+
+
+driving_school_moscv_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MOSCV ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Московская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220131]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220131, г.Минск, ул.М.Богдановича, д.27]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [М.Богдановича]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [27]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 11;
+=>nrel_failure_rate: 71;;
+
+
+driving_school_beltransspecavto <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Beltransspecavto]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АГУ “Белтрансспецавто”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220070]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220070, г.Минск, ул.Тупиковая, д.1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Тупиковая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 12;
+=>nrel_failure_rate: 71;;
+
+
+driving_school_sov_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Sov ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Советская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220030]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220030, г.Минск, ул.Ермака, д.47]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ермака]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [47]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 13;
+=>nrel_failure_rate: 71;;
+
+
+driving_school_lenin_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Lenin ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Ленинская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220028]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220028, г.Минск, ул.Никитина, д.34]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Никитина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [34]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 14;
+=>nrel_failure_rate: 72;;
+
+
+driving_school_kii_mchs_rb <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School KII MCHS RB]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО “КИИ” МЧС РБ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220073]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220073, г.Минск, ул.Саперов, д.43]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Саперов]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [43]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 15;
+=>nrel_failure_rate: 73;;
+
+
+driving_school_avtopromtoragroservice <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtopromtoragroservice]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ОАО “Автопромторгагросервис”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220131]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220131, г.Минск, ул.Жлобинская, д.76]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Жлобинская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [76]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 16;
+=>nrel_failure_rate: 73;;
+
+
+driving_school_mgak <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MGAK]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО МГАК]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220138]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220138, г.Минск, ул.Подлесная, д.86]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Подлесная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [86]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 17;
+=>nrel_failure_rate: 73;;
+
+driving_school_mosht_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MOSHT DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УП “МОТШ” ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220123]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220123, г.Минск, ул.Партизанская, д.175А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Партизанская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [175А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 18;
+=>nrel_failure_rate: 73;;
+
+
+driving_school_zavod_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Zavod ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Заводская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220018]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220018, г.Минск, ул.Охотская, д.48]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Охотская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [48]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 19;
+=>nrel_failure_rate: 76;;
+
+
+driving_school_formula_skorosti <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Formula skorostil]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Формула скорости”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220095]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220095, г.Минск, ул.Московская, д.23]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Московская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [23]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 20;
+=>nrel_failure_rate: 77;;
+
+
+driving_school_avtocenter_atlant_m <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtocenter Atlant M]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автоцентр Атлант-М“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220123]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220123, г.Минск, ул.Толстого, д.11]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Толстого]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [11]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 21;
+=>nrel_failure_rate: 77;;
+
+
+driving_school_cauk <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School CAUK]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ОАО “ЦАУК”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220004]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220004, г.Минск, ул.Мазурова, д.43]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Мазурова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [43]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 22;
+=>nrel_failure_rate: 77;;
+
+
+driving_school_centr_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Сentr ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Центральная РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220138]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220138, г.Минск, ул.Столетова, д.93]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Столетова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [93]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 23;
+=>nrel_failure_rate: 77;;
+
+
+driving_school_avtodelo_plus <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtodelo Plus]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автодело плюс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220114]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220114, г.Минск, ул.В.Хоружей, д.194]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [В.Хоружей]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [194]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 24;
+=>nrel_failure_rate: 77;;
+
+
+driving_school_blizkoe_rasstoyanie <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Blizkoe Rasstoyanie]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “Близкое расстояние”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220007]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220007, г.Минск, ул.Рафиева, д.3]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Рафиева]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [3]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 25;
+=>nrel_failure_rate: 77;;
+
+
+driving_school_avtostrim <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtostrim]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ОДО “Автострим”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [200000]
+    (* <- postcode;;*);
+=>nrel_address:
+    [200000, г.Минск, ул.Липовая, д.0]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Липовая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [0]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 26;
+=>nrel_failure_rate: 77;;
+
+
+driving_school_avto_ritet <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avto-Ritet]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Авто-Ритет”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220014]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220014, г.Минск, ул.Ложинская, д.65]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ложинская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [65]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 27;
+=>nrel_failure_rate: 78;;
+
+driving_school_mgptk <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MGPTK]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО “МГПТК”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220088]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220088, г.Минск, ул.Васильковая, д.64]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Васильковая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [64]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 28;
+=>nrel_failure_rate: 79;;
+
+
+driving_school_signal_plus <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Signal Plus]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “Сигнал плюс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220118]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220118, г.Минск, ул.Встречная, д.40]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Встречная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [40]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 29;
+=>nrel_failure_rate: 80;;
+
+driving_school_ripo <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School RIPO]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО “РИПО”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220029]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220029, г.Минск, ул.Некрасова, д.57]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Некрасова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [57]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 30;
+=>nrel_failure_rate: 80;;
+
+
+driving_school_avtoshkola_bkr <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshkola BKR]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автошкола БКР”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220045]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220045, г.Минск, ул.Новая, д.64]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Новая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [64]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 31;
+=>nrel_failure_rate: 81;;
+
+
+driving_school_avtoshkola_as <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshkola AS]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автошкола АС”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220086]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220086, г.Минск, ул.Филатова, д.55]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Филатова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [55]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 32;
+=>nrel_failure_rate: 81;;
+
+
+driving_school_ash_dalyaglyad <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School ASH Dalyaglyad]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “АШ Далягляд”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220138]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220138, г.Минск, ул.Одинцова, д.74]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Одинцова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [74]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 33;
+=>nrel_failure_rate: 81;;
+
+
+driving_school_nujni_shag <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Nujni Shag]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Нужный шаг”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220118]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220118, г.Минск, ул.Родниковая, д.43]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Родниковая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [43]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 34;
+=>nrel_failure_rate: 81;;
+
+
+driving_school_dorojnaya_azbuka <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Dorojnaya Azbuka]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Дорожная азбука”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220070]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220070, г.Минск, ул.Кабушкина, д.94]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Кабушкина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [94]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 35;
+=>nrel_failure_rate: 81;;
+
+
+driving_school_mgpl_14 <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MGPL №14]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО “МГПЛ №14”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220002]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220002, г.Минск, ул.Суражская, д.49]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Суражская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [49]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 36;
+=>nrel_failure_rate: 82;;
+
+
+driving_school_transavtoservice <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Transavtoservice]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Трансавтосервис”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220014]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220014, г.Минск, ул.Сурикова, д.66]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Сурикова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [66]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 37;
+=>nrel_failure_rate: 82;;
+
+
+driving_school_cpkrr_beldorstroi <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School CPKRR BELDORSTROI]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ГУЦ “ЦПКРР и С “БЕЛДОРСТРОЙ”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220095]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220095, г.Минск, ул.Брикета, д.53]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Брикета]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [53]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 38;
+=>nrel_failure_rate: 82;;
+
+
+driving_school_vse_kategorii <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Vse Kategorii]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Все категории”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220049]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220049, г.Минск, ул.Берута, д.42]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Берута]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [42]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 39;
+=>nrel_failure_rate: 84;;
+
+
+driving_school_avtoshkola_magistral <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshkola Magistral]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автошкола “Магистраль”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220070]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220070, г.Минск, ул.Айвазовского, д.55]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Айвазовского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [55]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 40;
+=>nrel_failure_rate: 84;;
+
+
+driving_school_oktyabr_ros_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Oktyabr ROS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Октябрьская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220018]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220018, г.Минск, ул.Аладовых, д.43]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Аладовых]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [43]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 41;
+=>nrel_failure_rate: 84;;
+
+
+driving_school_stellar_plus <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Stellar Plus]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Стеллар плюс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220131]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220131, г.Минск, ул.Иркутская, д.82]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Иркутская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [82]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 42;
+=>nrel_failure_rate: 84;;
+
+
+driving_school_bgatu <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School BGATU]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО БГАТУ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220045]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220045, г.Минск, ул.Измайловская, д.4]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Измайловская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [4]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 43;
+=>nrel_failure_rate: 85;;
+
+
+driving_school_gorod_iks <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gorod Iks]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Город Икс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220113]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220113, г.Минск, ул.Мележа, д.47]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Мележа]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [47]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 44;
+=>nrel_failure_rate: 85;;
+
+
+driving_school_avtopravo <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtopravo]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автоправо”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220028]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220028, г.Минск, ул.Дорошевича, д.98А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Дорошевича]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [98А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 45;
+=>nrel_failure_rate: 85;;
+
+
+driving_school_avtovojdenie <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtovojdenie]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автовождение”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220114]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220114, г.Минск, ул.Западная, д.36]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Западная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [36]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 46;
+=>nrel_failure_rate: 86;;
+
+
+
+driving_school_avtoshkola_strela <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Strela]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автошкола Стрела”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220007]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220007, г.Минск, ул.Сурганова, д.56]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Сурганова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [56]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 47;
+=>nrel_failure_rate: 86;;
+
+
+driving_school_avtoshkola_dlya_vas <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshkola dlya Vas]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автошкола для Вас”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220123]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220123, г.Минск, ул.Орды Наполеона, д.275А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Орды Наполеона]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [275А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 48;
+=>nrel_failure_rate: 86;;
+
+
+driving_school_stroivertikalinvest <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Stroivertikalinvest]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Стройвертикальинвест”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220118]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220118, г.Минск, ул.Ландера, д.85]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ландера]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [85]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 49;
+=>nrel_failure_rate: 86;;
+
+
+driving_school_mgmk <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MGMK]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО МГМК]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220029]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220029, г.Минск, ул.Брикета, д.33]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Брикета]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [33]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 50;
+=>nrel_failure_rate: 86;;
+
+
+
+driving_school_cppk_pr_metrostroitel <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School CPPK and PR Metrostroitel]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ГУО “ЦППК и ПР “Метростроитель”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220053]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220053, г.Минск, ул.Кривая, д.43]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Кривая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [43]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 51;
+=>nrel_failure_rate: 86;;
+
+
+
+driving_school_avtoshkola_elegiya <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshkola Elegiya]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “Автошкола Элегия”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220070]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220070, г.Минск, ул.Дружная, д.24]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Дружная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [24]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 52;
+=>nrel_failure_rate: 87;;
+
+
+driving_school_pora_za_rul <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Pora za Rul]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Пора за Руль”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220100]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220100, г.Минск, ул.Фогеля, д.65]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Фогеля]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [65]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 53;
+=>nrel_failure_rate: 88;;
+
+driving_school_as_intellekt <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AS Intellekt]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “АС Интеллект”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220028]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220028, г.Минск, ул.Татарская, д.48]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Татарская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [48]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 54;
+=>nrel_failure_rate: 88;;
+
+driving_school_avtoshkola_pilot <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshkola Pilot]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “Автошкола “Пилот”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220045]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220045, г.Минск, ул.Чкалова, д.86]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Чкалова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [86]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 55;
+=>nrel_failure_rate: 88;;
+
+
+driving_school_sunny_soul <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Sunny Soul]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “Санни Соул”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220033]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220033, г.Минск, ул.Уральская, д.53]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Уральская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [53]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 56;
+=>nrel_failure_rate: 90;;
+
+driving_school_avtoperekrestok <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoperekrestok]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автоперекресток”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220034]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220034, г.Минск, ул.Звездная, д.36]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Звездная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [36]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 57;
+=>nrel_failure_rate: 91;;
+
+driving_school_avtoaviant <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AvtoAviant]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “АвтоАвиант”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220049]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220049, г.Минск, ул.Лепельская, д.153]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Лепельская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [153]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 58;
+=>nrel_failure_rate: 91;;
+
+
+driving_school_avtoklems <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoklems]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автоклемс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220053]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220053, г.Минск, ул.Щукина, д.45]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Щукина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [45]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 59;
+=>nrel_failure_rate: 91;;
+
+
+driving_school_avtoshturman <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshturman]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автоштурман”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220044]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220044, г.Минск, ул.Домейко, д.54]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Домейко]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [54]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 60;
+=>nrel_failure_rate: 91;;
+
+
+driving_school_draiv_class <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School DraivClass]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУП “ДрайвКласс”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220075]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220075, г.Минск, ул.Антонова, д.3]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Антонова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [3]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 61;
+=>nrel_failure_rate: 92;;
+
+
+driving_school_avtogalaktika <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtogalaktika]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ОДО “Автогалактика”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220114]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220114, г.Минск, ул.Меделки, д.49]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Меделки]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [49]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 62;
+=>nrel_failure_rate: 92;;
+
+
+driving_school_tvoe_dvijenie <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Tvoe Dvijenie]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Твое движение”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220070]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220070, г.Минск, ул.Навуковая, д.45В]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Навуковая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [45В]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 63;
+=>nrel_failure_rate: 94;;
+
+
+driving_school_mchucppk_pk_bsltyf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MCHUCPPL and PK BslTYF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО “МЧУЦППК И ПК БслТЮФ”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220029]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220029, г.Минск, ул.Рущица, д.42]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Рущица]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [42]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 64;
+=>nrel_failure_rate: 96;;
+
+
+driving_school_azbuka_vojdeniya <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Azbuka Vojdeniya]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Азбука вождения”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220014]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220014, г.Минск, ул.Рябиновая, д.275А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Рябиновая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [275А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 65;
+=>nrel_failure_rate: 98;;
+
+driving_school_avtoshkola_bitu <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtoshkola BITU]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Автошкола БИТУ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220049]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220049, г.Минск, ул.Глебова, д.6]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Глебова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [6]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 66;
+=>nrel_failure_rate: 100;;
+
+driving_school_uo_bgaa <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School BGAA]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола УО БГАА]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220007]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220007, г.Минск, ул.Труса, д.84]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Труса]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [84]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 67;
+=>nrel_failure_rate: 100;;
+
+
+driving_school_avtonastavnik <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtonastavnik]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автонаставник”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220088]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220088, г.Минск, ул.Уманская, д.26]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Уманская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [26]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 68;
+=>nrel_failure_rate: 88;;
+
+
+driving_school_alirta <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Alirta]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ЧУУП “Алирта”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220049]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220049, г.Минск, ул.Воронянского, д.166]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Воронянского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [166]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 69;
+=>nrel_failure_rate: 89;;
+
+
+driving_school_avtokrona <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Avtokrona]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Автокрона”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220140]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220140, г.Минск, ул.Одинцова, д.116]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Одинцова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [116]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 70;
+=>nrel_failure_rate: 90;;
+
+
+driving_school_motorsport_bvd <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Motosport BVD]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Мотоспорт БВД”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220007]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220007, г.Минск, ул.Заречная, д.42]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Заречная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [42]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 71;
+=>nrel_failure_rate: 90;;
+
+
+driving_school_vnevedom_ohrana <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Vnevedomstvenaya Ohrana]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Вневедомственная охрана”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220053]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220053, г.Минск, ул.Пинская, д.46]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Пинская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [46]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 72;
+=>nrel_failure_rate: 91;;
+
+
+driving_school_belavtorally <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Belavtorally]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Белавторалли”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220002]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220002, г.Минск, ул.Машинистов, д.82]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Машинистов]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [82]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 73;
+=>nrel_failure_rate: 92;;
+
+driving_school_virtuoz <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Virtuoz]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Виртуоз”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220104]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220104, г.Минск, ул.Стариновская, д.31]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Стариновская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [31]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 74;
+=>nrel_failure_rate: 92;;
+
+driving_school_novi_povorot <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Novi Povorot]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Новый поворот”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220013]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220013, г.Минск, ул.Я.Коласа, д.56]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Я.Коласа]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [56]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 75;
+=>nrel_failure_rate: 93;;
+
+
+driving_school_novie_horizonti <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Novie Horizonti]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Новые горизонты”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220006]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220006, г.Минск, ул.Бабушкина, д.34]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Бабушкина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [34]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 76;
+=>nrel_failure_rate: 93;;
+
+driving_school_avto_otlichnik <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AvtoOtlichnik]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “АвтоОтличник”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220088]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220088, г.Минск, ул.Радиальная, д.39]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Радиальная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [39]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 77;
+=>nrel_failure_rate: 94;;
+
+driving_school_2000 <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School 2000]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “2000”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220017]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220017, г.Минск, ул.Нагорная, д.40]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Нагорная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [40]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 78;
+=>nrel_failure_rate: 95;;
+
+
+driving_school_debut <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Debut]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Дебют”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220073]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220073, г.Минск, ул.Двинская, д.68]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Двинская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [68]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 79;
+=>nrel_failure_rate: 96;;
+
+driving_school_formulacity <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School FormulaCity]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “ФормулаСити”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220138]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220138, г.Минск, ул.Жасминовая, д.43]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Жасминовая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [43]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 80;
+=>nrel_failure_rate: 96;;
+
+driving_school_lider <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Lider]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “Лидер”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220103]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220103, г.Минск, ул.Ванеева, д.26]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ванеева]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [26]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 81;
+=>nrel_failure_rate: 98;;
+
+driving_school_mnsk_city <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School MnskCity]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ООО “МнскСити”]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_city:
+    minsk;
+=>nrel_postcode:
+    [220103]
+    (* <- postcode;;*);
+=>nrel_address:
+    [220103, г.Минск, ул.Лесная, д.78]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Лесная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [78]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;
+=>nrel_rating_in_tp: 82;
+=>nrel_failure_rate: 98;;
+
+nrel_rating_in_tp
+nrel_failure_rate
+
