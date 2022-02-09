@@ -1,0 +1,24 @@
+company_ntlab-dizayn <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[НТЛаб-Дизайн]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-17-290 09 99]
+	(* <- concept_phone_number;;*);
+	[office@ntlab.com]
+	(* <- concept_email;;*);
+	[http://ntlab.com/]
+	(* <- concept_website;;*);
+	[192754056]
+	(* <- concept_ucn;;*);
+	[Республика Беларусь, г. Минск, ул. Сурганова, д. 41, каб. 419]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_year_registration:
+	2017;
+=>nrel_scope:
+	it;;
+

@@ -1,0 +1,24 @@
+company_apro-intellekt <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[Апро Интеллект]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-25-534-53-00]
+	(* <- concept_phone_number;;*);
+	[apro-intellekt@apro-software.com]
+	(* <- concept_email;;*);
+	[https://apro-software.com/]
+	(* <- concept_website;;*);
+	[193436426]
+	(* <- concept_ucn;;*);
+	[ул. Волгоградская, д. 13, каб. 213-119]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_year_registration:
+	2020;
+=>nrel_scope:
+	it;;
+

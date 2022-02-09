@@ -1,0 +1,22 @@
+company_e-kom-tehnologii <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[Е-ком Технологии]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-33-340-34-03]
+	(* <- concept_phone_number;;*);
+	[info@ecomtech.dev]
+	(* <- concept_email;;*);
+	[193271487]
+	(* <- concept_ucn;;*);
+	[пр. Победителей, д. 100, офис 520]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_year_registration:
+	2019;
+=>nrel_scope:
+	it;;
+

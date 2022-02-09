@@ -1,0 +1,24 @@
+company_s-terra-bel <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[С-Терра Бел]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-17 280 60 00]
+	(* <- concept_phone_number;;*);
+	[info@s-terra.by]
+	(* <- concept_email;;*);
+	[http://s-terra.by]
+	(* <- concept_website;;*);
+	[191007645]
+	(* <- concept_ucn;;*);
+	[ул. Чернышевского, 10А, пом. 611]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_year_registration:
+	2008;
+=>nrel_scope:
+	it;;
+

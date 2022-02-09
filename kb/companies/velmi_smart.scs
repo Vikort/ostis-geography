@@ -1,0 +1,24 @@
+company_velmi-smart <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[ВЕЛМИ-СМАРТ]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-29-679-76-64]
+	(* <- concept_phone_number;;*);
+	[support@velmie.com]
+	(* <- concept_email;;*);
+	[http://velmie.com/]
+	(* <- concept_website;;*);
+	[193054200]
+	(* <- concept_ucn;;*);
+	[ул. Железнодорожная, д. 33, офис 510]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_year_registration:
+	2018;
+=>nrel_scope:
+	it;;
+

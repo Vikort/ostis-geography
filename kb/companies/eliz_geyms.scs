@@ -1,0 +1,24 @@
+company_eliz-geyms <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[Элиз Геймс]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-29-624-19-67]
+	(* <- concept_phone_number;;*);
+	[vaihanski@game-insight.com]
+	(* <- concept_email;;*);
+	[http://game-insight.com/]
+	(* <- concept_website;;*);
+	[192571922]
+	(* <- concept_ucn;;*);
+	[ул. Одесская, д.14, пом. 60]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_year_registration:
+	2015;
+=>nrel_scope:
+	it;;
+

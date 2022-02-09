@@ -1,0 +1,20 @@
+company_krossiks-solyushnz-bay <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[Кроссикс Солюшнз Бай]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-17-323-55-15]
+	(* <- concept_phone_number;;*);
+	[https://www.veeva.com/products/marketing-analytics/]
+	(* <- concept_website;;*);
+	[193139431]
+	(* <- concept_ucn;;*);
+	[пр. Дзержинского, д. 104А, помещение 1505]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	grodno;
+=>nrel_scope:
+	it;;
+

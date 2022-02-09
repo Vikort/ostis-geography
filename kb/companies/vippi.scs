@@ -1,0 +1,24 @@
+company_vippi <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[Виппи]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-29-661-36-82]
+	(* <- concept_phone_number;;*);
+	[mail@weappy.co]
+	(* <- concept_email;;*);
+	[http://weappy-studio.com/]
+	(* <- concept_website;;*);
+	[192559613]
+	(* <- concept_ucn;;*);
+	[а/я 135]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_year_registration:
+	2015;
+=>nrel_scope:
+	it;;
+

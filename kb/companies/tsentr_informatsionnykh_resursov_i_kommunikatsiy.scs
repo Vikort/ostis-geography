@@ -1,0 +1,22 @@
+company_tsentr-informatsionnykh-resursov-i-kommunikatsiy <- concept_company;
+<- concept_belarusian_company;
+=>nrel_main_idtf:
+	[Центр информационных ресурсов и коммуникаций]
+	(* <- lang_ru;; <- name_ru;; <- name;;*);
+	[+375-17-282-11-44]
+	(* <- concept_phone_number;;*);
+	[circ@circ.by]
+	(* <- concept_email;;*);
+	[http://www.circ.by/]
+	(* <- concept_website;;*);
+	[190270979]
+	(* <- concept_ucn;;*);
+	[ул. Академическая, 25, офис 1304]
+	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
+=>nrel_country:
+	belarus;
+=>nrel_region:
+	minsk;
+=>nrel_scope:
+	it;;
+
