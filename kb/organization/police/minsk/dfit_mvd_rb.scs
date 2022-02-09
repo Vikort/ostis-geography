@@ -1,0 +1,6 @@
+dfit_mvd_rb <- concept_police;
+=>nrel_main_idtf:
+    [ДФиТ МВД РБ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

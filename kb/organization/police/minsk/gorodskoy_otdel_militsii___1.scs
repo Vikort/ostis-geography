@@ -1,0 +1,6 @@
+gorodskoy_otdel_militsii___1 <- concept_police;
+=>nrel_main_idtf:
+    [Городской отдел милиции - 1]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

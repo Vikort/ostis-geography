@@ -1,0 +1,10 @@
+juvenile_inspectorate <- concept_police;
+=>nrel_main_idtf:
+    [Juvenile Inspectorate]
+    (* <- lang_en;; <- name_en;;*);
+    [Інспекцыя па справах непаўналетніх]
+    (* <- lang_bel;; <- name_en;;*);
+    [Инспекция по делам несовершеннолетних]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

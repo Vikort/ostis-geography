@@ -1,0 +1,6 @@
+izolyator_vremennogo_soderzhaniya <- concept_police;
+=>nrel_main_idtf:
+    [Изолятор временного содержания]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

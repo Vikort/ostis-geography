@@ -1,0 +1,6 @@
+departament_okhrany_mvd_rb_leninskiy_otdel__gminska_ <- concept_police;
+=>nrel_main_idtf:
+    [Департамент охраны МВД РБ Ленинский отдел (г.Минска)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

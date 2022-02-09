@@ -1,0 +1,6 @@
+otdel_prinuditelno_ispolneniya_pervomayskogo_rayona <- concept_police;
+=>nrel_main_idtf:
+    [Отдел принудительно исполнения Первомайского района]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

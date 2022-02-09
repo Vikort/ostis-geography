@@ -1,0 +1,6 @@
+ugolovno_ispolnitelnaya_inspektsiya <- concept_police;
+=>nrel_main_idtf:
+    [Уголовно-исполнительная инспекция]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

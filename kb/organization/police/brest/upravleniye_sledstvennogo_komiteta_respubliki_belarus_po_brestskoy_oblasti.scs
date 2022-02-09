@@ -1,0 +1,6 @@
+upravleniye_sledstvennogo_komiteta_respubliki_belarus_po_brestskoy_oblasti <- concept_police;
+=>nrel_main_idtf:
+    [Управление Следственного комитета Республики Беларусь по Брестской области]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

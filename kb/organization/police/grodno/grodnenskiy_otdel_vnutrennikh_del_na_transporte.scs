@@ -1,0 +1,6 @@
+grodnenskiy_otdel_vnutrennikh_del_na_transporte <- concept_police;
+=>nrel_main_idtf:
+    [Гродненский Отдел Внутренних Дел на Транспорте]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

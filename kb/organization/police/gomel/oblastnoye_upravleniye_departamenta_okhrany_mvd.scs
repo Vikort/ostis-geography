@@ -1,0 +1,6 @@
+oblastnoye_upravleniye_departamenta_okhrany_mvd <- concept_police;
+=>nrel_main_idtf:
+    [Областное управление департамента охраны МВД]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

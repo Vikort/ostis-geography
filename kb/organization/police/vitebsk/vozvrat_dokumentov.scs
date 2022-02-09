@@ -1,0 +1,8 @@
+vozvrat_dokumentov <- concept_police;
+=>nrel_main_idtf:
+    [Вяртанне дакументаў]
+    (* <- lang_bel;; <- name_en;;*);
+    [Возврат документов]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

@@ -1,0 +1,6 @@
+gai_sovetskogo_r_na <- concept_police;
+=>nrel_main_idtf:
+    [ГАИ Советского р-на]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

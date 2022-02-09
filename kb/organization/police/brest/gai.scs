@@ -1,0 +1,8 @@
+gai <- concept_police;
+=>nrel_main_idtf:
+    [ДАІ]
+    (* <- lang_bel;; <- name_en;;*);
+    [ГАИ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

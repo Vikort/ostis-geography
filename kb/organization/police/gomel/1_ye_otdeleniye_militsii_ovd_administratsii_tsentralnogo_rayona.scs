@@ -1,0 +1,6 @@
+1_ye_otdeleniye_militsii_ovd_administratsii_tsentralnogo_rayona <- concept_police;
+=>nrel_main_idtf:
+    [1-е отделение милиции ОВД администрации Центрального района]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

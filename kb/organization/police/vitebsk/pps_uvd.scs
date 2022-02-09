@@ -1,0 +1,6 @@
+pps_uvd <- concept_police;
+=>nrel_main_idtf:
+    [ППС УВД]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

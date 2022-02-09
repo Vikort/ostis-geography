@@ -1,0 +1,6 @@
+obshchestvennyy_punkt_okhrany_poryadka_n4 <- concept_police;
+=>nrel_main_idtf:
+    [Общественный пункт охраны порядка № 4]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

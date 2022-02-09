@@ -1,0 +1,6 @@
+udkse_pa_magіlëўskay_voblastsі <- concept_police;
+=>nrel_main_idtf:
+    [УДКСЭ па Магілёўскай вобласці]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

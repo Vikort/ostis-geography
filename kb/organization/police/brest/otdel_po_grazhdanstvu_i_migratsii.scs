@@ -1,0 +1,6 @@
+otdel_po_grazhdanstvu_i_migratsii <- concept_police;
+=>nrel_main_idtf:
+    [Отдел по гражданству и миграции]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

@@ -1,0 +1,6 @@
+militseyskiy_uchastok <- concept_police;
+=>nrel_main_idtf:
+    [Милицейский участок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

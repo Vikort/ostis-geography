@@ -1,0 +1,6 @@
+sledstvennyy_komitet_po_pervomayskomu_rayonu <- concept_police;
+=>nrel_main_idtf:
+    [Следственный комитет по Первомайскому району]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

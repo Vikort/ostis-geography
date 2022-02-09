@@ -1,0 +1,10 @@
+hoodwd_mingorispolkoma <- concept_police;
+=>nrel_main_idtf:
+    [Hoodwd mingorispolkoma]
+    (* <- lang_en;; <- name_en;;*);
+    [ГУУС Мінгарвыканкама]
+    (* <- lang_bel;; <- name_en;;*);
+    [ГУВД Мингорисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

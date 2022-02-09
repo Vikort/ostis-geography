@@ -1,0 +1,6 @@
+obshchestvennyy_punkt_okhrany_pravoporyadka_141 <- concept_police;
+=>nrel_main_idtf:
+    [Общественный пункт охраны правопорядка #141]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

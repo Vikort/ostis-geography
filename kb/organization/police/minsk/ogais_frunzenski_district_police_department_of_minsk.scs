@@ -1,0 +1,10 @@
+ogais_frunzenski_district_police_department_of_minsk <- concept_police;
+=>nrel_main_idtf:
+    [Ogai's Frunzenski district police Department of Minsk]
+    (* <- lang_en;; <- name_en;;*);
+    [АДАІ Фрунзенскага РУУС г.Мінска]
+    (* <- lang_bel;; <- name_en;;*);
+    [ОГАИ Фрунзенского РУВД г.Минска]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

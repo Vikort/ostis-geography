@@ -1,0 +1,6 @@
+2_oye_otdeleniye_rovd_zheleznodorozhnogo_r_na <- concept_police;
+=>nrel_main_idtf:
+    [2-ое отделение РОВД железнодорожного р-на]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

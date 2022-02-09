@@ -1,0 +1,8 @@
+obshchestvennyy_punkt_okhrany_pravoporyadka_n_4 <- concept_police;
+=>nrel_main_idtf:
+    [Грамадскі пункт аховы правапарадку № 4]
+    (* <- lang_bel;; <- name_en;;*);
+    [Общественный пункт охраны правопорядка № 4]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

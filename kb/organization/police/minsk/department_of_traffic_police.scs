@@ -1,0 +1,10 @@
+department_of_traffic_police <- concept_police;
+=>nrel_main_idtf:
+    [Department of Traffic Police]
+    (* <- lang_en;; <- name_en;;*);
+    [Аддзел ДАІ]
+    (* <- lang_bel;; <- name_en;;*);
+    [Отдел ГАИ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

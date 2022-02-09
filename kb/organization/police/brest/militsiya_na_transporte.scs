@@ -1,0 +1,8 @@
+militsiya_na_transporte <- concept_police;
+=>nrel_main_idtf:
+    [Міліція на транспарце]
+    (* <- lang_bel;; <- name_en;;*);
+    [Милиция на транспорте]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

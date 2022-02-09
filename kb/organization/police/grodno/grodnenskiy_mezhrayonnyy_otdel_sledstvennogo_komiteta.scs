@@ -1,0 +1,8 @@
+grodnenskiy_mezhrayonnyy_otdel_sledstvennogo_komiteta <- concept_police;
+=>nrel_main_idtf:
+    [Гродзенскі міжраённы аддзел Следчага камітэта]
+    (* <- lang_bel;; <- name_en;;*);
+    [Гродненский межрайонный отдел Следственного комитета]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

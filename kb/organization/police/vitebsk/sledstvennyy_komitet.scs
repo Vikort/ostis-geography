@@ -1,0 +1,8 @@
+sledstvennyy_komitet <- concept_police;
+=>nrel_main_idtf:
+    [Следчы камітэт]
+    (* <- lang_bel;; <- name_en;;*);
+    [Следственный комитет]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

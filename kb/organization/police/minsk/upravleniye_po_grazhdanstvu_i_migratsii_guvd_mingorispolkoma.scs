@@ -1,0 +1,6 @@
+upravleniye_po_grazhdanstvu_i_migratsii_guvd_mingorispolkoma <- concept_police;
+=>nrel_main_idtf:
+    [Управление по гражданству и миграции ГУВД Мингорисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

@@ -1,0 +1,6 @@
+otdel_okhrany_pravoporyadka_i_profilaktiki <- concept_police;
+=>nrel_main_idtf:
+    [Отдел охраны правопорядка и профилактики]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

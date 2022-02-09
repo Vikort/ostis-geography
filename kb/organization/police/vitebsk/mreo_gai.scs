@@ -1,0 +1,6 @@
+mreo_gai <- concept_police;
+=>nrel_main_idtf:
+    [МРЭО ГАИ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

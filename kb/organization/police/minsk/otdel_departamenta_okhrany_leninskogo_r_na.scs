@@ -1,0 +1,6 @@
+otdel_departamenta_okhrany_leninskogo_r_na <- concept_police;
+=>nrel_main_idtf:
+    [Отдел департамента охраны Ленинского р-на]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;
