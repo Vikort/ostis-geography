@@ -1,11 +1,11 @@
-    theater-studio_"illusion" <- concept_theatre;
+    rukh_peoples_theater_of_pantomime <- concept_theatre;
     =>nrel_main_idtf:
-        [Theater-studio "illusion"]
+        [Rukh peoples theater of pantomime]
         (* <- lang_en;; <- name_en;;*);
-        [Студия «иллюзион»]
+        [Рух народный театр пантомимы]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        rechitsa;
+        minsk;
     =>nrel_country:
         belarus;
     =>nrel_type:

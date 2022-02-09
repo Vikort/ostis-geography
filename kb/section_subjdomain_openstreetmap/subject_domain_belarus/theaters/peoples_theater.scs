@@ -1,11 +1,11 @@
-    puppet_theater_"yalinka" <- concept_theatre;
+    peoples_theater <- concept_theatre;
     =>nrel_main_idtf:
-        [Puppet theater "yalinka"]
+        [Peoples theater]
         (* <- lang_en;; <- name_en;;*);
-        [Кукольны театр "ялинка"]
+        [Народный театр]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        osipovichi;
+        vileyka;
     =>nrel_country:
         belarus;
     =>nrel_type:

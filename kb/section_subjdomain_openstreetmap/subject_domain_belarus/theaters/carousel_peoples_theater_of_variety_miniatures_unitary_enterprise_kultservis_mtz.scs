@@ -1,6 +1,6 @@
-    carousel_people's_theater_of_variety_miniatures_unitary_enterprise_kultservis_mtz <- concept_theatre;
+    carousel_peoples_theater_of_variety_miniatures_unitary_enterprise_kultservis_mtz <- concept_theatre;
     =>nrel_main_idtf:
-        [Carousel people's theater of variety miniatures unitary enterprise kultservis mtz]
+        [Carousel peoples theater of variety miniatures unitary enterprise kultservis mtz]
         (* <- lang_en;; <- name_en;;*);
         [Карусель народный театр эстрадных миниатюр уп культсервис мтз]
         (* <- lang_ru;; <- name_ru;;<- name;;*);

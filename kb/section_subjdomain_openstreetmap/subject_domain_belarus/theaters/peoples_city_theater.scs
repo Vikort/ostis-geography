@@ -1,11 +1,11 @@
-    on_the_long_ford_people's_theater_ue_cultservice_mtz <- concept_theatre;
+    peoples_city_theater <- concept_theatre;
     =>nrel_main_idtf:
-        [On the long ford people's theater ue cultservice mtz]
+        [Peoples city theater]
         (* <- lang_en;; <- name_en;;*);
-        [На долгом броде народный театр уп культсервис мтз]
+        [Народный городской театр]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        minsk;
+        nesvizh;
     =>nrel_country:
         belarus;
     =>nrel_type:

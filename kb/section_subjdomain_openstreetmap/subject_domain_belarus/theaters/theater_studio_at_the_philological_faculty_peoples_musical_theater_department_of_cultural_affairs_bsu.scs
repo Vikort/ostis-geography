@@ -1,6 +1,6 @@
-    theater-studio_at_the_philological_faculty_people's_musical_theater_department_of_cultural_affairs_bsu <- concept_theatre;
+    theater_studio_at_the_philological_faculty_peoples_musical_theater_department_of_cultural_affairs_bsu <- concept_theatre;
     =>nrel_main_idtf:
-        [Theater-studio at the philological faculty people's musical theater department of cultural affairs bsu]
+        [Theater studio at the philological faculty peoples musical theater department of cultural affairs bsu]
         (* <- lang_en;; <- name_en;;*);
         [Студия на филфаке народный музыкальный театр управление по делам культуры бгу]
         (* <- lang_ru;; <- name_ru;;<- name;;*);

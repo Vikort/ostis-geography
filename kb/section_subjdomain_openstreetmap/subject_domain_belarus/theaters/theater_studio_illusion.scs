@@ -1,11 +1,11 @@
-    national_youth_theater_"sturch" <- concept_theatre;
+    theater_studio_illusion <- concept_theatre;
     =>nrel_main_idtf:
-        [National youth theater "sturch"]
+        [Theater studio illusion]
         (* <- lang_en;; <- name_en;;*);
-        [Народный молодёжный театр «штурх»]
+        [Студия «иллюзион»]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        zhodino;
+        rechitsa;
     =>nrel_country:
         belarus;
     =>nrel_type:

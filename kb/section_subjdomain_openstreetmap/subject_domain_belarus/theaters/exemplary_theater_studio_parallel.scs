@@ -1,11 +1,11 @@
-    theater_art"_at_the_polotsk_state_university <- concept_theatre;
+    exemplary_theater_studio_parallel <- concept_theatre;
     =>nrel_main_idtf:
-        [Theater art" at the polotsk state university.]
+        [Exemplary theater studio parallel]
         (* <- lang_en;; <- name_en;;*);
-        [Театр арт» при полоцком государственном университете.]
+        [Студия параллель]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        polotsk;
+        baranovichi;
     =>nrel_country:
         belarus;
     =>nrel_type:

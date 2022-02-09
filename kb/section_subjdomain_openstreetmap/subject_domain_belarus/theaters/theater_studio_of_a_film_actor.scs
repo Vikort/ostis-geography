@@ -1,11 +1,11 @@
-    song_theater_"saturday" <- concept_theatre;
+    theater_studio_of_a_film_actor <- concept_theatre;
     =>nrel_main_idtf:
-        [Song theater "saturday"]
+        [Theater studio of a film actor]
         (* <- lang_en;; <- name_en;;*);
-        [Театр песни «субботея»]
+        [Студия киноактёра]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        novopolotsk;
+        minsk;
     =>nrel_country:
         belarus;
     =>nrel_type:

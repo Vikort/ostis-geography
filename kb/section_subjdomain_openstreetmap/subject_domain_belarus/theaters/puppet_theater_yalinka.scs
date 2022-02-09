@@ -1,11 +1,11 @@
-    exemplary_theater_"kokos" <- concept_theatre;
+    puppet_theater_yalinka <- concept_theatre;
     =>nrel_main_idtf:
-        [Exemplary theater "kokos"]
+        [Puppet theater yalinka]
         (* <- lang_en;; <- name_en;;*);
-        [Образцовый театр "кокос"]
+        [Кукольны театр ялинка]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        lida;
+        osipovichi;
     =>nrel_country:
         belarus;
     =>nrel_type:

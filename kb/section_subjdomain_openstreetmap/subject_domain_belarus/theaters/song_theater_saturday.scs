@@ -1,8 +1,8 @@
-    people's_drama_theater_"vremya" <- concept_theatre;
+    song_theater_saturday <- concept_theatre;
     =>nrel_main_idtf:
-        [People's drama theater "vremya"]
+        [Song theater saturday]
         (* <- lang_en;; <- name_en;;*);
-        [Народный драматический театр "время"]
+        [Театр песни «субботея»]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
         novopolotsk;

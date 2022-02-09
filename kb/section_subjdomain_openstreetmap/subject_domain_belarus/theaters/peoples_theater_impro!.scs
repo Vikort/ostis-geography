@@ -1,11 +1,11 @@
-    dance_theater_"fidgets" <- concept_theatre;
+    peoples_theater_impro! <- concept_theatre;
     =>nrel_main_idtf:
-        [Dance theater "fidgets"]
+        [Peoples theater impro!]
         (* <- lang_en;; <- name_en;;*);
-        [Театр танца«непоседы»]
+        [Народный театр  импро!]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        postavy;
+        rechitsa;
     =>nrel_country:
         belarus;
     =>nrel_type:

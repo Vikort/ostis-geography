@@ -1,11 +1,11 @@
-    people's_theater_"hope" <- concept_theatre;
+    theater_art_at_the_polotsk_state_university <- concept_theatre;
     =>nrel_main_idtf:
-        [People's theater "hope"]
+        [Theater art at the polotsk state university.]
         (* <- lang_en;; <- name_en;;*);
-        [Народный театр "надежда"]
+        [Театр арт» при полоцком государственном университете.]
         (* <- lang_ru;; <- name_ru;;<- name;;*);
     =>nrel_city:
-        osipovichi;
+        polotsk;
     =>nrel_country:
         belarus;
     =>nrel_type:
