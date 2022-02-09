@@ -1,0 +1,179 @@
+//1
+minsk_district_physical_and_sport_baza_trade_union  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Учреждение ”Физкультурно-оздоровительная база Федерации профсоюзов Беларуси“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_capacity:
+    400;;
+
+//2
+stowbtsy_district_department_of_education_sport_and_tourism_executive_committee  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Отдел образования, спорта и туризма Столбцовского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    stowbtsy_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    300;;
+
+//3
+lyuban_district_department_of_education_sport_and_tourism_executive_committee
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Отдел образования, спорта и туризма Любанского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    lyuban_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    200;;
+
+//4
+valozhyn_district_department_of_education_sport_and_tourism_executive_committee  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Отдел образования, спорта и туризма Воложинского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    valozhyn_district;
+=>nrel_construction_year:
+    2011;
+=>nrel_capacity:
+    300;;
+
+//5
+nesvizh_district_department_of_education_sport_and_tourism_executive_committee  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Отдел образования, спорта и туризма Несвижского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    nesvizh_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_capacity:
+    300;;
+
+//6
+pukhavichy_district_department_of_education_sport_and_tourism_executive_committee  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Отдел образования, спорта и туризма Пуховичского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    pukhavichy_district;
+=>nrel_construction_year:
+    2008;
+=>nrel_capacity:
+    155;;
+
+//7
+myadzel_district_closed_equestrian_manezh  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Крытый конный манеж]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    myadzel_district;
+=>nrel_construction_year:
+    2014;
+=>nrel_capacity:
+    800;;
+
+//8
+dzyarzhynsk_district_sport_gym  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Спортивный зал]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    dzyarzhynsk_district;
+=>nrel_construction_year:
+    2010;
+=>nrel_capacity:
+    70;;
+
+//9
+minsk_district_state_children_and_youth_school_of_olimpic_reserve_baidarki  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Филиал «Ледовая площадка» государственного учреждения «Специализированная детско-юношеская школа олимпийского резерва по гребле на байдарках и каноэ г.Жодино»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_capacity:
+    310;;
+
+//10
+lahojsk_district_ski_track_with_shooting_range  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Лыжероллерная трасса со стрельбищем]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    lahojsk_district;
+=>nrel_construction_year:
+    2008;
+=>nrel_capacity:
+    500;;

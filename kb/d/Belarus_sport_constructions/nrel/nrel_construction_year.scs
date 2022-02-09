@@ -1,0 +1,30 @@
+nrel_construction_year
+ 
+<-sc_node_norole_relation;
+
+=> nrel_main_idtf:
+          [construction year*](*<-lang_en;;*);
+          [год постройки*](*<-lang_ru;;*);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (год постройки)]
+		(* <- lang_ru;; *);
+		[Def. (construction year)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Год постройки - это год, в котором было построено спортивное сооружение.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[The construction year is year of sport building construction.]
+			(* <- lang_en;; *);;
+		*);;
+	*);;

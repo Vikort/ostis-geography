@@ -1,0 +1,148 @@
+//1
+cor_tennis_gomel  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Учреждение ”Гомельский областной центр олимпийского резерва по теннису“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1998;
+=>nrel_sport_direction:
+    concept_tennis;
+=>nrel_capacity:
+    1000;;
+    
+//2
+dush_loevskii  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Учреждение ”Детско-юношеская спортивная школа Лоевского района“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1995;;
+    
+//3
+dush_zhlobin  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Детско-юношеская спортивная школа г. Жлобина“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1989;;
+    
+//4
+sdushor_1_rechitsi  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Речицкая специализированная детско-юношеская школа олимпийского резерва № 1“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1990;;
+    
+//5
+sdushor_1_mozir  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Учреждение ”Специализированная детско-юношеская школа олимпийского резерва № 1 г. Мозыря“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1988;;
+    
+//6
+sdushor_elsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Учебно-спортивное учреждение ”Ельская специализированная детско-юношеская школа олимпийского резерва“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1991;;
+    
+    
+//7
+sdushor_athletic_3_svetlogorsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Специализированная детско-юношеская школа олимпийского резерва по легкой атлетике № 3 г. Светлогорска“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1987;
+=>nrel_sport_direction:
+    concept_athletics;
+=>nrel_capacity:
+    1000;;
+    
+    
+//8
+dushor_2_svetlogorsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Детско-юношеская спортивная школа № 2 г. Светлогорска“ (Стадион ”Бумажник“)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1988;
+=>nrel_sport_direction:
+    concept_tennis;;
+    
+    
+//9
+sdushor_1_svetlogorsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Gomel_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Специализированная детско-юношеская школа олимпийского резерва № 1 г. Светлогорска“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_construction_year:
+    1989;;
+    

@@ -1,0 +1,22 @@
+concept_swimming
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[плавание]
+	(* <- lang_ru;; *);
+	[swimming]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (плавание)]
+		(* <- lang_ru;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[вид спорта или спортивная дисциплина, заключающаяся в преодолении вплавь за наименьшее время различных дистанций.]
+			(* <- lang_ru;; *);;
+		*);;
+	*);;

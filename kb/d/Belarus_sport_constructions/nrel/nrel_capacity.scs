@@ -1,0 +1,30 @@
+nrel_capacity
+ 
+<-sc_node_norole_relation;
+
+=> nrel_main_idtf:
+          [capacity*](*<-lang_en;;*);
+          [вместимость*](*<-lang_ru;;*);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (вместимость)]
+		(* <- lang_ru;; *);
+		[Def. (capacity)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Вместимость - это максимальное количество людей, которые могут располагаться в сооружении.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Capacity - this is the maximum number of people who can be located in the construction.]
+			(* <- lang_en;; *);;
+		*);;
+	*);;

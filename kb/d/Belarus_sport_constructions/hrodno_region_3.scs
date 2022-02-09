@@ -1,0 +1,179 @@
+//1
+astravyets_district_health_and_sport_club  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Островецкий районный физкультурно-спортивный клуб“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_construction_year:
+    2014;
+=>nrel_capacity:
+    300;;
+
+//2
+hrodna_district_children_health_and_sport_club  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Гродненский районный физкультурно-спортивный клуб“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2011;
+=>nrel_capacity:
+    500;;
+
+//3
+lida_district_health_and_sport_club  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Лидский районный физкультурно-спортивный клуб“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    400;;
+
+//4
+vawkavysk_district_communal_unitary_enterprise  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Производственное коммунальное унитарное предприятие ”Волковысское коммунальное хозяйство“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    vawkavysk_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_capacity:
+    150;;
+
+//5
+lida_district_sanatorium_rainbow_lackokraska  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Санаторий ”Радуга“ ОАО ”Лакокраска“ г. Лида]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2006;
+=>nrel_capacity:
+    350;;
+
+//6
+hrodna_district_children_health_and_rehabillitation_center_leasnaya_polyana  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Коммунальное унитарное предприятие ”Детский реабилитационно-оздоровительный центр ”Лесная поляна“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2001;
+=>nrel_capacity:
+    600;;
+
+//7
+masty_district_sport_complex_neman  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Спортивный комплекс ”Неман“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    masty_district;
+=>nrel_construction_year:
+    2003;
+=>nrel_capacity:
+    400;;
+
+//8
+byerastavitsa_district_stadion_of_executive_committee  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Стадион Берестовицкого районного исполнительного комитета]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    byerastavitsa_district;
+=>nrel_construction_year:
+    2002;
+=>nrel_capacity:
+    300;;
+
+//9
+lida_district_construction_and_assembly_trust_19_sport_complex_kristall 
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Открытое акционерное общество ”Строительно-монтажный трест 19“ Спорткомплекс ”Кристалл“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2005;
+=>nrel_capacity:
+    250;;
+
+//10
+smarhon_district_department_of_ideological_work_culture_and_youth_affairs_exec_committee  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Отдел идеологической работы, культуры и по делам молодежи Сморгонского районного исполнительного комитета]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    smarhon_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_capacity:
+    400;;

@@ -1,0 +1,187 @@
+//1
+lida_district_children_and_youth_sport_school_of_hockey  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Лидская детско-юношеская спортивная школа по хоккею с шайбой“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2004;
+=>nrel_sport_direction:
+    concept_hockey;
+=>nrel_capacity:
+    550;;
+
+//2
+hrodna_district_children_and_youth_olympic_reserve_school_7_of_basketball  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Филиал ”Специализированная детско-юношеская школа олимпийского резерва № 7“ государственного учреждения физической культуры и спорта ”Баскетбольный клуб ”Принеманье“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_sport_direction:
+    concept_basketball;
+=>nrel_capacity:
+    500;;
+
+//3
+dzyatlava_district_children_and_youth_sport_school  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Учреждение ”Дятловская детско-юношеская спортивная школа“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    dzyatlava_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    600;;
+
+//4
+hrodna_district_children_and_youth_sport_school_of_hockey  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Учреждение ”Гродненская межрайонная детско-юношеская спортивная школа профсоюзов по зимним видам спорта“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    navahrudak_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_sport_direction:
+    concept_hockey;
+=>nrel_capacity:
+    600;;
+
+//5
+skidel_district_children_and_youth_sport_school  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Скидельская детско-юношеская спортивная школа“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2008;
+=>nrel_capacity:
+    350;;
+
+//6
+lida_district_children_and_youth_sport_school_of_football  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Лидская детско-юношеская школа по футболу“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2005;
+=>nrel_sport_direction:
+    concept_football;
+=>nrel_capacity:
+    700;;
+
+//7
+karelichy_district_sport_club  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Кореличский районный физкультурно-спортивный клуб“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    karelichy_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    590;;
+
+//8
+zelva_district_sport_center  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Зельвенский физкультурно-оздоровительный центр“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    zelva_district;
+=>nrel_construction_year:
+    2006;
+=>nrel_capacity:
+    250;;
+
+//9
+smarhon_district_health_and_sport_work  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Сморгонский центр физкультурно-оздоровительной и спортивной работы“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    smarhon_district;
+=>nrel_construction_year:
+    2004;
+=>nrel_capacity:
+    550;;
+
+//10
+hrodna_district_physical_and_health_center_olimpia  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Учреждение ”Физкультурно-оздоровительный центр ”Олимпия“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_capacity:
+    400;;

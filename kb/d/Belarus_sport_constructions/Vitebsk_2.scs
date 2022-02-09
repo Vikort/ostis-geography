@@ -1,0 +1,152 @@
+//1
+dushor_beshenkovichi  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Специализированное учебно-спортивное учреждение ”Бешенковичская государственная детско-юношеская спортивная школа“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1998;;
+    
+//2
+sdushor_orsha  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Специализированное учебно-спортивное учреждение ”Оршанская городская специализированная детско-юношеская школа олимпийского резерва“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1999;;
+    
+//3
+sdushor_2_novopolotsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Учреждение ”Специализированная детско-юношеская школа олимпийского резерва № 2 г. Новополоцка“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1993;;
+    
+//4
+cor_edinob_vit  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Специализированное учебно-спортивное учреждение ”Витебский областной центр олимпийского резерва по единоборствам“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    2000;
+=>nrel_sport_direction:
+    karate;;
+    
+//5
+dush_ushachskaya  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Специализированное учебно-спортивное учреждение “Ушачская детско-юношеская спортивная школа“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1998;;
+    
+//6
+sdushor_4_vit  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Учебно-спортивное учреждение ”Витебская государственная специализированная детско-юношеская школа олимпийского резерва № 4“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    2001;;
+    
+    
+//7
+dush_polotsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Специализированное учебно-спортивное учреждение ”Полоцкая государственная детско-юношеская спортивная школа“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1998;;
+
+//8
+sdush_ushachskaya  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение специализированное учебно-спортивное учреждение ”Ушачская детско-юношеская спортивная школа“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1998;;
+    
+//9
+club_orsha  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Физкультурно-спортивный клуб ”Орша“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1986;;
+    
+//10
+fiz_club_vitebsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Городской физкультурно-спортивный клуб ”Витебск“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1985;;

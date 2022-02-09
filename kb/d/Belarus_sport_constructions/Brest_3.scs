@@ -1,0 +1,133 @@
+//1
+atlant_brest  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [Районное физкультурно-оздоровительное учреждение ”Атлант“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_capacity:
+    1000;;
+    
+//2
+polesie_football  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [Стадион ”Полесье“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_sport_direction:
+    concept_football;
+=>nrel_capacity:
+    1500;;
+    
+//3
+alians_brest  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [Учреждение ”Брестский городской физкультурно-спортивный клуб ”Альянс“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2004;;
+    
+//4
+led_arena_brest  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [ООО ”ТРАЙПЛ“ филиал ”Ледовая арена, г. Береза“:]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2004;
+=>nrel_sport_direction:
+    figure_scating;
+=>nrel_capacity:
+    3000;;
+    
+//5
+fiz_ozd_brest  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [Коммунальное унитарное предприятие ”Брестская физкультурно-оздоровительная служба“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2014;;
+    
+//6
+box_gymnastic_baranovichi  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [Учреждение «Барановичская специализированная детско-юношеская школа олимпийского резерва профсоюзов по спортивной гимнастике и боксу»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2005;
+=>nrel_sport_direction:
+    concept_box;;
+    
+//7
+locomotiv_sport_complex  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [Физкультурно-спортивный комплекс «Локомотив»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2002;
+=>nrel_capacity:
+    2000;;
+    
+//8
+spec_dushor_brest  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Brest_region;
+=>nrel_main_idtf:
+    [Учебно-спортивное учреждение «Специализированная детско-юношеская школа олимпийского резерва № 3 г.Бреста»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_construction_year:
+    2009;;

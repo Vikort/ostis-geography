@@ -1,0 +1,189 @@
+//1
+sdushorvvs  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Специализированная детско-юношеская спортивная школа олимпийского резерва по водным видам спорта]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    1993;
+=>nrel_sport_direction:
+    concept_swimming;;
+    
+
+
+//2
+yantar_swimming_pool  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Бассейн «Янтарь»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    1990;
+=>nrel_sport_direction:
+    concept_swimming;
+=>nrel_capacity:
+    2000;;
+    
+
+
+//3
+sdushorparus  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Специализированная детско-юношеская школа олимпийского резерва парусного спорта]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2001;
+=>nrel_sport_direction:
+    sailing;;
+    
+
+
+//4
+gcormedv  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Минский городской центр олимпийского резерва по борьбе им. А.В. Медведя]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_sport_direction:
+    judo;;
+    
+
+
+//5
+sdushorjudo  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Специализированная детско-юношеская школа олимпийского резерва по борьбе]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_sport_direction:
+    judo;;
+    
+
+
+//6
+sdushortennis  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Специализированная детско-юношеская школа олимпийского резерва по теннису]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2006;
+=>nrel_sport_direction:
+    concept_tennis;;
+    
+
+
+//7
+neptun_swimming_pool  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Специализированная детско-юношеская школа по плаванию ”Нептун“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2003;
+=>nrel_sport_direction:
+    concept_swimming;;
+    
+
+
+//8
+rcor_handball  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Республиканский центр олимпийского резерва по гандболу]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    1968;
+=>nrel_sport_direction:
+    concept_handball;;
+    
+
+
+//9
+sdushorfigureskating  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Специализированная детско-юношеская школа олимпийского резерва по фигурному катанию на коньках]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    1997;
+=>nrel_sport_direction:
+    figure_scating;;
+    
+
+
+//10
+minskarena  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Многопрофильный культурно-спортивный комплекс ”Минск-арена“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;
+=>nrel_construction_year:
+    2010;
+=>nrel_capacity:
+    15000;;

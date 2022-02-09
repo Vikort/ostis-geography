@@ -1,0 +1,179 @@
+//1
+hrodna_district_air_support_football_arena  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Воздухоопорный футбольный манеж]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2008;
+=>nrel_capacity:
+    1000;;
+
+//2
+astravyets_district_physical_and_health_complex  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Здание физкультурно-оздоровительного комплекса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_capacity:
+    650;;
+
+//3
+hrodna_district_sport_and_health_center  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Спортивно-оздоровительный центр]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    600;;
+
+//4
+lida_district_sport_complex_of_stadion_start  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Спортивный корпус стадиона «Старт»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2011;
+=>nrel_capacity:
+    600;;
+
+//5
+barysaw_district_state_school_of_olimpic_reserve  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Учреждение образования ”Борисовская государственная областная средняя школа - училище олимпийского резерва“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    barysaw_district;
+=>nrel_construction_year:
+    2006;
+=>nrel_capacity:
+    350;;
+
+//6
+salihorsk_district_region_children_and_youth_sport_school_of_gaming_sports  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Солигорская районная детско-юношеская спортивная школа по игровым видам спорта“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    salihorsk_district;
+=>nrel_construction_year:
+    2014;
+=>nrel_capacity:
+    655;;
+
+//7
+byerazino_district_department_of_education_and_sport_and_tourism_raisp  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Отдел образования спорта и туризма Березинского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    byerazino_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_capacity:
+    120;;
+
+//8
+barysaw_district_educational_sport_children_and_youth_sport_school_of_olimpic_reserve_of_educ_department_sport_and_tourism  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Государственное учебно-спортивное учреждение ”Борисовская специализированная детско-юношеская школа олимпийского резерва“ отдела образования, спорта и туризма Борисовского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    barysaw_district;
+=>nrel_construction_year:
+    2010;
+=>nrel_capacity:
+    250;;
+
+//9
+slutsk_district_sport_children_and_youth_sport_school_of_olimpic_reserve_of_educ_department_sport_and_tourism  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Слуцкая специализированная детско-юношеская школа олимпийского резерва“ отдела образования, спорта и туризма Слуцкого райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    slutsk_district;
+=>nrel_construction_year:
+    2000;
+=>nrel_capacity:
+    690;;
+
+//10
+maladzyechna_district_educational_sport_children_and_youth_sport_school_3  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Minsk_region;
+=>nrel_main_idtf:
+    [Государственное специализированное учебно-спортивное учреждение ”Детско-юношеская спортивная школа № 3 г. Молодечно“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    maladzyechna_district;
+=>nrel_construction_year:
+    2002;
+=>nrel_capacity:
+    400;;

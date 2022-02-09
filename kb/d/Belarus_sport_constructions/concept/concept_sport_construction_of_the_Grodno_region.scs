@@ -1,0 +1,30 @@
+concept_sport_construction_of_the_Grodno_region
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[спортивное сооружение Гродненской области]
+	(* <- lang_ru;; *);
+	[sport construction of the Grodno region]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (спортивное сооружение Гродненской области)]
+		(* <- lang_ru;; *);
+		[Def. (sport construction of the Grodno region)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Спортивное сооружение располагающееся в Гродненской области.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[A sports construction which is located in the Grodno region.]
+			(* <- lang_en;; *);;
+		*);;
+	*);;

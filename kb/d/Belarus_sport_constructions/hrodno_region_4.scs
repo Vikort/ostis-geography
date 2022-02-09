@@ -1,0 +1,183 @@
+//1
+masty_district_department_of_education_sports_and_tourism_of_executive_committee  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Отдел образования, спорта и туризма Мостовского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    masty_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_capacity:
+    550;;
+
+//2
+lida_district_football_club_lida  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Футбольный клуб ”Лида“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    1962;
+=>nrel_capacity:
+    600;;
+
+//3
+hrodna_district_physical_and_health_educational_and_sport_building_children_and_youth_school_of_olimpic_reserve_4  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Комплексное специализированное здание физкультурно-оздоровительного назначения учебно-спортивного учреждения «Гродненская специализированная детско-юношеская школа олимпийского резерва № 4»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2013;
+=>nrel_capacity:
+    600;;
+
+//4
+hrodna_district_bicycle_train_with_gravel_and_sand_coating_rynkovtsy_village  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Велопешеходная тропа с гравийно-песчаным покрытием д.Рынковцы – шлюз «Домбровка» - д.Соничи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    600;;
+
+//5
+hrodna_district_stadion_comsomolets_children_and_youth_school_of_hockey  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Стадион «Комсомолец» учреждения «Гродненская межрайонная детско-юношеская спортивная школа профсоюзов по зимним видам спорта»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2005;
+=>nrel_sport_direction:
+    concept_hockey;
+=>nrel_capacity:
+    1500;;
+
+//6
+lida_district_physical_and_health_sport_children_and_youth_sport_school_of_trade_union_youth  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Здание специализированное физкльтурно-оздоровительного и спортивного назначения учреждения «Гродненская межрайонная детско-юношеская спортивная школа профсоюзов «Юность»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2009;
+=>nrel_capacity:
+    700;;
+
+//7
+masty_district_football_filed_children_and_youth_sport_school_of_olimpic_reserve_belhard  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Футбольное поле с беговой дорожкой спортивного учреждения «Специализированная детско-юношеская школа олимпийского резерва по футболу профкома ОАЛ «Белкард»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    masty_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_sport_direction:
+    concept_football;
+=>nrel_capacity:
+    800;;
+
+//8
+hrodna_district_physical_and_health_sport_center_trade_union_children_and_youth_sport_school_of_olimpic_reserve_martial_arts  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Здание специализированное физкультурно-оздоровительного и спортивного назначения учреждения «Гродненская профсоюзная центральная специализированная детско-юношеская школа олимпийского резерва единоборств»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2013;
+=>nrel_capacity:
+    460;;
+
+//9
+lida_district_physical_and_health_sport_center_interdistrict_children_and_youth_sport_school_of_olimpic_reserve_martial_arts 
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Здание специализированное физкультурно-оздоровительного и спортивного назначения учреждения «Гродненская межрайонная детско-юношеская спортивная школа профсоюзов «Юность]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2004;
+=>nrel_capacity:
+    550;;
+
+//10
+vawkavysk_district_physical_and_health_building  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Физкультурно-оздоровительное сооружение]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    vawkavysk_district;
+=>nrel_construction_year:
+    2012;
+=>nrel_capacity:
+    500;;

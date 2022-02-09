@@ -1,0 +1,165 @@
+//1
+football_club_urozhai  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Витебский районный ФСК ”Урожай“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1997;
+=>nrel_sport_direction:
+    concept_football;
+=>nrel_capacity:
+    1000;;
+    
+//2
+center_of_culture_chashniki  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Чашникский районный центр культуры и народного творчества“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1988;;
+    
+//3
+club_dvina  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Государственное учреждение по физической культуре и спорту ”Бешенковичский физкультурно-спортивный клуб ”Двина“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1996;;
+    
+//4
+hockey_club_himik  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Коммунальное спортивное унитарное предприятие ”Хоккейный клуб ”Химик“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1988;
+=>nrel_sport_direction:
+    concept_hockey;
+=>nrel_capacity:
+    4000;;
+    
+//5
+gymnastic_school  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Здание специализированное физкультурно-оздоровительного и спортивного назначения (здание школы гимнастики)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1996;
+=>nrel_sport_direction:
+    concept_gymnastics;;
+    
+//6
+hockey_club_vitebsk  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Спортивное учреждение ”Витебский хоккейный клуб“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1989;
+=>nrel_sport_direction:
+    concept_hockey;
+=>nrel_capacity:
+    5000;;
+    
+    
+//7
+vpkits_vit  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Городская коммунальная собственность Витебское предприятие котельных и тепловых сетей ”ВПКиТС“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1981;;
+    
+
+//8
+lokomotiv_fiz_complex_vit  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Унитарное предприятие ”Витебское отделение Белорусской железной дороги“, Физкультурно-оздоровительный комплекс ”Локомотив“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1982;;
+    
+//9
+cipischevo_sport_complex  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Спортивный комплекс в агрогородке ”Сипищево“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1997;;
+    
+//10
+vitebskenergo_fiz  <- concept_sport_construction;
+<- concept_sport_construction_of_the_Vitebsk_region;
+=>nrel_main_idtf:
+    [Физкультурно-оздоровительный центр филиала ”Центр физкультурно-оздоровительной работы“ РУП ”Витебскэнерго“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_construction_year:
+    1988;;

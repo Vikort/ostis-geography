@@ -1,0 +1,181 @@
+//1
+masty_district_children_and_youth_olympic_reserve_school  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Мостовская районная специализированная детско-юношеская школа олимпийского резерва“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    masty_district;
+=>nrel_construction_year:
+    2006;
+=>nrel_capacity:
+    550;;
+
+//2
+ashmyany_district_sports_and_recreation_complex  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Физкультурно-оздоровительный комплекс отдела образования, спорта и туризма Ошмянского районного исполнительного комитета]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    ashmyany_district;
+=>nrel_construction_year:
+    2006;
+=>nrel_capacity:
+    500;;
+
+//3
+vawkavysk_district_children_and_youth_olympic_reserve_school_1  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Волковысская специализированная детско-юношеская школа олимпийского резерва № 1“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    vawkavysk_district;
+=>nrel_construction_year:
+    1999;
+=>nrel_capacity:
+    600;;
+
+//4
+hrodna_district_children_and_youth_olympic_reserve_school_of_tennis  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Учебно-спортивное учреждение ”Гродненская специализированная детско-юношеская школа олимпийского резерва по теннису“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    2007;
+=>nrel_sport_direction:
+    concept_tennis;
+=>nrel_capacity:
+    600;;
+
+//5
+hrodna_district_children_and_youth_olympic_reserve_school_3  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Учебно-спортивное учреждение ”Гродненская специализированная детско-юношеская школа олимпийского резерва № 3“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    hrodna_district;
+=>nrel_construction_year:
+    1990;
+=>nrel_capacity:
+    750;;
+
+//6
+lida_district_children_and_youth_sport_school_1_and_sport_complex_olimpia  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Детско-юношеская спортивная школа № 1 г. Лида“. Спортивно-оздоровительный комплекс ”Олимпия“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2001;
+=>nrel_capacity:
+    700;;
+
+//7
+lida_district_children_and_youth_complex_sport_school_4  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Лидская комплексная детско-юношеская спортивная школа № 4“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_construction_year:
+    2003;
+=>nrel_capacity:
+    550;;
+
+//8
+shchuchyn_district_children_and_youth_sport_school  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Учреждение ”Детско-юношеская спортивная школа г. Щучина“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    shchuchyn_district;
+=>nrel_construction_year:
+    1998;
+=>nrel_capacity:
+    350;;
+
+//9
+slonim_district_children_and_youth_sport_olympic_reserve_school_3  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Специализированная детско-юношеская спортивная школа олимпийского резерва № 3 г. Слонима“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    slonim_district;
+=>nrel_construction_year:
+    2002;
+=>nrel_capacity:
+    500;;
+
+//10
+slonim_district_children_and_youth_sport_school_1  
+<- concept_sport_construction;
+<- concept_sport_construction_of_the_Grodno_region;
+=>nrel_main_idtf:
+    [Государственное учреждение ”Детско-юношеская спортивная школа № 1 г. Слонима“]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    slonim_district;
+=>nrel_construction_year:
+    2003;
+=>nrel_capacity:
+    400;;
