@@ -2,10 +2,10 @@ biryulin_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Biryulin street]
                 (* <- lang_en;; <- name_en;;*);
-                [Бирюлина улица]
+                [улица Бирюлина]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2200;
-                =>nrel_number_of_house:65;
+                =>nrel_street_length:3000;
+                =>nrel_number_of_house:9;
                 =>nrel_search_area:
                 vitebsk;;
                 

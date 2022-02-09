@@ -2,10 +2,10 @@ azina_3rd_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Azina 3rd street]
                 (* <- lang_en;; <- name_en;;*);
-                [Азина 3-я улица]
+                [улица Азина 3-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2200;
-                =>nrel_number_of_house:22;
+                =>nrel_street_length:1600;
+                =>nrel_number_of_house:6;
                 =>nrel_search_area:
                 vitebsk;;
                 

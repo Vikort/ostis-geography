@@ -2,10 +2,10 @@ guards_3rd_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Guards 3rd street]
                 (* <- lang_en;; <- name_en;;*);
-                [Гвардейская 3-я улица]
+                [улица Гвардейская 3-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3100;
-                =>nrel_number_of_house:63;
+                =>nrel_street_length:1100;
+                =>nrel_number_of_house:36;
                 =>nrel_search_area:
                 vitebsk;;
                 

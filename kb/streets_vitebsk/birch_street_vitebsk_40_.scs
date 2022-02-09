@@ -2,10 +2,10 @@ birch_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Birch street]
                 (* <- lang_en;; <- name_en;;*);
-                [Берёзовая улица]
+                [улица Берёзовая]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3300;
-                =>nrel_number_of_house:50;
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:83;
                 =>nrel_search_area:
                 vitebsk;;
                 

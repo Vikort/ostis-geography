@@ -2,10 +2,10 @@ general_marghelova_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [General Marghelova street]
                 (* <- lang_en;; <- name_en;;*);
-                [Генерала Маргелова улица]
+                [улица Генерала Маргелова]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1000;
-                =>nrel_number_of_house:7;
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:82;
                 =>nrel_search_area:
                 vitebsk;;
                 

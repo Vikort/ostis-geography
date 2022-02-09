@@ -2,10 +2,10 @@ gorodokaya_8th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gorodokaya 8th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Городокская 8-я улица]
+                [улица Городокская 8-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2600;
-                =>nrel_number_of_house:79;
+                =>nrel_street_length:600;
+                =>nrel_number_of_house:56;
                 =>nrel_search_area:
                 vitebsk;;
                 

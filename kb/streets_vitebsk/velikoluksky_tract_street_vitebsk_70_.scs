@@ -2,10 +2,10 @@ velikoluksky_tract_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Velikoluksky tract street]
                 (* <- lang_en;; <- name_en;;*);
-                [Великолукский тракт улица]
+                [улица Великолукский тракт]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:100;
-                =>nrel_number_of_house:74;
+                =>nrel_street_length:1100;
+                =>nrel_number_of_house:79;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -2,10 +2,10 @@ warriors___internationalists_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Warriors - internationalists street]
                 (* <- lang_en;; <- name_en;;*);
-                [Воинов-Интернационалистов улица]
+                [улица Воинов-Интернационалистов]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1100;
-                =>nrel_number_of_house:15;
+                =>nrel_street_length:2900;
+                =>nrel_number_of_house:53;
                 =>nrel_search_area:
                 vitebsk;;
                 

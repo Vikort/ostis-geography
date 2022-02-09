@@ -2,10 +2,10 @@ belochvostikova_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Belochvostikova street]
                 (* <- lang_en;; <- name_en;;*);
-                [Белохвостикова улица]
+                [улица Белохвостикова]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2800;
-                =>nrel_number_of_house:76;
+                =>nrel_street_length:2200;
+                =>nrel_number_of_house:38;
                 =>nrel_search_area:
                 vitebsk;;
                 

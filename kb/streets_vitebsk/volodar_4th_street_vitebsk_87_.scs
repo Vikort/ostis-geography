@@ -2,10 +2,10 @@ volodar_4th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Volodar 4th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Володарского 4-я улица]
+                [улица Володарского 4-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1200;
-                =>nrel_number_of_house:13;
+                =>nrel_street_length:3400;
+                =>nrel_number_of_house:15;
                 =>nrel_search_area:
                 vitebsk;;
                 

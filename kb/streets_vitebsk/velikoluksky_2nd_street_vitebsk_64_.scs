@@ -2,10 +2,10 @@ velikoluksky_2nd_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Velikoluksky 2nd street]
                 (* <- lang_en;; <- name_en;;*);
-                [Великолукская 2-я улица]
+                [улица Великолукская 2-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2300;
-                =>nrel_number_of_house:30;
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:14;
                 =>nrel_search_area:
                 vitebsk;;
                 

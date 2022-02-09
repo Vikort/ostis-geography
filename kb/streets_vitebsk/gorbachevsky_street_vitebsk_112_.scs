@@ -2,10 +2,10 @@ gorbachevsky_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gorbachevsky street]
                 (* <- lang_en;; <- name_en;;*);
-                [Горбачевского улица]
+                [улица Горбачевского]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1500;
-                =>nrel_number_of_house:46;
+                =>nrel_street_length:3000;
+                =>nrel_number_of_house:48;
                 =>nrel_search_area:
                 vitebsk;;
                 

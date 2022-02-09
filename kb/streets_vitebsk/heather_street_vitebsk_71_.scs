@@ -2,10 +2,10 @@ heather_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Heather street]
                 (* <- lang_en;; <- name_en;;*);
-                [Вересковая улица]
+                [улица Вересковая]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3200;
-                =>nrel_number_of_house:34;
+                =>nrel_street_length:2500;
+                =>nrel_number_of_house:57;
                 =>nrel_search_area:
                 vitebsk;;
                 

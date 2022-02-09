@@ -2,10 +2,10 @@ gorodokskaya_18th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gorodokskaya 18th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Городокская 18-я улица]
+                [улица Городокская 18-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:600;
-                =>nrel_number_of_house:25;
+                =>nrel_street_length:1000;
+                =>nrel_number_of_house:40;
                 =>nrel_search_area:
                 vitebsk;;
                 

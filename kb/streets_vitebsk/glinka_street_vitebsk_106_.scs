@@ -2,10 +2,10 @@ glinka_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Glinka street]
                 (* <- lang_en;; <- name_en;;*);
-                [Глинки улица]
+                [улица Глинки]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1800;
-                =>nrel_number_of_house:5;
+                =>nrel_street_length:1100;
+                =>nrel_number_of_house:40;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -2,10 +2,10 @@ guards_2nd_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Guards 2nd street]
                 (* <- lang_en;; <- name_en;;*);
-                [Гвардейская 2-я улица]
+                [улица Гвардейская 2-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1200;
-                =>nrel_number_of_house:32;
+                =>nrel_street_length:1800;
+                =>nrel_number_of_house:63;
                 =>nrel_search_area:
                 vitebsk;;
                 

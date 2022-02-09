@@ -2,10 +2,10 @@ gorodok_15th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gorodok 15th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Городокская 15-я улица]
+                [улица Городокская 15-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3200;
-                =>nrel_number_of_house:46;
+                =>nrel_street_length:1300;
+                =>nrel_number_of_house:67;
                 =>nrel_search_area:
                 vitebsk;;
                 

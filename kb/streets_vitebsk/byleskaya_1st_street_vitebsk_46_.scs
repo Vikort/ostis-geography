@@ -2,10 +2,10 @@ byleskaya_1st_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Byleskaya 1st street]
                 (* <- lang_en;; <- name_en;;*);
-                [Билевская 1-я улица]
+                [улица Билевская 1-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:200;
-                =>nrel_number_of_house:30;
+                =>nrel_street_length:1500;
+                =>nrel_number_of_house:20;
                 =>nrel_search_area:
                 vitebsk;;
                 

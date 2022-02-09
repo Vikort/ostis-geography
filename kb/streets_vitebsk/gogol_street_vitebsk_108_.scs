@@ -2,10 +2,10 @@ gogol_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gogol street]
                 (* <- lang_en;; <- name_en;;*);
-                [Гоголя улица]
+                [улица Гоголя]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:200;
-                =>nrel_number_of_house:70;
+                =>nrel_street_length:2800;
+                =>nrel_number_of_house:31;
                 =>nrel_search_area:
                 vitebsk;;
                 

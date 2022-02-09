@@ -2,10 +2,10 @@ bohdan_khmelnytsky_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Bohdan Khmelnytsky street]
                 (* <- lang_en;; <- name_en;;*);
-                [Богдана Хмельницкого улица]
+                [улица Богдана Хмельницкого]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3100;
-                =>nrel_number_of_house:44;
+                =>nrel_street_length:1500;
+                =>nrel_number_of_house:12;
                 =>nrel_search_area:
                 vitebsk;;
                 

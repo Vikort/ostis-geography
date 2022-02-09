@@ -2,10 +2,10 @@ bebel_9th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Bebel 9th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Бебеля 9-я улица]
+                [улица Бебеля 9-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2400;
-                =>nrel_number_of_house:23;
+                =>nrel_street_length:2000;
+                =>nrel_number_of_house:59;
                 =>nrel_search_area:
                 vitebsk;;
                 

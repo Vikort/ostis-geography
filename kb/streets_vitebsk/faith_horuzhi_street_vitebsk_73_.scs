@@ -2,10 +2,10 @@ faith_horuzhi_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Faith Horuzhi street]
                 (* <- lang_en;; <- name_en;;*);
-                [Веры Хоружей улица]
+                [улица Веры Хоружей]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:3100;
-                =>nrel_number_of_house:40;
+                =>nrel_number_of_house:12;
                 =>nrel_search_area:
                 vitebsk;;
                 

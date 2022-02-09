@@ -2,10 +2,10 @@ gorodokovskaya_25th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gorodokovskaya 25th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Городокская 25-я улица]
+                [улица Городокская 25-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1500;
-                =>nrel_number_of_house:54;
+                =>nrel_street_length:2300;
+                =>nrel_number_of_house:81;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -2,10 +2,10 @@ bylevskaya_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Bylevskaya street]
                 (* <- lang_en;; <- name_en;;*);
-                [Билевская улица]
+                [улица Билевская]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:800;
-                =>nrel_number_of_house:4;
+                =>nrel_street_length:700;
+                =>nrel_number_of_house:43;
                 =>nrel_search_area:
                 vitebsk;;
                 

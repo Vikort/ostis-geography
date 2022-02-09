@@ -2,10 +2,10 @@ pottery_street_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Pottery Street street]
                 (* <- lang_en;; <- name_en;;*);
-                [Гончарная улица улица]
+                [улица Гончарная улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3200;
-                =>nrel_number_of_house:20;
+                =>nrel_street_length:400;
+                =>nrel_number_of_house:83;
                 =>nrel_search_area:
                 vitebsk;;
                 

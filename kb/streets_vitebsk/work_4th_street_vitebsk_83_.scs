@@ -2,10 +2,10 @@ work_4th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [WORK 4th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Войкова 4-я улица]
+                [улица Войкова 4-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2200;
-                =>nrel_number_of_house:83;
+                =>nrel_street_length:2600;
+                =>nrel_number_of_house:43;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -2,10 +2,10 @@ gastello_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gastello street]
                 (* <- lang_en;; <- name_en;;*);
-                [Гастелло улица]
+                [улица Гастелло]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2900;
-                =>nrel_number_of_house:35;
+                =>nrel_street_length:2200;
+                =>nrel_number_of_house:61;
                 =>nrel_search_area:
                 vitebsk;;
                 

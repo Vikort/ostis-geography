@@ -2,10 +2,10 @@ bogatyreva_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Bogatyreva street]
                 (* <- lang_en;; <- name_en;;*);
-                [Богатырева улица]
+                [улица Богатырева]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2900;
-                =>nrel_number_of_house:73;
+                =>nrel_street_length:2200;
+                =>nrel_number_of_house:72;
                 =>nrel_search_area:
                 vitebsk;;
                 

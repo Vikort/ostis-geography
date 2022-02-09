@@ -2,10 +2,10 @@ azina_2nd_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Azina 2nd street]
                 (* <- lang_en;; <- name_en;;*);
-                [Азина 2-й улица]
+                [улица Азина 2-й]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1200;
-                =>nrel_number_of_house:64;
+                =>nrel_street_length:1300;
+                =>nrel_number_of_house:42;
                 =>nrel_search_area:
                 vitebsk;;
                 

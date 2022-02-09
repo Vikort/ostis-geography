@@ -2,10 +2,10 @@ vizhip_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Vizhip street]
                 (* <- lang_en;; <- name_en;;*);
-                [Бумагина улица]
+                [улица Бумагина]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2000;
-                =>nrel_number_of_house:8;
+                =>nrel_street_length:200;
+                =>nrel_number_of_house:83;
                 =>nrel_search_area:
                 vitebsk;;
                 

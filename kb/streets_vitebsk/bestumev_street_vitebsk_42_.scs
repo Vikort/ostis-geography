@@ -2,10 +2,10 @@ bestumev_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Bestumev street]
                 (* <- lang_en;; <- name_en;;*);
-                [Бестужева улица]
+                [улица Бестужева]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1000;
-                =>nrel_number_of_house:52;
+                =>nrel_street_length:1700;
+                =>nrel_number_of_house:42;
                 =>nrel_search_area:
                 vitebsk;;
                 

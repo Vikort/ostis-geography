@@ -2,10 +2,10 @@ varaikisa_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Varaikisa street]
                 (* <- lang_en;; <- name_en;;*);
-                [Варейкиса улица]
+                [улица Варейкиса]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1500;
-                =>nrel_number_of_house:67;
+                =>nrel_street_length:2700;
+                =>nrel_number_of_house:65;
                 =>nrel_search_area:
                 vitebsk;;
                 

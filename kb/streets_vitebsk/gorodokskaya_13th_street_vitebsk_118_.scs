@@ -2,10 +2,10 @@ gorodokskaya_13th_street_vitebsk <- concept_way;
                 =>nrel_main_idtf:
                 [Gorodokskaya 13th street]
                 (* <- lang_en;; <- name_en;;*);
-                [Городокская 13-я улица]
+                [улица Городокская 13-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1900;
-                =>nrel_number_of_house:33;
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:29;
                 =>nrel_search_area:
                 vitebsk;;
                 
