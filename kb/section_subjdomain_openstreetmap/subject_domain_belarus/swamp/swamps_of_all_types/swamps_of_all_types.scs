@@ -12,12 +12,12 @@ swamp_domzheritskoye <- concept_swamp;
 =>nrel_district:
     lepiel_district; barysaw_district;;
 
-swamp_olman <- concept_swamp;
+swamp_galo <- concept_swamp;
 <-concept_lowland_swamps;
 <-concept_raised_bogs;
 <-concept_transitional_swamps;
 =>nrel_main_idtf:
-    [Ольманские болота]
+    [болото Гало]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -25,6 +25,62 @@ swamp_olman <- concept_swamp;
     brest_region;
 =>nrel_district:
     stolin_district;;
+
+swamp_vilazkoe <- concept_swamp;
+<-concept_lowland_swamps;
+<-concept_raised_bogs;
+<-concept_transitional_swamps;
+=>nrel_main_idtf:
+    [болото Вылазкое]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    stolin_district;;
+
+swamp_red <- concept_swamp;
+<-concept_lowland_swamps;
+<-concept_raised_bogs;
+<-concept_transitional_swamps;
+=>nrel_main_idtf:
+    [болото Красное]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    stolin_district;;
+
+swamp_lublinskoe <- concept_swamp;
+<-concept_lowland_swamps;
+<-concept_raised_bogs;
+<-concept_transitional_swamps;
+=>nrel_main_idtf:
+    [Люблинское]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    stolin_district;;
+
+swamp_medvedno <- concept_swamp;
+<-concept_lowland_swamps;
+<-concept_raised_bogs;
+<-concept_transitional_swamps;
+=>nrel_main_idtf:
+    [болото Медведно]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    Lelchicy_district;;
 
 
 swamp_dokudovskoe <- concept_swamp;
@@ -40,7 +96,7 @@ swamp_dokudovskoe <- concept_swamp;
 =>nrel_district:
     lida_district;;
 
-swamp_velikoe <- concept_swamp;
+swamp_velikoe_mogilev <- concept_swamp;
 <-concept_lowland_swamps;
 <-concept_raised_bogs;
 <-concept_transitional_swamps;
@@ -50,9 +106,23 @@ swamp_velikoe <- concept_swamp;
 =>nrel_country:
     belarus;
 =>nrel_region:
-    gomel_region;
+    mogilev_region;
 =>nrel_district:
-    Zhytkavichy_district;;
+    Bialynicki_district;;
+
+swamp_velikoe_minsk <- concept_swamp;
+<-concept_lowland_swamps;
+<-concept_raised_bogs;
+<-concept_transitional_swamps;
+=>nrel_main_idtf:
+    [болото великое]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    krupki_district;;
 
 swamp_zaozerye <- concept_swamp;
 <-concept_raised_bogs;
@@ -140,7 +210,7 @@ swamp_dulebskoe <- concept_swamp;
 <-concept_raised_bogs;
 <-concept_transitional_swamps;
 =>nrel_main_idtf:
-    [болото Дулебское]
+    [Большое Дулебское]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -148,6 +218,20 @@ swamp_dulebskoe <- concept_swamp;
     mogilev_region;
 =>nrel_district:
     Klicauski_district;;
+
+swamp_velikii_log <- concept_swamp;
+<-concept_lowland_swamps;
+<-concept_raised_bogs;
+<-concept_transitional_swamps;
+=>nrel_main_idtf:
+    [Великий Лог]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    Bialynicki_district;;
 
 swamp_mezch <- concept_swamp;
 <-concept_raised_bogs;

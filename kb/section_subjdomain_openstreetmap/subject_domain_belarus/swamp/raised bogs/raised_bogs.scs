@@ -25,7 +25,7 @@ swamp_ostrova_duleby <- concept_swamp;
 swamp_morochno <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото Морочно]
+    [Морочно]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -59,18 +59,7 @@ swamp_horodyshchenskoe <- concept_swamp;
 =>nrel_district:
     pinsk_district;;
 
-swamp_morochno <- concept_swamp;
-<-concept_raised_bogs;
-<-concept_pinsk_swamp;
-=>nrel_main_idtf:
-    [болото Морочно]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    brest_region;
-=>nrel_district:
-    stolin_district;;
+
 
 swamp_domashitsy <- concept_swamp;
 <-concept_raised_bogs;
@@ -100,7 +89,7 @@ swamp_kozyanskie <- concept_swamp;
 swamp_yukhovichsky_moss <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото Юховичский мох]
+    [болото Юховичский Мох]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -112,7 +101,7 @@ swamp_yukhovichsky_moss <- concept_swamp;
 swamp_moss <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото  мох]
+    [болото Мох]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -124,7 +113,7 @@ swamp_moss <- concept_swamp;
 swamp_korytensky_moss <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото Корытенский мох]
+    [Корытенский Мох]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -160,7 +149,7 @@ swamp_jada <- concept_swamp;
 swamp_swan_moss <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото Лебединый мох]
+    [Лебединый Мох]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -376,7 +365,7 @@ swamp_savskiy_moss <- concept_swamp;
 swamp_slavnoe <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото Славное ]
+    [болото Славное]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -400,7 +389,7 @@ swamp_zagalskiy_massiv <- concept_swamp;
 swamp_bylev_moss <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото Булев мох]
+    [Булев Мох]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -451,7 +440,7 @@ swamp_chernevskoe_lednezhevo <- concept_swamp;
 swamp_myrashevo <- concept_swamp;
 <-concept_raised_bogs;
 =>nrel_main_idtf:
-    [болото Мурашево]
+    [Болото Мурашево]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;

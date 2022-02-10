@@ -1,7 +1,7 @@
 swamp_old_zhaden <- concept_swamp;
 <-concept_transitional_swamps;
 =>nrel_main_idtf:
-    [Старый Жаден]
+    [Водно-болотный заказник «Старый Жаден»]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;

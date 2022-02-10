@@ -26,7 +26,7 @@ swamp_holcha <- concept_swamp;
 swamp_zhuravlevskoe <- concept_swamp;
 <-concept_lowland_swamps;
 =>nrel_main_idtf:
-    [Журавлёвское болото]
+    [Журавлёвское]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -38,7 +38,7 @@ swamp_zhuravlevskoe <- concept_swamp;
 swamp_vygonoshchansky <- concept_swamp;
 <-concept_lowland_swamps;
 =>nrel_main_idtf:
-    [Выгонощанское болото]
+    [Торфоразработки "Выгонощанское"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -62,7 +62,7 @@ swamp_kuzmichi <- concept_swamp;
 swamp_dikoye <- concept_swamp;
 <-concept_lowland_swamps;
 =>nrel_main_idtf:
-    [болото Дикое]
+    [Дикое]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -196,7 +196,7 @@ byaroza_district;;
 swamp_zvanets <- concept_swamp;
 <-concept_lowland_swamps;
 =>nrel_main_idtf:
-[болото Званец]
+[Званец]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
 belarus;
@@ -474,7 +474,7 @@ smalyavichy_district;;
 swamp_sykhoe <- concept_swamp;
 <-concept_lowland_swamps;
 =>nrel_main_idtf:
-[болото Сухое]
+[Сухое болото]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
 belarus;
