@@ -1,0 +1,334 @@
+/*
+SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/grodno
+*/
+
+
+// 1
+volkovysk_kupala_college=>nrel_main_idtf:[Волковысский колледж УО "Гродненский государственный университет им. Я. Купалы"]
+        (*
+                <-lang_ru;;
+        *);
+        [Volkovysk College of Educational Establishment "Grodno State University named after Y. Kupala"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+volkovysk_kupala_college=>nrel_region:grodno_region;;
+volkovysk_kupala_college=>nrel_city:vawkavysk_vawkavysk_district;;
+volkovysk_kupala_college=>nrel_search_area:vawkavysk_vawkavysk_district;;
+
+volkovysk_kupala_college=>nrel_phone_number:[(8-01512) 6-77-25 (приемная директора), (8-01512) 6-77-26 (приемная комиссия)];;
+volkovysk_kupala_college=>nrel_address:[г. Волковыск, Социалистическая, 33];;
+volkovysk_kupala_college=>nrel_email:[vk@grsu.by];;
+volkovysk_kupala_college=>nrel_site:[vk.grsu.by/priem_info.php];;
+
+
+volkovysk_kupala_college <- concept_secondary_schools;;
+
+
+// 2
+grodno_kupala_college=>nrel_main_idtf:[Гуманитарный колледж УО "Гродненский государственный университет имени Янки Купалы"]
+        (*
+                <-lang_ru;;
+        *);
+        [College of Humanities EE "Grodno State University named after Yanka Kupala"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_kupala_college=>nrel_region:grodno_region;;
+grodno_kupala_college=>nrel_city:hrodna;;
+grodno_kupala_college=>nrel_search_area:hrodna;;
+
+grodno_kupala_college=>nrel_phone_number:[8(0152) 62-07-30 (приемная директора); 8(0152) 62-07-48, 8(0152) 62-07-71 (приемная комиссия)];;
+grodno_kupala_college=>nrel_address:[г. Гродно, Ленина, 4];;
+grodno_kupala_college=>nrel_email:[gumcol@grsu.by];;
+grodno_kupala_college=>nrel_site:[gumcol.grsu.by];;
+
+
+grodno_kupala_college <- concept_secondary_schools;;
+
+
+// 3
+lida_kupala_college=>nrel_main_idtf:[Лидский колледж УО "Гродненский государственный университет им. Я. Купалы"]
+        (*
+                <-lang_ru;;
+        *);
+        [Lida College of Educational Establishment "Grodno State University named after Y. Kupala"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+lida_kupala_college=>nrel_region:grodno_region;;
+lida_kupala_college=>nrel_city:lida;;
+lida_kupala_college=>nrel_search_area:lida;;
+
+lida_kupala_college=>nrel_phone_number:[(8 0154) 5213 72 (приемная директора), (8 0154) 525863 (приемная комиссия)];;
+lida_kupala_college=>nrel_address:[г. Лида, Советская, 18];;
+lida_kupala_college=>nrel_email:[lidcol@grsu.by];;
+lida_kupala_college=>nrel_site:[WWW.ltk.grsu.by];;
+
+
+lida_kupala_college <- concept_secondary_schools;;
+
+// 4
+grodno_technological_kupala_college=>nrel_main_idtf:[Технологический колледж УО "Гродненский государственный университет им. Я. Купалы"]
+        (*
+                <-lang_ru;;
+        *);
+        [Technological College of Educational Establishment "Grodno State University named after Ya. Kupala"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_technological_kupala_college=>nrel_region:grodno_region;;
+grodno_technological_kupala_college=>nrel_city:vawkavysk_vawkavysk_district;;
+grodno_technological_kupala_college=>nrel_search_area:vawkavysk_vawkavysk_district;;
+
+grodno_technological_kupala_college=>nrel_phone_number:[(8-0152) 43-43-23 (приемная директора), 43-40-95 (приемная комиссия)];;
+grodno_technological_kupala_college=>nrel_address:[г. Гродно, Горького, 84];;
+grodno_technological_kupala_college=>nrel_email:[tk@grsu.by, prkom@xtt.grsu.by];;
+grodno_technological_kupala_college=>nrel_site:[www.xtt.grsu.by];;
+
+
+grodno_technological_kupala_college <- concept_secondary_schools;;
+
+
+// 5
+volkovysk_agarian_college=>nrel_main_idtf:[УО "Волковысский государственный аграрный колледж"]
+        (*
+                <-lang_ru;;
+        *);
+        [EE "Volkovysk State Agrarian College"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+volkovysk_agarian_college=>nrel_region:grodno_region;;
+volkovysk_agarian_college=>nrel_city:vawkavysk_vawkavysk_district;;
+volkovysk_agarian_college=>nrel_search_area:vawkavysk_vawkavysk_district;;
+
+volkovysk_agarian_college=>nrel_phone_number:[8(01512) 4 47 42 (приемная директора), 4 47 45 (приемная комиссия)];;
+volkovysk_agarian_college=>nrel_address:[г. Волковыск, ул. Победы д.52];;
+volkovysk_agarian_college=>nrel_email:[vgak@vgak.by];;
+volkovysk_agarian_college=>nrel_site:[vgak.by];;
+
+
+volkovysk_agarian_college <- concept_secondary_schools;;
+
+// 6
+grodno_state_art_college=>nrel_main_idtf:[УО "Гродненский государственный колледж искусств"]
+        (*
+                <-lang_ru;;
+        *);
+        [Educational Establishment "Grodno State College of Arts"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_state_art_college=>nrel_region:grodno_region;;
+grodno_state_art_college=>nrel_city:hrodna;;
+grodno_state_art_college=>nrel_search_area:hrodna;;
+
+grodno_state_art_college=>nrel_phone_number:[8(0152) 55-34-33 (приемная директора), (0152) 55-34-32; 55-34-36 (приемная комиссия)];;
+grodno_state_art_college=>nrel_address:[г. Гродно, б-р Ленинского Комсомола, 23 ];;
+grodno_state_art_college=>nrel_email:[art_college@mail.grodno.by];;
+grodno_state_art_college=>nrel_site:[artcollege.by];;
+
+
+grodno_state_art_college <- concept_secondary_schools;;
+
+
+// 7
+grodno_economics_control_college=>nrel_main_idtf:[УО "Гродненский колледж экономики и управления" Белкоопсоюза]
+        (*
+                <-lang_ru;;
+        *);
+        [Educational Establishment "Grodno College of Economics and Management" Belcoopsoyuz]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_economics_control_college=>nrel_region:grodno_region;;
+grodno_economics_control_college=>nrel_city:hrodna;;
+grodno_economics_control_college=>nrel_search_area:hrodna;;
+
+grodno_economics_control_college=>nrel_phone_number:[+375 (152) 69-38-32 (приемная директора), (0152) 69 38 16 (приемная комиссия)];;
+grodno_economics_control_college=>nrel_address:[г. Гродно, Поповича, 2];;
+grodno_economics_control_college=>nrel_email:[grtorgcl@tut.by];;
+grodno_economics_control_college=>nrel_site:[gkeu.bks.by];;
+
+
+grodno_economics_control_college <- concept_secondary_schools;;
+
+
+// 8
+grodno_engineering_technology_college=>nrel_main_idtf:[УО "Гродненский государственный колледж техники, технологий и дизайна"]
+        (*
+                <-lang_ru;;
+        *);
+        [УО "Гродненский государственный колледж техники, технологий и дизайна"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_engineering_technology_college=>nrel_region:grodno_region;;
+grodno_engineering_technology_college=>nrel_city:hrodna;;
+grodno_engineering_technology_college=>nrel_search_area:hrodna;;
+
+grodno_engineering_technology_college=>nrel_phone_number:[8 (0152) 44 76 75 (приемная комиссия), (80152) 44 55 44 (приемная директора)];;
+grodno_engineering_technology_college=>nrel_address:[г. Гродно, Горького, 86];;
+grodno_engineering_technology_college=>nrel_email:[collegelp@tut.by];;
+grodno_engineering_technology_college=>nrel_site:[ggkttd.by];;
+
+
+grodno_engineering_technology_college <- concept_secondary_schools;;
+
+
+// 9
+grodno_medical_college=>nrel_main_idtf:[УО "Гродненский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);
+        [EE "Grodno State Medical College"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_medical_college=>nrel_region:grodno_region;;
+grodno_medical_college=>nrel_city:hrodna;;
+grodno_medical_college=>nrel_search_area:hrodna;;
+
+grodno_medical_college=>nrel_phone_number:[(0152) 44-73-01 (приемная директора), (0152) 44-73-15 (приемная комиссия)];;
+grodno_medical_college=>nrel_address:[г. Гродно, б-р Ленинского Комсомола, 53];;
+grodno_medical_college=>nrel_email:[medkolleg@mail.grodno.by];;
+grodno_medical_college=>nrel_site:[medkolleg.grodno.by];;
+
+
+grodno_medical_college <- concept_secondary_schools;;
+
+
+// 10
+grodno_politechnic_college=>nrel_main_idtf:[УО "Гродненский государственный политехнический колледж"]
+        (*
+                <-lang_ru;;
+        *);
+        [Educational Establishment "Grodno State Polytechnic College"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_politechnic_college=>nrel_region:grodno_region;;
+grodno_politechnic_college=>nrel_city:hrodna;;
+grodno_politechnic_college=>nrel_search_area:hrodna;;
+
+grodno_politechnic_college=>nrel_phone_number:[8 (0152) 39 36 02, (приемная); 8 (0152) 65 69 96 (приёмная комиссия)];;
+grodno_politechnic_college=>nrel_address:[г. Гродно, ул. Советских Пограничников, 2];;
+grodno_politechnic_college=>nrel_email:[polyteh@tut.by];;
+grodno_politechnic_college=>nrel_site:[ggpk.by];;
+
+
+grodno_politechnic_college <- concept_secondary_schools;;
+
+
+// 11
+grodno_olimpic_college=>nrel_main_idtf:[УО "Гродненское государственное училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);
+        [Educational Establishment "Grodno State School of Olympic Reserve"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_olimpic_college=>nrel_region:grodno_region;;
+grodno_olimpic_college=>nrel_city:hrodna;;
+grodno_olimpic_college=>nrel_search_area:hrodna;;
+
+grodno_olimpic_college=>nrel_phone_number:[80152 699169(приемная комиссия), 80152 699310 (приемная директора)];;
+grodno_olimpic_college=>nrel_address:[г. Гродно, Поповича, 1];;
+grodno_olimpic_college=>nrel_email:[uor_grodno@tut.by];;
+grodno_olimpic_college=>nrel_site:[uor-grodno.schools.by];;
+
+
+grodno_olimpic_college <- concept_secondary_schools;;
+
+// 12
+grodno_peu_law_college=>nrel_main_idtf:[Частное учреждение образования "Гродненский колледж бизнеса и права"]
+        (*
+                <-lang_ru;;
+        *);
+        [Private educational institution "Grodno College of Business and Law"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+grodno_peu_law_college=>nrel_region:grodno_region;;
+grodno_peu_law_college=>nrel_city:hrodna;;
+grodno_peu_law_college=>nrel_search_area:hrodna;;
+
+grodno_peu_law_college=>nrel_phone_number:[тел.(8-0152) 71-88-75 (приемная комиссия), 8 (033)311-12-77];;
+grodno_peu_law_college=>nrel_address:[г. Гродно, Мостовая, 39];;
+grodno_peu_law_college=>nrel_email:[gtbip@tut.by];;
+grodno_peu_law_college=>nrel_site:[www.gcbip.by];;
+
+
+grodno_peu_law_college <- concept_secondary_schools;;
+
+// 13
+slonim_medical_college=>nrel_main_idtf:[УО "Слонимский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);
+        [EE "Slonim State Medical College"]
+        (*
+                <-lang_en;;
+        *);;
+
+
+slonim_medical_college=>nrel_region:grodno_region;;
+slonim_medical_college=>nrel_city:slonim;;
+slonim_medical_college=>nrel_search_area:slonim;;
+
+slonim_medical_college=>nrel_phone_number:[8 (01562) 5 18 68 (приемная комиссия), (01562) 5 18 48 (приемная директора)];;
+slonim_medical_college=>nrel_address:[г. Слоним, Комсомольская, 12];;
+slonim_medical_college=>nrel_email:[med@slonimsmc.grodno.by];;
+slonim_medical_college=>nrel_site:[www.slonimsmc.grodno.by];;
+
+
+slonim_medical_college <- concept_secondary_schools;;
+
+// 14
+slonim_agricaltuar_college=>nrel_main_idtf:[УО "Слонимский государственный профессионально-технический колледж сельскохозяйственного производства" (ССО)]
+        (*
+                <-lang_ru;;
+        *);
+        [Educational Establishment "Slonim State Vocational College of Agricultural Production" (SSO)]
+        (*
+                <-lang_en;;
+        *);;
+
+
+slonim_agricaltuar_college=>nrel_region:grodno_region;;
+slonim_agricaltuar_college=>nrel_city:vawkavysk_vawkavysk_district;;
+slonim_agricaltuar_college=>nrel_search_area:vawkavysk_vawkavysk_district;;
+
+slonim_agricaltuar_college=>nrel_phone_number:[8 (01562) 4 74 82 (приемная комиссия), 4 79 17 (приемная директора)];;
+slonim_agricaltuar_college=>nrel_address:[г. Слоним, Брестская, 157];;
+slonim_agricaltuar_college=>nrel_email:[slonim_gptk@tut.by];;
+slonim_agricaltuar_college=>nrel_site:[sgptksp.schools.by];;
+
+
+slonim_agricaltuar_college <- concept_secondary_schools;;
