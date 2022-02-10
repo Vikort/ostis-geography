@@ -1,5 +1,0 @@
-uz minskij_oblastnoj_klinicheskij_tsentr_«psihiatrijanarkologija» <- concept_hospital;
-=> nrel_main_idtf:
-[УЗ Минский областной клинический центр «Психиатрия-наркология»]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;

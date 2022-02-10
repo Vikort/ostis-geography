@@ -1,5 +1,0 @@
-tsrb <- concept_hospital;
-=> nrel_main_idtf:
-[Црб]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;
