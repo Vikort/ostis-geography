@@ -1,6 +1,6 @@
-новинковская_street_minsk <- concept_way;
+novinkovskaya_street_minsk <- concept_way;
                 =>nrel_main_idtf:
-                [Новинковская street]
+                [Novinkovskaya street]
                 (* <- lang_en;; <- name_en;;*);
                 [Новинковская улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
