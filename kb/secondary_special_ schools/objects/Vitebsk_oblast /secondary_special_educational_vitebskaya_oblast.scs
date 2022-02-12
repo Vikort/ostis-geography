@@ -1,13 +1,9 @@
 /*
 SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/vitebsk
-добавить потом место поиска и принадлежность к классу
 */
 
- // brest_transport_college=>nrel_search_area:brest;;
- // brest_transport_college <- concept_secondary_schools;;
-
 // 1
-vitebsk_vegetarian_college=>nrel_main_idtf:[Аграрный колледж УО "Витебская государственная академия ветеринарной медицины"]
+vitebsk_vegetarian_college=>nrel_main_idtf:[Витебская Государственная Академия ветеринарной медицины]
         (*
                 <-lang_ru;;
         *);
@@ -15,7 +11,10 @@ vitebsk_vegetarian_college=>nrel_main_idtf:[Аграрный колледж УО
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_vegetarian_college=>nrel_idtf:[Аграрный колледж УО "Витебская государственная академия ветеринарной медицины"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_vegetarian_college=>nrel_region:vitebsk_region;;
 vitebsk_vegetarian_college=>nrel_city:vitebsk;;
@@ -29,7 +28,7 @@ vitebsk_vegetarian_college=>nrel_search_area:vitebsk;;
 vitebsk_vegetarian_college <- concept_secondary_schools;;
 
 // 2
-vitebsk_connection_college=>nrel_main_idtf:[Витебский филиал УО "Белорусская государственная академия связи"]
+vitebsk_connection_college=>nrel_main_idtf:[Витебский филиал Беларуской государственной академии связи]
         (*
                 <-lang_ru;;
         *);
@@ -37,7 +36,10 @@ vitebsk_connection_college=>nrel_main_idtf:[Витебский филиал УО
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_connection_college=>nrel_idtf:[Витебский филиал УО "Белорусская государственная академия связи"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_connection_college=>nrel_region: vitebsk_region;;
 vitebsk_connection_college=>nrel_city: vitebsk;;
@@ -51,7 +53,7 @@ vitebsk_connection_college=>nrel_search_area:vitebsk;;
 vitebsk_connection_college <- concept_secondary_schools;;
 
 // 3
-vitebsk_ind_ped_college=>nrel_main_idtf:[Индустриально-педагогический колледж УО "Витебский государственный технологический университет"]
+vitebsk_ind_ped_college=>nrel_main_idtf:[Индустриально-педагогический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -59,7 +61,10 @@ vitebsk_ind_ped_college=>nrel_main_idtf:[Индустриально-педаго
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_ind_ped_college=>nrel_idtf:[Индустриально-педагогический колледж УО "Витебский государственный технологический университет"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_ind_ped_college=>nrel_region:vitebsk_region;;
 vitebsk_ind_ped_college=>nrel_city:vitebsk;;
@@ -73,7 +78,7 @@ vitebsk_ind_ped_college=>nrel_search_area:vitebsk;;
 vitebsk_ind_ped_college <- concept_secondary_schools;;
 
 // 4
-orsha_masherovs_college=>nrel_main_idtf:[Оршанский колледж УО "Витебский государственный университет им. П. М. Машерова"]
+orsha_masherovs_college=>nrel_main_idtf:[Оршанский колледж УО «ВГУ имени П.М. Машерова»]
         (*
                 <-lang_ru;;
         *);
@@ -81,7 +86,10 @@ orsha_masherovs_college=>nrel_main_idtf:[Оршанский колледж УО 
         (*
                 <-lang_en;;
         *);;
-
+orsha_masherovs_college=>nrel_idtf:[Оршанский колледж УО "Витебский государственный университет им. П. М. Машерова"]
+        (*
+                <-lang_ru;;
+        *);;
 
 orsha_masherovs_college=>nrel_region:vitebsk_region;;
 orsha_masherovs_college=>nrel_city: orsha;;
@@ -95,13 +103,17 @@ orsha_masherovs_college=>nrel_search_area:orsha;;
 orsha_masherovs_college <- concept_secondary_schools;;
 
 // 5
-orsha_transport_college=>nrel_main_idtf:[Оршанский колледж – филиал УО "Белорусский государственный университет транспорта"]
+orsha_transport_college=>nrel_main_idtf:[Оршанский колледж - филиал УО "Белорусский государственный университет транспорта"]
         (*
                 <-lang_ru;;
         *);
         [Orsha College - branch of the EE "Belarusian State University of Transport"]
         (*
                 <-lang_en;;
+        *);;
+orsha_transport_college=>nrel_idtf:[Оршанский колледж – филиал УО "Белорусский государственный университет транспорта"]
+        (*
+                <-lang_ru;;
         *);;
 
 
@@ -117,7 +129,7 @@ orsha_transport_college=>nrel_search_area:orsha;;
 orsha_transport_college <- concept_secondary_schools;;
 
 // 6
-polotsk_medical_college=>nrel_main_idtf:[Полоцкий государственный медицинский колледж им. Героя Советского Союза З.М.Туснолобовой-Марченко]
+polotsk_medical_college=>nrel_main_idtf:[Полоцкий государственный медицинский колледж]
         (*
                 <-lang_ru;;
         *);
@@ -125,7 +137,10 @@ polotsk_medical_college=>nrel_main_idtf:[Полоцкий государстве
         (*
                 <-lang_en;;
         *);;
-
+polotsk_medical_college=>nrel_idtf:[Полоцкий государственный медицинский колледж им. Героя Советского Союза З.М.Туснолобовой-Марченко]
+        (*
+                <-lang_ru;;
+        *);;
 
 polotsk_medical_college=>nrel_region:vitebsk_region;;
 polotsk_medical_college=>nrel_city: polatsk;;
@@ -138,7 +153,7 @@ polotsk_medical_college=>nrel_site:[www.psec.by];;
 polotsk_medical_college=>nrel_search_area:polatsk;;
 polotsk_medical_college <- concept_secondary_schools;;
 
-// 7
+// 7 - не омечено на карте, поэтому оставляю такое название
 polotsk_masherov_college=>nrel_main_idtf:[Полоцкий колледж УО "Витебский государственный университет им. П.М. Машерова"]
         (*
                 <-lang_ru;;
@@ -147,7 +162,10 @@ polotsk_masherov_college=>nrel_main_idtf:[Полоцкий колледж УО "
         (*
                 <-lang_en;;
         *);;
-
+polotsk_masherov_college=>nrel_idtf:[Полоцкий колледж УО "Витебский государственный университет им. П.М. Машерова"]
+        (*
+                <-lang_ru;;
+        *);;
 
 polotsk_masherov_college=>nrel_region:vitebsk_region;;
 polotsk_masherov_college=>nrel_city: polatsk;;
@@ -161,7 +179,7 @@ polotsk_masherov_college=>nrel_search_area:polatsk;;
 polotsk_masherov_college <- concept_secondary_schools;;
 
 // 8
-vitebsk_culture_college=>nrel_main_idtf:[УО "Витебский государственный колледж культуры и искусств"]
+vitebsk_culture_college=>nrel_main_idtf:[Витебский государственный колледж культуры и искусств]
         (*
                 <-lang_ru;;
         *);
@@ -169,7 +187,10 @@ vitebsk_culture_college=>nrel_main_idtf:[УО "Витебский государ
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_culture_college=>nrel_idtf:[УО "Витебский государственный колледж культуры и искусств"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_culture_college=>nrel_region:vitebsk_region;;
 vitebsk_culture_college=>nrel_city:vitebsk;;
@@ -183,7 +204,7 @@ vitebsk_culture_college=>nrel_search_area:vitebsk;;
 vitebsk_culture_college <- concept_secondary_schools;;
 
 // 9
-vitebsk_electical_college=>nrel_main_idtf:[УО "Витебский государственный колледж электротехники"]
+vitebsk_electical_college=>nrel_main_idtf:[Политехнический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -191,7 +212,10 @@ vitebsk_electical_college=>nrel_main_idtf:[УО "Витебский госуда
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_electical_college=>nrel_idtf:[УО "Витебский государственный колледж электротехники"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_electical_college=>nrel_region:vitebsk_region;;
 vitebsk_electical_college=>nrel_city:vitebsk;;
@@ -205,7 +229,7 @@ vitebsk_electical_college=>nrel_search_area:vitebsk;;
 vitebsk_electical_college <- concept_secondary_schools;;
 
 // 10
-vitebsk_medician_antonov_college=>nrel_main_idtf:[УО "Витебский государственный медицинский колледж имени академика И.П. Антонова"]
+vitebsk_medician_antonov_college=>nrel_main_idtf:[Витебский государственный медицинский колледж имени академика И. П. Антонова]
         (*
                 <-lang_ru;;
         *);
@@ -213,7 +237,10 @@ vitebsk_medician_antonov_college=>nrel_main_idtf:[УО "Витебский го�
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_medician_antonov_college=>nrel_idtf:[УО "Витебский государственный медицинский колледж имени академика И.П. Антонова"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_medician_antonov_college=>nrel_region:vitebsk_region;;
 vitebsk_medician_antonov_college=>nrel_city:vitebsk;;
@@ -227,13 +254,17 @@ vitebsk_medician_antonov_college=>nrel_search_area:vitebsk;;
 vitebsk_medician_antonov_college <- concept_secondary_schools;;
 
 // 11
-vitebsk_musican_sollertinskogo_college=>nrel_main_idtf:[УО "Витебский государственный музыкальный колледж им. И.И.Соллертинского"]
+vitebsk_musican_sollertinskogo_college=>nrel_main_idtf:[Музыкальный колледж]
         (*
                 <-lang_ru;;
         *);
         [Educational Establishment "Vitebsk State Music College named after I.I. Sollertinsky"]
         (*
                 <-lang_en;;
+        *);;
+vitebsk_musican_sollertinskogo_college=>nrel_idtf:[УО "Витебский государственный музыкальный колледж им. И.И.Соллертинского"]
+        (*
+                <-lang_ru;;
         *);;
 
 
@@ -249,7 +280,7 @@ vitebsk_musican_sollertinskogo_college=>nrel_search_area:vitebsk;;
 vitebsk_musican_sollertinskogo_college <- concept_secondary_schools;;
 
 // 12
-vitebsk_technical_college=>nrel_main_idtf:[УО "Витебский государственный технический колледж"]
+vitebsk_technical_college=>nrel_main_idtf:[Витебский государственный технический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -257,7 +288,10 @@ vitebsk_technical_college=>nrel_main_idtf:[УО "Витебский госуда
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_technical_college=>nrel_idtf:[УО "Витебский государственный технический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_technical_college=>nrel_region:vitebsk_region;;
 vitebsk_technical_college=>nrel_city:vitebsk;;
@@ -271,13 +305,17 @@ vitebsk_technical_college=>nrel_search_area:vitebsk;;
 vitebsk_technical_college <- concept_secondary_schools;;
 
 // 13
-vitebsk_olimpic_college=>nrel_main_idtf:[УО "Витебское государственное училище олимпийского резерва"]
+vitebsk_olimpic_college=>nrel_main_idtf:[Училище олимпийского резерва]
         (*
                 <-lang_ru;;
         *);
         [Educational Establishment "Vitebsk State School of Olympic Reserve"]
         (*
                 <-lang_en;;
+        *);;
+vitebsk_olimpic_college=>nrel_idtf:[УО "Витебское государственное училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
         *);;
 
 
@@ -293,7 +331,7 @@ vitebsk_olimpic_college=>nrel_search_area:vitebsk;;
 vitebsk_olimpic_college <- concept_secondary_schools;;
 
 // 14
-vitebsk_industrial_technological_college=>nrel_main_idtf:[УО "Витебский государственный индустриально-технологический колледж"]
+vitebsk_industrial_technological_college=>nrel_main_idtf:[Индустриально-технологический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -301,7 +339,10 @@ vitebsk_industrial_technological_college=>nrel_main_idtf:[УО "Витебски
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_industrial_technological_college=>nrel_idtf:[УО "Витебский государственный индустриально-технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_industrial_technological_college=>nrel_region:vitebsk_region;;
 vitebsk_industrial_technological_college=>nrel_city: vitebsk;;
@@ -315,7 +356,7 @@ vitebsk_industrial_technological_college=>nrel_search_area:vitebsk;;
 vitebsk_industrial_technological_college <- concept_secondary_schools;;
 
 // 15
-gorodok_agarian_technical_college=>nrel_main_idtf:[УО "Городокский государственный аграрно-технический колледж"]
+gorodok_agarian_technical_college=>nrel_main_idtf:[Городокский государственный аграрно-технический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -323,7 +364,10 @@ gorodok_agarian_technical_college=>nrel_main_idtf:[УО "Городокский 
         (*
                 <-lang_en;;
         *);;
-
+gorodok_agarian_technical_college=>nrel_idtf:[УО "Городокский государственный аграрно-технический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 gorodok_agarian_technical_college=>nrel_region:vitebsk_region;;
 gorodok_agarian_technical_college=>nrel_city:haradok;;
@@ -337,7 +381,7 @@ gorodok_agarian_technical_college=>nrel_search_area:haradok;;
 gorodok_agarian_technical_college <- concept_secondary_schools;;
 
 // 16
-lepel_agarian_technical_college=>nrel_main_idtf:[УО "Лепельский государственный аграрно-технический колледж"]
+lepel_agarian_technical_college=>nrel_main_idtf:[Лепельский государственный аграрно-технический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -345,7 +389,10 @@ lepel_agarian_technical_college=>nrel_main_idtf:[УО "Лепельский го
         (*
                 <-lang_en;;
         *);;
-
+lepel_agarian_technical_college=>nrel_idtf:[УО "Лепельский государственный аграрно-технический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 lepel_agarian_technical_college=>nrel_region:vitebsk_region;;
 lepel_agarian_technical_college=>nrel_city: lyepyel;;
@@ -359,7 +406,7 @@ lepel_agarian_technical_college=>nrel_search_area:lyepyel;;
 lepel_agarian_technical_college <- concept_secondary_schools;;
 
 // 17
-navapolatsk_musical_college=>nrel_main_idtf:[УО "Новополоцкий государственный музыкальный колледж"]
+navapolatsk_musical_college=>nrel_main_idtf:[Новополоцкий государственный музыкальный колледж]
         (*
                 <-lang_ru;;
         *);
@@ -367,7 +414,10 @@ navapolatsk_musical_college=>nrel_main_idtf:[УО "Новополоцкий го
         (*
                 <-lang_en;;
         *);;
-
+navapolatsk_musical_college=>nrel_idtf:[УО "Новополоцкий государственный музыкальный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 navapolatsk_musical_college=>nrel_region:vitebsk_region;;
 navapolatsk_musical_college=>nrel_city: navapolatsk;;
@@ -381,7 +431,7 @@ navapolatsk_musical_college=>nrel_search_area:navapolatsk;;
 navapolatsk_musical_college <- concept_secondary_schools;;
 
 // 18
-navapolatsk_olimpic_college=>nrel_main_idtf:[УО "Новополоцкое государственное училище олимпийского резерва"]
+navapolatsk_olimpic_college=>nrel_main_idtf:[Училище олимпийского резерва]
         (*
                 <-lang_ru;;
         *);
@@ -389,7 +439,10 @@ navapolatsk_olimpic_college=>nrel_main_idtf:[УО "Новополоцкое го
         (*
                 <-lang_en;;
         *);;
-
+navapolatsk_olimpic_college=>nrel_idtf:[УО "Новополоцкое государственное училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);;
 
 navapolatsk_olimpic_college=>nrel_region:vitebsk_region;;
 navapolatsk_olimpic_college=>nrel_city: navapolatsk;;
@@ -403,7 +456,7 @@ navapolatsk_olimpic_college=>nrel_search_area:navapolatsk;;
 navapolatsk_olimpic_college <- concept_secondary_schools;;
 
 // 19
-orshanskiy_agarian_college=>nrel_main_idtf:[УО "Оршанский государственный колледж продовольствия"]
+orshanskiy_agarian_college=>nrel_main_idtf:[Оршанский государственный колледж продовольствия]
         (*
                 <-lang_ru;;
         *);
@@ -411,7 +464,10 @@ orshanskiy_agarian_college=>nrel_main_idtf:[УО "Оршанский госуд�
         (*
                 <-lang_en;;
         *);;
-
+orshanskiy_agarian_college=>nrel_idtf:[УО "Оршанский государственный колледж продовольствия"]
+        (*
+                <-lang_ru;;
+        *);;
 
 orshanskiy_agarian_college=>nrel_region:vitebsk_region;;
 orshanskiy_agarian_college=>nrel_city: orsha_district;;
@@ -425,7 +481,7 @@ orshanskiy_agarian_college=>nrel_search_area:orsha_district;;
 orshanskiy_agarian_college <- concept_secondary_schools;;
 
 // 20
-orsha_medical_college=>nrel_main_idtf:[УО "Оршанский государственный медицинский колледж"]
+orsha_medical_college=>nrel_main_idtf:[Оршанский государственный медицинский колледж]
         (*
                 <-lang_ru;;
         *);
@@ -433,7 +489,10 @@ orsha_medical_college=>nrel_main_idtf:[УО "Оршанский государс
         (*
                 <-lang_en;;
         *);;
-
+orsha_medical_college=>nrel_idtf:[УО "Оршанский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 orsha_medical_college=>nrel_region:vitebsk_region;;
 orsha_medical_college=>nrel_city: orsha;;
@@ -447,7 +506,7 @@ orsha_medical_college=>nrel_search_area:orsha;;
 orsha_medical_college <- concept_secondary_schools;;
 
 // 21
-orsha_mechanics_econimics_college=>nrel_main_idtf:[УО "Оршанский государственный механико-экономический колледж"]
+orsha_mechanics_econimics_college=>nrel_main_idtf:[ОГМЭК]
         (*
                 <-lang_ru;;
         *);
@@ -455,7 +514,10 @@ orsha_mechanics_econimics_college=>nrel_main_idtf:[УО "Оршанский го
         (*
                 <-lang_en;;
         *);;
-
+orsha_mechanics_econimics_college=>nrel_idtf:[УО "Оршанский государственный механико-экономический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 orsha_mechanics_econimics_college=>nrel_region:vitebsk_region;;
 orsha_mechanics_econimics_college=>nrel_city: orsha;;
@@ -469,7 +531,7 @@ orsha_mechanics_econimics_college=>nrel_search_area:orsha;;
 orsha_mechanics_econimics_college <- concept_secondary_schools;;
 
 // 22
-polatsk_chemical_technological_college=>nrel_main_idtf:[УО "Полоцкий государственный химико-технологический колледж"]
+polatsk_chemical_technological_college=>nrel_main_idtf:[Полоцкий государственный химико-технологический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -477,7 +539,10 @@ polatsk_chemical_technological_college=>nrel_main_idtf:[УО "Полоцкий �
         (*
                 <-lang_en;;
         *);;
-
+polatsk_chemical_technological_college=>nrel_idtf:[УО "Полоцкий государственный химико-технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 polatsk_chemical_technological_college=>nrel_region:vitebsk_region;;
 polatsk_chemical_technological_college=>nrel_city:polatsk;;
@@ -491,7 +556,7 @@ polatsk_chemical_technological_college=>nrel_search_area:polatsk;;
 polatsk_chemical_technological_college <- concept_secondary_schools;;
 
 // 23
-polatsk_economical_college=>nrel_main_idtf:[УО "Полоцкий государственный экономический колледж"]
+polatsk_economical_college=>nrel_main_idtf:[Полоцкий государственный аграрно-экономический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -499,7 +564,10 @@ polatsk_economical_college=>nrel_main_idtf:[УО "Полоцкий госуда�
         (*
                 <-lang_en;;
         *);;
-
+polatsk_economical_college=>nrel_idtf:[УО "Полоцкий государственный экономический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 polatsk_economical_college=>nrel_region:vitebsk_region;;
 polatsk_economical_college=>nrel_city:polatsk;;
@@ -513,7 +581,7 @@ polatsk_economical_college=>nrel_search_area:polatsk;;
 polatsk_economical_college <- concept_secondary_schools;;
 
 // 24
-polatsk_trade_technological_college=>nrel_main_idtf:[УО "Полоцкий торгово-технологический колледж" Белкоопсоюза]
+polatsk_trade_technological_college=>nrel_main_idtf:[Полоцкий торгово-технологический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -521,7 +589,10 @@ polatsk_trade_technological_college=>nrel_main_idtf:[УО "Полоцкий то
         (*
                 <-lang_en;;
         *);;
-
+polatsk_trade_technological_college=>nrel_idtf:[УО "Полоцкий торгово-технологический колледж" Белкоопсоюза]
+        (*
+                <-lang_ru;;
+        *);;
 
 polatsk_trade_technological_college=>nrel_region:vitebsk_region;;
 polatsk_trade_technological_college=>nrel_city:polatsk;;
@@ -535,7 +606,7 @@ polatsk_trade_technological_college=>nrel_search_area:polatsk;;
 polatsk_trade_technological_college <- concept_secondary_schools;;
 
 // 25
-postavy_state_college=>nrel_main_idtf:[УО "Поставский государственный колледж"]
+postavy_state_college=>nrel_main_idtf:[Поставский государственный колледж]
         (*
                 <-lang_ru;;
         *);
@@ -543,7 +614,10 @@ postavy_state_college=>nrel_main_idtf:[УО "Поставский государ
         (*
                 <-lang_en;;
         *);;
-
+postavy_state_college=>nrel_idtf:[УО "Поставский государственный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 postavy_state_college=>nrel_region:vitebsk_region;;
 postavy_state_college=>nrel_city: pastavy;;
@@ -557,7 +631,7 @@ postavy_state_college=>nrel_search_area:pastavy;;
 postavy_state_college <- concept_secondary_schools;;
 
 // 26
-vitebsk_state_technological_college=>nrel_main_idtf:[Филиал БГТУ "Витебский государственный технологический колледж"]
+vitebsk_state_technological_college=>nrel_main_idtf:[Технологический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -565,7 +639,10 @@ vitebsk_state_technological_college=>nrel_main_idtf:[Филиал БГТУ "Ви
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_state_technological_college=>nrel_idtf:[Филиал БГТУ "Витебский государственный технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 vitebsk_state_technological_college=>nrel_region:vitebsk_region;;
 vitebsk_state_technological_college=>nrel_city:vitebsk;;
@@ -579,7 +656,7 @@ vitebsk_state_technological_college=>nrel_search_area:vitebsk;;
 vitebsk_state_technological_college <- concept_secondary_schools;;
 
 // 27
-polatsk_state_forest_college=>nrel_main_idtf:[Филиал БГТУ "Полоцкий государственный лесной колледж"]
+polatsk_state_forest_college=>nrel_main_idtf:[Полоцкий государственный лесной колледж]
         (*
                 <-lang_ru;;
         *);
@@ -587,7 +664,10 @@ polatsk_state_forest_college=>nrel_main_idtf:[Филиал БГТУ "Полоц�
         (*
                 <-lang_en;;
         *);;
-
+polatsk_state_forest_college=>nrel_idtf:[Филиал БГТУ "Полоцкий государственный лесной колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 polatsk_state_forest_college=>nrel_region:vitebsk_region;;
 polatsk_state_forest_college=>nrel_city: polatsk;;

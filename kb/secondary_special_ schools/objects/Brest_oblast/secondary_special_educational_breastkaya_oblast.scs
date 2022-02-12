@@ -4,7 +4,7 @@ SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/bres
 
 
 // 1
-brest_transport_college=>nrel_main_idtf:[Брестский колледж – филиал УО "Белорусский государственный университет транспорта]
+brest_transport_college=>nrel_main_idtf:[Колледж ЖД транспорта]
         (*
                 <-lang_ru;;
         *);
@@ -12,7 +12,10 @@ brest_transport_college=>nrel_main_idtf:[Брестский колледж – �
         (*
                 <-lang_en;;
         *);;
-
+brest_transport_college=>nrel_idtf:[Брестский колледж – филиал УО "Белорусский государственный университет транспорта"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brest_transport_college=>nrel_region:brest_region;;
 brest_transport_college=>nrel_city:brest;;
@@ -27,7 +30,7 @@ brest_transport_college=>nrel_site:[brest.bsut.by/index1.html];;
 brest_transport_college <- concept_secondary_schools;;
 
 // 2 
-brest_bisness_and_prav_college=>nrel_main_idtf:[Брестский филиал ЧУО "Колледж бизнеса и права"]
+brest_bisness_and_prav_college=>nrel_main_idtf:[Колледж бизнеса и права]
         (*
                 <-lang_ru;;
         *);
@@ -35,7 +38,10 @@ brest_bisness_and_prav_college=>nrel_main_idtf:[Брестский филиал 
         (*
                 <-lang_en;;
         *);;
-
+brest_bisness_and_prav_college=>nrel_idtf:[Брестский филиал ЧУО "Колледж бизнеса и права"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brest_bisness_and_prav_college=>nrel_region:brest_region;;
 brest_bisness_and_prav_college=>nrel_city:brest;;
@@ -50,7 +56,7 @@ brest_bisness_and_prav_college=>nrel_site:[brest.kbp.by];;
 brest_bisness_and_prav_college <- concept_secondary_schools;;
 
 // 3 
-liaxovichevskiy_college=>nrel_main_idtf:[ОП «Ляховичский аграрный колледж» УО «Барановичский государственный университет»]
+liaxovichevskiy_college=>nrel_main_idtf:[Ляховичский государственный аграрный колледж]
         (*
                 <-lang_ru;;
         *);
@@ -58,7 +64,10 @@ liaxovichevskiy_college=>nrel_main_idtf:[ОП «Ляховичский агра�
         (*
                 <-lang_en;;
         *);;
-
+liaxovichevskiy_college=>nrel_idtf:[ОП «Ляховичский аграрный колледж» УО «Барановичский государственный университет»]
+        (*
+                <-lang_ru;;
+        *);;
 
 liaxovichevskiy_college=>nrel_region:brest_region;;
 liaxovichevskiy_college=>nrel_city:lyakhavichy;;
@@ -72,15 +81,18 @@ liaxovichevskiy_college=>nrel_site:[agrocollege.brest.by];;
 liaxovichevskiy_college <- concept_secondary_schools;;
 
 // 4 
-pinskiy_college=>nrel_main_idtf:[Пинский колледж УО "Брестский государственный университет имени А.С.Пушкина"]
+pinskiy_college=>nrel_main_idtf:[Педагагічны каледж]
         (*
-                <-lang_ru;;
+                <-lang_be;;
         *);
         [Pinsk College of Educational Establishment "Brest State University named after A.S. Pushkin"]
         (*
-                <-lang_en;;
+                <-lang_ru;;
         *);;
-
+pinskiy_college=>nrel_idtf:[Пинский колледж УО "Брестский государственный университет имени А.С.Пушкина"]
+        (*
+                <-lang_ru;;
+        *);;
 
 pinskiy_college=>nrel_region:brest_region;;
 pinskiy_college=>nrel_city:pinsk;;
@@ -95,7 +107,7 @@ pinskiy_college=>nrel_site:[pinskcol.brsu.by];;
 pinskiy_college <- concept_secondary_schools;;
 
 // 5
-baranovichevsky_college=>nrel_main_idtf:[УО "Барановичский государственный колледж легкой промышленности им. В.Е. Чернышева"]
+baranovichevsky_college=>nrel_main_idtf:[Барановичский государственный колледж легкой промышленности имени В.Е. Чернышова]
         (*
                 <-lang_ru;;
         *);
@@ -103,7 +115,10 @@ baranovichevsky_college=>nrel_main_idtf:[УО "Барановичский гос
         (*
                 <-lang_en;;
         *);;
-
+baranovichevsky_college=>nrel_idtf:[УО "Барановичский государственный колледж легкой промышленности им. В.Е. Чернышева"]
+        (*
+                <-lang_ru;;
+        *);;
 
 baranovichevsky_college=>nrel_region:brest_region;;
 baranovichevsky_college=>nrel_city:baranavichy_brest_region;;
@@ -117,7 +132,7 @@ baranovichevsky_college=>nrel_site:[bgklp.by];;
 baranovichevsky_college <- concept_secondary_schools;;
 
 // 6
-baranovichevsky_technological_college=>nrel_main_idtf:[УО "Барановичский технологический колледж" Белкоопсоюза]
+baranovichevsky_technological_college=>nrel_main_idtf:[Барановичский технологический колледж Белкоопсоюза]
         (*
                 <-lang_ru;;
         *);
@@ -125,7 +140,10 @@ baranovichevsky_technological_college=>nrel_main_idtf:[УО "Баранович�
         (*
                 <-lang_en;;
         *);;
-
+baranovichevsky_technological_college=>nrel_idtf:[УО "Барановичский технологический колледж" Белкоопсоюза]
+        (*
+                <-lang_ru;;
+        *);;
 
 baranovichevsky_technological_college=>nrel_region:brest_region;;
 baranovichevsky_technological_college=>nrel_city:baranavichy_brest_region;;
@@ -139,7 +157,7 @@ baranovichevsky_technological_college=>nrel_site:[www.bartc.by];;
 baranovichevsky_technological_college <- concept_secondary_schools;;
 
 // 7 
-baranovichevsky_musical_college=>nrel_main_idtf:[УО "Барановичский государственный музыкальный колледж"]
+baranovichevsky_musical_college=>nrel_main_idtf:[Барановичский государственный музыкальный колледж]
         (*
                 <-lang_ru;;
         *);
@@ -147,7 +165,10 @@ baranovichevsky_musical_college=>nrel_main_idtf:[УО "Барановичски�
         (*
                 <-lang_en;;
         *);;
-
+baranovichevsky_musical_college=>nrel_idtf:[УО "Барановичский государственный музыкальный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 baranovichevsky_musical_college=>nrel_region:brest_region;;
 baranovichevsky_musical_college=>nrel_city:baranavichy_brest_region;;
@@ -161,7 +182,7 @@ baranovichevsky_musical_college=>nrel_site:[bgmuz.by];;
 baranovichevsky_musical_college <- concept_secondary_schools;;
 
 // 8
-brest_communication_college=>nrel_main_idtf:[УО "Брестский государственный колледж связи"]
+brest_communication_college=>nrel_main_idtf:[Брестский государственный колледж связи]
         (*
                 <-lang_ru;;
         *);
@@ -169,7 +190,10 @@ brest_communication_college=>nrel_main_idtf:[УО "Брестский госуд
         (*
                 <-lang_en;;
         *);;
-
+brest_communication_college=>nrel_idtf:[УО "Брестский государственный колледж связи"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brest_communication_college=>nrel_region:brest_region;;
 brest_communication_college=>nrel_city:brest;;
@@ -183,7 +207,7 @@ brest_communication_college=>nrel_site:[bgks.by];;
 brest_communication_college <- concept_secondary_schools;;
 
 // 9
-brestkiy_service_college=>nrel_main_idtf:[УО "Брестский государственный колледж сферы обслуживания"]
+brestkiy_service_college=>nrel_main_idtf:[Брестский ПТК сферы обслуживания]
         (*
                 <-lang_ru;;
         *);
@@ -191,7 +215,10 @@ brestkiy_service_college=>nrel_main_idtf:[УО "Брестский госуда�
         (*
                 <-lang_en;;
         *);;
-
+brestkiy_service_college=>nrel_idtf:[УО "Брестский государственный колледж сферы обслуживания"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brestkiy_service_college=>nrel_region:brest_region;;
 brestkiy_service_college=>nrel_city:brest;;
@@ -205,7 +232,7 @@ brestkiy_service_college=>nrel_site:[bgkso.brest.by];;
 brestkiy_service_college <- concept_secondary_schools;;
 
 // 10
-brestkiy_medician_college=>nrel_main_idtf:[УО "Брестский государственный медицинский колледж"]
+brestkiy_medician_college=>nrel_main_idtf:[Брестский государственный медицинский колледж]
         (*
                 <-lang_ru;;
         *);
@@ -213,7 +240,10 @@ brestkiy_medician_college=>nrel_main_idtf:[УО "Брестский госуда
         (*
                 <-lang_en;;
         *);;
-
+brestkiy_medician_college=>nrel_idtf:[УО "Брестский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brestkiy_medician_college=>nrel_region:brest_region;;
 brestkiy_medician_college=>nrel_city:brest;;
@@ -227,7 +257,7 @@ brestkiy_medician_college=>nrel_site:[medicalbrest.by];;
 brestkiy_medician_college <- concept_secondary_schools;;
 
 // 11
-brest_trade_college=>nrel_main_idtf:[УО "Брестский государственный торгово-технологический колледж"]
+brest_trade_college=>nrel_main_idtf:[Колледж торговли]
         (*
                 <-lang_ru;;
         *);
@@ -235,7 +265,10 @@ brest_trade_college=>nrel_main_idtf:[УО "Брестский государст
         (*
                 <-lang_en;;
         *);;
-
+brest_trade_college=>nrel_idtf:[УО "Брестский государственный торгово-технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brest_trade_college=>nrel_region:brest_region;;
 brest_trade_college=>nrel_city:brest;;
@@ -249,7 +282,7 @@ brest_trade_college=>nrel_site:[ptktorg.brest.by];;
 brest_trade_college <- concept_secondary_schools;;
 
 // 12
-brest_misician_shirma_college=>nrel_main_idtf:[УО "Брестский государственный музыкальный колледж им. Г.Ширмы"]
+brest_misician_shirma_college=>nrel_main_idtf:[Брестский государственный музыкальный колледж имени Григория Ширмы]
         (*
                 <-lang_ru;;
         *);
@@ -257,7 +290,10 @@ brest_misician_shirma_college=>nrel_main_idtf:[УО "Брестский госу
         (*
                 <-lang_en;;
         *);;
-
+brest_misician_shirma_college=>nrel_idtf:[УО "Брестский государственный музыкальный колледж им. Г.Ширмы"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brest_misician_shirma_college=>nrel_region:brest_region;;
 brest_misician_shirma_college=>nrel_city:brest;;
@@ -271,7 +307,7 @@ brest_misician_shirma_college=>nrel_site:[mus.brest.by];;
 brest_misician_shirma_college <- concept_secondary_schools;;
 
 // 13
-brest_olimpic_college=>nrel_main_idtf:[УО "Брестское государственное областное училище олимпийского резерва"]
+brest_olimpic_college=>nrel_main_idtf:[Брестское областное УОР]
         (*
                 <-lang_ru;;
         *);
@@ -279,7 +315,10 @@ brest_olimpic_college=>nrel_main_idtf:[УО "Брестское государс
         (*
                 <-lang_en;;
         *);;
-
+brest_olimpic_college=>nrel_idtf:[УО "Брестское государственное областное училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);;
 
 brest_olimpic_college=>nrel_region:brest_region;;
 brest_olimpic_college=>nrel_city:brest;;
@@ -293,7 +332,7 @@ brest_olimpic_college=>nrel_site:[bruor.by];;
 brest_olimpic_college <- concept_secondary_schools;;
 
 // 14
-kobrinskiy_politec_college=>nrel_main_idtf:[УО "Кобринский государственный политехнический колледж"]
+kobrinskiy_politec_college=>nrel_main_idtf:[Кобринский государственный политехнический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -301,7 +340,10 @@ kobrinskiy_politec_college=>nrel_main_idtf:[УО "Кобринский госу�
         (*
                 <-lang_en;;
         *);;
-
+kobrinskiy_politec_college=>nrel_idtf:[УО "Кобринский государственный политехнический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 kobrinskiy_politec_college=>nrel_region:brest_region;;
 kobrinskiy_politec_college=>nrel_city:kobryn;;
@@ -314,8 +356,8 @@ kobrinskiy_politec_college=>nrel_site:[kgptks.brest.by];;
 
 kobrinskiy_politec_college <- concept_secondary_schools;;
 
-// 15
-pinskiy_art_college=>nrel_main_idtf:[УО "Пинский государственный колледж искусств"]
+// 15 - названия нет поэтому оставил так
+pinskiy_art_college=>nrel_main_idtf:[Пинский государственный колледж искусств]
         (*
                 <-lang_ru;;
         *);
@@ -323,7 +365,10 @@ pinskiy_art_college=>nrel_main_idtf:[УО "Пинский государстве
         (*
                 <-lang_en;;
         *);;
-
+pinskiy_art_college=>nrel_idtf:[УО "Пинский государственный колледж искусств"]
+        (*
+                <-lang_ru;;
+        *);;
 
 pinskiy_art_college=>nrel_region:brest_region;;
 pinskiy_art_college=>nrel_city:pinsk;;
@@ -337,7 +382,7 @@ pinskiy_art_college=>nrel_site:[artpinsk.by];;
 pinskiy_art_college <- concept_secondary_schools;;
 
 // 16
-pinskiy_medician_college=>nrel_main_idtf:[УО "Пинский государственный медицинский колледж"]
+pinskiy_medician_college=>nrel_main_idtf:[Медыцынскі каледж]
         (*
                 <-lang_ru;;
         *);
@@ -345,7 +390,10 @@ pinskiy_medician_college=>nrel_main_idtf:[УО "Пинский государс�
         (*
                 <-lang_en;;
         *);;
-
+pinskiy_medician_college=>nrel_idtf:[УО "Пинский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 pinskiy_medician_college=>nrel_region:brest_region;;
 pinskiy_medician_college=>nrel_city:pinsk;;
@@ -359,7 +407,7 @@ pinskiy_medician_college=>nrel_site:[pinskmed.by];;
 pinskiy_medician_college <- concept_secondary_schools;;
 
 // 17
-pryzanskiy_agarian_college=>nrel_main_idtf:[УО "Пружанский государственный аграрно-технический колледж"]
+pryzanskiy_agarian_college=>nrel_main_idtf:[Пружанский государственный аграрно-технический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -367,7 +415,10 @@ pryzanskiy_agarian_college=>nrel_main_idtf:[УО "Пружанский госу�
         (*
                 <-lang_en;;
         *);;
-
+pryzanskiy_agarian_college=>nrel_idtf:[УО "Пружанский государственный аграрно-технический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 pryzanskiy_agarian_college=>nrel_region:brest_region;;
 pryzanskiy_agarian_college=>nrel_city:pruzhany;;
@@ -381,7 +432,7 @@ pryzanskiy_agarian_college=>nrel_site:[www.college.brest.by];;
 pryzanskiy_agarian_college <- concept_secondary_schools;;
 
 // 18
-stolinskiy_agarniy_econ_college=>nrel_main_idtf:[УО "Столинский государственный аграрно-экономический колледж"]
+stolinskiy_agarniy_econ_college=>nrel_main_idtf:[Столінскі дзяржаўны аграрна-эканамічны каледж]
         (*
                 <-lang_ru;;
         *);
@@ -389,7 +440,10 @@ stolinskiy_agarniy_econ_college=>nrel_main_idtf:[УО "Столинский го
         (*
                 <-lang_en;;
         *);;
-
+stolinskiy_agarniy_econ_college=>nrel_idtf:[УО "Столинский государственный аграрно-экономический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 stolinskiy_agarniy_econ_college=>nrel_region:brest_region;;
 stolinskiy_agarniy_econ_college=>nrel_city:stolin;;
@@ -403,7 +457,7 @@ stolinskiy_agarniy_econ_college=>nrel_site:[saec.by];;
 stolinskiy_agarniy_econ_college <- concept_secondary_schools;;
 
 // 19
-pinskiy_ind_ped_college=>nrel_main_idtf:[Филиал УО "Брестский государственный технический университет" Пинский индустриально-педагогический колледж]
+pinskiy_ind_ped_college=>nrel_main_idtf:[Пинский государственный индустриально-педагогический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -411,7 +465,10 @@ pinskiy_ind_ped_college=>nrel_main_idtf:[Филиал УО "Брестский �
         (*
                 <-lang_en;;
         *);;
-
+pinskiy_ind_ped_college=>nrel_idtf:[Филиал УО "Брестский государственный технический университет" Пинский индустриально-педагогический колледж]
+        (*
+                <-lang_ru;;
+        *);;
 
 pinskiy_ind_ped_college=>nrel_region:brest_region;;
 pinskiy_ind_ped_college=>nrel_city:pinsk;;
@@ -425,7 +482,7 @@ pinskiy_ind_ped_college=>nrel_site:[uo-pgipk.bstu.by];;
 pinskiy_ind_ped_college <- concept_secondary_schools;;
 
 // 20
-brest_politecnic_college=>nrel_main_idtf:[Филиал УО "Брестский государственный технический университет" Политехнический колледж]
+brest_politecnic_college=>nrel_main_idtf:[УО "Брестский государственный политехнический колледж"]
         (*
                 <-lang_ru;;
         *);
@@ -433,7 +490,10 @@ brest_politecnic_college=>nrel_main_idtf:[Филиал УО "Брестский 
         (*
                 <-lang_en;;
         *);;
-
+brest_politecnic_college=>nrel_idtf:[Филиал УО "Брестский государственный технический университет" Политехнический колледж]
+        (*
+                <-lang_ru;;
+        *);;
 
 brest_politecnic_college=>nrel_region:brest_region;;
 brest_politecnic_college=>nrel_city:brest;;
@@ -447,7 +507,7 @@ brest_politecnic_college=>nrel_site:[bspc.bstu.by/ru/home];;
 brest_politecnic_college <- concept_secondary_schools;;
 
 // 21
-baranovichskiy_econimical_college=>nrel_main_idtf:[ЧУО "Барановичский экономико-юридический колледж"]
+baranovichskiy_econimical_college=>nrel_main_idtf:[Экономико-юридический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -455,7 +515,10 @@ baranovichskiy_econimical_college=>nrel_main_idtf:[ЧУО "Барановичс�
         (*
                 <-lang_en;;
         *);;
-
+baranovichskiy_econimical_college=>nrel_idtf:[ЧУО "Барановичский экономико-юридический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 baranovichskiy_econimical_college=>nrel_region:brest_region;;
 baranovichskiy_econimical_college=>nrel_city:baranavichy_brest_region;;
@@ -471,7 +534,7 @@ baranovichskiy_econimical_college <- concept_secondary_schools;;
 // 22
 brest_transport_college=>nrel_search_area:brest;;
 
-pisnskiy_agarno_tecn_college=>nrel_main_idtf:[УО "Пинский государственный аграрно-технический колледж им. А.Е. Клещева"]
+pisnskiy_agarno_tecn_college=>nrel_main_idtf:[Пинский государственный аграрно-технический колледж им. А. Е. Клещёва]
         (*
                 <-lang_ru;;
         *);
@@ -479,7 +542,10 @@ pisnskiy_agarno_tecn_college=>nrel_main_idtf:[УО "Пинский госуда�
         (*
                 <-lang_en;;
         *);;
-
+pisnskiy_agarno_tecn_college=>nrel_idtf:[УО "Пинский государственный аграрно-технический колледж им. А.Е. Клещева"]
+        (*
+                <-lang_ru;;
+        *);;
 
 pisnskiy_agarno_tecn_college=>nrel_region:brest_region;;
 pisnskiy_agarno_tecn_college=>nrel_city:pinsk;;

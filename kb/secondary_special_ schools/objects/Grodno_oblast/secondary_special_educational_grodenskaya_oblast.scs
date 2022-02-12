@@ -4,7 +4,7 @@ SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/grod
 
 
 // 1
-volkovysk_kupala_college=>nrel_main_idtf:[Волковысский колледж УО "Гродненский государственный университет им. Я. Купалы"]
+volkovysk_kupala_college=>nrel_main_idtf:[Волковысский колледж ГрГУ]
         (*
                 <-lang_ru;;
         *);
@@ -12,7 +12,10 @@ volkovysk_kupala_college=>nrel_main_idtf:[Волковысский коллед�
         (*
                 <-lang_en;;
         *);;
-
+volkovysk_kupala_college=>nrel_idtf:[Волковысский колледж УО "Гродненский государственный университет им. Я. Купалы"]
+        (*
+                <-lang_ru;;
+        *);;
 
 volkovysk_kupala_college=>nrel_region:grodno_region;;
 volkovysk_kupala_college=>nrel_city:vawkavysk_vawkavysk_district;;
@@ -28,7 +31,7 @@ volkovysk_kupala_college <- concept_secondary_schools;;
 
 
 // 2
-grodno_kupala_college=>nrel_main_idtf:[Гуманитарный колледж УО "Гродненский государственный университет имени Янки Купалы"]
+grodno_kupala_college=>nrel_main_idtf:[Гродненский гуманитарный колледж]
         (*
                 <-lang_ru;;
         *);
@@ -36,7 +39,10 @@ grodno_kupala_college=>nrel_main_idtf:[Гуманитарный колледж �
         (*
                 <-lang_en;;
         *);;
-
+vitebsk_vegetarian_college=>nrel_idtf:[Гуманитарный колледж УО "Гродненский государственный университет имени Янки Купалы"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_kupala_college=>nrel_region:grodno_region;;
 grodno_kupala_college=>nrel_city:hrodna;;
@@ -52,7 +58,7 @@ grodno_kupala_college <- concept_secondary_schools;;
 
 
 // 3
-lida_kupala_college=>nrel_main_idtf:[Лидский колледж УО "Гродненский государственный университет им. Я. Купалы"]
+lida_kupala_college=>nrel_main_idtf:[Лидский колледж]
         (*
                 <-lang_ru;;
         *);
@@ -60,7 +66,10 @@ lida_kupala_college=>nrel_main_idtf:[Лидский колледж УО "Гро�
         (*
                 <-lang_en;;
         *);;
-
+lida_kupala_college=>nrel_idtf:[Лидский колледж УО "Гродненский государственный университет им. Я. Купалы"]
+        (*
+                <-lang_ru;;
+        *);;
 
 lida_kupala_college=>nrel_region:grodno_region;;
 lida_kupala_college=>nrel_city:lida;;
@@ -75,7 +84,7 @@ lida_kupala_college=>nrel_site:[WWW.ltk.grsu.by];;
 lida_kupala_college <- concept_secondary_schools;;
 
 // 4
-grodno_technological_kupala_college=>nrel_main_idtf:[Технологический колледж УО "Гродненский государственный университет им. Я. Купалы"]
+grodno_technological_kupala_college=>nrel_main_idtf:[Технологический колледж ГрГУ]
         (*
                 <-lang_ru;;
         *);
@@ -83,7 +92,10 @@ grodno_technological_kupala_college=>nrel_main_idtf:[Технологическ�
         (*
                 <-lang_en;;
         *);;
-
+grodno_technological_kupala_college=>nrel_idtf:[Технологический колледж УО "Гродненский государственный университет им. Я. Купалы"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_technological_kupala_college=>nrel_region:grodno_region;;
 grodno_technological_kupala_college=>nrel_city:vawkavysk_vawkavysk_district;;
@@ -99,7 +111,7 @@ grodno_technological_kupala_college <- concept_secondary_schools;;
 
 
 // 5
-volkovysk_agarian_college=>nrel_main_idtf:[УО "Волковысский государственный аграрный колледж"]
+volkovysk_agarian_college=>nrel_main_idtf:[Волковысский государственный аграрный колледж]
         (*
                 <-lang_ru;;
         *);
@@ -107,7 +119,10 @@ volkovysk_agarian_college=>nrel_main_idtf:[УО "Волковысский гос
         (*
                 <-lang_en;;
         *);;
-
+volkovysk_agarian_college=>nrel_idtf:[УО "Волковысский государственный аграрный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 volkovysk_agarian_college=>nrel_region:grodno_region;;
 volkovysk_agarian_college=>nrel_city:vawkavysk_vawkavysk_district;;
@@ -122,7 +137,7 @@ volkovysk_agarian_college=>nrel_site:[vgak.by];;
 volkovysk_agarian_college <- concept_secondary_schools;;
 
 // 6
-grodno_state_art_college=>nrel_main_idtf:[УО "Гродненский государственный колледж искусств"]
+grodno_state_art_college=>nrel_main_idtf:[Гродненский государственный колледж искусств]
         (*
                 <-lang_ru;;
         *);
@@ -130,7 +145,10 @@ grodno_state_art_college=>nrel_main_idtf:[УО "Гродненский госу�
         (*
                 <-lang_en;;
         *);;
-
+grodno_state_art_college=>nrel_idtf:[УО "Гродненский государственный колледж искусств"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_state_art_college=>nrel_region:grodno_region;;
 grodno_state_art_college=>nrel_city:hrodna;;
@@ -146,7 +164,7 @@ grodno_state_art_college <- concept_secondary_schools;;
 
 
 // 7
-grodno_economics_control_college=>nrel_main_idtf:[УО "Гродненский колледж экономики и управления" Белкоопсоюза]
+grodno_economics_control_college=>nrel_main_idtf:[Гродненский колледж экономики и управления Белкоопсоюза]
         (*
                 <-lang_ru;;
         *);
@@ -154,7 +172,10 @@ grodno_economics_control_college=>nrel_main_idtf:[УО "Гродненский �
         (*
                 <-lang_en;;
         *);;
-
+grodno_economics_control_college=>nrel_idtf:[УО "Гродненский колледж экономики и управления" Белкоопсоюза]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_economics_control_college=>nrel_region:grodno_region;;
 grodno_economics_control_college=>nrel_city:hrodna;;
@@ -170,15 +191,18 @@ grodno_economics_control_college <- concept_secondary_schools;;
 
 
 // 8
-grodno_engineering_technology_college=>nrel_main_idtf:[УО "Гродненский государственный колледж техники, технологий и дизайна"]
+grodno_engineering_technology_college=>nrel_main_idtf:[Гродненский государственный колледж техники, технологий и дизайна]
         (*
                 <-lang_ru;;
         *);
-        [УО "Гродненский государственный колледж техники, технологий и дизайна"]
+        [Educational Establishment "Grodno State College of Engineering, Technology and Design"]
         (*
                 <-lang_en;;
         *);;
-
+grodno_engineering_technology_college=>nrel_idtf:[УО "Гродненский государственный колледж техники, технологий и дизайна"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_engineering_technology_college=>nrel_region:grodno_region;;
 grodno_engineering_technology_college=>nrel_city:hrodna;;
@@ -194,7 +218,7 @@ grodno_engineering_technology_college <- concept_secondary_schools;;
 
 
 // 9
-grodno_medical_college=>nrel_main_idtf:[УО "Гродненский государственный медицинский колледж"]
+grodno_medical_college=>nrel_main_idtf:[Гродненский государственный медицинский колледж]
         (*
                 <-lang_ru;;
         *);
@@ -202,7 +226,10 @@ grodno_medical_college=>nrel_main_idtf:[УО "Гродненский госуд�
         (*
                 <-lang_en;;
         *);;
-
+grodno_medical_college=>nrel_idtf:[УО "Гродненский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_medical_college=>nrel_region:grodno_region;;
 grodno_medical_college=>nrel_city:hrodna;;
@@ -218,7 +245,7 @@ grodno_medical_college <- concept_secondary_schools;;
 
 
 // 10
-grodno_politechnic_college=>nrel_main_idtf:[УО "Гродненский государственный политехнический колледж"]
+grodno_politechnic_college=>nrel_main_idtf:[Гродненский государственный политехнический колледж]
         (*
                 <-lang_ru;;
         *);
@@ -226,7 +253,10 @@ grodno_politechnic_college=>nrel_main_idtf:[УО "Гродненский гос�
         (*
                 <-lang_en;;
         *);;
-
+grodno_politechnic_college=>nrel_idtf:[УО "Гродненский государственный политехнический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_politechnic_college=>nrel_region:grodno_region;;
 grodno_politechnic_college=>nrel_city:hrodna;;
@@ -242,7 +272,7 @@ grodno_politechnic_college <- concept_secondary_schools;;
 
 
 // 11
-grodno_olimpic_college=>nrel_main_idtf:[УО "Гродненское государственное училище олимпийского резерва"]
+grodno_olimpic_college=>nrel_main_idtf:[Училище олимпийского резерва]
         (*
                 <-lang_ru;;
         *);
@@ -250,7 +280,10 @@ grodno_olimpic_college=>nrel_main_idtf:[УО "Гродненское госуд�
         (*
                 <-lang_en;;
         *);;
-
+grodno_olimpic_college=>nrel_idtf:[УО "Гродненское государственное училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_olimpic_college=>nrel_region:grodno_region;;
 grodno_olimpic_college=>nrel_city:hrodna;;
@@ -265,7 +298,7 @@ grodno_olimpic_college=>nrel_site:[uor-grodno.schools.by];;
 grodno_olimpic_college <- concept_secondary_schools;;
 
 // 12
-grodno_peu_law_college=>nrel_main_idtf:[Частное учреждение образования "Гродненский колледж бизнеса и права"]
+grodno_peu_law_college=>nrel_main_idtf:[Гродненский колледж бизнеса и права]
         (*
                 <-lang_ru;;
         *);
@@ -273,7 +306,10 @@ grodno_peu_law_college=>nrel_main_idtf:[Частное учреждение об
         (*
                 <-lang_en;;
         *);;
-
+grodno_peu_law_college=>nrel_idtf:[Частное учреждение образования "Гродненский колледж бизнеса и права"]
+        (*
+                <-lang_ru;;
+        *);;
 
 grodno_peu_law_college=>nrel_region:grodno_region;;
 grodno_peu_law_college=>nrel_city:hrodna;;
@@ -288,7 +324,7 @@ grodno_peu_law_college=>nrel_site:[www.gcbip.by];;
 grodno_peu_law_college <- concept_secondary_schools;;
 
 // 13
-slonim_medical_college=>nrel_main_idtf:[УО "Слонимский государственный медицинский колледж"]
+slonim_medical_college=>nrel_main_idtf:[Слонимский медицинский колледж]
         (*
                 <-lang_ru;;
         *);
@@ -296,7 +332,10 @@ slonim_medical_college=>nrel_main_idtf:[УО "Слонимский госуда�
         (*
                 <-lang_en;;
         *);;
-
+slonim_medical_college=>nrel_idtf:[УО "Слонимский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
 
 slonim_medical_college=>nrel_region:grodno_region;;
 slonim_medical_college=>nrel_city:slonim;;
@@ -311,7 +350,7 @@ slonim_medical_college=>nrel_site:[www.slonimsmc.grodno.by];;
 slonim_medical_college <- concept_secondary_schools;;
 
 // 14
-slonim_agricaltuar_college=>nrel_main_idtf:[УО "Слонимский государственный профессионально-технический колледж сельскохозяйственного производства" (ССО)]
+slonim_agricaltuar_college=>nrel_main_idtf:[Слонимский государственный профессионально-технический колледж сельскохозяйственного производства]
         (*
                 <-lang_ru;;
         *);
@@ -319,7 +358,10 @@ slonim_agricaltuar_college=>nrel_main_idtf:[УО "Слонимский госу�
         (*
                 <-lang_en;;
         *);;
-
+slonim_agricaltuar_college=>nrel_idtf:[УО "Слонимский государственный профессионально-технический колледж сельскохозяйственного производства" (ССО)]
+        (*
+                <-lang_ru;;
+        *);;
 
 slonim_agricaltuar_college=>nrel_region:grodno_region;;
 slonim_agricaltuar_college=>nrel_city:vawkavysk_vawkavysk_district;;
