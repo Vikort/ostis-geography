@@ -1,0 +1,18 @@
+Kofe LuNa <- concept_coffee_house;
+=>nrel_main_idtf:
+       [Kofe LuNa]
+       (* <- lang_en;; <- name_en;;*);
+       [Кофе ЛуНа]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2016]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+=>nrel_rating:
+       4.7;
+=>nrel_price:
+       $$;;
+                
