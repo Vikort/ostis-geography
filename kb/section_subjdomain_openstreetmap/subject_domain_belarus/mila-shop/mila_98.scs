@@ -1,0 +1,11 @@
+
+mila_98 <- concept_shop;
+=> nrel_main_idtf:
+[Мила]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[53.855500]
+(* <- lang_ru;; <- latitude;;*);
+[27.520003]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_search_area: 
+minsk;; 
