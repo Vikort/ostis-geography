@@ -34,6 +34,7 @@ def filter_elements_by_requires(
         filter(
             lambda element:
                 element.get("tags").get("name") != None
+		and element.get("tags").get("addr:city") != None
                 and element.get('tags').get("amenity") in requires,
             elements
         )
@@ -54,7 +55,32 @@ def add_kb_data(elements: List[Dict]) -> List[Dict]:
                 "ru",
                 reversed=True
             ).lower().replace(" ", "_")
-        ))) for element in elements
+	    )),
+	kb_addr_city=re.sub("[\([{})\]'/\.,`\"#№-]",
+            "",
+            (u"{}".format(
+                    element.get(
+                    "tags").get("addr:city")
+            )
+            .lower().replace(" ", "_")
+        )),
+	kb_addr_country=re.sub("[\([{})\]'/\.,`\"#№-]",
+            "",
+            (u"{}".format(
+                    element.get(
+                    "tags").get("addr:country")
+            )
+            .lower().replace(" ", "_")
+        )),
+	kb_addr_street=re.sub("[\([{})\]'/\.,`\"#№-]",
+	    "",
+	    (u"{}".format(
+	            element.get(
+            "tags").get("addr:street")
+	    )
+	    .lower().replace(" ", "_")
+	))
+	) for element in elements
     ]
     return elements
 
@@ -66,7 +92,10 @@ def create_kb_fragments(
     return [
         {
             "name": element.get("tags").get("kb_name"), 
-            "body": template.format(**element.get("tags"))
+	    "addr_city": element.get("tags").get("kb_addr_city"),
+	    "addr_country": element.get("tags").get("kb_addr_country"),
+	    "addr_street": element.get("tags").get("kb_addr_street"),	
+            "body": template.format(**element.get("tags")),
         }
         for element in elements
     ]
@@ -85,7 +114,6 @@ def format_language_info(tags: Dict) -> str:
         for lang_tag, lang_values in lang_tags_mapper.items()
         if tags.get(lang_tag) != None
     ])
-
 
 def save_fragments(
     fragments: List[str], path: str
@@ -130,9 +158,15 @@ if __name__ == "__main__":
     template =\
 """{kb_name} <- concept_sport_construction;
 => nrel_main_idtf:
-{language_info};;
+{language_info};
+=>nrel_city:
+{kb_addr_city};
+=>nrel_country:
+{kb_addr_country};
+=>nrel_street:
+{kb_addr_street};;
 """
-    amenities = ['public_bath','sports','sport_school','sports_centre']
+    amenities = ['public_bath','sports','sport_school','sports_centre','community_centre']
     query_part = "area[name='Беларусь'];node(area)[amenity={}];"
     source = "http://overpass-api.de/api/interpreter?data=[out:json];({});out;"
     save_path = "../from_translator/"
