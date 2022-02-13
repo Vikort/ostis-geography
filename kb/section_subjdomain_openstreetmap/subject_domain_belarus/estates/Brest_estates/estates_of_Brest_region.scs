@@ -603,7 +603,7 @@ estates_zamkovayagora
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Old mouse;
+    Old_mouse;
 =>nrel_search_area:
     Brest_region;;
         
@@ -660,7 +660,7 @@ estates_usadbanazarechnoy
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Large Purnevichi;
+    Large_Purnevichi;
 =>nrel_search_area:
     Brest_region;;
         
