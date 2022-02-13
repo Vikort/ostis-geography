@@ -14,7 +14,7 @@ estates_usadbaskazka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Cyochinovka
+    Cyochinovka;
 =>nrel_search_area:
     Brest_region;;
         
@@ -33,7 +33,7 @@ estates_ozernayazhemchuzhina
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Zaozerier
+    Zaozerier;
 =>nrel_search_area:
     Brest_region;;
         
@@ -52,7 +52,7 @@ estates_pomeshichya
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Dubrava
+    Dubrava;
 =>nrel_search_area:
     Brest_region;;
         
@@ -71,7 +71,7 @@ estates_tomai
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Berezovka
+    Berezovka;
 =>nrel_search_area:
     Brest_region;;
         
@@ -90,7 +90,7 @@ estates_duboe
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Dube
+    Dube;
 =>nrel_search_area:
     Brest_region;;
         
@@ -109,7 +109,7 @@ estates_gortol
 =>nrel_district:
     Ivatsevichsky_district;
 =>nrel_city:
-    Gorostol
+    Gorostol;
 =>nrel_search_area:
     Brest_region;;
         
@@ -128,7 +128,7 @@ estates_ezera
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Elm
+    Elm;
 =>nrel_search_area:
     Brest_region;;
         
@@ -147,7 +147,7 @@ estates_dom3ezera
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Elm
+    Elm;
 =>nrel_search_area:
     Brest_region;;
         
@@ -166,7 +166,7 @@ estates_dom1ezera
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Elm
+    Elm;
 =>nrel_search_area:
     Brest_region;;
         
@@ -185,7 +185,7 @@ estates_hutorstolinskiy
 =>nrel_district:
     Stolinsky_district;
 =>nrel_city:
-    Stolin
+    Stolin;
 =>nrel_search_area:
     Brest_region;;
         
@@ -204,7 +204,7 @@ estates_polesskie
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Andronovo.
+    Andronovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -223,7 +223,7 @@ estates_tihiykray
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Lipovo.
+    Lipovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -242,7 +242,7 @@ estates_shalebelovezskoe
 =>nrel_district:
     Pruzhansky_district;
 =>nrel_city:
-    Chabahi
+    Chabahi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -261,7 +261,7 @@ estates_rada
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Kuldjaki.
+    Kuldjaki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -280,7 +280,7 @@ estates_grechihi
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Buckwheat
+    Buckwheat;
 =>nrel_search_area:
     Brest_region;;
         
@@ -299,7 +299,7 @@ estates_pchelka
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Cherni.
+    Cherni;
 =>nrel_search_area:
     Brest_region;;
         
@@ -318,7 +318,7 @@ estates_maz
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Mazi
+    Mazi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -337,7 +337,7 @@ estates_shadrinyh
 =>nrel_district:
     Zhabinkovsky_district;
 =>nrel_city:
-    Lady
+    Lady;
 =>nrel_search_area:
     Brest_region;;
         
@@ -356,7 +356,7 @@ estates_bobrovichi
 =>nrel_district:
     Ivatsevichsky_district;
 =>nrel_city:
-    Bobrovichi
+    Bobrovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -375,7 +375,7 @@ estates_loft
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Brest
+    Brest;
 =>nrel_search_area:
     Brest_region;;
         
@@ -394,7 +394,7 @@ estates_prigranichnoe
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Domachevo
+    Domachevo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -413,7 +413,7 @@ estates_sadyradosti
 =>nrel_district:
     Zhabinkovsky_district;
 =>nrel_city:
-    Zhitkovichi
+    Zhitkovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -432,7 +432,7 @@ estates_naturlich
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Decals
+    Decals;
 =>nrel_search_area:
     Brest_region;;
         
@@ -451,7 +451,7 @@ estates_verasbrest
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Brest
+    Brest;
 =>nrel_search_area:
     Brest_region;;
         
@@ -470,7 +470,7 @@ estates_pozitiv
 =>nrel_district:
     Zhabinkovsky_district;
 =>nrel_city:
-    Petrovichi
+    Petrovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -489,7 +489,7 @@ estates_bb
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Kamenyuki.
+    Kamenyuki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -508,7 +508,7 @@ estates_nadubrovkebrest
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Brest
+    Brest;
 =>nrel_search_area:
     Brest_region;;
         
@@ -527,7 +527,7 @@ estates_monomah
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Dmitrovichi
+    Dmitrovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -546,7 +546,7 @@ estates_yasnayapolyana
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Priluki
+    Priluki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -565,7 +565,7 @@ estates_prostosashino
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Forks
+    Forks;
 =>nrel_search_area:
     Brest_region;;
         
@@ -584,7 +584,7 @@ estates_medovajapoljana
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Zubunin
+    Zubunin;
 =>nrel_search_area:
     Brest_region;;
         
@@ -603,7 +603,7 @@ estates_zamkovayagora
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Old mouse
+    Old mouse;
 =>nrel_search_area:
     Brest_region;;
         
@@ -622,7 +622,7 @@ estates_katashi
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Kabashi
+    Kabashi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -641,7 +641,7 @@ estates_naprostor
 =>nrel_district:
     Luninetsky_district;
 =>nrel_city:
-    Lakhovka
+    Lakhovka;
 =>nrel_search_area:
     Brest_region;;
         
@@ -660,7 +660,7 @@ estates_usadbanazarechnoy
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Large Purnevichi
+    Large Purnevichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -679,7 +679,7 @@ estates_volosyukovhutor
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Bachi.
+    Bachi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -698,7 +698,7 @@ estates_stolinzrzby
 =>nrel_district:
     Stolinsky_district;
 =>nrel_city:
-    Kristen
+    Kristen;
 =>nrel_search_area:
     Brest_region;;
         
@@ -717,7 +717,7 @@ estates_lesnayapaulinka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Mlyna
+    Mlyna;
 =>nrel_search_area:
     Brest_region;;
         
@@ -736,7 +736,7 @@ estates_tihievody
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Botovo
+    Botovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -755,7 +755,7 @@ estates_brestusadba
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Brest
+    Brest;
 =>nrel_search_area:
     Brest_region;;
         
@@ -774,7 +774,7 @@ estates_agrobrest
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Claycini
+    Claycini;
 =>nrel_search_area:
     Brest_region;;
         
@@ -793,7 +793,7 @@ estates_provansbrest
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Bannoman
+    Bannoman;
 =>nrel_search_area:
     Brest_region;;
         
@@ -812,7 +812,7 @@ estates_sosnovyyrai
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Peace
+    Peace;
 =>nrel_search_area:
     Brest_region;;
         
@@ -831,7 +831,7 @@ estates_domikvsadu
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Tuhinichi
+    Tuhinichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -850,7 +850,7 @@ estates_yablonevysad
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Dogs
+    Dogs;
 =>nrel_search_area:
     Brest_region;;
         
@@ -869,7 +869,7 @@ estates_podsolnux
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Gornovo
+    Gornovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -888,7 +888,7 @@ estates_usadbakalinka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Naked bare
+    Naked bare;
 =>nrel_search_area:
     Brest_region;;
         
@@ -907,7 +907,7 @@ estates_pushchanskaya
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Kamenyuki.
+    Kamenyuki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -926,7 +926,7 @@ estates_naslagdenie
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Babiches
+    Babiches;
 =>nrel_search_area:
     Brest_region;;
         
@@ -945,7 +945,7 @@ estates_bulbyanka
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Vistuchi.
+    Vistuchi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -964,7 +964,7 @@ estates_zubachi
 =>nrel_district:
     Berezovsky_district;
 =>nrel_city:
-    Zubachi
+    Zubachi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -983,7 +983,7 @@ estates_pruska
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Priska-Volgin
+    Priska-Volgin;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1002,7 +1002,7 @@ estates_aronovka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Stakes
+    Stakes;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1021,7 +1021,7 @@ estates_teremokpuscha
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Kamenyuki.
+    Kamenyuki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1040,7 +1040,7 @@ estates_nikanora
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Boruna
+    Boruna;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1059,7 +1059,7 @@ estates_derevenskiyray
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Makovische
+    Makovische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1078,7 +1078,7 @@ estates_berezovayarosha
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Cherki.
+    Cherki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1097,7 +1097,7 @@ estates_veluta
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Veluta
+    Veluta;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1116,7 +1116,7 @@ estates_pushchanskiyhutorok
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Kamenyuki.
+    Kamenyuki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1135,7 +1135,7 @@ estates_folkhouse
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Selische
+    Selische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1154,7 +1154,7 @@ estates_polskimaentak
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    White
+    White;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1173,7 +1173,7 @@ estates_urekilva
 =>nrel_district:
     Stolinsky_district;
 =>nrel_city:
-    Sokara
+    Sokara;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1192,7 +1192,7 @@ estates_krivol
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Priluki
+    Priluki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1211,7 +1211,7 @@ estates_dubravskiirai
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Dubrava
+    Dubrava;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1230,7 +1230,7 @@ estates_yalinka
 =>nrel_district:
     Drogichinsky_district;
 =>nrel_city:
-    Selische
+    Selische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1249,7 +1249,7 @@ estates_gfamilyhome
 =>nrel_district:
     Ivatsevichsky_district;
 =>nrel_city:
-    Ivatsevichi
+    Ivatsevichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1268,7 +1268,7 @@ estates_sosnoviybereg
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Gorodishche
+    Gorodishche;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1287,7 +1287,7 @@ estates_mechtakleiniki
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Claycini
+    Claycini;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1306,7 +1306,7 @@ estates_vyaz
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Elm
+    Elm;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1325,7 +1325,7 @@ estates_kataleya
 =>nrel_district:
     Zhabinkovsky_district;
 =>nrel_city:
-    Digeted
+    Digeted;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1344,7 +1344,7 @@ estates_domachevo
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Domachevo
+    Domachevo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1363,7 +1363,7 @@ estates_domoxotnika
 =>nrel_district:
     Ivanovsky_district;
 =>nrel_city:
-    Ivanovo.
+    Ivanovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1382,7 +1382,7 @@ estates_dvorik
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Peaceful
+    Peaceful;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1401,7 +1401,7 @@ estates_uzaliva
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Sipband
+    Sipband;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1420,7 +1420,7 @@ estates_niva
 =>nrel_district:
     Berezovsky_district;
 =>nrel_city:
-    Nivy
+    Nivy;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1439,7 +1439,7 @@ estates_belylesok
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Telma
+    Telma;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1458,7 +1458,7 @@ estates_belovezhgost
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Novitkovichi
+    Novitkovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1477,7 +1477,7 @@ estates_galas
 =>nrel_district:
     Drogichinsky_district;
 =>nrel_city:
-    Selische
+    Selische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1496,7 +1496,7 @@ estates_bogach
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Kobrin
+    Kobrin;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1515,7 +1515,7 @@ estates_napoleseuvasilya
 =>nrel_district:
     Luninetsky_district;
 =>nrel_city:
-    Mikashevichi
+    Mikashevichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1534,7 +1534,7 @@ estates_usadbarusalochka
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Zaozerier
+    Zaozerier;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1553,7 +1553,7 @@ estates_trikolodca
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Baranci
+    Baranci;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1572,7 +1572,7 @@ estates_medzavala
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    ENOUND
+    ENOUND;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1591,7 +1591,7 @@ estates_foresthousepusha
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Lyatsky
+    Lyatsky;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1610,7 +1610,7 @@ estates_berezhnoe
 =>nrel_district:
     Stolinsky_district;
 =>nrel_city:
-    Berezhnoye
+    Berezhnoye;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1629,7 +1629,7 @@ estates_veronabrest
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Brest
+    Brest;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1648,7 +1648,7 @@ estates_vishnya
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    France
+    France;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1667,7 +1667,7 @@ estates_domikueli
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Chvirki.
+    Chvirki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1686,7 +1686,7 @@ estates_svidanochka
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Divine
+    Divine;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1705,7 +1705,7 @@ estates_ualesja
 =>nrel_district:
     Pruzhansky_district;
 =>nrel_city:
-    Seremier
+    Seremier;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1724,7 +1724,7 @@ estates_neplyanka
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Nepoublee
+    Nepoublee;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1743,7 +1743,7 @@ estates_belovezhskiykut
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Small Murines
+    Small Murines;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1762,7 +1762,7 @@ estates_zhemchuzhinabrest
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Brest
+    Brest;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1781,7 +1781,7 @@ estates_auvaleria
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Blasting
+    Blasting;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1800,7 +1800,7 @@ estates_oblaka
 =>nrel_district:
     Ivanovsky_district;
 =>nrel_city:
-    Ivanovo.
+    Ivanovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1819,7 +1819,7 @@ estates_vetvitsa
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Mazi
+    Mazi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1838,7 +1838,7 @@ estates_panskiyalazni
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Bobrovtsy
+    Bobrovtsy;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1857,7 +1857,7 @@ estates_dachavprilukax
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Priluki
+    Priluki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1876,7 +1876,7 @@ estates_ustepanychanapaseke
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Melnok.
+    Melnok;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1895,7 +1895,7 @@ estates_babulinahatka
 =>nrel_district:
     Luninetsky_district;
 =>nrel_city:
-    Leather town
+    Leather town;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1914,7 +1914,7 @@ estates_nazabrode
 =>nrel_district:
     Ivatsevichsky_district;
 =>nrel_city:
-    Somino
+    Somino;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1933,7 +1933,7 @@ estates_dachavlesu
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Priluki
+    Priluki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1952,7 +1952,7 @@ estates_zvanca
 =>nrel_district:
     Drogichinsky_district;
 =>nrel_city:
-    Selische
+    Selische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1971,7 +1971,7 @@ estates_mlinok
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Mlyna
+    Mlyna;
 =>nrel_search_area:
     Brest_region;;
         
@@ -1990,7 +1990,7 @@ estates_panskieprudy
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Kuzevichi
+    Kuzevichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2009,7 +2009,7 @@ estates_medunica
 =>nrel_district:
     Lyakhovichsky_district;
 =>nrel_city:
-    Embankment
+    Embankment;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2028,7 +2028,7 @@ estates_solo
 =>nrel_district:
     Drogichinsky_district;
 =>nrel_city:
-    Selische
+    Selische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2047,7 +2047,7 @@ estates_lyavoniha
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Podgorn
+    Podgorn;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2066,7 +2066,7 @@ estates_vipbanyabrest
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Claycini
+    Claycini;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2085,7 +2085,7 @@ estates_pripyatskijples
 =>nrel_district:
     Luninetsky_district;
 =>nrel_city:
-    Lakhovka
+    Lakhovka;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2104,7 +2104,7 @@ estates_veselkrol
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Baranovichi
+    Baranovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2123,7 +2123,7 @@ estates_puschamechta
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Selische
+    Selische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2142,7 +2142,7 @@ estates_zaparomom
 =>nrel_district:
     Drogichinsky_district;
 =>nrel_city:
-    Belink
+    Belink;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2161,7 +2161,7 @@ estates_nadezhdaplanety
 =>nrel_district:
     Berezovsky_district;
 =>nrel_city:
-    Prickly
+    Prickly;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2180,7 +2180,7 @@ estates_otzakatadorassveta
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Legali
+    Legali;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2199,7 +2199,7 @@ estates_gastinets
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Chernavchitsy
+    Chernavchitsy;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2218,7 +2218,7 @@ estates_yagodnaya
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Berry
+    Berry;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2237,7 +2237,7 @@ estates_naparkovoy
 =>nrel_district:
     Berezovsky_district;
 =>nrel_city:
-    Belooozersk
+    Belooozersk;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2256,7 +2256,7 @@ estates_zadvorskimaentak
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Brest
+    Brest;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2275,7 +2275,7 @@ estates_pushanskoe
 =>nrel_district:
     Pruzhansky_district;
 =>nrel_city:
-    Klepachi.
+    Klepachi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2294,7 +2294,7 @@ estates_shlyakhetskikut
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Sushitsk
+    Sushitsk;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2313,7 +2313,7 @@ estates_netronutyjkusochek
 =>nrel_district:
     Pinsky_district;
 =>nrel_city:
-    Zaozerier
+    Zaozerier;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2332,7 +2332,7 @@ estates_staryhutar
 =>nrel_district:
     Stolinsky_district;
 =>nrel_city:
-    Berezhnoye
+    Berezhnoye;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2351,7 +2351,7 @@ estates_soneyka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Babiches
+    Babiches;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2370,7 +2370,7 @@ estates_uozerabelovezh
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Osinniki.
+    Osinniki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2389,7 +2389,7 @@ estates_mishkinapolyana
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Yattelz
+    Yattelz;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2408,7 +2408,7 @@ estates_vpusche
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Makovische
+    Makovische;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2427,7 +2427,7 @@ estates_zavyshansky
 =>nrel_district:
     Ivanovsky_district;
 =>nrel_city:
-    Crowing
+    Crowing;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2446,7 +2446,7 @@ estates_vkamence
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Kamenets
+    Kamenets;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2465,7 +2465,7 @@ estates_tihiy
 =>nrel_district:
     Ivanovsky_district;
 =>nrel_city:
-    Druzhilovichi.
+    Druzhilovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2484,7 +2484,7 @@ estates_gvozd
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Nail-1.
+    Nail-1;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2503,7 +2503,7 @@ estates_dom3veselkrol
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Baranovichi
+    Baranovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2522,7 +2522,7 @@ estates_carskayausadba
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Nail-1.
+    Nail-1;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2541,7 +2541,7 @@ estates_dom2bazakamyshi
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Shebrin
+    Shebrin;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2560,7 +2560,7 @@ estates_dobritsino
 =>nrel_district:
     Ivatsevichsky_district;
 =>nrel_city:
-    Wolk.
+    Wolk;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2579,7 +2579,7 @@ estates_falvarakvozera
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Mitskevichi
+    Mitskevichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2598,7 +2598,7 @@ estates_knyazhayagora
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Lyakhchitsy
+    Lyakhchitsy;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2617,7 +2617,7 @@ estates_mshanka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Msanka
+    Msanka;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2636,7 +2636,7 @@ estates_naberezhnaja
 =>nrel_district:
     Lyakhovichsky_district;
 =>nrel_city:
-    Embankment
+    Embankment;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2655,7 +2655,7 @@ estates_tribogatyrya
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Sands-1.
+    Sands-1;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2674,7 +2674,7 @@ estates_domlesnoyugolok
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Bobinka
+    Bobinka;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2693,7 +2693,7 @@ estates_zolotayapodkowa
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Podloogier
+    Podloogier;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2712,7 +2712,7 @@ estates_puschanka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Homutina
+    Homutina;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2731,7 +2731,7 @@ estates_ejonka
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    ENOUND
+    ENOUND;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2750,7 +2750,7 @@ estates_kalinka
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Chernavchitsy
+    Chernavchitsy;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2769,7 +2769,7 @@ estates_domribaka
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Kamenyuki.
+    Kamenyuki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2788,7 +2788,7 @@ estates_chemely
 =>nrel_district:
     Ivatsevichsky_district;
 =>nrel_city:
-    Chetsels
+    Chetsels;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2807,7 +2807,7 @@ estates_staryjhutor
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Small Radvanichi
+    Small Radvanichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2826,7 +2826,7 @@ estates_kupalinka
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Pliers
+    Pliers;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2845,7 +2845,7 @@ estates_stuly
 =>nrel_district:
     Pruzhansky_district;
 =>nrel_city:
-    Stalls
+    Stalls;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2864,7 +2864,7 @@ estates_dom2veselkrol
 =>nrel_district:
     Baranovichi_district;
 =>nrel_city:
-    Baranovichi
+    Baranovichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2883,7 +2883,7 @@ estates_tokari
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Tolochin
+    Tolochin;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2902,7 +2902,7 @@ estates_rechnaya
 =>nrel_district:
     Zhabinkovsky_district;
 =>nrel_city:
-    Ababye
+    Ababye;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2921,7 +2921,7 @@ estates_lesnayausadba
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    White
+    White;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2940,7 +2940,7 @@ estates_borisovo
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Borisovo.
+    Borisovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2959,7 +2959,7 @@ estates_redcat
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Claycini
+    Claycini;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2978,7 +2978,7 @@ estates_yatvyazskikut
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Gantsevichi
+    Gantsevichi;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2997,7 +2997,7 @@ estates_agrousadbaalva
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Kamenyuki.
+    Kamenyuki;
 =>nrel_search_area:
     Brest_region;;
         
@@ -3016,7 +3016,7 @@ estates_sparom
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-    Vidomil
+    Vidomil;
 =>nrel_search_area:
     Brest_region;;
         
@@ -3035,7 +3035,7 @@ estates_chizhi
 =>nrel_district:
     Lyakhovichsky_district;
 =>nrel_city:
-    Daraganovo
+    Daraganovo;
 =>nrel_search_area:
     Brest_region;;
         
@@ -3054,7 +3054,7 @@ estates_guesthousemishel
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Cherni.
+    Cherni;
 =>nrel_search_area:
     Brest_region;;
         
@@ -3073,7 +3073,7 @@ estates_darina
 =>nrel_district:
     Brest_district;
 =>nrel_city:
-    Bannoman
+    Bannoman;
 =>nrel_search_area:
     Brest_region;;
         
@@ -3092,7 +3092,7 @@ estates_cvetochnyrai
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-    Sands-1.
+    Sands-1;
 =>nrel_search_area:
     Brest_region;;
         
@@ -3111,6 +3111,6 @@ estates_domiknaokraine
 =>nrel_district:
     Ivanovsky_district;
 =>nrel_city:
-    Tyyshkovichi
+    Tyyshkovichi;
 =>nrel_search_area:
     Brest_region;;

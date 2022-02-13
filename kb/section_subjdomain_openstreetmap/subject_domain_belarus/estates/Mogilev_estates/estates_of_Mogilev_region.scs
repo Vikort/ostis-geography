@@ -14,7 +14,7 @@ estates_otdyhvchechevichah
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Chechevichi
+    Chechevichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -33,7 +33,7 @@ estates_vjaskovija
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Svisloch
+    Svisloch;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -52,7 +52,7 @@ estates_schatkovo
 =>nrel_district:
     Bobruisk_district;
 =>nrel_city:
-    Schalkovo
+    Schalkovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -71,7 +71,7 @@ estates_nakamnyah
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Vendryzh
+    Vendryzh;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -90,7 +90,7 @@ estates_batskouskayaspadchyna
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Lapichi
+    Lapichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -109,7 +109,7 @@ estates_zhuravliniykrik
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Starina
+    Starina;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -128,7 +128,7 @@ estates_lesnoidvor
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Zhukovo.
+    Zhukovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -147,7 +147,7 @@ estates_elkipalki
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Voronino
+    Voronino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -166,7 +166,7 @@ estates_zhuravinkausadba
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Zaozerier
+    Zaozerier;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -185,7 +185,7 @@ estates_rajugolok
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Butforming
+    Butforming;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -204,7 +204,7 @@ estates_siadzibashapavaly
 =>nrel_district:
     Dribinsky_district;
 =>nrel_city:
-    Pokhety
+    Pokhety;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -223,7 +223,7 @@ estates_usadbaapelsin
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Sugzhu
+    Sugzhu;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -242,7 +242,7 @@ estates_magnoliya
 =>nrel_district:
     Krezhunsky_district;
 =>nrel_city:
-    Prigani-1.
+    Prigani-1;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -261,7 +261,7 @@ estates_klevyybereg
 =>nrel_district:
     Kirovsky_district;
 =>nrel_city:
-    Podloogier
+    Podloogier;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -280,7 +280,7 @@ estates_kamennayagorka
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Svisloch
+    Svisloch;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -299,7 +299,7 @@ estates_upavlinki
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Pavlinka
+    Pavlinka;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -318,7 +318,7 @@ estates_udenisovicha
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Brakovo
+    Brakovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -337,7 +337,7 @@ estates_klevoemestechko
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Smyk
+    Smyk;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -356,7 +356,7 @@ estates_ilicha
 =>nrel_district:
     Klimovichsky_District;
 =>nrel_city:
-    Ivanovsk
+    Ivanovsk;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -375,7 +375,7 @@ estates_svislochus
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Svisloch
+    Svisloch;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -394,7 +394,7 @@ estates_naberegubereziny
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Ugracti.
+    Ugracti;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -413,7 +413,7 @@ estates_mircvetov
 =>nrel_district:
     Slavgorodsky_district;
 =>nrel_city:
-    Slavgorod
+    Slavgorod;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -432,7 +432,7 @@ estates_pankovskijzakutok
 =>nrel_district:
     Klichevsky_district;
 =>nrel_city:
-    Voevichi
+    Voevichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -451,7 +451,7 @@ estates_staroepashkovo
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Old high
+    Old high;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -470,7 +470,7 @@ estates_fedor
 =>nrel_district:
     Bobruisk_district;
 =>nrel_city:
-    New Sharaevshchina
+    New Sharaevshchina;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -489,7 +489,7 @@ estates_egorie
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Zhukovo.
+    Zhukovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -508,7 +508,7 @@ estates_liholapichi
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Lapichi
+    Lapichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -527,7 +527,7 @@ estates_ulyavonausadba
 =>nrel_district:
     Goretsky_district;
 =>nrel_city:
-    Senkovo
+    Senkovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -546,7 +546,7 @@ estates_priozernaya
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Polykovichi
+    Polykovichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -565,7 +565,7 @@ estates_dlyadvoih
 =>nrel_district:
     Glovsky_district;
 =>nrel_city:
-    Simonovichi
+    Simonovichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -584,7 +584,7 @@ estates_zarechnaya
 =>nrel_district:
     Krezhunsky_district;
 =>nrel_city:
-    Round
+    Round;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -603,7 +603,7 @@ estates_dudik
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Seal
+    Seal;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -622,7 +622,7 @@ estates_chausyleshoz
 =>nrel_district:
     Chausky_district;
 =>nrel_city:
-    Plilepovka
+    Plilepovka;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -641,7 +641,7 @@ estates_podvorie
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Lapichi
+    Lapichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -660,7 +660,7 @@ estates_belyptah
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Rafolovo
+    Rafolovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -679,7 +679,7 @@ estates_protochnoe
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Forthworthy
+    Forthworthy;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -698,7 +698,7 @@ estates_priganskijbereg
 =>nrel_district:
     Krezhunsky_district;
 =>nrel_city:
-    Prigani-1.
+    Prigani-1;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -717,7 +717,7 @@ estates_klevoemestechkovip
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Smyk
+    Smyk;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -736,7 +736,7 @@ estates_domikvlesuchechevichi
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Chechevichi
+    Chechevichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -755,7 +755,7 @@ estates_dom2kurkul
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Sugzhu
+    Sugzhu;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -774,7 +774,7 @@ estates_melnikusadba
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Miller
+    Miller;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -793,7 +793,7 @@ estates_klimovichileshoz
 =>nrel_district:
     Klimovichsky_District;
 =>nrel_city:
-    Breaking
+    Breaking;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -812,7 +812,7 @@ estates_chigirinka
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Forthworthy
+    Forthworthy;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -831,7 +831,7 @@ estates_lileya
 =>nrel_district:
     Cheryikovsky_district;
 =>nrel_city:
-    Mirbish
+    Mirbish;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -850,7 +850,7 @@ estates_gai
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    GAI
+    GAI;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -869,7 +869,7 @@ estates_rybdvor
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Chechevichi
+    Chechevichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -888,7 +888,7 @@ estates_skazkabyhov
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Bykhov
+    Bykhov;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -907,7 +907,7 @@ estates_bungalo2chigirinka
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Forthworthy
+    Forthworthy;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -926,7 +926,7 @@ estates_holmogory
 =>nrel_district:
     Goretsky_district;
 =>nrel_city:
-    Senkovo
+    Senkovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -945,7 +945,7 @@ estates_rpulva
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Chechevichi
+    Chechevichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -964,7 +964,7 @@ estates_kurkul
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Sugzhu
+    Sugzhu;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -983,7 +983,7 @@ estates_blakitnysozh
 =>nrel_district:
     Mstislavsky_district;
 =>nrel_city:
-    Kaskovo
+    Kaskovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1002,7 +1002,7 @@ estates_gostinydvor
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Crash
+    Crash;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1021,7 +1021,7 @@ estates_peschanybereg
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Breastchino
+    Breastchino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1040,7 +1040,7 @@ estates_serayasheika
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Polykovichi
+    Polykovichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1059,7 +1059,7 @@ estates_kordon
 =>nrel_district:
     Krichevsky_district;
 =>nrel_city:
-    Bubble
+    Bubble;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1078,7 +1078,7 @@ estates_starki
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Belynichi
+    Belynichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1097,7 +1097,7 @@ estates_starayaolsa
 =>nrel_district:
     Klichevsky_district;
 =>nrel_city:
-    Small Olsa
+    Small Olsa;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1116,7 +1116,7 @@ estates_relaxby
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Chechevichi
+    Chechevichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1135,7 +1135,7 @@ estates_lugovaya
 =>nrel_district:
     Bobruisk_district;
 =>nrel_city:
-    Boyars
+    Boyars;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1154,7 +1154,7 @@ estates_spachynaksyabr
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Forthworthy
+    Forthworthy;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1173,7 +1173,7 @@ estates_zatoka
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    New Bykov
+    New Bykov;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1192,7 +1192,7 @@ estates_fedorovo
 =>nrel_district:
     Kirovsky_district;
 =>nrel_city:
-    Podloogier
+    Podloogier;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1211,7 +1211,7 @@ estates_usadbaudruzey
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    City
+    City;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1230,7 +1230,7 @@ estates_klevoemestechkogostevoydomik
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Smyk
+    Smyk;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1249,7 +1249,7 @@ estates_domikvlyubuzhe
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Sugzhu
+    Sugzhu;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1268,7 +1268,7 @@ estates_simonovichi
 =>nrel_district:
     Glovsky_district;
 =>nrel_city:
-    Simonya
+    Simonya;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1287,7 +1287,7 @@ estates_zabavy
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Fun.
+    Fun;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1306,7 +1306,7 @@ estates_podvorje
 =>nrel_district:
     Dribinsky_district;
 =>nrel_city:
-    Shelves
+    Shelves;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1325,7 +1325,7 @@ estates_uvodyugrigor
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Red
+    Red;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1344,7 +1344,7 @@ estates_bazachigirinkadom
 =>nrel_district:
     Kirovsky_district;
 =>nrel_city:
-    Kolbovo.
+    Kolbovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1363,7 +1363,7 @@ estates_guesthouseugrigor
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Red
+    Red;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1382,7 +1382,7 @@ estates_usadbapodluzhie
 =>nrel_district:
     Kirovsky_district;
 =>nrel_city:
-    Chigirinka
+    Chigirinka;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1401,7 +1401,7 @@ estates_vsaltanovke
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Saltanovka
+    Saltanovka;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1420,7 +1420,7 @@ estates_dachaypalycha
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Breastchino
+    Breastchino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1439,7 +1439,7 @@ estates_klevoemestechkostudia
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Smyk
+    Smyk;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1458,7 +1458,7 @@ estates_solnyshko
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Red
+    Red;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1477,7 +1477,7 @@ estates_protoka
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Forthworthy
+    Forthworthy;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1496,7 +1496,7 @@ estates_daryina
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Korovichino
+    Korovichino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1515,7 +1515,7 @@ estates_unadezhdy
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Bykhov
+    Bykhov;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1534,7 +1534,7 @@ estates_russiandvor
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Foino.
+    Foino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1553,7 +1553,7 @@ estates_falvaraklazenki
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Newslines
+    Newslines;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1572,7 +1572,7 @@ estates_michurki
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Tehtin
+    Tehtin;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1591,7 +1591,7 @@ estates_bolonovka
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Bolonka.
+    Bolonka;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1610,7 +1610,7 @@ estates_vaverachkasonya
 =>nrel_district:
     Bobruisk_district;
 =>nrel_city:
-    Domanovo.
+    Domanovo;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1629,7 +1629,7 @@ estates_napolyane
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Breastchino
+    Breastchino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1648,7 +1648,7 @@ estates_grydichinaozernaya13
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Breastchino
+    Breastchino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1667,7 +1667,7 @@ estates_kvevoedomrybaka
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Smyk
+    Smyk;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1686,7 +1686,7 @@ estates_sosnovterem
 =>nrel_district:
     Kostyukovichi_district;
 =>nrel_city:
-    Kanichi
+    Kanichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1705,7 +1705,7 @@ estates_bobrovahata
 =>nrel_district:
     Kirovsky_district;
 =>nrel_city:
-    Podloogier
+    Podloogier;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1724,7 +1724,7 @@ estates_blagodat
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Chechevichi
+    Chechevichi;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1743,7 +1743,7 @@ estates_ugrigor
 =>nrel_district:
     Osipovichsky_district;
 =>nrel_city:
-    Red
+    Red;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1762,7 +1762,7 @@ estates_protochanka
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Forthworthy
+    Forthworthy;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1781,7 +1781,7 @@ estates_dfedor
 =>nrel_district:
     Bobruisk_district;
 =>nrel_city:
-    New Sharaevshchina
+    New Sharaevshchina;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1800,7 +1800,7 @@ estates_chigirinskoe
 =>nrel_district:
     Bykhovsky_district;
 =>nrel_city:
-    Breastchino
+    Breastchino;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1819,7 +1819,7 @@ estates_zaroschey
 =>nrel_district:
     Mogilev_district;
 =>nrel_city:
-    Mogilev
+    Mogilev;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1838,7 +1838,7 @@ estates_yagodka
 =>nrel_district:
     Belynichsky_District;
 =>nrel_city:
-    Yagodka
+    Yagodka;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -1857,6 +1857,6 @@ estates_lesnoirai
 =>nrel_district:
     Kirovsky_district;
 =>nrel_city:
-    Chigirinka
+    Chigirinka;
 =>nrel_search_area:
     Mogilev_region;;

@@ -14,7 +14,7 @@ estates_dom2agroberezina
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Gagali.
+    Gagali;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -33,7 +33,7 @@ estates_bobrovrychei
 =>nrel_district:
     Dobrush_district;
 =>nrel_city:
-    Red October
+    Red October;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -52,7 +52,7 @@ estates_ulesanaopushke
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Red
+    Red;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -71,7 +71,7 @@ estates_nikolaevskayasloboda
 =>nrel_district:
     Svetlogorsky_district;
 =>nrel_city:
-    New Belitsa
+    New Belitsa;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -90,7 +90,7 @@ estates_floridanarancho
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Student Guta
+    Student Guta;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -109,7 +109,7 @@ estates_alyaskanarancho
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Student Guta
+    Student Guta;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -128,7 +128,7 @@ estates_kolostrumena
 =>nrel_district:
     Zhitkovichi_district;
 =>nrel_city:
-    Tours
+    Tours;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -147,7 +147,7 @@ estates_toroka
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Copsevichi
+    Copsevichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -166,7 +166,7 @@ estates_spadchinamak
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Makarichi
+    Makarichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -185,7 +185,7 @@ estates_nikolinostrov
 =>nrel_district:
     Svetlogorsky_district;
 =>nrel_city:
-    Mlyna
+    Mlyna;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -204,7 +204,7 @@ estates_tixijomut
 =>nrel_district:
     Rogachevsky_district;
 =>nrel_city:
-    Glynsk
+    Glynsk;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -223,7 +223,7 @@ estates_parhouse
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Sevruki
+    Sevruki;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -242,7 +242,7 @@ estates_svetlogorskileshoz
 =>nrel_district:
     Svetlogorsky_district;
 =>nrel_city:
-    Stuzhka
+    Stuzhka;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -261,7 +261,7 @@ estates_uzolotoypchelki
 =>nrel_district:
     Yelsky_district;
 =>nrel_city:
-    Old high
+    Old high;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -280,7 +280,7 @@ estates_krupka
 =>nrel_district:
     Lelchitsky_district;
 =>nrel_city:
-    Krukka
+    Krukka;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -299,7 +299,7 @@ estates_turayskiyalegendi
 =>nrel_district:
     Zhitkovichi_district;
 =>nrel_city:
-    Tours
+    Tours;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -318,7 +318,7 @@ estates_solnechnyybereg
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Bluebits
+    Bluebits;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -337,7 +337,7 @@ estates_gomelrechnaya
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Chenki.
+    Chenki;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -356,7 +356,7 @@ estates_village
 =>nrel_district:
     Vetkovsky_district;
 =>nrel_city:
-    HALCH
+    HALCH;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -375,7 +375,7 @@ estates_vrechice
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Rechitsa
+    Rechitsa;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -394,7 +394,7 @@ estates_milygrad
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Milograd
+    Milograd;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -413,7 +413,7 @@ estates_zherelec
 =>nrel_district:
     Lelchitsky_district;
 =>nrel_city:
-    Jerelets
+    Jerelets;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -432,7 +432,7 @@ estates_indiana
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Student Guta
+    Student Guta;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -451,7 +451,7 @@ estates_nevadanarancho
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Student Guta
+    Student Guta;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -470,7 +470,7 @@ estates_tehasnarancho
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Student Guta
+    Student Guta;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -489,7 +489,7 @@ estates_vouchynkut
 =>nrel_district:
     Svetlogorsky_district;
 =>nrel_city:
-    Osinovka
+    Osinovka;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -508,7 +508,7 @@ estates_palyaunichy
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Petrikov
+    Petrikov;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -527,7 +527,7 @@ estates_loshadki
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Granovka
+    Granovka;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -546,7 +546,7 @@ estates_babushkinahata
 =>nrel_district:
     Zhlobinsky_district;
 =>nrel_city:
-    Lesan
+    Lesan;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -565,7 +565,7 @@ estates_gorval
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Gorval
+    Gorval;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -584,7 +584,7 @@ estates_stanitza
 =>nrel_district:
     Zhitkovichi_district;
 =>nrel_city:
-    Zhitkovichi
+    Zhitkovichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -603,7 +603,7 @@ estates_milograd
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Milograd
+    Milograd;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -622,7 +622,7 @@ estates_domrybaka
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Ilyich
+    Ilyich;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -641,7 +641,7 @@ estates_agrousadbarelaks
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Polyana
+    Polyana;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -660,7 +660,7 @@ estates_gagali
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Gagali.
+    Gagali;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -679,7 +679,7 @@ estates_kentukkinarancho
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Student Guta
+    Student Guta;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -698,7 +698,7 @@ estates_californiyanarancho
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Student Guta
+    Student Guta;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -717,7 +717,7 @@ estates_avrorarechica
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Rechitsa
+    Rechitsa;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -736,7 +736,7 @@ estates_ozernayaklenovica
 =>nrel_district:
     Buda-Koshelevsky_district;
 =>nrel_city:
-    Klenovitsa
+    Klenovitsa;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -755,7 +755,7 @@ estates_agrokalinka
 =>nrel_district:
     Mozyr_district;
 =>nrel_city:
-    Gurines
+    Gurines;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -774,7 +774,7 @@ estates_unoritza
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Units
+    Units;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -793,7 +793,7 @@ estates_hochen
 =>nrel_district:
     Zhitkovichi_district;
 =>nrel_city:
-    I want
+    I want;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -812,7 +812,7 @@ estates_fazendagomel
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Gomel
+    Gomel;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -831,7 +831,7 @@ estates_belyerosyusadba
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Makarichi
+    Makarichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -850,7 +850,7 @@ estates_vasilisaprekrasnaya
 =>nrel_district:
     Yelsky_district;
 =>nrel_city:
-    Beetles
+    Beetles;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -869,7 +869,7 @@ estates_uyutnaya
 =>nrel_district:
     Chechersky_district;
 =>nrel_city:
-    Bottvino
+    Bottvino;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -888,7 +888,7 @@ estates_ulybka
 =>nrel_district:
     Chechersky_district;
 =>nrel_city:
-    TURISPEKHEVICHI
+    TURISPEKHEVICHI;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -907,7 +907,7 @@ estates_rybackoe
 =>nrel_district:
     Loevsky_District;
 =>nrel_city:
-    Bushitin
+    Bushitin;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -926,7 +926,7 @@ estates_namira
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Milograd
+    Milograd;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -945,7 +945,7 @@ estates_svidnoe
 =>nrel_district:
     Lelchitsky_district;
 =>nrel_city:
-    SWID
+    SWID;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -964,7 +964,7 @@ estates_bannayaderevnya
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Granovka
+    Granovka;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -983,7 +983,7 @@ estates_forestparadise
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Gorval
+    Gorval;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1002,7 +1002,7 @@ estates_pr
 =>nrel_district:
     Chechersky_district;
 =>nrel_city:
-    Spark
+    Spark;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1021,7 +1021,7 @@ estates_kremno
 =>nrel_district:
     Zhitkovichi_district;
 =>nrel_city:
-    Silicon
+    Silicon;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1040,7 +1040,7 @@ estates_ruchnoe
 =>nrel_district:
     Lelchitsky_district;
 =>nrel_city:
-    Manual
+    Manual;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1059,7 +1059,7 @@ estates_navode
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Polyubichi
+    Polyubichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1078,7 +1078,7 @@ estates_usadbahutorok
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Demena
+    Demena;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1097,7 +1097,7 @@ estates_domokhotnikazhlobin
 =>nrel_district:
     Zhlobinsky_district;
 =>nrel_city:
-    Zupper
+    Zupper;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1116,7 +1116,7 @@ estates_greenwayfruit
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Amber
+    Amber;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1135,7 +1135,7 @@ estates_zelenayapolyanagomel
 =>nrel_district:
     Vetkovsky_district;
 =>nrel_city:
-    Yurkovichi
+    Yurkovichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1154,7 +1154,7 @@ estates_otala
 =>nrel_district:
     Zhlobinsky_district;
 =>nrel_city:
-    Ogon
+    Ogon;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1173,7 +1173,7 @@ estates_rodnyikut
 =>nrel_district:
     Rogachevsky_district;
 =>nrel_city:
-    Zavoye
+    Zavoye;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1192,7 +1192,7 @@ estates_agrotadosi
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Lyaskovichi
+    Lyaskovichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1211,7 +1211,7 @@ estates_valentini
 =>nrel_district:
     Rogachevsky_district;
 =>nrel_city:
-    Schabrin
+    Schabrin;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1230,7 +1230,7 @@ estates_ztklestur
 =>nrel_district:
     Zhitkovichi_district;
 =>nrel_city:
-    Chervona
+    Chervona;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1249,7 +1249,7 @@ estates_guestforestparadise
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Gorval
+    Gorval;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1268,7 +1268,7 @@ estates_napol
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Polyana
+    Polyana;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1287,7 +1287,7 @@ estates_umelnica
 =>nrel_district:
     Mozyr_district;
 =>nrel_city:
-    Noviki.
+    Noviki;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1306,7 +1306,7 @@ estates_agoodplace
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Osovtsy
+    Osovtsy;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1325,7 +1325,7 @@ estates_okolitsarogachev
 =>nrel_district:
     Rogachevsky_district;
 =>nrel_city:
-    Schabrin
+    Schabrin;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1344,7 +1344,7 @@ estates_ostrovokzhitkovichi
 =>nrel_district:
     Zhitkovichi_district;
 =>nrel_city:
-    Zhitkovichi
+    Zhitkovichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1363,7 +1363,7 @@ estates_talasha
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Petrikov
+    Petrikov;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1382,7 +1382,7 @@ estates_bogomazov
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Novoselki
+    Novoselki;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1401,7 +1401,7 @@ estates_beregsloboda
 =>nrel_district:
     Rechitsky_district;
 =>nrel_city:
-    Shore
+    Shore;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1420,7 +1420,7 @@ estates_malinkiusadba
 =>nrel_district:
     Gomel_district;
 =>nrel_city:
-    Romanovichi
+    Romanovichi;
 =>nrel_search_area:
     Gomel_region;;
         
@@ -1439,6 +1439,6 @@ estates_npp
 =>nrel_district:
     Petrikovsky_district;
 =>nrel_city:
-    Lyaskovichi
+    Lyaskovichi;
 =>nrel_search_area:
     Gomel_region;;

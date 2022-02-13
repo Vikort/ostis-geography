@@ -14,7 +14,7 @@ estates_zarechnayayuzufovo
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yuzufovo.
+    Yuzufovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -33,7 +33,7 @@ estates_ravnovesie
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Small dainovka
+    Small dainovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -52,7 +52,7 @@ estates_otdyhplus
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Sloboda
+    Sloboda;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -71,7 +71,7 @@ estates_aleksandra
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Loboda
+    Loboda;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -90,7 +90,7 @@ estates_khutortroki
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Sivitsa
+    Sivitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -109,7 +109,7 @@ estates_ovoshevod
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Vegetable breeding
+    Vegetable breeding;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -128,7 +128,7 @@ estates_galereya
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Veragi
+    Veragi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -147,7 +147,7 @@ estates_narochanskibereg
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Steying
+    Steying;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -166,7 +166,7 @@ estates_nakvasy
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Nasty
+    Nasty;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -185,7 +185,7 @@ estates_gasceunya
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Drozdovo
+    Drozdovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -204,7 +204,7 @@ estates_mashinhutor
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Kruglitsa
+    Kruglitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -223,7 +223,7 @@ estates_bobrovahatka
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Galimtsy
+    Galimtsy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -242,7 +242,7 @@ estates_domiknaislochi
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Belokorets
+    Belokorets;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -261,7 +261,7 @@ estates_berezka
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Sudners
+    Sudners;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -280,7 +280,7 @@ estates_patioiznachalnoe
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Prileses
+    Prileses;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -299,7 +299,7 @@ estates_kamyanica
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Lebedevo
+    Lebedevo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -318,7 +318,7 @@ estates_parusiznachalnoe
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Prileses
+    Prileses;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -337,7 +337,7 @@ estates_strekoza
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Flat
+    Flat;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -356,7 +356,7 @@ estates_severnyysklon
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ratomka
+    Ratomka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -375,7 +375,7 @@ estates_fvraskosha
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Polesie
+    Polesie;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -394,7 +394,7 @@ estates_batorinousadba
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Azarka Pudovinka
+    Azarka Pudovinka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -413,7 +413,7 @@ estates_logoyskiteremok
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Crazy
+    Crazy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -432,7 +432,7 @@ estates_alekssemkovo
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -451,7 +451,7 @@ estates_familyholiday
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    New Field
+    New Field;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -470,7 +470,7 @@ estates_naslavu
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yelnitsa
+    Yelnitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -489,7 +489,7 @@ estates_narostanyah
 =>nrel_district:
     Lyuban_district;
 =>nrel_city:
-    Ureche
+    Ureche;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -508,7 +508,7 @@ estates_tihihutorok
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Volodya
+    Volodya;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -527,7 +527,7 @@ estates_gulyanka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Plebans
+    Plebans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -546,7 +546,7 @@ estates_koniponi
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Mikhalovo.
+    Mikhalovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -565,7 +565,7 @@ estates_chistvozduh
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Small cheese
+    Small cheese;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -584,7 +584,7 @@ estates_alpiyskidvorik
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Radoshkovichi
+    Radoshkovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -603,7 +603,7 @@ estates_ulese
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Kurganovka
+    Kurganovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -622,7 +622,7 @@ estates_slutskistraus
 =>nrel_district:
     Slutsky_district;
 =>nrel_city:
-    Lesiste
+    Lesiste;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -641,7 +641,7 @@ estates_zvenyachi
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Links
+    Links;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -660,7 +660,7 @@ estates_gusilebedi
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Zubtnevka
+    Zubtnevka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -679,7 +679,7 @@ estates_dolina
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -698,7 +698,7 @@ estates_putishka
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Book
+    Book;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -717,7 +717,7 @@ estates_nesvizhskiymayontak
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Nesvizh
+    Nesvizh;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -736,7 +736,7 @@ estates_gatovichi
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Gatovichi
+    Gatovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -755,7 +755,7 @@ estates_pomestyetretii
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Cossacks
+    Cossacks;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -774,7 +774,7 @@ estates_polkinxutor
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Solkovskaya
+    Solkovskaya;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -793,7 +793,7 @@ estates_royalhall
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Maudians
+    Maudians;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -812,7 +812,7 @@ estates_lastgnezdo
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Dry mountain
+    Dry mountain;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -831,7 +831,7 @@ estates_domikulesa
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Rakov
+    Rakov;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -850,7 +850,7 @@ estates_midas
 =>nrel_district:
     Krusky_district;
 =>nrel_city:
-    Kamenka
+    Kamenka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -869,7 +869,7 @@ estates_domskazka
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Green Garden
+    Green Garden;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -888,7 +888,7 @@ estates_usadbanapolesnoy
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yuhnovka
+    Yuhnovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -907,7 +907,7 @@ estates_nanosydom3
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -926,7 +926,7 @@ estates_podminskom
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -945,7 +945,7 @@ estates_verhom
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Butsevichi
+    Butsevichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -964,7 +964,7 @@ estates_navileyskom
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Esnovantsy
+    Esnovantsy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -983,7 +983,7 @@ estates_tabory
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tabor
+    Tabor;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1002,7 +1002,7 @@ estates_naderevelosev
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Terebuty
+    Terebuty;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1021,7 +1021,7 @@ estates_zarachanskie
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Zarechye
+    Zarechye;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1040,7 +1040,7 @@ estates_veselyugol
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Cheerful corner
+    Cheerful corner;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1059,7 +1059,7 @@ estates_domikvostroshickom
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ostrositsky town
+    Ostrositsky town;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1078,7 +1078,7 @@ estates_domikborovlyany
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1097,7 +1097,7 @@ estates_uvalentina
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Deccents
+    Deccents;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1116,7 +1116,7 @@ estates_petravinka
 =>nrel_district:
     Chervensky_district;
 =>nrel_city:
-    Petrovinka
+    Petrovinka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1135,7 +1135,7 @@ estates_kuty
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1154,7 +1154,7 @@ estates_tihayagavan
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Glivin.
+    Glivin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1173,7 +1173,7 @@ estates_naberegu
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Skident
+    Skident;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1192,7 +1192,7 @@ estates_umorya
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Laporovichi
+    Laporovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1211,7 +1211,7 @@ estates_zabrodje
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Ogon
+    Ogon;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1230,7 +1230,7 @@ estates_vyazyn
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Vazynn.
+    Vazynn;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1249,7 +1249,7 @@ estates_gaj
 =>nrel_district:
     Slutsky_district;
 =>nrel_city:
-    Adamovo
+    Adamovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1268,7 +1268,7 @@ estates_uruchia
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Links
+    Links;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1287,7 +1287,7 @@ estates_unikolaevicha
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Fairy
+    Fairy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1306,7 +1306,7 @@ estates_usadbamalinovka
 =>nrel_district:
     Soligorsky_district;
 =>nrel_city:
-    Letnet
+    Letnet;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1325,7 +1325,7 @@ estates_houseapartment
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1344,7 +1344,7 @@ estates_falvarakkupala
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Senica
+    Senica;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1363,7 +1363,7 @@ estates_romanovich
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1382,7 +1382,7 @@ estates_uzdenskiileshoz
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Sloboda
+    Sloboda;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1401,7 +1401,7 @@ estates_br
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Coastal
+    Coastal;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1420,7 +1420,7 @@ estates_dedmihed
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Honoles.
+    Honoles;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1439,7 +1439,7 @@ estates_novgorodishe
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    New settlement
+    New settlement;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1458,7 +1458,7 @@ estates_ohotniknovgorodishe
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    New settlement
+    New settlement;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1477,7 +1477,7 @@ estates_gainaistoki
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Gaina
+    Gaina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1496,7 +1496,7 @@ estates_krasnapolyana
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Nepheloe
+    Nepheloe;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1515,7 +1515,7 @@ estates_respecthouse
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Chocyers
+    Chocyers;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1534,7 +1534,7 @@ estates_leckovshina
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Letskovschina
+    Letskovschina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1553,7 +1553,7 @@ estates_anely
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1572,7 +1572,7 @@ estates_lofthall
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ratomka
+    Ratomka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1591,7 +1591,7 @@ estates_kostykin
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Ludvinovo.
+    Ludvinovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1610,7 +1610,7 @@ estates_busli
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Steying
+    Steying;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1629,7 +1629,7 @@ estates_zolotayagorka
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Markovschina
+    Markovschina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1648,7 +1648,7 @@ estates_guesthouselabodyanka
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Labody
+    Labody;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1667,7 +1667,7 @@ estates_kalinahutar
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Vasyukovschina
+    Vasyukovschina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1686,7 +1686,7 @@ estates_brileyskaya
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Big Stakhovo.
+    Big Stakhovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1705,7 +1705,7 @@ estates_semeinoeusadbantil
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Prustromy
+    Prustromy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1724,7 +1724,7 @@ estates_veragi
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Veragi
+    Veragi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1743,7 +1743,7 @@ estates_tatsiana
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Annopol
+    Annopol;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1762,7 +1762,7 @@ estates_beliiruchiidom5
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Belarus
+    Belarus;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1781,7 +1781,7 @@ estates_sinichki
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Chiki.
+    Chiki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1800,7 +1800,7 @@ estates_hutorberezhok
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Berezhok
+    Berezhok;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1819,7 +1819,7 @@ estates_voroncy
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Vorontsz
+    Vorontsz;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1838,7 +1838,7 @@ estates_dashki
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Dashi
+    Dashi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1857,7 +1857,7 @@ estates_belydom
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Cherki.
+    Cherki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1876,7 +1876,7 @@ estates_nanosydom9
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1895,7 +1895,7 @@ estates_rancho
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Angles
+    Angles;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1914,7 +1914,7 @@ estates_vyuhnovke
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yuhnovka
+    Yuhnovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1933,7 +1933,7 @@ estates_maxirelax
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Minsk
+    Minsk;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1952,7 +1952,7 @@ estates_narochromantic
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Naroch
+    Naroch;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1971,7 +1971,7 @@ estates_sbanketnymzalom
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -1990,7 +1990,7 @@ estates_dom3berlogahall
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Ostrovsky Pass
+    Ostrovsky Pass;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2009,7 +2009,7 @@ estates_vlesu
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Capplants
+    Capplants;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2028,7 +2028,7 @@ estates_lyadubochka
 =>nrel_district:
     Soligorsky_district;
 =>nrel_city:
-    New Guta
+    New Guta;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2047,7 +2047,7 @@ estates_mechtadetstva
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Tividovka
+    Tividovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2066,7 +2066,7 @@ estates_holmi
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Sili
+    Sili;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2085,7 +2085,7 @@ estates_vyazych
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Vyazychin
+    Vyazychin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2104,7 +2104,7 @@ estates_domvmyadele
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Madel
+    Madel;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2123,7 +2123,7 @@ estates_zindan
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2142,7 +2142,7 @@ estates_lebedevo
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Lebedevo
+    Lebedevo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2161,7 +2161,7 @@ estates_upetrovichasilichi
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Sili
+    Sili;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2180,7 +2180,7 @@ estates_vysgora
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    High mountain
+    High mountain;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2199,7 +2199,7 @@ estates_pekalin
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Pekalin
+    Pekalin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2218,7 +2218,7 @@ estates_shpilki
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Studes
+    Studes;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2237,7 +2237,7 @@ estates_uvolodi
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Senica
+    Senica;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2256,7 +2256,7 @@ estates_usadbadubrova
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Dubrov
+    Dubrov;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2275,7 +2275,7 @@ estates_horoshiydom
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Dzerzhinsk
+    Dzerzhinsk;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2294,7 +2294,7 @@ estates_nanosydom7
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2313,7 +2313,7 @@ estates_gtfohota
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Crocke
+    Crocke;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2332,7 +2332,7 @@ estates_nesvij
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Nesvizh
+    Nesvizh;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2351,7 +2351,7 @@ estates_panigalagowska
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Rudnya Pilnyanskaya
+    Rudnya Pilnyanskaya;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2370,7 +2370,7 @@ estates_napodlesnoy
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Minsk
+    Minsk;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2389,7 +2389,7 @@ estates_usadbazolotayarybka
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Fish
+    Fish;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2408,7 +2408,7 @@ estates_sezony
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Drozdovo
+    Drozdovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2427,7 +2427,7 @@ estates_banyasemkovo
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2446,7 +2446,7 @@ estates_udranka
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Untranka
+    Untranka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2465,7 +2465,7 @@ estates_vtarasovo
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tarasovo
+    Tarasovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2484,7 +2484,7 @@ estates_medvezhyazavod
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Upirevichi
+    Upirevichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2503,7 +2503,7 @@ estates_zovpredkov
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    May Day.
+    May Day;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2522,7 +2522,7 @@ estates_petrovichborisov
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Big Stakhovo.
+    Big Stakhovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2541,7 +2541,7 @@ estates_nashahata
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovaya
+    Borovaya;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2560,7 +2560,7 @@ estates_nalibokitrio
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Naliboki
+    Naliboki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2579,7 +2579,7 @@ estates_skazochnyy
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Green Garden
+    Green Garden;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2598,7 +2598,7 @@ estates_banka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2617,7 +2617,7 @@ estates_usadbadomochag
 =>nrel_district:
     Kopyl_district;
 =>nrel_city:
-    Kamenshchina
+    Kamenshchina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2636,7 +2636,7 @@ estates_lyazatoki
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Sands
+    Sands;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2655,7 +2655,7 @@ estates_agrosilichi
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Sili
+    Sili;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2674,7 +2674,7 @@ estates_domspa
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Root
+    Root;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2693,7 +2693,7 @@ estates_sosvovayaroscha
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Likhachi
+    Likhachi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2712,7 +2712,7 @@ estates_uleonida
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Nesvizh
+    Nesvizh;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2731,7 +2731,7 @@ estates_vyachzorka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Vishnevka
+    Vishnevka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2750,7 +2750,7 @@ estates_bydtezdorovu
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Okchak
+    Okchak;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2769,7 +2769,7 @@ estates_mayarudnya
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Rudnya Pilnyanskaya
+    Rudnya Pilnyanskaya;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2788,7 +2788,7 @@ estates_titenkoff
 =>nrel_district:
     Soligorsky_district;
 =>nrel_city:
-    Kulaki.
+    Kulaki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2807,7 +2807,7 @@ estates_domvderevne
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Mankovschina
+    Mankovschina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2826,7 +2826,7 @@ estates_akolica
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Okolitsa
+    Okolitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2845,7 +2845,7 @@ estates_selyavaotdyh
 =>nrel_district:
     Krusky_district;
 =>nrel_city:
-    Firmware
+    Firmware;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2864,7 +2864,7 @@ estates_gulenkovo
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Smolevichi
+    Smolevichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2883,7 +2883,7 @@ estates_hatalespol
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Midhaw
+    Midhaw;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2902,7 +2902,7 @@ estates_kipshale
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Moshnino
+    Moshnino;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2921,7 +2921,7 @@ estates_dubki
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Okchak
+    Okchak;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2940,7 +2940,7 @@ estates_guesthouseberezmechta
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Poplar
+    Poplar;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2959,7 +2959,7 @@ estates_usadbantil
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Prustromy
+    Prustromy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2978,7 +2978,7 @@ estates_guesthousenich
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Mogly
+    Mogly;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -2997,7 +2997,7 @@ estates_domusadbantil
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Prustromy
+    Prustromy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3016,7 +3016,7 @@ estates_hutorsmelyh
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Sula
+    Sula;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3035,7 +3035,7 @@ estates_nanosydom5
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3054,7 +3054,7 @@ estates_kseniya
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3073,7 +3073,7 @@ estates_casablancacomfort
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Naroch
+    Naroch;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3092,7 +3092,7 @@ estates_tihayadacha
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Mikhalovo.
+    Mikhalovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3111,7 +3111,7 @@ estates_nanarochi
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Gatovichi
+    Gatovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3130,7 +3130,7 @@ estates_hata
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Rodowing
+    Rodowing;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3149,7 +3149,7 @@ estates_usadbagera
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Nesvizh
+    Nesvizh;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3168,7 +3168,7 @@ estates_santaluchiya
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Madel
+    Madel;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3187,7 +3187,7 @@ estates_antos
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Trakai
+    Trakai;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3206,7 +3206,7 @@ estates_nasemivetrah
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Rabun
+    Rabun;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3225,7 +3225,7 @@ estates_lukomoryeminsk
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Radoshkovichi
+    Radoshkovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3244,7 +3244,7 @@ estates_kalita
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Kalita
+    Kalita;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3263,7 +3263,7 @@ estates_beregovaya
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Student
+    Student;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3282,7 +3282,7 @@ estates_alekseevka
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Yushkovichi
+    Yushkovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3301,7 +3301,7 @@ estates_umikoly
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Small cheese
+    Small cheese;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3320,7 +3320,7 @@ estates_rosohi
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Rossonse
+    Rossonse;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3339,7 +3339,7 @@ estates_lesnaja
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Horses
+    Horses;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3358,7 +3358,7 @@ estates_polevayausadba
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yelnitsa
+    Yelnitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3377,7 +3377,7 @@ estates_yaryninhutorok
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Romashki.
+    Romashki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3396,7 +3396,7 @@ estates_belochkanovgorodishe
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    New settlement
+    New settlement;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3415,7 +3415,7 @@ estates_selskiydom
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Padnevichi
+    Padnevichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3434,7 +3434,7 @@ estates_shishkin
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Shishki.
+    Shishki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3453,7 +3453,7 @@ estates_garadockaya
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Red
+    Red;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3472,7 +3472,7 @@ estates_uzahara
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Augusto
+    Augusto;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3491,7 +3491,7 @@ estates_villalavender
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Cherki.
+    Cherki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3510,7 +3510,7 @@ estates_zarechany
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Zarechan
+    Zarechan;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3529,7 +3529,7 @@ estates_beztabaka
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Chernevichi
+    Chernevichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3548,7 +3548,7 @@ estates_usha
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Ears
+    Ears;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3567,7 +3567,7 @@ estates_cyrvona
 =>nrel_district:
     Kopyl_district;
 =>nrel_city:
-    Cheervone Dubrava
+    Cheervone Dubrava;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3586,7 +3586,7 @@ estates_alenka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Aksakovshchyna
+    Aksakovshchyna;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3605,7 +3605,7 @@ estates_polevaya
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Maudians
+    Maudians;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3624,7 +3624,7 @@ estates_skazka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tsnyanka
+    Tsnyanka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3643,7 +3643,7 @@ estates_elnica
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yelnitsa
+    Yelnitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3662,7 +3662,7 @@ estates_uvictora
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Sinks
+    Sinks;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3681,7 +3681,7 @@ estates_gazdava
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Potting
+    Potting;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3700,7 +3700,7 @@ estates_11mestbazaolimpiec
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3719,7 +3719,7 @@ estates_starymensk
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Gorodishche
+    Gorodishche;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3738,7 +3738,7 @@ estates_domikkochergi
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Kochergi
+    Kochergi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3757,7 +3757,7 @@ estates_elkino
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Dudinka
+    Dudinka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3776,7 +3776,7 @@ estates_zacenusadba
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Root
+    Root;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3795,7 +3795,7 @@ estates_umikhalycha
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Lan
+    Lan;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3814,7 +3814,7 @@ estates_banyavyacha
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Ostrositsky town
+    Ostrositsky town;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3833,7 +3833,7 @@ estates_mirnyikutok
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Stankovo
+    Stankovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3852,7 +3852,7 @@ estates_rechnayakrasnitza
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Krasnitsa
+    Krasnitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3871,7 +3871,7 @@ estates_teremoklogoisky
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Ruclees
+    Ruclees;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3890,7 +3890,7 @@ estates_bankauyut
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Volozhin
+    Volozhin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3909,7 +3909,7 @@ estates_broda
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ostrositsky town
+    Ostrositsky town;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3928,7 +3928,7 @@ estates_vdickah
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ducky
+    Ducky;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3947,7 +3947,7 @@ estates_syabrynavileika
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Susport
+    Susport;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3966,7 +3966,7 @@ estates_aleks
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Casion
+    Casion;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -3985,7 +3985,7 @@ estates_tridevyatoe
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Rudensk
+    Rudensk;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4004,7 +4004,7 @@ estates_plitchenka
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Tilechenka
+    Tilechenka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4023,7 +4023,7 @@ estates_bavariabel
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Pine
+    Pine;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4042,7 +4042,7 @@ estates_krasnitsa
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Krasnitsa
+    Krasnitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4061,7 +4061,7 @@ estates_chuchelinshchina
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Chocyers
+    Chocyers;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4080,7 +4080,7 @@ estates_atmosferabanyy
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Hatezhino
+    Hatezhino;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4099,7 +4099,7 @@ estates_ilich
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Lucovo
+    Lucovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4118,7 +4118,7 @@ estates_pipstop
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Angles
+    Angles;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4137,7 +4137,7 @@ estates_pomestyevtoroi
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Cossacks
+    Cossacks;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4156,7 +4156,7 @@ estates_usadbasluck
 =>nrel_district:
     Slutsky_district;
 =>nrel_city:
-    Bezverchovichi
+    Bezverchovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4175,7 +4175,7 @@ estates_upetruhi
 =>nrel_district:
     Soligorsky_district;
 =>nrel_city:
-    Krasnodorians
+    Krasnodorians;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4194,7 +4194,7 @@ estates_vedrusskayaskazka
 =>nrel_district:
     Soligorsky_district;
 =>nrel_city:
-    Starobin
+    Starobin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4213,7 +4213,7 @@ estates_zhuki
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Beetles
+    Beetles;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4232,7 +4232,7 @@ estates_ukazyuka
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Olshevo
+    Olshevo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4251,7 +4251,7 @@ estates_bobrdvor
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Gaina
+    Gaina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4270,7 +4270,7 @@ estates_iznachalnoe
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Prileses
+    Prileses;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4289,7 +4289,7 @@ estates_usadbaspadchina
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Berezino.
+    Berezino;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4308,7 +4308,7 @@ estates_gostdomfest
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Orlovshchina
+    Orlovshchina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4327,7 +4327,7 @@ estates_guesthousevprostore
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Yermolichi
+    Yermolichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4346,7 +4346,7 @@ estates_nich
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Mogly
+    Mogly;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4365,7 +4365,7 @@ estates_nanosydom12
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4384,7 +4384,7 @@ estates_nanosydom8
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4403,7 +4403,7 @@ estates_domnanarochi
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Naroch
+    Naroch;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4422,7 +4422,7 @@ estates_nembereg
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Mogly
+    Mogly;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4441,7 +4441,7 @@ estates_agrousadbautatyany
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Zaozerier
+    Zaozerier;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4460,7 +4460,7 @@ estates_dom2berlogahall
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Ostrovsky Pass
+    Ostrovsky Pass;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4479,7 +4479,7 @@ estates_usadbacentralnaja
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Glivin.
+    Glivin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4498,7 +4498,7 @@ estates_logoyskgorkogo
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Logoish
+    Logoish;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4517,7 +4517,7 @@ estates_rodnojhutorok
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Tarasovka
+    Tarasovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4536,7 +4536,7 @@ estates_zseminar
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Cheerful corner
+    Cheerful corner;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4555,7 +4555,7 @@ estates_umihalicha
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Chizhevichi
+    Chizhevichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4574,7 +4574,7 @@ estates_banyamarkovshina
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Markovschina
+    Markovschina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4593,7 +4593,7 @@ estates_nabereguminskogo
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zavalavl
+    Zavalavl;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4612,7 +4612,7 @@ estates_ozerolesnoe
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Eagle
+    Eagle;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4631,7 +4631,7 @@ estates_percy
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Thrust
+    Thrust;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4650,7 +4650,7 @@ estates_peregrod
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Neighborhood
+    Neighborhood;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4669,7 +4669,7 @@ estates_myadeljkh
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Zakard
+    Zakard;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4688,7 +4688,7 @@ estates_forrestclub
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Casion
+    Casion;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4707,7 +4707,7 @@ estates_damel
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Boguta
+    Boguta;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4726,7 +4726,7 @@ estates_panaserzha
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zavalavl
+    Zavalavl;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4745,7 +4745,7 @@ estates_tatdvor
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Stern
+    Stern;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4764,7 +4764,7 @@ estates_vdesyatochku
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Rudnya
+    Rudnya;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4783,7 +4783,7 @@ estates_svirsky
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Svir
+    Svir;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4802,7 +4802,7 @@ estates_vytoka
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Kachanovichi
+    Kachanovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4821,7 +4821,7 @@ estates_dombanyahotezhino
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Hatezhino
+    Hatezhino;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4840,7 +4840,7 @@ estates_diana
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4859,7 +4859,7 @@ estates_storonka
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Morrhe
+    Morrhe;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4878,7 +4878,7 @@ estates_karytko
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Nasilovo
+    Nasilovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4897,7 +4897,7 @@ estates_zhilibyli
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Honoles.
+    Honoles;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4916,7 +4916,7 @@ estates_ustepanycha
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zavalavl
+    Zavalavl;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4935,7 +4935,7 @@ estates_agrippina
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Rudnya
+    Rudnya;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4954,7 +4954,7 @@ estates_samsebehozjain
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Falcon
+    Falcon;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4973,7 +4973,7 @@ estates_spansion
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zhdanovichi
+    Zhdanovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -4992,7 +4992,7 @@ estates_pomestye
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Cossacks
+    Cossacks;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5011,7 +5011,7 @@ estates_varenik
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Starina
+    Starina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5030,7 +5030,7 @@ estates_sherboki
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Lavnica
+    Lavnica;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5049,7 +5049,7 @@ estates_rabinushka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Mikhanovichi
+    Mikhanovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5068,7 +5068,7 @@ estates_rakovskaya
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Rakov
+    Rakov;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5087,7 +5087,7 @@ estates_bannycomplex
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ozerstso
+    Ozerstso;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5106,7 +5106,7 @@ estates_vkrugu
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tarasovo
+    Tarasovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5125,7 +5125,7 @@ estates_asaloda
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Yakuta
+    Yakuta;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5144,7 +5144,7 @@ estates_tarasovskiymaentak
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tarasovo
+    Tarasovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5163,7 +5163,7 @@ estates_stankovodom7
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Stankovo
+    Stankovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5182,7 +5182,7 @@ estates_sova
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Deccents
+    Deccents;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5201,7 +5201,7 @@ estates_nalesnoyusadba
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    New yard
+    New yard;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5220,7 +5220,7 @@ estates_blagodatjuki
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Beetles
+    Beetles;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5239,7 +5239,7 @@ estates_bluelakes
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Groom bugs
+    Groom bugs;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5258,7 +5258,7 @@ estates_zazere
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Casser
+    Casser;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5277,7 +5277,7 @@ estates_vyshkovo
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Wig
+    Wig;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5296,7 +5296,7 @@ estates_solnechnayadolina
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Baguta
+    Baguta;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5315,7 +5315,7 @@ estates_userafim
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Okolitsa
+    Okolitsa;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5334,7 +5334,7 @@ estates_iconicgarden
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ratomka
+    Ratomka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5353,7 +5353,7 @@ estates_skobrovka
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Book
+    Book;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5372,7 +5372,7 @@ estates_guesthouseuxnovka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yuhnovka
+    Yuhnovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5391,7 +5391,7 @@ estates_domzaiachiapoliana
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Robin
+    Robin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5410,7 +5410,7 @@ estates_druzya
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Logoish
+    Logoish;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5429,7 +5429,7 @@ estates_ohotnik
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Housewarming
+    Housewarming;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5448,7 +5448,7 @@ estates_bobr
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Maryina Gorka
+    Maryina Gorka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5467,7 +5467,7 @@ estates_toft
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5486,7 +5486,7 @@ estates_palikberezinsky
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Palik
+    Palik;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5505,7 +5505,7 @@ estates_krupskiyleshoz
 =>nrel_district:
     Krusky_district;
 =>nrel_city:
-    Pie
+    Pie;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5524,7 +5524,7 @@ estates_berezino
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Berezino.
+    Berezino;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5543,7 +5543,7 @@ estates_sakovshina
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Sakovshchina
+    Sakovshchina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5562,7 +5562,7 @@ estates_laraki
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Novoselki
+    Novoselki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5581,7 +5581,7 @@ estates_vremenagoda
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Kalyuga
+    Kalyuga;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5600,7 +5600,7 @@ estates_teremoknagore
 =>nrel_district:
     Chervensky_district;
 =>nrel_city:
-    Kutuzovka
+    Kutuzovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5619,7 +5619,7 @@ estates_agrousadbamechta
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Deccents
+    Deccents;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5638,7 +5638,7 @@ estates_poddubnaya
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Volovchchina
+    Volovchchina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5657,7 +5657,7 @@ estates_tarasovo
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tarasovo
+    Tarasovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5676,7 +5676,7 @@ estates_aquilon
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zhdanovichi
+    Zhdanovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5695,7 +5695,7 @@ estates_upetra
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Old village
+    Old village;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5714,7 +5714,7 @@ estates_natopolinoy
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ratomka
+    Ratomka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5733,7 +5733,7 @@ estates_zapavetnykutok
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Cherki.
+    Cherki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5752,7 +5752,7 @@ estates_tusadba
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Shipki.
+    Shipki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5771,7 +5771,7 @@ estates_dvabusly
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Zhukovets
+    Zhukovets;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5781,7 +5781,7 @@ estates_karavay
 <- concept_estates_of_the_Minsk_Region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Каравай (Karavay.by)]
+    [Каравай (Karavayby)]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -5790,7 +5790,7 @@ estates_karavay
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Casion
+    Casion;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5809,7 +5809,7 @@ estates_hvr
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Raubichi
+    Raubichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5828,7 +5828,7 @@ estates_vileyskikrai
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Dubrovka
+    Dubrovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5847,7 +5847,7 @@ estates_lucynka
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Small Lutinka
+    Small Lutinka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5866,7 +5866,7 @@ estates_kaxanaja
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Kohanovschina
+    Kohanovschina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5885,7 +5885,7 @@ estates_viazynka
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    VicNick
+    VicNick;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5904,7 +5904,7 @@ estates_sabalinka
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Ruchin
+    Ruchin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5923,7 +5923,7 @@ estates_usadbagaspadar
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    New Wester
+    New Wester;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5942,7 +5942,7 @@ estates_vodarspa
 =>nrel_district:
     Krusky_district;
 =>nrel_city:
-    Gumna
+    Gumna;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5961,7 +5961,7 @@ estates_usadbaozerny
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Svisloch
+    Svisloch;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5980,7 +5980,7 @@ estates_lyabyarozy
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Sands
+    Sands;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -5999,7 +5999,7 @@ estates_hutorokzabolotye
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Zaboloty
+    Zaboloty;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6018,7 +6018,7 @@ estates_urybarya
 =>nrel_district:
     Chervensky_district;
 =>nrel_city:
-    Blade
+    Blade;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6037,7 +6037,7 @@ estates_kgorka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zhdanovichi
+    Zhdanovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6056,7 +6056,7 @@ estates_zalese
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Guerrilla
+    Guerrilla;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6075,7 +6075,7 @@ estates_berrossa
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Borovlyans
+    Borovlyans;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6094,7 +6094,7 @@ estates_zdorovei
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Nikoltsy
+    Nikoltsy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6113,7 +6113,7 @@ estates_pilnitza
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Pilnet
+    Pilnet;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6132,7 +6132,7 @@ estates_grandrelax
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zhdanovichi
+    Zhdanovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6151,7 +6151,7 @@ estates_terem
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Dubenza
+    Dubenza;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6170,7 +6170,7 @@ estates_nakrasivoy
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tarasovo
+    Tarasovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6189,7 +6189,7 @@ estates_bolochanka
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Red October
+    Red October;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6208,7 +6208,7 @@ estates_yanovyasen
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Bald mountain
+    Bald mountain;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6227,7 +6227,7 @@ estates_hutorokbaeva
 =>nrel_district:
     Soligorsky_district;
 =>nrel_city:
-    Podzhodsky graveyard
+    Podzhodsky graveyard;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6246,7 +6246,7 @@ estates_stonemagic
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Root
+    Root;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6265,7 +6265,7 @@ estates_snegiri
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Prileses
+    Prileses;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6284,7 +6284,7 @@ estates_aronova
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Aronova Sloboda
+    Aronova Sloboda;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6303,7 +6303,7 @@ estates_guesthousedorf
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Rudniks
+    Rudniks;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6322,7 +6322,7 @@ estates_restonriver
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Windows
+    Windows;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6341,7 +6341,7 @@ estates_guesthousenaprudah
 =>nrel_district:
     Chervensky_district;
 =>nrel_city:
-    Blade
+    Blade;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6360,7 +6360,7 @@ estates_terrassa
 =>nrel_district:
     Krusky_district;
 =>nrel_city:
-    Firmware
+    Firmware;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6379,7 +6379,7 @@ estates_uxnovka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yuhnovka
+    Yuhnovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6398,7 +6398,7 @@ estates_domikivlesu
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Likhachi
+    Likhachi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6417,7 +6417,7 @@ estates_fansport
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Raubichi
+    Raubichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6436,7 +6436,7 @@ estates_malyypriles
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Adhere
+    Adhere;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6455,7 +6455,7 @@ estates_bukovichi
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Bukovichi
+    Bukovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6474,7 +6474,7 @@ estates_usadbasan
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Markovschina
+    Markovschina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6493,7 +6493,7 @@ estates_koloda
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Casion
+    Casion;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6512,7 +6512,7 @@ estates_waterskicentr
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Volkovichi
+    Volkovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6531,7 +6531,7 @@ estates_stankovodom5
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Stankovo
+    Stankovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6550,7 +6550,7 @@ estates_nesvizhskiyposad
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Nesvizh
+    Nesvizh;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6569,7 +6569,7 @@ estates_naozere
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Naroch
+    Naroch;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6588,7 +6588,7 @@ estates_radyushi
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Radyushi.
+    Radyushi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6607,7 +6607,7 @@ estates_belswiss
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Pine
+    Pine;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6626,7 +6626,7 @@ estates_nanosydom2
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6645,7 +6645,7 @@ estates_lesnyedali
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Wet
+    Wet;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6664,7 +6664,7 @@ estates_ecodom
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Malinovshchka
+    Malinovshchka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6683,7 +6683,7 @@ estates_krolichyanora
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Honoles.
+    Honoles;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6702,7 +6702,7 @@ estates_stepenevo
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Naroch
+    Naroch;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6721,7 +6721,7 @@ estates_domikuozera
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Svir
+    Svir;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6740,7 +6740,7 @@ estates_bagatahata
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Peresada
+    Peresada;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6759,7 +6759,7 @@ estates_starina
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Starina
+    Starina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6778,7 +6778,7 @@ estates_dvabusla
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Robin
+    Robin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6797,7 +6797,7 @@ estates_vikey
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Petrovichi
+    Petrovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6816,7 +6816,7 @@ estates_urozhaynaya
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yield
+    Yield;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6835,7 +6835,7 @@ estates_razgyl
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Capplants
+    Capplants;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6854,7 +6854,7 @@ estates_silentplace
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Casion
+    Casion;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6873,7 +6873,7 @@ estates_nanosydom6
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6892,7 +6892,7 @@ estates_nata
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ratomka
+    Ratomka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6911,7 +6911,7 @@ estates_yanechkin
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Naroch
+    Naroch;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6930,7 +6930,7 @@ estates_solnechnayausadba
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Logoish
+    Logoish;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6949,7 +6949,7 @@ estates_krestyanka
 =>nrel_district:
     Slutsky_district;
 =>nrel_city:
-    Slutsk
+    Slutsk;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6968,7 +6968,7 @@ estates_zlatavilla
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Sili
+    Sili;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -6987,7 +6987,7 @@ estates_zanarochusadba
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Zakard
+    Zakard;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7006,7 +7006,7 @@ estates_4cezona
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Sili
+    Sili;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7025,7 +7025,7 @@ estates_dumki
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Mikhalovo.
+    Mikhalovo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7044,7 +7044,7 @@ estates_khutorokzarechnaya
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Tulenka
+    Tulenka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7063,7 +7063,7 @@ estates_vasilekyurkovichi
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Yurkovichi
+    Yurkovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7082,7 +7082,7 @@ estates_hutorles
 =>nrel_district:
     Chervensky_district;
 =>nrel_city:
-    Ivanichi
+    Ivanichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7101,7 +7101,7 @@ estates_naokolnoi
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Yuhnovka
+    Yuhnovka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7120,7 +7120,7 @@ estates_gostdom
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Veragi
+    Veragi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7139,7 +7139,7 @@ estates_uliavona
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Vishnevka
+    Vishnevka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7158,7 +7158,7 @@ estates_vraj
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Aronova Sloboda
+    Aronova Sloboda;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7177,7 +7177,7 @@ estates_rodniki
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Aksakovshchyna
+    Aksakovshchyna;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7196,7 +7196,7 @@ estates_6mestbazaolimpiec
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Seven
+    Seven;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7215,7 +7215,7 @@ estates_podvoriegolovki
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Heads
+    Heads;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7234,7 +7234,7 @@ estates_guesthousemolodi
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    More
+    More;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7253,7 +7253,7 @@ estates_batskovhata
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Lesuna
+    Lesuna;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7272,7 +7272,7 @@ estates_honeyworld
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Bark
+    Bark;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7291,7 +7291,7 @@ estates_volat
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Minsk
+    Minsk;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7310,7 +7310,7 @@ estates_ugolok
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7329,7 +7329,7 @@ estates_gorodishe
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Gorodishche
+    Gorodishche;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7348,7 +7348,7 @@ estates_bellajio
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zhdanovichi
+    Zhdanovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7367,7 +7367,7 @@ estates_kutenyata
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Kutenyata
+    Kutenyata;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7386,7 +7386,7 @@ estates_udrozda
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Gatovichi
+    Gatovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7405,7 +7405,7 @@ estates_prostokvashinonesvizh
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Nesvizh
+    Nesvizh;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7424,7 +7424,7 @@ estates_domugolok
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Values
+    Values;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7443,7 +7443,7 @@ estates_plashevburg
 =>nrel_district:
     Dzerzhinsky_district;
 =>nrel_city:
-    Plashevo
+    Plashevo;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7462,7 +7462,7 @@ estates_rodnya
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Nodny
+    Nodny;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7481,7 +7481,7 @@ estates_vboyarah
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Boyars
+    Boyars;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7500,7 +7500,7 @@ estates_rybatskidomikyunitskogo
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Maryina Gorka
+    Maryina Gorka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7519,7 +7519,7 @@ estates_naprudah
 =>nrel_district:
     Chervensky_district;
 =>nrel_city:
-    Blade
+    Blade;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7538,7 +7538,7 @@ estates_cnyanskaya
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Tsnyanka
+    Tsnyanka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7557,7 +7557,7 @@ estates_daryvelesa
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Bluja
+    Bluja;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7576,7 +7576,7 @@ estates_syabryna
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Priluki
+    Priluki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7595,7 +7595,7 @@ estates_levelup
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Zhukov meadow
+    Zhukov meadow;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7614,7 +7614,7 @@ estates_basandajka
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ostroshitsky city
+    Ostroshitsky city;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7633,7 +7633,7 @@ estates_dubravushka
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Machines
+    Machines;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7652,7 +7652,7 @@ estates_pavlovbastion
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Borisov.
+    Borisov;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7671,7 +7671,7 @@ estates_berezinskaya
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Skin
+    Skin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7690,7 +7690,7 @@ estates_oray
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ratomka
+    Ratomka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7709,7 +7709,7 @@ estates_vhata
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Kalyuga
+    Kalyuga;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7728,7 +7728,7 @@ estates_panskikutok
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Great Bakshts.
+    Great Bakshts;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7747,7 +7747,7 @@ estates_brili
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Brillia
+    Brillia;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7766,7 +7766,7 @@ estates_domikrybaka
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Pine
+    Pine;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7785,7 +7785,7 @@ estates_artusadba
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Calnesses
+    Calnesses;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7804,7 +7804,7 @@ estates_starinki
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Old people
+    Old people;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7823,7 +7823,7 @@ estates_okolitsamolodechno
 =>nrel_district:
     Molodenensky_district;
 =>nrel_city:
-    Lobachevka
+    Lobachevka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7842,7 +7842,7 @@ estates_ludmila
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    New yard
+    New yard;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7861,7 +7861,7 @@ estates_pasechnik
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Svir
+    Svir;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7880,7 +7880,7 @@ estates_lagodnaye
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Pleshchenitsy
+    Pleshchenitsy;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7899,7 +7899,7 @@ estates_mitinatsel
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Target
+    Target;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7918,7 +7918,7 @@ estates_alexandria
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Sili
+    Sili;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7937,7 +7937,7 @@ estates_useregi
 =>nrel_district:
     Slutsky_district;
 =>nrel_city:
-    Lighthouse
+    Lighthouse;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7956,7 +7956,7 @@ estates_klevaya
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Bykovichi
+    Bykovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7975,7 +7975,7 @@ estates_uozerausadba
 =>nrel_district:
     Kopyl_district;
 =>nrel_city:
-    Bogushi
+    Bogushi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -7994,7 +7994,7 @@ estates_botyan
 =>nrel_district:
     Volozhinsky_district;
 =>nrel_city:
-    Dolknevichi
+    Dolknevichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8013,7 +8013,7 @@ estates_novosele
 =>nrel_district:
     Column_area;
 =>nrel_city:
-    Housewarming
+    Housewarming;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8032,7 +8032,7 @@ estates_tdg
 =>nrel_district:
     Berezinsky_district;
 =>nrel_city:
-    Red Zork
+    Red Zork;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8051,7 +8051,7 @@ estates_svetlaya
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Glivin.
+    Glivin;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8070,7 +8070,7 @@ estates_syalyanka
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Big Holor
+    Big Holor;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8089,7 +8089,7 @@ estates_usadbadomikupruda
 =>nrel_district:
     Vilesky_district;
 =>nrel_city:
-    Old people
+    Old people;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8108,7 +8108,7 @@ estates_ubondaranazagrebli
 =>nrel_district:
     Uzdensky_district;
 =>nrel_city:
-    Highs
+    Highs;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8127,7 +8127,7 @@ estates_dikizapad
 =>nrel_district:
     Logoysky_district;
 =>nrel_city:
-    Logoish
+    Logoish;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8146,7 +8146,7 @@ estates_snyatsauna
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Senica
+    Senica;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8165,7 +8165,7 @@ estates_seljava
 =>nrel_district:
     Krusky_district;
 =>nrel_city:
-    Sturgeon
+    Sturgeon;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8184,7 +8184,7 @@ estates_aksakovshina
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Aksakovshchyna
+    Aksakovshchyna;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8203,7 +8203,7 @@ estates_uozerapasynki
 =>nrel_district:
     Madelsky_district;
 =>nrel_city:
-    Steying
+    Steying;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8222,7 +8222,7 @@ estates_lakamina
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Ratomka
+    Ratomka;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8241,7 +8241,7 @@ estates_dlyadushi
 =>nrel_district:
     Smolevichsky_district;
 =>nrel_city:
-    Bridge
+    Bridge;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8260,7 +8260,7 @@ estates_malinniki
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Malniki.
+    Malniki;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8279,7 +8279,7 @@ estates_kupalie
 =>nrel_district:
     Pukhovichi_district;
 =>nrel_city:
-    Kupali
+    Kupali;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8298,7 +8298,7 @@ estates_woodenvilla
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Casion
+    Casion;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8317,7 +8317,7 @@ estates_veseluyhutor
 =>nrel_district:
     Kletsky_district;
 =>nrel_city:
-    Starosela
+    Starosela;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8336,7 +8336,7 @@ estates_banyastarina
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Starina
+    Starina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8355,7 +8355,7 @@ estates_trilisy
 =>nrel_district:
     Minsk_district;
 =>nrel_city:
-    Volovchchina
+    Volovchchina;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8374,7 +8374,7 @@ estates_ubatorino
 =>nrel_district:
     Nesvizhsky_district;
 =>nrel_city:
-    Shikovichi
+    Shikovichi;
 =>nrel_search_area:
     Minsk_Region;;
         
@@ -8393,6 +8393,6 @@ estates_krug
 =>nrel_district:
     Borisovsky_district;
 =>nrel_city:
-    Sands
+    Sands;
 =>nrel_search_area:
     Minsk_Region;;
