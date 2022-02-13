@@ -1,0 +1,6 @@
+otdeleniye_n3__folyush_ <- concept_police;
+=>nrel_main_idtf:
+    [Отделение №3 "Фолюш"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;
