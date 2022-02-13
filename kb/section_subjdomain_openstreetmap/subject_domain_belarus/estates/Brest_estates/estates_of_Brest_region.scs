@@ -983,7 +983,7 @@ estates_pruska
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-	Priska-Volgin;
+	Priska_Volgin;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2484,7 +2484,7 @@ estates_gvozd
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-	Nail-1;
+	Nail_1;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2522,7 +2522,7 @@ estates_carskayausadba
 =>nrel_district:
     Kamenetsky_district;
 =>nrel_city:
-	Nail-1;
+	Nail_1;
 =>nrel_search_area:
     Brest_region;;
         
@@ -2655,7 +2655,7 @@ estates_tribogatyrya
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-	Sands-1;
+	Sands_1;
 =>nrel_search_area:
     Brest_region;;
         
@@ -3092,7 +3092,7 @@ estates_cvetochnyrai
 =>nrel_district:
     Kobrinsky_district;
 =>nrel_city:
-	Sands-1;
+	Sands_1;
 =>nrel_search_area:
     Brest_region;;
         

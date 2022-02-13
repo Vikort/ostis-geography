@@ -242,7 +242,7 @@ estates_magnoliya
 =>nrel_district:
     Krezhunsky_district;
 =>nrel_city:
-	Prigani-1;
+	Prigani_1;
 =>nrel_search_area:
     Mogilev_region;;
         
@@ -698,7 +698,7 @@ estates_priganskijbereg
 =>nrel_district:
     Krezhunsky_district;
 =>nrel_city:
-	Prigani-1;
+	Prigani_1;
 =>nrel_search_area:
     Mogilev_region;;
         
