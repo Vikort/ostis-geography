@@ -14,7 +14,7 @@ estates_dubrovshina
 =>nrel_district:
     Slonimsky_district;
 =>nrel_city:
-    Volcons;
+	Volcons;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -33,7 +33,7 @@ estates_aist
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Omnevichi;
+	Omnevichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -52,7 +52,7 @@ estates_domgrafatyshkevicha
 =>nrel_district:
     Svislochesky_district;
 =>nrel_city:
-    Zharkovskaya;
+	Zharkovskaya;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -71,7 +71,7 @@ estates_lesnojedem
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Likhachi;
+	Likhachi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -90,7 +90,7 @@ estates_zlatyteren
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Guns;
+	Guns;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -109,7 +109,7 @@ estates_dertnica
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Duttern;
+	Duttern;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -128,7 +128,7 @@ estates_akrasila
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Puddle;
+	Puddle;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -147,7 +147,7 @@ estates_utsishy
 =>nrel_district:
     Volkovysky_district;
 =>nrel_city:
-    Vishnevichi;
+	Vishnevichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -166,7 +166,7 @@ estates_krevskaya
 =>nrel_district:
     Smorgon_district;
 =>nrel_city:
-    Krevo;
+	Krevo;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -185,7 +185,7 @@ estates_stavy
 =>nrel_district:
     Ostrovsky_district;
 =>nrel_city:
-    Ostrovsky;
+	Ostrovsky;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -204,7 +204,7 @@ estates_bubliki
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Sheluti;
+	Sheluti;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -223,7 +223,7 @@ estates_tartak
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Tartak;
+	Tartak;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -242,7 +242,7 @@ estates_palnica
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Finger;
+	Finger;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -261,7 +261,7 @@ estates_lebedkaby
 =>nrel_district:
     Schuchinsky_district;
 =>nrel_city:
-    Degtyara;
+	Degtyara;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -280,7 +280,7 @@ estates_bbgrodno
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Shore;
+	Shore;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -299,7 +299,7 @@ estates_boroviki12
 =>nrel_district:
     Dyatlovsky_district;
 =>nrel_city:
-    Boroviki;
+	Boroviki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -318,7 +318,7 @@ estates_vajciushki
 =>nrel_district:
     Novogrudsky_district;
 =>nrel_city:
-    Vasilevichi;
+	Vasilevichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -337,7 +337,7 @@ estates_novoselki
 =>nrel_district:
     Mostovsky_district;
 =>nrel_city:
-    Newslines;
+	Newslines;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -356,7 +356,7 @@ estates_belavezskikut
 =>nrel_district:
     Svislochesky_district;
 =>nrel_city:
-    New yard;
+	New_yard;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -375,7 +375,7 @@ estates_dom4luga
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Tinevichi;
+	Tinevichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -394,7 +394,7 @@ estates_novysad
 =>nrel_district:
     Novogrudsky_district;
 =>nrel_city:
-    Novosada;
+	Novosada;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -413,7 +413,7 @@ estates_kutoklakotru
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Golovachi;
+	Golovachi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -432,7 +432,7 @@ estates_sonichi
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Sonychi;
+	Sonychi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -451,7 +451,7 @@ estates_kamenistoe
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Kamenka;
+	Kamenka;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -470,7 +470,7 @@ estates_adpaczynak
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Sopozkin;
+	Sopozkin;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -489,7 +489,7 @@ estates_mirnaya
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Ozersko;
+	Ozersko;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -508,7 +508,7 @@ estates_domochag
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Zhukevichi;
+	Zhukevichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -527,7 +527,7 @@ estates_nemansky
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Biscief;
+	Biscief;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -546,7 +546,7 @@ estates_agroskidel
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Skidel;
+	Skidel;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -565,7 +565,7 @@ estates_pogostim
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Dubinka;
+	Dubinka;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -584,7 +584,7 @@ estates_chernyekamni
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Students;
+	Students;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -603,7 +603,7 @@ estates_krinichnoe
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Crop;
+	Crop;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -622,7 +622,7 @@ estates_prudcy
 =>nrel_district:
     Schuchinsky_district;
 =>nrel_city:
-    Prudnikov;
+	Prudnikov;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -641,7 +641,7 @@ estates_maentaktrichi
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Trabutishi;
+	Trabutishi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -660,7 +660,7 @@ estates_molodaja
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Grodno;
+	Grodno;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -679,7 +679,7 @@ estates_marchukova
 =>nrel_district:
     Schuchinsky_district;
 =>nrel_city:
-    Stomach;
+	Stomach;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -698,7 +698,7 @@ estates_unikolaicha
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Plebans;
+	Plebans;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -717,7 +717,7 @@ estates_vyalikaezapruddze
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Rasolishi;
+	Rasolishi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -736,7 +736,7 @@ estates_piekla
 =>nrel_district:
     Ostrovsky_district;
 =>nrel_city:
-    Ostrovsky;
+	Ostrovsky;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -755,7 +755,7 @@ estates_backova
 =>nrel_district:
     Smorgon_district;
 =>nrel_city:
-    Sutkovo;
+	Sutkovo;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -774,7 +774,7 @@ estates_bavaria
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Starina;
+	Starina;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -793,7 +793,7 @@ estates_zvezdnaya
 =>nrel_district:
     Volkovysky_district;
 =>nrel_city:
-    Star;
+	Star;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -812,7 +812,7 @@ estates_nemanskievasilki
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Barovo;
+	Barovo;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -831,7 +831,7 @@ estates_adamant
 =>nrel_district:
     Dyatlovsky_district;
 =>nrel_city:
-    Gezga;
+	Gezga;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -850,7 +850,7 @@ estates_bush
 =>nrel_district:
     Oshmyany_district;
 =>nrel_city:
-    Markynyat;
+	Markynyat;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -869,7 +869,7 @@ estates_priozernaja
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Ogorodniki;
+	Ogorodniki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -888,7 +888,7 @@ estates_dvoryanskoegnezdo
 =>nrel_district:
     Berezovitsky_district;
 =>nrel_city:
-    White courtyard;
+	White_courtyard;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -907,7 +907,7 @@ estates_melniki
 =>nrel_district:
     Volkovysky_district;
 =>nrel_city:
-    Ros;
+	Ros;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -926,7 +926,7 @@ estates_tarusichi
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Tarusii;
+	Tarusii;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -945,7 +945,7 @@ estates_karuselhouse
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    White coast;
+	White_coast;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -964,7 +964,7 @@ estates_podorogenavilnyu
 =>nrel_district:
     Oshmyany_district;
 =>nrel_city:
-    Oshmyany;
+	Oshmyany;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -983,7 +983,7 @@ estates_morinskoe
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Morino;
+	Morino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1002,7 +1002,7 @@ estates_omnevichi
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Omnevichi;
+	Omnevichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1021,7 +1021,7 @@ estates_svayakgrodno
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Silver;
+	Silver;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1040,7 +1040,7 @@ estates_polezhino
 =>nrel_district:
     Berezovitsky_district;
 =>nrel_city:
-    Polezhino;
+	Polezhino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1059,7 +1059,7 @@ estates_agrohome
 =>nrel_district:
     Novogrudsky_district;
 =>nrel_city:
-    Zhdanovichi;
+	Zhdanovichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1078,7 +1078,7 @@ estates_komarishki
 =>nrel_district:
     Ostrovsky_district;
 =>nrel_city:
-    Big Strat;
+	Big_Strat;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1097,7 +1097,7 @@ estates_veres
 =>nrel_district:
     Zelvensky_district;
 =>nrel_city:
-    Kozlovichi;
+	Kozlovichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1116,7 +1116,7 @@ estates_gascinydvorgrodno
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Dinova 1;
+	Dinova_1;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1135,7 +1135,7 @@ estates_levada
 =>nrel_district:
     Slonimsky_district;
 =>nrel_city:
-    Somino;
+	Somino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1154,7 +1154,7 @@ estates_nikolaevo
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Nikolaevo;
+	Nikolaevo;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1173,7 +1173,7 @@ estates_anneta
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Unmann;
+	Unmann;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1192,7 +1192,7 @@ estates_augustowskizakutok
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Sopozkin;
+	Sopozkin;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1211,7 +1211,7 @@ estates_domiknovoselki
 =>nrel_district:
     Mostovsky_district;
 =>nrel_city:
-    Newslines;
+	Newslines;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1230,7 +1230,7 @@ estates_novayaruda
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    New Ruda;
+	New_Ruda;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1249,7 +1249,7 @@ estates_karina
 =>nrel_district:
     Oshmyany_district;
 =>nrel_city:
-    Onshers;
+	Onshers;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1268,7 +1268,7 @@ estates_hatamagnata
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Ozers;
+	Ozers;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1287,7 +1287,7 @@ estates_nachernoyganche
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Guns;
+	Guns;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1306,7 +1306,7 @@ estates_sarochozera
 =>nrel_district:
     Ostrovsky_district;
 =>nrel_city:
-    Podlipier;
+	Podlipier;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1325,7 +1325,7 @@ estates_ulukomoryagrodno
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Pubbury;
+	Pubbury;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1344,7 +1344,7 @@ estates_dvabysla
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Discusso;
+	Discusso;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1363,7 +1363,7 @@ estates_bankauanki
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Ozers;
+	Ozers;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1382,7 +1382,7 @@ estates_mirzamok
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Peace;
+	Peace;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1401,7 +1401,7 @@ estates_usadbauslada
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    IVE;
+	IVE;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1420,7 +1420,7 @@ estates_laradona
 =>nrel_district:
     Dyatlovsky_district;
 =>nrel_city:
-    Kurpeishi;
+	Kurpeishi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1439,7 +1439,7 @@ estates_ynarvu
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Discusso;
+	Discusso;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1458,7 +1458,7 @@ estates_selyahi
 =>nrel_district:
     Volkovysky_district;
 =>nrel_city:
-    Selya;
+	Selya;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1477,7 +1477,7 @@ estates_grebubliki
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Reserve;
+	Reserve;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1496,7 +1496,7 @@ estates_olhovo
 =>nrel_district:
     Volkovysky_district;
 =>nrel_city:
-    Olkhovo;
+	Olkhovo;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1515,7 +1515,7 @@ estates_kazanmangal
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Small Olshanka;
+	Small_Olshanka;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1534,7 +1534,7 @@ estates_romanovci
 =>nrel_district:
     Svislochesky_district;
 =>nrel_city:
-    Romanovtsy;
+	Romanovtsy;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1553,7 +1553,7 @@ estates_bobrovadolina
 =>nrel_district:
     Schuchinsky_district;
 =>nrel_city:
-    Kulbachino;
+	Kulbachino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1572,7 +1572,7 @@ estates_kolonaya
 =>nrel_district:
     Svislochesky_district;
 =>nrel_city:
-    Well;
+	Well;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1591,7 +1591,7 @@ estates_kalilaska
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Koreani;
+	Koreani;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1610,7 +1610,7 @@ estates_zakaduchnaya
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Isle;
+	Isle;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1629,7 +1629,7 @@ estates_medpanaceya
 =>nrel_district:
     Dyatlovsky_district;
 =>nrel_city:
-    Stroelnya;
+	Stroelnya;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1648,7 +1648,7 @@ estates_bookashkindom
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    LETUSKA;
+	LETUSKA;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1667,7 +1667,7 @@ estates_krajozer
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Pyru;
+	Pyru;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1686,7 +1686,7 @@ estates_zelenydom
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Carolino;
+	Carolino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1705,7 +1705,7 @@ estates_ranchorodeo
 =>nrel_district:
     Novogrudsky_district;
 =>nrel_city:
-    Leshechenka;
+	Leshechenka;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1724,7 +1724,7 @@ estates_xytorok
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Lida;
+	Lida;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1743,7 +1743,7 @@ estates_grodnodomohotnika
 =>nrel_district:
     Svislochesky_district;
 =>nrel_city:
-    Stoki;
+	Stoki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1762,7 +1762,7 @@ estates_tribobra
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Salatier;
+	Salatier;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1781,7 +1781,7 @@ estates_boroviki34
 =>nrel_district:
     Dyatlovsky_district;
 =>nrel_city:
-    Boroviki;
+	Boroviki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1800,7 +1800,7 @@ estates_udonamirona
 =>nrel_district:
     Zelvensky_district;
 =>nrel_city:
-    Berezhki;
+	Berezhki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1819,7 +1819,7 @@ estates_snigyany
 =>nrel_district:
     Smorgon_district;
 =>nrel_city:
-    Sniganians;
+	Sniganians;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1838,7 +1838,7 @@ estates_emelyanovo
 =>nrel_district:
     Volkovysky_district;
 =>nrel_city:
-    Emelyanovo;
+	Emelyanovo;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1857,7 +1857,7 @@ estates_pozharki
 =>nrel_district:
     Volkovysky_district;
 =>nrel_city:
-    Pierce;
+	Pierce;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1876,7 +1876,7 @@ estates_wjachkojni
 =>nrel_district:
     Oshmyany_district;
 =>nrel_city:
-    Night;
+	Night;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1895,7 +1895,7 @@ estates_kamenskoe
 =>nrel_district:
     Schuchinsky_district;
 =>nrel_city:
-    Pike;
+	Pike;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1914,7 +1914,7 @@ estates_vita
 =>nrel_district:
     Smorgon_district;
 =>nrel_city:
-    War Names;
+	War_Names;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1933,7 +1933,7 @@ estates_domik
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Selets;
+	Selets;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1952,7 +1952,7 @@ estates_hatkalyapruda
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Biscief;
+	Biscief;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1971,7 +1971,7 @@ estates_ostrovles
 =>nrel_district:
     Ostrovsky_district;
 =>nrel_city:
-    Women;
+	Women;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -1990,7 +1990,7 @@ estates_dainova1
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Dinova 1;
+	Dinova_1;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2009,7 +2009,7 @@ estates_kalyaduba
 =>nrel_district:
     Dyatlovsky_district;
 =>nrel_city:
-    Ameks;
+	Ameks;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2028,7 +2028,7 @@ estates_breadsalt
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Koroboxy;
+	Koroboxy;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2047,7 +2047,7 @@ estates_nadunaevke
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Pyru;
+	Pyru;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2066,7 +2066,7 @@ estates_solovinayapesnya
 =>nrel_district:
     Voronovsky_district;
 =>nrel_city:
-    Voronovo;
+	Voronovo;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2085,7 +2085,7 @@ estates_nadgavei
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Pulley;
+	Pulley;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2104,7 +2104,7 @@ estates_milva
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Millva-Berezina;
+	Millva-Berezina;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2123,7 +2123,7 @@ estates_selets
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Selets;
+	Selets;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2142,7 +2142,7 @@ estates_guesthousemirsriyakrinicy
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Higher;
+	Higher;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2161,7 +2161,7 @@ estates_usadbanaozere
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Ozers;
+	Ozers;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2180,7 +2180,7 @@ estates_feradki
 =>nrel_district:
     Slonimsky_district;
 =>nrel_city:
-    Feradia;
+	Feradia;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2199,7 +2199,7 @@ estates_arkada
 =>nrel_district:
     Berezovitsky_district;
 =>nrel_city:
-    Large eysmonts;
+	Large_eysmonts;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2218,7 +2218,7 @@ estates_lapenkax
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Grodno;
+	Grodno;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2237,7 +2237,7 @@ estates_nemans
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Morino;
+	Morino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2256,7 +2256,7 @@ estates_dom2luga
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Tinevichi;
+	Tinevichi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2275,7 +2275,7 @@ estates_chereshlya
 =>nrel_district:
     Novogrudsky_district;
 =>nrel_city:
-    Cherry;
+	Cherry;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2294,7 +2294,7 @@ estates_svetlazara
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Peace;
+	Peace;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2313,7 +2313,7 @@ estates_ladeniki
 =>nrel_district:
     Novogrudsky_district;
 =>nrel_city:
-    Ladnes;
+	Ladnes;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2332,7 +2332,7 @@ estates_moyrodnykut
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Dry mountain;
+	Dry_mountain;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2351,7 +2351,7 @@ estates_shchodryneman
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Ogorodniki;
+	Ogorodniki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2370,7 +2370,7 @@ estates_zhirovichpred
 =>nrel_district:
     Slonimsky_district;
 =>nrel_city:
-    Zhirovachi;
+	Zhirovachi;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2389,7 +2389,7 @@ estates_boyary
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Boyars;
+	Boyars;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2408,7 +2408,7 @@ estates_maryanka
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Rybnitsa;
+	Rybnitsa;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2427,7 +2427,7 @@ estates_liavonaukhutorok
 =>nrel_district:
     Svislochesky_district;
 =>nrel_city:
-    Sidorki;
+	Sidorki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2446,7 +2446,7 @@ estates_agrousadbalesnaya
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    New Ruda;
+	New_Ruda;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2465,7 +2465,7 @@ estates_mechtagrodno
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Porechye;
+	Porechye;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2484,7 +2484,7 @@ estates_lesnica
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Lesnash;
+	Lesnash;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2503,7 +2503,7 @@ estates_vjales
 =>nrel_district:
     Smorgon_district;
 =>nrel_city:
-    Zhodiska;
+	Zhodiska;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2522,7 +2522,7 @@ estates_karalino
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Carolino;
+	Carolino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2541,7 +2541,7 @@ estates_uparoma
 =>nrel_district:
     Lidsky_district;
 =>nrel_city:
-    Discusso;
+	Discusso;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2560,7 +2560,7 @@ estates_yantarnaya
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Grodno;
+	Grodno;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2579,7 +2579,7 @@ estates_gostinnaya7
 =>nrel_district:
     Grodno_district;
 =>nrel_city:
-    Koroboxy;
+	Koroboxy;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2598,7 +2598,7 @@ estates_shimki
 =>nrel_district:
     Mostovsky_district;
 =>nrel_city:
-    Shimki;
+	Shimki;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2617,7 +2617,7 @@ estates_naneman
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Morino;
+	Morino;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2636,7 +2636,7 @@ estates_hatkadostatka
 =>nrel_district:
     Schuchinsky_district;
 =>nrel_city:
-    Fishermen;
+	Fishermen;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2655,7 +2655,7 @@ estates_mirsriyakrinicy
 =>nrel_district:
     Korean_district;
 =>nrel_city:
-    Higher;
+	Higher;
 =>nrel_search_area:
     The_Grodno_region;;
         
@@ -2674,6 +2674,6 @@ estates_nemanskoye
 =>nrel_district:
     Ivsevsky_district;
 =>nrel_city:
-    Lelyuki;
+	Lelyuki;
 =>nrel_search_area:
     The_Grodno_region;;

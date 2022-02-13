@@ -14,7 +14,7 @@ estates_4sezona
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogino;
+	Bogino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -33,7 +33,7 @@ estates_agrousadbaostrov
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Rudnya;
+	Rudnya;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -52,7 +52,7 @@ estates_chaykadubki
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Dubci;
+	Dubci;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -71,7 +71,7 @@ estates_akarina
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Novoselki;
+	Novoselki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -90,7 +90,7 @@ estates_biosfera
 =>nrel_district:
     Dokshitsky_district;
 =>nrel_city:
-    Klianniki;
+	Klianniki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -109,7 +109,7 @@ estates_trisosny
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -128,7 +128,7 @@ estates_kozlovichi
 =>nrel_district:
     Orshansky_district;
 =>nrel_city:
-    Kozlovichi-1;
+	Kozlovichi-1;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -147,7 +147,7 @@ estates_rozalinausadba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Tails;
+	Tails;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -166,7 +166,7 @@ estates_privolye
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Kuzho;
+	Kuzho;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -185,7 +185,7 @@ estates_osotnousadba
 =>nrel_district:
     Gorodoksky_district;
 =>nrel_city:
-    NEW;
+	NEW;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -204,7 +204,7 @@ estates_lika
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Courtyard;
+	Courtyard;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -223,7 +223,7 @@ estates_berejje
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Nadberzhye;
+	Nadberzhye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -242,7 +242,7 @@ estates_letnysoneika
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -261,7 +261,7 @@ estates_chistyeklyuchi
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Communar;
+	Communar;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -280,7 +280,7 @@ estates_belmonty
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ahremovtsy;
+	Ahremovtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -299,7 +299,7 @@ estates_horen
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Klyastitsy;
+	Klyastitsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -318,7 +318,7 @@ estates_luxpluslode
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    New Ladna;
+	New_Ladna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -337,7 +337,7 @@ estates_ekonomlode
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    New Ladna;
+	New_Ladna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -356,7 +356,7 @@ estates_gribnoybabariki
 =>nrel_district:
     Gorodoksky_district;
 =>nrel_city:
-    Bobanyki;
+	Bobanyki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -375,7 +375,7 @@ estates_medovyybabariki
 =>nrel_district:
     Gorodoksky_district;
 =>nrel_city:
-    Bobanyki;
+	Bobanyki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -394,7 +394,7 @@ estates_sinica
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Petukhovschina;
+	Petukhovschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -413,7 +413,7 @@ estates_uiana
 =>nrel_district:
     Verkhnedvinsky_district;
 =>nrel_city:
-    Verkhnedvinsk;
+	Verkhnedvinsk;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -432,7 +432,7 @@ estates_hunttolochin
 =>nrel_district:
     Tolochinsky_district;
 =>nrel_city:
-    Racey;
+	Racey;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -451,7 +451,7 @@ estates_nashirokih
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ratoney;
+	Ratoney;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -470,7 +470,7 @@ estates_snegipark
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Snow;
+	Snow;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -489,7 +489,7 @@ estates_jivica
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Long;
+	Long;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -508,7 +508,7 @@ estates_zarubezhe
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -527,7 +527,7 @@ estates_uninel
 =>nrel_district:
     Lioznensky_district;
 =>nrel_city:
-    Guns;
+	Guns;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -546,7 +546,7 @@ estates_vdubah
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Great;
+	Great;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -565,7 +565,7 @@ estates_plisskayagubernya
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Plisa;
+	Plisa;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -584,7 +584,7 @@ estates_mezhozernaya
 =>nrel_district:
     Beshenkovichsky_district;
 =>nrel_city:
-    Panteles;
+	Panteles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -603,7 +603,7 @@ estates_baykal2
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Zyabki;
+	Zyabki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -622,7 +622,7 @@ estates_nordost
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Fence;
+	Fence;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -641,7 +641,7 @@ estates_yanovo
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Yanovo;
+	Yanovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -660,7 +660,7 @@ estates_zamoshskiyeozera
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Zawshye;
+	Zawshye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -679,7 +679,7 @@ estates_portartur
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rase;
+	Rase;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -698,7 +698,7 @@ estates_orehovo
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Hooks;
+	Hooks;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -717,7 +717,7 @@ estates_bolduk
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Tuskins;
+	Tuskins;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -736,7 +736,7 @@ estates_domikohotnika
 =>nrel_district:
     Shumilinsky_district;
 =>nrel_city:
-    Equal;
+	Equal;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -755,7 +755,7 @@ estates_inovo
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Inovo;
+	Inovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -774,7 +774,7 @@ estates_ozeroluchay
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Looda;
+	Looda;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -793,7 +793,7 @@ estates_domiknabraslavah
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Gavrilovtsy;
+	Gavrilovtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -812,7 +812,7 @@ estates_krainamar
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Khroli;
+	Khroli;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -831,7 +831,7 @@ estates_ustelife
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mouth;
+	Mouth;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -850,7 +850,7 @@ estates_utatiany
 =>nrel_district:
     Dokshitsky_district;
 =>nrel_city:
-    Pomework;
+	Pomework;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -869,7 +869,7 @@ estates_vintageusadba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -888,7 +888,7 @@ estates_tatyana
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -907,7 +907,7 @@ estates_utrina
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Morgue;
+	Morgue;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -926,7 +926,7 @@ estates_miheevskiy
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mikheevtsy;
+	Mikheevtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -945,7 +945,7 @@ estates_malta
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -964,7 +964,7 @@ estates_edishki
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Deans;
+	Deans;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -983,7 +983,7 @@ estates_krivoselcy
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    KrivoSells;
+	KrivoSells;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1002,7 +1002,7 @@ estates_mihaylovskayazavodz
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Gendics;
+	Gendics;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1021,7 +1021,7 @@ estates_paparatkvetka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogino;
+	Bogino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1040,7 +1040,7 @@ estates_kacyaryna
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Zakharny;
+	Zakharny;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1059,7 +1059,7 @@ estates_buzhanka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Kuzho;
+	Kuzho;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1078,7 +1078,7 @@ estates_vnk
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    New Ladna;
+	New_Ladna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1097,7 +1097,7 @@ estates_yustiyanovo
 =>nrel_district:
     Verkhnedvinsky_district;
 =>nrel_city:
-    Uritshi;
+	Uritshi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1116,7 +1116,7 @@ estates_alesyabraslav
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1135,7 +1135,7 @@ estates_spadchynasenno
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Zaozerier;
+	Zaozerier;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1154,7 +1154,7 @@ estates_panskoemestechko
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    NEW SPIREN;
+	NEW_SPIREN;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1173,7 +1173,7 @@ estates_uborisovicha
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mouth;
+	Mouth;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1192,7 +1192,7 @@ estates_uzhuravlya
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Leonpol;
+	Leonpol;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1211,7 +1211,7 @@ estates_uyutdvortolochin
 =>nrel_district:
     Tolochinsky_district;
 =>nrel_city:
-    Zagodie;
+	Zagodie;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1230,7 +1230,7 @@ estates_erashouskihutarok
 =>nrel_district:
     Shumilinsky_district;
 =>nrel_city:
-    Erashovo;
+	Erashovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1249,7 +1249,7 @@ estates_naopyshke
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Humna fence;
+	Humna_fence;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1268,7 +1268,7 @@ estates_novoselovo
 =>nrel_district:
     Chesnik_district;
 =>nrel_city:
-    Novoselovo;
+	Novoselovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1287,7 +1287,7 @@ estates_dolgoe
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Zyabki;
+	Zyabki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1306,7 +1306,7 @@ estates_lvinoeserdtse
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1325,7 +1325,7 @@ estates_babariki
 =>nrel_district:
     Gorodoksky_district;
 =>nrel_city:
-    Bobanyki;
+	Bobanyki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1344,7 +1344,7 @@ estates_guesthousemedv1
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Bobruischyna;
+	Bobruischyna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1363,7 +1363,7 @@ estates_bobrenata
 =>nrel_district:
     Chesnik_district;
 =>nrel_city:
-    Abasser;
+	Abasser;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1382,7 +1382,7 @@ estates_otdykhnaprudu
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1401,7 +1401,7 @@ estates_brachislav
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1420,7 +1420,7 @@ estates_hutormustang
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Suitovskoye;
+	Suitovskoye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1439,7 +1439,7 @@ estates_shaleinovo
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Inovo;
+	Inovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1458,7 +1458,7 @@ estates_postavyforest
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Guta;
+	Guta;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1477,7 +1477,7 @@ estates_strustodacha
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1496,7 +1496,7 @@ estates_nomerbaykal
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Zyabki;
+	Zyabki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1515,7 +1515,7 @@ estates_usadbalesnaya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Degtyari;
+	Degtyari;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1534,7 +1534,7 @@ estates_gnezdo
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1553,7 +1553,7 @@ estates_sonechnyebary
 =>nrel_district:
     Lioznensky_district;
 =>nrel_city:
-    Dobromysli;
+	Dobromysli;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1572,7 +1572,7 @@ estates_kupcheli
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Purchase;
+	Purchase;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1591,7 +1591,7 @@ estates_cernishki
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1610,7 +1610,7 @@ estates_ubozheny
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rubezh;
+	Rubezh;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1629,7 +1629,7 @@ estates_vostr
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Cryption;
+	Cryption;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1648,7 +1648,7 @@ estates_uknyazya
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Snow;
+	Snow;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1667,7 +1667,7 @@ estates_nedrovo
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mouth;
+	Mouth;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1686,7 +1686,7 @@ estates_usadbadomikvderevne
 =>nrel_district:
     Ushachsky_district;
 =>nrel_city:
-    Zawshye;
+	Zawshye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1705,7 +1705,7 @@ estates_pousvizh
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Big Polysvizh;
+	Big_Polysvizh;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1724,7 +1724,7 @@ estates_dachavstrusto
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1743,7 +1743,7 @@ estates_romashka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1762,7 +1762,7 @@ estates_demeh
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Demee;
+	Demee;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1781,7 +1781,7 @@ estates_domikulisa
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    White;
+	White;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1800,7 +1800,7 @@ estates_braslavskiyfort
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Mural;
+	Mural;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1819,7 +1819,7 @@ estates_agrodubrava
 =>nrel_district:
     Verkhnedvinsky_district;
 =>nrel_city:
-    Verkhnedvinsk;
+	Verkhnedvinsk;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1838,7 +1838,7 @@ estates_ualeksandrovicha
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Prickly;
+	Prickly;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1857,7 +1857,7 @@ estates_sonnayaloshchina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1876,7 +1876,7 @@ estates_nadolje
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Dome;
+	Dome;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1895,7 +1895,7 @@ estates_nalepelskih
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Dammer;
+	Dammer;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1914,7 +1914,7 @@ estates_milashki
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bobyli;
+	Bobyli;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1933,7 +1933,7 @@ estates_khomkovshchina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1952,7 +1952,7 @@ estates_dachastrusto
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1971,7 +1971,7 @@ estates_uyasya
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Cherven;
+	Cherven;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -1990,7 +1990,7 @@ estates_vpanteleykah
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Panteles;
+	Panteles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2009,7 +2009,7 @@ estates_ozernyjkraj
 =>nrel_district:
     Dokshitsky_district;
 =>nrel_city:
-    Stanislavtsy;
+	Stanislavtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2028,7 +2028,7 @@ estates_bannydvor
 =>nrel_district:
     Sharkovshchinsky_district;
 =>nrel_city:
-    Olkhovtsy;
+	Olkhovtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2047,7 +2047,7 @@ estates_solnechnaia
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Lyatohi;
+	Lyatohi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2066,7 +2066,7 @@ estates_strustostyle
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2085,7 +2085,7 @@ estates_regentzhemchuzhina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Panteles;
+	Panteles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2104,7 +2104,7 @@ estates_utatianyozernaya
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Skulls;
+	Skulls;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2123,7 +2123,7 @@ estates_kupalnica
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Melikovo;
+	Melikovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2142,7 +2142,7 @@ estates_gagarina9
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2161,7 +2161,7 @@ estates_shalelode
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    New Ladna;
+	New_Ladna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2180,7 +2180,7 @@ estates_molodezhpoluostrov
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Panteles;
+	Panteles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2199,7 +2199,7 @@ estates_medv
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Bobruischyna;
+	Bobruischyna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2218,7 +2218,7 @@ estates_derevenskybabariki
 =>nrel_district:
     Gorodoksky_district;
 =>nrel_city:
-    Bobanyki;
+	Bobanyki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2237,7 +2237,7 @@ estates_uanny
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Milyunsy;
+	Milyunsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2256,7 +2256,7 @@ estates_osinovka
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Mioras;
+	Mioras;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2275,7 +2275,7 @@ estates_soneika
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2294,7 +2294,7 @@ estates_radost
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Tuskins;
+	Tuskins;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2313,7 +2313,7 @@ estates_usadbastrusto
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2332,7 +2332,7 @@ estates_nikolayevskiposad
 =>nrel_district:
     Ushachsky_district;
 =>nrel_city:
-    Sergeany;
+	Sergeany;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2351,7 +2351,7 @@ estates_ukonstantina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogdanovo;
+	Bogdanovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2370,7 +2370,7 @@ estates_bogino
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogino;
+	Bogino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2389,7 +2389,7 @@ estates_mezhduozer
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Maskovichi;
+	Maskovichi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2408,7 +2408,7 @@ estates_braslavchanka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Datschkeket;
+	Datschkeket;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2427,7 +2427,7 @@ estates_vslobodke
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2446,7 +2446,7 @@ estates_pavelena
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2465,7 +2465,7 @@ estates_zabelskyhutorok
 =>nrel_district:
     Beshenkovichsky_district;
 =>nrel_city:
-    Dashkovka;
+	Dashkovka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2484,7 +2484,7 @@ estates_dostatok
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Disna;
+	Disna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2503,7 +2503,7 @@ estates_bibirevkaroyal
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Bibirevka;
+	Bibirevka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2522,7 +2522,7 @@ estates_naozereboginskoe
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslavskaya Luka;
+	Braslavskaya_Luka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2541,7 +2541,7 @@ estates_vozeracherty
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Traits;
+	Traits;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2560,7 +2560,7 @@ estates_usadbanalesnoy
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Orekhovo;
+	Orekhovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2579,7 +2579,7 @@ estates_zamokelen
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rase;
+	Rase;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2598,7 +2598,7 @@ estates_tihdvorik
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Buzzani;
+	Buzzani;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2617,7 +2617,7 @@ estates_vslabodke
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2636,7 +2636,7 @@ estates_montekristo
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2655,7 +2655,7 @@ estates_buslinoe
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Vasilins;
+	Vasilins;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2674,7 +2674,7 @@ estates_gusarovschina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Gusarovskaya;
+	Gusarovskaya;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2693,7 +2693,7 @@ estates_sokorovo
 =>nrel_district:
     Beshenkovichsky_district;
 =>nrel_city:
-    Sokorso;
+	Sokorso;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2712,7 +2712,7 @@ estates_petrovich
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Lyatohi;
+	Lyatohi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2731,7 +2731,7 @@ estates_guesthousenalepelskih
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Dammer;
+	Dammer;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2750,7 +2750,7 @@ estates_derevenskayak
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Kamenka;
+	Kamenka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2769,7 +2769,7 @@ estates_usadbakosarzevskih
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Kozlovichi;
+	Kozlovichi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2788,7 +2788,7 @@ estates_bogudenki
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Orches;
+	Orches;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2807,7 +2807,7 @@ estates_uricharda
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Petukhovschina;
+	Petukhovschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2826,7 +2826,7 @@ estates_uzamkovoygory
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2845,7 +2845,7 @@ estates_dyhanielesa
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Panteles;
+	Panteles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2864,7 +2864,7 @@ estates_aleksandrovka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Antonovtsy;
+	Antonovtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2883,7 +2883,7 @@ estates_uvladimira
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2902,7 +2902,7 @@ estates_tihayazavod
 =>nrel_district:
     Chesnik_district;
 =>nrel_city:
-    Abasser;
+	Abasser;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2921,7 +2921,7 @@ estates_rozalina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogino;
+	Bogino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2940,7 +2940,7 @@ estates_etnodomlina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Chernevo;
+	Chernevo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2959,7 +2959,7 @@ estates_shale3mishkiclub
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mouth;
+	Mouth;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2978,7 +2978,7 @@ estates_syabryik
 =>nrel_district:
     Orshansky_district;
 =>nrel_city:
-    Signs;
+	Signs;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -2997,7 +2997,7 @@ estates_usadbamechta
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3016,7 +3016,7 @@ estates_berd
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Mosar;
+	Mosar;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3035,7 +3035,7 @@ estates_apanasenki
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Aronova Sloboda;
+	Aronova_Sloboda;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3054,7 +3054,7 @@ estates_podlipoybraslav
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3073,7 +3073,7 @@ estates_luxlode
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    New Ladna;
+	New_Ladna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3092,7 +3092,7 @@ estates_guesthousemedv2
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Bobruischyna;
+	Bobruischyna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3111,7 +3111,7 @@ estates_yakimmanya
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Ekiman-1;
+	Ekiman-1;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3130,7 +3130,7 @@ estates_9kordon
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ozsa;
+	Ozsa;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3149,7 +3149,7 @@ estates_poozerie
 =>nrel_district:
     Gorodoksky_district;
 =>nrel_city:
-    Konasha;
+	Konasha;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3168,7 +3168,7 @@ estates_dom2ukonstantina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogdanovo;
+	Bogdanovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3187,7 +3187,7 @@ estates_voiso
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mikheevtsy;
+	Mikheevtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3206,7 +3206,7 @@ estates_paulikina
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Simonya;
+	Simonya;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3225,7 +3225,7 @@ estates_karteya
 =>nrel_district:
     Sharkovshchinsky_district;
 =>nrel_city:
-    Zaozerier;
+	Zaozerier;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3244,7 +3244,7 @@ estates_sadovaja
 =>nrel_district:
     Beshenkovichsky_district;
 =>nrel_city:
-    Hotin;
+	Hotin;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3263,7 +3263,7 @@ estates_domuozerabolduk
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Tuskins;
+	Tuskins;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3282,7 +3282,7 @@ estates_uklya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Golubovishchi;
+	Golubovishchi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3301,7 +3301,7 @@ estates_domuozerakamen
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    A rock;
+	A_rock;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3320,7 +3320,7 @@ estates_marlin
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rase;
+	Rase;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3339,7 +3339,7 @@ estates_saunaohotnica
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Huntry;
+	Huntry;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3358,7 +3358,7 @@ estates_karpiki
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Voronovo;
+	Voronovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3377,7 +3377,7 @@ estates_gemchugniykray
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Tuskins;
+	Tuskins;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3396,7 +3396,7 @@ estates_albenevskayatish
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Tovschina;
+	Tovschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3415,7 +3415,7 @@ estates_orcovskayapristan
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Orches;
+	Orches;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3434,7 +3434,7 @@ estates_torchikhouse
 =>nrel_district:
     Lioznensky_district;
 =>nrel_city:
-    Merchitsy;
+	Merchitsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3453,7 +3453,7 @@ estates_lapeho
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Senno;
+	Senno;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3472,7 +3472,7 @@ estates_bober
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Vitebsk;
+	Vitebsk;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3491,7 +3491,7 @@ estates_macuki
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3510,7 +3510,7 @@ estates_nadozerom
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3529,7 +3529,7 @@ estates_usadbajv
 =>nrel_district:
     Orshansky_district;
 =>nrel_city:
-    Simoi;
+	Simoi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3548,7 +3548,7 @@ estates_gavrilovich
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Yard Porechye;
+	Yard_Porechye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3567,7 +3567,7 @@ estates_glushanin
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Yard Porechye;
+	Yard_Porechye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3586,7 +3586,7 @@ estates_ordyshevo
 =>nrel_district:
     Orshansky_district;
 =>nrel_city:
-    Sofiyevka;
+	Sofiyevka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3605,7 +3605,7 @@ estates_boginskaya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogino;
+	Bogino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3624,7 +3624,7 @@ estates_eridandom
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Dome;
+	Dome;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3643,7 +3643,7 @@ estates_atmichael
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rubezh;
+	Rubezh;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3662,7 +3662,7 @@ estates_berendeevocarstvo
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Orches;
+	Orches;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3681,7 +3681,7 @@ estates_gornaya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3700,7 +3700,7 @@ estates_puzyri
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bubbles;
+	Bubbles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3719,7 +3719,7 @@ estates_zbrodovichi
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Zbrodovichi;
+	Zbrodovichi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3738,7 +3738,7 @@ estates_bolshayalistveniza
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3757,7 +3757,7 @@ estates_usadbazhemchuzhina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Panteles;
+	Panteles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3776,7 +3776,7 @@ estates_ivan
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3795,7 +3795,7 @@ estates_trabutishki
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Trabutishi;
+	Trabutishi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3814,7 +3814,7 @@ estates_utihona
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Makarichi;
+	Makarichi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3833,7 +3833,7 @@ estates_maentokgorbacheva
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Druia;
+	Druia;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3852,7 +3852,7 @@ estates_usadbauvictora
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3871,7 +3871,7 @@ estates_vasilkiusadba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Budila;
+	Budila;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3890,7 +3890,7 @@ estates_zhuravli
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3909,7 +3909,7 @@ estates_sosnybraslav
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3928,7 +3928,7 @@ estates_izubrica
 =>nrel_district:
     Verkhnedvinsky_district;
 =>nrel_city:
-    Izubric;
+	Izubric;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3947,7 +3947,7 @@ estates_vstrusto
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3966,7 +3966,7 @@ estates_usadbaesnoeozero
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -3985,7 +3985,7 @@ estates_naobolyanke
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Korchevschsy;
+	Korchevschsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4004,7 +4004,7 @@ estates_nadolzhe
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Shabani;
+	Shabani;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4023,7 +4023,7 @@ estates_sunlit
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Gornovo;
+	Gornovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4042,7 +4042,7 @@ estates_hutorok
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Petukhovschina;
+	Petukhovschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4061,7 +4061,7 @@ estates_rosomaha
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Tails;
+	Tails;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4080,7 +4080,7 @@ estates_nabraslavskih
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rubezh;
+	Rubezh;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4099,7 +4099,7 @@ estates_bobrxata
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Ukleenka;
+	Ukleenka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4118,7 +4118,7 @@ estates_apelsin
 =>nrel_district:
     Ushachsky_district;
 =>nrel_city:
-    Ushachi;
+	Ushachi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4137,7 +4137,7 @@ estates_zapovedostrovdom5
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Sho;
+	Sho;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4156,7 +4156,7 @@ estates_babochka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Krasnogorka;
+	Krasnogorka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4175,7 +4175,7 @@ estates_odvor
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Bobyanychi;
+	Bobyanychi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4194,7 +4194,7 @@ estates_murazhi21
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4213,7 +4213,7 @@ estates_brpriozere
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4232,7 +4232,7 @@ estates_scezhki
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Tracks;
+	Tracks;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4251,7 +4251,7 @@ estates_chist
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4270,7 +4270,7 @@ estates_lavrinovka
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Lavrinovka;
+	Lavrinovka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4289,7 +4289,7 @@ estates_falvarekvalevko
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4308,7 +4308,7 @@ estates_dubkibraslav
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    New project;
+	New_project;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4327,7 +4327,7 @@ estates_comforthousemurazhi
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4346,7 +4346,7 @@ estates_teremokbraslav
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ahremovtsy;
+	Ahremovtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4365,7 +4365,7 @@ estates_domuruchya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Posnudye;
+	Posnudye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4384,7 +4384,7 @@ estates_vaspan
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Vyatki;
+	Vyatki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4403,7 +4403,7 @@ estates_standartbazaaktam
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Mural;
+	Mural;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4422,7 +4422,7 @@ estates_padklenami
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Noviki;
+	Noviki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4441,7 +4441,7 @@ estates_fort
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4460,7 +4460,7 @@ estates_babymoroz
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Disna;
+	Disna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4479,7 +4479,7 @@ estates_aleksandrina
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Lipovtsy;
+	Lipovtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4498,7 +4498,7 @@ estates_ozernyykray
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4517,7 +4517,7 @@ estates_domikvderevne
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Doby;
+	Doby;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4536,7 +4536,7 @@ estates_shirki
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Shirki;
+	Shirki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4555,7 +4555,7 @@ estates_narostaniah
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Paraski;
+	Paraski;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4574,7 +4574,7 @@ estates_olsya
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Big Olsy;
+	Big_Olsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4593,7 +4593,7 @@ estates_vidzi
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Viosa-Lovechinsky;
+	Viosa-Lovechinsky;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4612,7 +4612,7 @@ estates_yablonovca
 =>nrel_district:
     Verkhnedvinsky_district;
 =>nrel_city:
-    Great village;
+	Great_village;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4631,7 +4631,7 @@ estates_rozeta
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rase;
+	Rase;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4650,7 +4650,7 @@ estates_byaseda
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Pulische;
+	Pulische;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4669,7 +4669,7 @@ estates_domikvsosnah
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4688,7 +4688,7 @@ estates_sumovka
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Yanovo;
+	Yanovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4707,7 +4707,7 @@ estates_vrhleshos
 =>nrel_district:
     Verkhnedvinsky_district;
 =>nrel_city:
-    Justianovo;
+	Justianovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4726,7 +4726,7 @@ estates_chistyybereg
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Zawshye;
+	Zawshye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4745,7 +4745,7 @@ estates_mishki
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mural;
+	Mural;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4764,7 +4764,7 @@ estates_motorezervation
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Zaozerier;
+	Zaozerier;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4783,7 +4783,7 @@ estates_uzatoki
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4802,7 +4802,7 @@ estates_relaxusadba
 =>nrel_district:
     Beshenkovichsky_district;
 =>nrel_city:
-    Gorod;
+	Gorod;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4821,7 +4821,7 @@ estates_gornydomlesnoerydnya
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Rudnya;
+	Rudnya;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4840,7 +4840,7 @@ estates_braslavluka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslavskaya Luka;
+	Braslavskaya_Luka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4859,7 +4859,7 @@ estates_zagorani
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Signs;
+	Signs;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4878,7 +4878,7 @@ estates_luchay
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Looda;
+	Looda;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4897,7 +4897,7 @@ estates_zareche
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4916,7 +4916,7 @@ estates_edukdedu
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Tuskins;
+	Tuskins;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4935,7 +4935,7 @@ estates_saro
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Novoselki;
+	Novoselki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4954,7 +4954,7 @@ estates_mestopodsosnami
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4973,7 +4973,7 @@ estates_ostrovlyany
 =>nrel_district:
     Gorodoksky_district;
 =>nrel_city:
-    Ostlenians;
+	Ostlenians;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -4992,7 +4992,7 @@ estates_dom2greenvillage
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Snow;
+	Snow;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5011,7 +5011,7 @@ estates_muraje
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5030,7 +5030,7 @@ estates_vival
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5049,7 +5049,7 @@ estates_kopchenlesh
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Gavrilovichi;
+	Gavrilovichi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5068,7 +5068,7 @@ estates_kordondolgoe
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5087,7 +5087,7 @@ estates_letnyaya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5106,7 +5106,7 @@ estates_chudnybereg
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Traits;
+	Traits;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5125,7 +5125,7 @@ estates_topolya
 =>nrel_district:
     Orshansky_district;
 =>nrel_city:
-    Oak;
+	Oak;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5144,7 +5144,7 @@ estates_cihizakutok
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5163,7 +5163,7 @@ estates_valoshka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Zarechye;
+	Zarechye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5182,7 +5182,7 @@ estates_ugennadiya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Vyatki;
+	Vyatki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5201,7 +5201,7 @@ estates_toptigin
 =>nrel_district:
     Dokshitsky_district;
 =>nrel_city:
-    Klianniki;
+	Klianniki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5220,7 +5220,7 @@ estates_viking
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Leoshki;
+	Leoshki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5239,7 +5239,7 @@ estates_balsan
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ikazn;
+	Ikazn;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5258,7 +5258,7 @@ estates_ugennadiyausadba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5277,7 +5277,7 @@ estates_guesthousedoljastyle
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Dome;
+	Dome;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5296,7 +5296,7 @@ estates_volkbobrxata
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Ukleenka;
+	Ukleenka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5315,7 +5315,7 @@ estates_sasnovyvodar
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5334,7 +5334,7 @@ estates_kotra
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Gushchino;
+	Gushchino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5353,7 +5353,7 @@ estates_zhemchuzhinadom
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5372,7 +5372,7 @@ estates_naberegustrusto
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5391,7 +5391,7 @@ estates_dobry
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5410,7 +5410,7 @@ estates_karchmadudara
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Plisa;
+	Plisa;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5429,7 +5429,7 @@ estates_dvinskaya
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Coptevo;
+	Coptevo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5448,7 +5448,7 @@ estates_kleny
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Big ababye;
+	Big_ababye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5467,7 +5467,7 @@ estates_hutor
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Vladychino;
+	Vladychino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5486,7 +5486,7 @@ estates_dachabraslav
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Oven;
+	Oven;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5505,7 +5505,7 @@ estates_usadbamayak
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Kesiki;
+	Kesiki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5524,7 +5524,7 @@ estates_zhuravno
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Zhuravno;
+	Zhuravno;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5543,7 +5543,7 @@ estates_izba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5562,7 +5562,7 @@ estates_rodnikovykray
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Zhepherki;
+	Zhepherki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5581,7 +5581,7 @@ estates_ozernayaplus
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Personian;
+	Personian;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5600,7 +5600,7 @@ estates_tomki
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Tomka;
+	Tomka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5619,7 +5619,7 @@ estates_savonartihiiugolok
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mekyana;
+	Mekyana;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5638,7 +5638,7 @@ estates_mashaimedved
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogino;
+	Bogino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5657,7 +5657,7 @@ estates_nagore
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Milyunsy;
+	Milyunsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5676,7 +5676,7 @@ estates_uyevgeniya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5695,7 +5695,7 @@ estates_razdolie
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Petukhovschina;
+	Petukhovschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5714,7 +5714,7 @@ estates_udnepra
 =>nrel_district:
     Orshansky_district;
 =>nrel_city:
-    Orsha;
+	Orsha;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5733,7 +5733,7 @@ estates_vzakutke
 =>nrel_district:
     Beshenkovichsky_district;
 =>nrel_city:
-    Panteles;
+	Panteles;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5752,7 +5752,7 @@ estates_motylkovaya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5771,7 +5771,7 @@ estates_poteh
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5790,7 +5790,7 @@ estates_inovousadba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Rase;
+	Rase;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5809,7 +5809,7 @@ estates_dobra
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Gvozdovo;
+	Gvozdovo;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5828,7 +5828,7 @@ estates_sosnovydom
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ovsovka;
+	Ovsovka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5847,7 +5847,7 @@ estates_zhemch
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Vyatki;
+	Vyatki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5866,7 +5866,7 @@ estates_nespish
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5885,7 +5885,7 @@ estates_navoiso
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Muragi;
+	Muragi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5904,7 +5904,7 @@ estates_centreurope
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Jewness;
+	Jewness;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5923,7 +5923,7 @@ estates_priozernaya48
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Krasnosheltsy;
+	Krasnosheltsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5942,7 +5942,7 @@ estates_elno
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Petukhovschina;
+	Petukhovschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5961,7 +5961,7 @@ estates_podsolnuhi
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ababye;
+	Ababye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5980,7 +5980,7 @@ estates_tovshchina
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Tovschina;
+	Tovschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -5999,7 +5999,7 @@ estates_malrai
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mouth;
+	Mouth;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6018,7 +6018,7 @@ estates_velikolepnydomik
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6037,7 +6037,7 @@ estates_usadbaberezki
 =>nrel_district:
     Sennensky_district;
 =>nrel_city:
-    Berezino;
+	Berezino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6056,7 +6056,7 @@ estates_sinyayadacha
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6075,7 +6075,7 @@ estates_serebristiybereg
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Kesiki;
+	Kesiki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6094,7 +6094,7 @@ estates_mateykavasyaliba
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Prickly;
+	Prickly;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6113,7 +6113,7 @@ estates_raiskoemestecko
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6132,7 +6132,7 @@ estates_zapovedostrovdom2
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Sho;
+	Sho;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6151,7 +6151,7 @@ estates_zapovedostrovdom3
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Sho;
+	Sho;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6170,7 +6170,7 @@ estates_lisbobrxata
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Ukleenka;
+	Ukleenka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6189,7 +6189,7 @@ estates_zapovedostrov
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Sho;
+	Sho;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6208,7 +6208,7 @@ estates_medvbobrxata
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Ukleenka;
+	Ukleenka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6227,7 +6227,7 @@ estates_kanashiagro
 =>nrel_district:
     Polotsk_region;
 =>nrel_city:
-    Konasha;
+	Konasha;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6246,7 +6246,7 @@ estates_solnechnyydvorik
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Noviki;
+	Noviki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6265,7 +6265,7 @@ estates_usvetlany
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Saplin;
+	Saplin;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6284,7 +6284,7 @@ estates_yozera
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Shabani;
+	Shabani;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6303,7 +6303,7 @@ estates_pervomayskaya
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6322,7 +6322,7 @@ estates_priozernajavitebsk
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Vitebsk;
+	Vitebsk;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6341,7 +6341,7 @@ estates_ubronislavovica
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6360,7 +6360,7 @@ estates_upetrovichabraslav
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6379,7 +6379,7 @@ estates_dolga
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Dome;
+	Dome;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6398,7 +6398,7 @@ estates_ryjiikot
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6417,7 +6417,7 @@ estates_dom3greenvillage
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Snow;
+	Snow;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6436,7 +6436,7 @@ estates_strustianochka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6455,7 +6455,7 @@ estates_karlamarksausadba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6474,7 +6474,7 @@ estates_obole
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Mikheevtsy;
+	Mikheevtsy;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6493,7 +6493,7 @@ estates_beloyechornoye
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    White lake;
+	White_lake;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6512,7 +6512,7 @@ estates_domikozero
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Drissyty;
+	Drissyty;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6531,7 +6531,7 @@ estates_zvezhye
 =>nrel_district:
     Rossonsky_district;
 =>nrel_city:
-    Rudnya;
+	Rudnya;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6550,7 +6550,7 @@ estates_vishnevyysad
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Ovsovka;
+	Ovsovka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6569,7 +6569,7 @@ estates_zadvinie
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Invali;
+	Invali;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6588,7 +6588,7 @@ estates_malinki
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    External;
+	External;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6607,7 +6607,7 @@ estates_rudaki
 =>nrel_district:
     Vitebsk_District;
 =>nrel_city:
-    Rudaki;
+	Rudaki;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6626,7 +6626,7 @@ estates_domujabloni
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Posnudye;
+	Posnudye;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6645,7 +6645,7 @@ estates_derevenskayablagodat
 =>nrel_district:
     Dokshitsky_district;
 =>nrel_city:
-    Pomework;
+	Pomework;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6664,7 +6664,7 @@ estates_ponilend
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Old yard;
+	Old_yard;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6683,7 +6683,7 @@ estates_kaptaruny
 =>nrel_district:
     Delivery_area;
 =>nrel_city:
-    Captaruna;
+	Captaruna;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6702,7 +6702,7 @@ estates_mazber
 =>nrel_district:
     Verkhnedvinsky_district;
 =>nrel_city:
-    Mazurino;
+	Mazurino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6721,7 +6721,7 @@ estates_yakimovich
 =>nrel_district:
     Deepskiy_district;
 =>nrel_city:
-    Deep;
+	Deep;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6740,7 +6740,7 @@ estates_murashkiplus
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Sobolevschina;
+	Sobolevschina;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6759,7 +6759,7 @@ estates_chernitza
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Danilovichi;
+	Danilovichi;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6778,7 +6778,7 @@ estates_braslavskoevzmore
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6797,7 +6797,7 @@ estates_irinausadba
 =>nrel_district:
     Myster_district;
 =>nrel_city:
-    Courtyard;
+	Courtyard;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6816,7 +6816,7 @@ estates_adpachynakusadba
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Braslav;
+	Braslav;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6835,7 +6835,7 @@ estates_ukazimirycha
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Bogino;
+	Bogino;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6854,7 +6854,7 @@ estates_mezhozer
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Slobodka;
+	Slobodka;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6873,7 +6873,7 @@ estates_dolgoozernaya
 =>nrel_district:
     Lepelsky_district;
 =>nrel_city:
-    Courtyard;
+	Courtyard;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6892,7 +6892,7 @@ estates_strustyanka
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Strst;
+	Strst;
 =>nrel_search_area:
     Vitebsk_region;;
         
@@ -6911,6 +6911,6 @@ estates_inkognito
 =>nrel_district:
     Braslavsky_district;
 =>nrel_city:
-    Leoshki;
+	Leoshki;
 =>nrel_search_area:
     Vitebsk_region;;
