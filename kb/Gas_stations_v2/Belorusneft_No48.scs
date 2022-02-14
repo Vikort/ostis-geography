@@ -1,0 +1,134 @@
+Belorusneft_No48<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.473056]
+    (* <- rrel_latitude;; *);
+    [25.1825]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No48
+<= nrel_address:
+[Брестская обл., Березовский р-н, г. Белоозерск, ул. Шоссейная, 2]
+(*<-lang_ru;;*);;Belorusneft_No48<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.148888]
+    (* <- rrel_latitude;; *);
+    [27.073888]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No48
+<= nrel_address:
+[Минская обл.,Копыльский р-н, г. Копыль, ул. Полевая,1А]
+(*<-lang_ru;;*);;Belorusneft_No48<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.90045]
+    (* <- rrel_latitude;; *);
+    [27.42285]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No48
+<= nrel_address:
+[г. Минск, ул. Одинцова, 123]
+(*<-lang_ru;;*);;Belorusneft_No48<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.541388]
+    (* <- rrel_latitude;; *);
+    [30.4475]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_No48
+<= nrel_address:
+[г. Орша, ул. Ленина, 214]
+(*<-lang_ru;;*);;Belorusneft_No48<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.585528]
+    (* <- rrel_latitude;; *);
+    [31.973866]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No48
+<= nrel_address:
+[Климовичский р-н, г.Климовичи, д.86]
+(*<-lang_ru;;*);;Belorusneft_No48<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.581079]
+    (* <- rrel_latitude;; *);
+    [25.814061]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No48
+<= nrel_address:
+[г. Новогрудок, ул. Индустриальная, 3а]
+(*<-lang_ru;;*);;Belorusneft_No48<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.636111]
+    (* <- rrel_latitude;; *);
+    [29.081667]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No48
+<= nrel_address:
+[Ельский р-н., Добрынский с-с., 11]
+(*<-lang_ru;;*);;

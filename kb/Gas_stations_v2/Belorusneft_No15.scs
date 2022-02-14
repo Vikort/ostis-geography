@@ -1,0 +1,112 @@
+Belorusneft_No15<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.401867]
+    (* <- rrel_latitude;; *);
+    [30.708844]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No15
+<= nrel_address:
+[г.п. Сураж, ул. Витебская, 41]
+(*<-lang_ru;;*);;Belorusneft_No15<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1037]
+    (* <- rrel_latitude;; *);
+    [23.7898]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No15
+<= nrel_address:
+[Брестская обл., г. Брест, ул. Московская, 335]
+(*<-lang_ru;;*);;Belorusneft_No15<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.465883]
+    (* <- rrel_latitude;; *);
+    [25.580444]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No15
+<= nrel_address:
+[г.п. Новоельня, ул.Дятловская, д. 2/1]
+(*<-lang_ru;;*);;Belorusneft_No15<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.875748]
+    (* <- rrel_latitude;; *);
+    [27.506173]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No15
+<= nrel_address:
+[г. Минск, ул. Железнодорожная, 21]
+(*<-lang_ru;;*);;Belorusneft_No15<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.486316]
+    (* <- rrel_latitude;; *);
+    [30.996427]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No15
+<= nrel_address:
+[г. Гомель, ул. Федюнинского, 19В]
+(*<-lang_ru;;*);;Belorusneft_No15<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.525444]
+    (* <- rrel_latitude;; *);
+    [30.341389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No15
+<= nrel_address:
+[Быховский р-н, Следюковский с/с,3, вблизи д.Воронино]
+(*<-lang_ru;;*);;

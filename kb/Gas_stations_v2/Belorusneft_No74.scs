@@ -1,0 +1,78 @@
+Belorusneft_No74<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No74]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No74]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.640122]
+    (* <- rrel_latitude;; *);
+    [29.718874]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_No74
+<= nrel_address:
+[г. Светлогорск, ул. Авиационная, 76]
+(*<-lang_ru;;*);;Belorusneft_No74<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No74]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No74]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.2426]
+    (* <- rrel_latitude;; *);
+    [27.4523]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No74
+<= nrel_address:
+[Брестская обл., Лунинецкий р-н, 0,9 км северо-западнее г. Микашевичи]
+(*<-lang_ru;;*);;Belorusneft_No74<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No74]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No74]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.923028]
+    (* <- rrel_latitude;; *);
+    [27.742625]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;;
+Belorusneft_No74
+<= nrel_address:
+[Минская обл., г. Минск, улица Танковая, 8]
+(*<-lang_ru;;*);;Belorusneft_No74<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No74]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No74]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.830296]
+    (* <- rrel_latitude;; *);
+    [25.362762]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_No74
+<= nrel_address:
+[Лидский р-н, д.Кенти, трасса М-6,159-й км, 4]
+(*<-lang_ru;;*);;

@@ -1,0 +1,15 @@
+Belorusneft_No071<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No071]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No071]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.955208]
+    (* <- rrel_latitude;; *);
+    [27.620341]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No071
+<= nrel_address:
+[г. Минск, Логойский тракт пересечение с ул. Карбышева]
+(*<-lang_ru;;*);;

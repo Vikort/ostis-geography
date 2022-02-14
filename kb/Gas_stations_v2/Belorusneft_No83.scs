@@ -1,0 +1,56 @@
+Belorusneft_No83<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No83]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No83]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.86295]
+    (* <- rrel_latitude;; *);
+    [30.359266]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No83
+<= nrel_address:
+[г. Могилев, Славгородское шоссе, 1]
+(*<-lang_ru;;*);;Belorusneft_No83<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No83]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No83]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.3676]
+    (* <- rrel_latitude;; *);
+    [31.003]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No83
+<= nrel_address:
+[Гомельский р-н., Р-150, 4-км, 1]
+(*<-lang_ru;;*);;Belorusneft_No83<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No83]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No83]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.686649]
+    (* <- rrel_latitude;; *);
+    [27.165069]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;;
+Belorusneft_No83
+<= nrel_address:
+[г.Дзержинск, ул.Фоминых, 3]
+(*<-lang_ru;;*);;

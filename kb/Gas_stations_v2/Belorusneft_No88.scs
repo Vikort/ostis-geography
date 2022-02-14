@@ -1,0 +1,56 @@
+Belorusneft_No88<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No88]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No88]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.47359]
+    (* <- rrel_latitude;; *);
+    [30.99721]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No88
+<= nrel_address:
+[г. Гомель, пересечение ул .Лепешинского и Инженерного проезда]
+(*<-lang_ru;;*);;Belorusneft_No88<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No88]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No88]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.397533]
+    (* <- rrel_latitude;; *);
+    [23.785266]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No88
+<= nrel_address:
+[Брестская обл., Каменецкий р-н, Р-83, 36-й км, 2]
+(*<-lang_ru;;*);;Belorusneft_No88<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No88]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No88]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.969544]
+    (* <- rrel_latitude;; *);
+    [27.496879]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_No88
+<= nrel_address:
+[Республика Беларусь, Минская обл., Минский р-н, Папернянский с/с, 53, район 44-го км МКАД]
+(*<-lang_ru;;*);;

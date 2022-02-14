@@ -1,0 +1,132 @@
+Belorusneft_No35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.868538]
+    (* <- rrel_latitude;; *);
+    [28.704262]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No35
+<= nrel_address:
+[г. Лепель, Оршанское шоссе]
+(*<-lang_ru;;*);;Belorusneft_No35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.311613]
+    (* <- rrel_latitude;; *);
+    [25.284643]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No35
+<= nrel_address:
+[г.п. Козловщина, ул. 40 лет Октября, 12А]
+(*<-lang_ru;;*);;Belorusneft_No35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.309375]
+    (* <- rrel_latitude;; *);
+    [26.812572]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No35
+<= nrel_address:
+[г. Молодечно, ул. Великий Гостинец, д. 55А]
+(*<-lang_ru;;*);;Belorusneft_No35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.849465]
+    (* <- rrel_latitude;; *);
+    [27.670726]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No35
+<= nrel_address:
+[г. Минск, ул. Машиностроителей, 34]
+(*<-lang_ru;;*);;Belorusneft_No35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.118611]
+    (* <- rrel_latitude;; *);
+    [25.950278]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No35
+<= nrel_address:
+[Брестская обл., г. Барановичи, ул. Бадака, 17]
+(*<-lang_ru;;*);;Belorusneft_No35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.189333]
+    (* <- rrel_latitude;; *);
+    [29.355278]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No35
+<= nrel_address:
+[Бобруйский р-н, М-5, 155-й км,3]
+(*<-lang_ru;;*);;Belorusneft_No35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.374722]
+    (* <- rrel_latitude;; *);
+    [30.825556]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No35
+<= nrel_address:
+[вблизи д. Сосновка (объездная дорога)]
+(*<-lang_ru;;*);;

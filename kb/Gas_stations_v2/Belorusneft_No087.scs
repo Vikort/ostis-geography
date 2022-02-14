@@ -1,0 +1,15 @@
+Belorusneft_No087<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No087]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No087]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.895297]
+    (* <- rrel_latitude;; *);
+    [27.545528]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No087
+<= nrel_address:
+[г.Минск, пр.Независимости, 3/1]
+(*<-lang_ru;;*);;

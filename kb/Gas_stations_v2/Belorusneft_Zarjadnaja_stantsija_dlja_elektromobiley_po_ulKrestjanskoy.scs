@@ -1,0 +1,15 @@
+Belorusneft_Zarjadnaja_stantsija_dlja_elektromobiley_po_ulKrestjanskoy<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_Zarjadnaja_stantsija_dlja_elektromobiley_po_ulKrestjanskoy]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть Зарядная станция для электромобилей по ул.Крестьянской]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.423996]
+    (* <- rrel_latitude;; *);
+    [30.99855]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_Zarjadnaja_stantsija_dlja_elektromobiley_po_ulKrestjanskoy
+<= nrel_address:
+[г.Гомель, ул.Крестьянская, 43]
+(*<-lang_ru;;*);;

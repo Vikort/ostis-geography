@@ -1,0 +1,15 @@
+Belorusneft_EZS_po_ulChecherskoy_1B_v_g_Gomele<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_EZS_po_ulChecherskoy_1B_v_g_Gomele]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть ЭЗС по ул.Чечерской 1Б в г. Гомеле]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.461514]
+    (* <- rrel_latitude;; *);
+    [31.039819]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_EZS_po_ulChecherskoy_1B_v_g_Gomele
+<= nrel_address:
+[г.Гомель, ул.Чечерская, 1Б]
+(*<-lang_ru;;*);;

@@ -1,0 +1,76 @@
+Belorusneft_No86<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No86]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No86]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.636783]
+    (* <- rrel_latitude;; *);
+    [23.813208]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No86
+<= nrel_address:
+[г.Гродно, пр. Ивана Лебедева, 2]
+(*<-lang_ru;;*);;Belorusneft_No86<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No86]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No86]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.467906]
+    (* <- rrel_latitude;; *);
+    [27.199568]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;;
+Belorusneft_No86
+<= nrel_address:
+[Республика Беларусь, Минская область, Узденский р-н, г.Узда, ул.К.Маркса, 91]
+(*<-lang_ru;;*);;Belorusneft_No86<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No86]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No86]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.0635]
+    (* <- rrel_latitude;; *);
+    [23.7342]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No86
+<= nrel_address:
+[Брестская обл., г. Брест, ул. Суворова, 2]
+(*<-lang_ru;;*);;Belorusneft_No86<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No86]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No86]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.401944]
+    (* <- rrel_latitude;; *);
+    [30.897777]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No86
+<= nrel_address:
+[Гомельский р-н., М-10 28 км., 2]
+(*<-lang_ru;;*);;

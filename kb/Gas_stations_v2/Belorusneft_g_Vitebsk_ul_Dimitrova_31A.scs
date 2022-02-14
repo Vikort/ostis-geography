@@ -1,0 +1,11 @@
+Belorusneft_g_Vitebsk_ul_Dimitrova_31A<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_g_Vitebsk_ul_Dimitrova_31A]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть г. Витебск, ул. Димитрова, 31А]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.187107]
+    (* <- rrel_latitude;; *);
+    [30.190773]
+    (* <- rrel_longtitude;; *);;

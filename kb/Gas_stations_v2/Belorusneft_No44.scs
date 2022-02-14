@@ -1,0 +1,131 @@
+Belorusneft_No44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.405807]
+    (* <- rrel_latitude;; *);
+    [28.457387]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No44
+<= nrel_address:
+[г.п. Ветрино, ул. Ленина, 1Б]
+(*<-lang_ru;;*);;Belorusneft_No44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.99925]
+    (* <- rrel_latitude;; *);
+    [27.58995]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No44
+<= nrel_address:
+[Минская область,  г.Слуцк, ул.М.Богдановича,207]
+(*<-lang_ru;;*);;Belorusneft_No44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.645408]
+    (* <- rrel_latitude;; *);
+    [23.872807]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No44
+<= nrel_address:
+[г. Гродно, ул.Южная,1А]
+(*<-lang_ru;;*);;Belorusneft_No44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.550278]
+    (* <- rrel_latitude;; *);
+    [25.063611]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No44
+<= nrel_address:
+[Брестская область, Березовский район, М-1, 123-й км, 2]
+(*<-lang_ru;;*);;Belorusneft_No44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.890119]
+    (* <- rrel_latitude;; *);
+    [27.576709]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No44
+<= nrel_address:
+[г. Минск, ул.Ленина, 48]
+(*<-lang_ru;;*);;Belorusneft_No44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.585889]
+    (* <- rrel_latitude;; *);
+    [31.352083]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No44
+<= nrel_address:
+[Чериковский р-н, Сормовский с/с, 2, Р43,68-й км]
+(*<-lang_ru;;*);;Belorusneft_No44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.903350]
+    (* <- rrel_latitude;; *);
+    [30.907990]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No44
+<= nrel_address:
+[г. Чечерск, ул. Советская, 68]
+(*<-lang_ru;;*);;

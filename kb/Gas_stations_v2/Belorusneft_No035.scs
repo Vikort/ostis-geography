@@ -1,0 +1,15 @@
+Belorusneft_No035<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No035]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No035]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.930608]
+    (* <- rrel_latitude;; *);
+    [27.64704]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No035
+<= nrel_address:
+[г. Минск, ул. Жасминовая]
+(*<-lang_ru;;*);;

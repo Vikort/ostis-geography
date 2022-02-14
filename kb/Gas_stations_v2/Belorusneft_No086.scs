@@ -1,0 +1,15 @@
+Belorusneft_No086<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No086]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No086]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.884408]
+    (* <- rrel_latitude;; *);
+    [27.551928]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No086
+<= nrel_address:
+[г.Минск, ул.Жуковского, 3]
+(*<-lang_ru;;*);;

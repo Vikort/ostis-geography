@@ -1,0 +1,11 @@
+Belorusneft_g_Vitebsk_ul_Kosmonavtov_10<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_g_Vitebsk_ul_Kosmonavtov_10]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть г. Витебск, ул. Космонавтов, 10]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.193956]
+    (* <- rrel_latitude;; *);
+    [30.185935]
+    (* <- rrel_longtitude;; *);;

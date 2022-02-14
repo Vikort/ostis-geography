@@ -1,0 +1,15 @@
+Belorusneft_No041<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No041]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No041]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.91876]
+    (* <- rrel_latitude;; *);
+    [27.603535]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No041
+<= nrel_address:
+[г. Минск, ул. Сурганова, 2а]
+(*<-lang_ru;;*);;

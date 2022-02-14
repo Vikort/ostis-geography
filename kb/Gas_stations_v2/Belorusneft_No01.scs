@@ -1,0 +1,25 @@
+Belorusneft_No01<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No01]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No01]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.154996]
+    (* <- rrel_latitude;; *);
+    [27.834638]
+    (* <- rrel_longtitude;; *);;Belorusneft_No01<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No01]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No01]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.931734]
+    (* <- rrel_latitude;; *);
+    [27.511584]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No01
+<= nrel_address:
+[г. Минск, пр. Победителей, 20]
+(*<-lang_ru;;*);;

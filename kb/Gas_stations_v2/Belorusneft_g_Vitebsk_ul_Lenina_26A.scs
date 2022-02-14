@@ -1,0 +1,11 @@
+Belorusneft_g_Vitebsk_ul_Lenina_26A<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_g_Vitebsk_ul_Lenina_26A]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть г. Витебск, ул. Ленина, 26А]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.191737]
+    (* <- rrel_latitude;; *);
+    [30.203859]
+    (* <- rrel_longtitude;; *);;

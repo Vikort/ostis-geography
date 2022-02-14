@@ -1,0 +1,11 @@
+Belorusneft_Zubacheva_25<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_Zubacheva_25]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть Зубачёва, 25]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.086784]
+    (* <- rrel_latitude;; *);
+    [23.667582]
+    (* <- rrel_longtitude;; *);;

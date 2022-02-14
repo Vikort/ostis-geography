@@ -1,0 +1,21 @@
+Belorusneft_No92<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No92]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No92]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1221]
+    (* <- rrel_latitude;; *);
+    [23.6727]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_No92
+<= nrel_address:
+[г.Брест, ул.Лейтенанта Рябцева, д.29К]
+(*<-lang_ru;;*);;

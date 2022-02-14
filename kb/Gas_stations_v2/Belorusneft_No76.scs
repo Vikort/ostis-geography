@@ -1,0 +1,95 @@
+Belorusneft_No76<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.316411]
+    (* <- rrel_latitude;; *);
+    [29.447791]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;;
+Belorusneft_No76
+<= nrel_address:
+[Шумилинский р-н, д. Никитиха]
+(*<-lang_ru;;*);;Belorusneft_No76<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.214444]
+    (* <- rrel_latitude;; *);
+    [31.485716]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No76
+<= nrel_address:
+[Добрушский район, трасса  Р-124, 49-й. км., 1]
+(*<-lang_ru;;*);;Belorusneft_No76<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.910775]
+    (* <- rrel_latitude;; *);
+    [25.876288]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No76
+<= nrel_address:
+[Автодорога М6, 123 километр, 2]
+(*<-lang_ru;;*);;Belorusneft_No76<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.374524]
+    (* <- rrel_latitude;; *);
+    [29.31605]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No76
+<= nrel_address:
+[М-1,494-й км,76]
+(*<-lang_ru;;*);;Belorusneft_No76<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1568]
+    (* <- rrel_latitude;; *);
+    [25.5597]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No76
+<= nrel_address:
+[Брестская обл., Ивановский р-н, Лясковичский с/с, М-10, 438 км., 10]
+(*<-lang_ru;;*);;

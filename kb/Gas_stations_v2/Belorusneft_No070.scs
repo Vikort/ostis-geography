@@ -1,0 +1,15 @@
+Belorusneft_No070<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No070]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No070]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.909919]
+    (* <- rrel_latitude;; *);
+    [27.578718]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No070
+<= nrel_address:
+[г. Минск, ул. Козлова, 2]
+(*<-lang_ru;;*);;

@@ -1,0 +1,135 @@
+Belorusneft_No58<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.935560]
+    (* <- rrel_latitude;; *);
+    [30.778648]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No58
+<= nrel_address:
+[г.п. Лоев, ул. Синякова, 25]
+(*<-lang_ru;;*);;Belorusneft_No58<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.320833]
+    (* <- rrel_latitude;; *);
+    [29.114166]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No58
+<= nrel_address:
+[а/д Р-19, 57 км, 58]
+(*<-lang_ru;;*);;Belorusneft_No58<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.240425]
+    (* <- rrel_latitude;; *);
+    [29.805787]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_No58
+<= nrel_address:
+[г.п. Круглое, ул. Могилевская, 17]
+(*<-lang_ru;;*);;Belorusneft_No58<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.952283]
+    (* <- rrel_latitude;; *);
+    [30.212566]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No58
+<= nrel_address:
+[Могилевский р-н М-4 188 км.1]
+(*<-lang_ru;;*);;Belorusneft_No58<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.194722]
+    (* <- rrel_latitude;; *);
+    [24.036944]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No58
+<= nrel_address:
+[г. Жабинка, ул. Мира, 19]
+(*<-lang_ru;;*);;Belorusneft_No58<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.536825]
+    (* <- rrel_latitude;; *);
+    [25.724059]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_No58
+<= nrel_address:
+[147-й км трассы М-7, 2, 231105, Ошмянский район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;Belorusneft_No58<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.812041]
+    (* <- rrel_latitude;; *);
+    [27.53155]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_No58
+<= nrel_address:
+[Минская обл., Минский р-н, Сеницкий с/с, Р-23, 12-й км, 1]
+(*<-lang_ru;;*);;

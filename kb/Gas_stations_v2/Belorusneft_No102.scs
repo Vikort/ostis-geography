@@ -1,0 +1,15 @@
+Belorusneft_No102<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No102]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No102]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.916413]
+    (* <- rrel_latitude;; *);
+    [27.458163]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No102
+<= nrel_address:
+[г.Минск, ул.Матусевича, 35г]
+(*<-lang_ru;;*);;

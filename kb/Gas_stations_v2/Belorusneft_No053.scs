@@ -1,0 +1,15 @@
+Belorusneft_No053<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No053]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No053]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.837092]
+    (* <- rrel_latitude;; *);
+    [27.575014]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No053
+<= nrel_address:
+[г. Минск, Игуменский тракт, 45]
+(*<-lang_ru;;*);;

@@ -1,0 +1,15 @@
+Belorusneft_No074<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No074]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No074]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.939696]
+    (* <- rrel_latitude;; *);
+    [27.465469]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No074
+<= nrel_address:
+[г. Минск, ул. Мястровская, 24]
+(*<-lang_ru;;*);;

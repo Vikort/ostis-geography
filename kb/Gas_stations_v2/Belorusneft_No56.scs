@@ -1,0 +1,135 @@
+Belorusneft_No56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.343218]
+    (* <- rrel_latitude;; *);
+    [29.411946]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No56
+<= nrel_address:
+[д. Малявка]
+(*<-lang_ru;;*);;Belorusneft_No56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.323111]
+    (* <- rrel_latitude;; *);
+    [28.651167]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No56
+<= nrel_address:
+[г. Осиповичи, ул. Сумченко 91]
+(*<-lang_ru;;*);;Belorusneft_No56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.206389]
+    (* <- rrel_latitude;; *);
+    [24.321111]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No56
+<= nrel_address:
+[Брестская обл., Кобринский р-н, г. Кобрин, ул. Советская, 143 Б]
+(*<-lang_ru;;*);;Belorusneft_No56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.24557]
+    (* <- rrel_latitude;; *);
+    [27.84385]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No56
+<= nrel_address:
+[Гайненский с/с, 3 (44 км а/д М-3 Минск-Витебск)]
+(*<-lang_ru;;*);;Belorusneft_No56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.719821]
+    (* <- rrel_latitude;; *);
+    [23.841797]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No56
+<= nrel_address:
+[г.Гродно, ул. Дзержинского, 175]
+(*<-lang_ru;;*);;Belorusneft_No56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.617778]
+    (* <- rrel_latitude;; *);
+    [29.694444]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No56
+<= nrel_address:
+[Светлогорский р-н., 1]
+(*<-lang_ru;;*);;Belorusneft_No56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.903089]
+    (* <- rrel_latitude;; *);
+    [27.686224]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_No56
+<= nrel_address:
+[г.Минск, ул. Ваупшасова, 53]
+(*<-lang_ru;;*);;

@@ -1,0 +1,134 @@
+Belorusneft_No42<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.534422]
+    (* <- rrel_latitude;; *);
+    [28.630608]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;
+concept_ai95;;
+Belorusneft_No42
+<= nrel_address:
+[г. Новополоцк, ул. Ктаторова]
+(*<-lang_ru;;*);;Belorusneft_No42<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.811267]
+    (* <- rrel_latitude;; *);
+    [29.183107]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No42
+<= nrel_address:
+[г. Ельск, Мозырский тракт, 1]
+(*<-lang_ru;;*);;Belorusneft_No42<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.916333]
+    (* <- rrel_latitude;; *);
+    [30.377556]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No42
+<= nrel_address:
+[г. Могилев, ул. Гришина,94Б]
+(*<-lang_ru;;*);;Belorusneft_No42<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.804722]
+    (* <- rrel_latitude;; *);
+    [27.510833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No42
+<= nrel_address:
+[Минская область, Солигорский р-н, Чижевичский с/с, 53, (р-он д.Кулаки)]
+(*<-lang_ru;;*);;Belorusneft_No42<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.47338]
+    (* <- rrel_latitude;; *);
+    [26.414704]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No42
+<= nrel_address:
+[Ул. Синицкого, 17, 231000, Сморгонский район, Гродненская область, г. Сморгонь, Беларусь]
+(*<-lang_ru;;*);;Belorusneft_No42<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.880172]
+    (* <- rrel_latitude;; *);
+    [27.431787]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No42
+<= nrel_address:
+[г. Минск, ул.Шаранговича, 65]
+(*<-lang_ru;;*);;Belorusneft_No42<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.182222]
+    (* <- rrel_latitude;; *);
+    [24.366944]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No42
+<= nrel_address:
+[Брестская обл., Кобринский р-н, М-1, 60-й км, 1]
+(*<-lang_ru;;*);;

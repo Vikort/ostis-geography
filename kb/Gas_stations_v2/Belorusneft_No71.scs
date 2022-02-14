@@ -1,0 +1,118 @@
+Belorusneft_No71<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.780336]
+    (* <- rrel_latitude;; *);
+    [29.507124]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No71
+<= nrel_address:
+[г. Наровля, ул. Корзуна А.Г., 62]
+(*<-lang_ru;;*);;Belorusneft_No71<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.911316]
+    (* <- rrel_latitude;; *);
+    [30.283916]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No71
+<= nrel_address:
+[212026,г.Могилев, ул. Алексея Пысина,12]
+(*<-lang_ru;;*);;Belorusneft_No71<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.474099]
+    (* <- rrel_latitude;; *);
+    [28.745358]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;;
+Belorusneft_No71
+<= nrel_address:
+[г.Полоцк, Вильнюсское шоссе,2]
+(*<-lang_ru;;*);;Belorusneft_No71<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.3206]
+    (* <- rrel_latitude;; *);
+    [25.9912]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No71
+<= nrel_address:
+[Брестская обл., Пинский р-н, с/с Логишинский поселковый Совет, 2,0 км южнее центра г.п. Логишин]
+(*<-lang_ru;;*);;Belorusneft_No71<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.736211]
+    (* <- rrel_latitude;; *);
+    [27.308478]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No71
+<= nrel_address:
+[Фанипольский с/с, 25-й км а/д Р1 Минск-Дзержинск, 1А]
+(*<-lang_ru;;*);;Belorusneft_No71<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.651859]
+    (* <- rrel_latitude;; *);
+    [23.778622]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No71
+<= nrel_address:
+[г.Гродно, ул.О.Соломовой,161]
+(*<-lang_ru;;*);;

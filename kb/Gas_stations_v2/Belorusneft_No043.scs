@@ -1,0 +1,15 @@
+Belorusneft_No043<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No043]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No043]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.90631]
+    (* <- rrel_latitude;; *);
+    [27.49331]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No043
+<= nrel_address:
+[г. Минск, ул. Дунина-Марцинкевича, 8]
+(*<-lang_ru;;*);;

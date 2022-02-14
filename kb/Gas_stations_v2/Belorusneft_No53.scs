@@ -1,0 +1,133 @@
+Belorusneft_No53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.037222]
+    (* <- rrel_latitude;; *);
+    [29.231944]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No53
+<= nrel_address:
+[г. Мозырь, ул. Рыжкова, 41]
+(*<-lang_ru;;*);;Belorusneft_No53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.624752]
+    (* <- rrel_latitude;; *);
+    [30.453122]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_ai98;;
+Belorusneft_No53
+<= nrel_address:
+[а/д Брест-Минск-граница РФ, 575 км]
+(*<-lang_ru;;*);;Belorusneft_No53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.953333]
+    (* <- rrel_latitude;; *);
+    [24.586389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No53
+<= nrel_address:
+[Брестская обл., Кобринский р-н, Дивинский с/с, аг. Дивин, ул. Октябрьская, д. 71]
+(*<-lang_ru;;*);;Belorusneft_No53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.932066]
+    (* <- rrel_latitude;; *);
+    [27.473686]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai95;
+concept_gas;
+concept_ai98;;
+Belorusneft_No53
+<= nrel_address:
+[г. Минск, ул. Тимирязева, 106]
+(*<-lang_ru;;*);;Belorusneft_No53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.758882]
+    (* <- rrel_latitude;; *);
+    [32.242202]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No53
+<= nrel_address:
+[Климовичский р-н Киселево-Будский с/с, 2,4 км Р-43]
+(*<-lang_ru;;*);;Belorusneft_No53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.093333]
+    (* <- rrel_latitude;; *);
+    [28.287777]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No53
+<= nrel_address:
+[Минская обл, г. Жодино, ул. Рокоссовского 7 А]
+(*<-lang_ru;;*);;Belorusneft_No53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.822286]
+    (* <- rrel_latitude;; *);
+    [23.873757]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No53
+<= nrel_address:
+[а/г Гожа,Р-42,17-й км,4]
+(*<-lang_ru;;*);;

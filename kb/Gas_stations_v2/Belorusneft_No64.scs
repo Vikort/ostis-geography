@@ -1,0 +1,114 @@
+Belorusneft_No64<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.458771]
+    (* <- rrel_latitude;; *);
+    [30.800321]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No64
+<= nrel_address:
+[Урицкий с/с., вблизи аг. Урицкое, 12]
+(*<-lang_ru;;*);;Belorusneft_No64<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.883063]
+    (* <- rrel_latitude;; *);
+    [27.775799]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_No64
+<= nrel_address:
+[г. Докшицы, ул. Гайдара, 66]
+(*<-lang_ru;;*);;Belorusneft_No64<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.140732]
+    (* <- rrel_latitude;; *);
+    [29.191682]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No64
+<= nrel_address:
+[г. Бобруйск, ул. Интернациональная 80]
+(*<-lang_ru;;*);;Belorusneft_No64<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.128838]
+    (* <- rrel_latitude;; *);
+    [25.539671]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No64
+<= nrel_address:
+[Брестская обл. г. Иваново,ул.Ленина 169]
+(*<-lang_ru;;*);;Belorusneft_No64<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.904348]
+    (* <- rrel_latitude;; *);
+    [27.633686]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No64
+<= nrel_address:
+[г. Минск, ул. Запорожская, 1]
+(*<-lang_ru;;*);;Belorusneft_No64<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.552554]
+    (* <- rrel_latitude;; *);
+    [23.864581]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No64
+<= nrel_address:
+[Коптевский с/с М6 288-й км,2]
+(*<-lang_ru;;*);;

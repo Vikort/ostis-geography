@@ -1,0 +1,15 @@
+Belorusneft_No060<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No060]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No060]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.846574]
+    (* <- rrel_latitude;; *);
+    [27.501531]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No060
+<= nrel_address:
+[г. Минск, ул. Корженевского, 25]
+(*<-lang_ru;;*);;

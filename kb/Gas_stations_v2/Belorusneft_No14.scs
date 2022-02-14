@@ -1,0 +1,133 @@
+Belorusneft_No14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.193055]
+    (* <- rrel_latitude;; *);
+    [30.140833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_No14
+<= nrel_address:
+[г. Витебск, ул. Титова, 160]
+(*<-lang_ru;;*);;Belorusneft_No14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.218889]
+    (* <- rrel_latitude;; *);
+    [30.451056]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No14
+<= nrel_address:
+[Шкловский р-н Словенский с/с,1]
+(*<-lang_ru;;*);;Belorusneft_No14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.690939]
+    (* <- rrel_latitude;; *);
+    [23.890088]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No14
+<= nrel_address:
+[Республика Беларусь, Гродненская обл., Гродненский р-н, Путришковский с/с, 8, МАЗС-14  в р-не д. Большая Каплица]
+(*<-lang_ru;;*);;Belorusneft_No14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.46092]
+    (* <- rrel_latitude;; *);
+    [26.864353]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No14
+<= nrel_address:
+[Вилейский р-н, Осиповичский с/с, 5]
+(*<-lang_ru;;*);;Belorusneft_No14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.723726]
+    (* <- rrel_latitude;; *);
+    [27.504024]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No14
+<= nrel_address:
+[а/д Брест - граница РФ, 346-й км (лево)]
+(*<-lang_ru;;*);;Belorusneft_No14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1174]
+    (* <- rrel_latitude;; *);
+    [23.7714]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No14
+<= nrel_address:
+[Брестская обл., г. Брест, ул. Коммерческая, 2]
+(*<-lang_ru;;*);;Belorusneft_No14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.662544]
+    (* <- rrel_latitude;; *);
+    [29.625556]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No14
+<= nrel_address:
+[Чирковичский с-с., 8]
+(*<-lang_ru;;*);;

@@ -1,0 +1,129 @@
+Belorusneft_No32<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.27951]
+    (* <- rrel_latitude;; *);
+    [29.489814]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No32
+<= nrel_address:
+[г. Кировск, ул. Гагарина 95]
+(*<-lang_ru;;*);;Belorusneft_No32<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.043987]
+    (* <- rrel_latitude;; *);
+    [26.320635]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No32
+<= nrel_address:
+[г.п. Лынтупы, ул. Лесная, 32]
+(*<-lang_ru;;*);;Belorusneft_No32<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.881944]
+    (* <- rrel_latitude;; *);
+    [30.009167]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No32
+<= nrel_address:
+[г. Жлобин, ул. Промышленная, 19а]
+(*<-lang_ru;;*);;Belorusneft_No32<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.31]
+    (* <- rrel_latitude;; *);
+    [26.023333]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No32
+<= nrel_address:
+[Брестская обл., Барановичский р-н, Городищенский поселковый Совет с/с, 0,9 км южнее г.п. Городище]
+(*<-lang_ru;;*);;Belorusneft_No32<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.100028]
+    (* <- rrel_latitude;; *);
+    [25.333431]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No32
+<= nrel_address:
+[г. Слоним, ул. Багратиона, 2а]
+(*<-lang_ru;;*);;Belorusneft_No32<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.882222]
+    (* <- rrel_latitude;; *);
+    [27.475277]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No32
+<= nrel_address:
+[г. Минск, ул. Гурского, 30 Б]
+(*<-lang_ru;;*);;Belorusneft_No32<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.29795]
+    (* <- rrel_latitude;; *);
+    [26.869412]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No32
+<= nrel_address:
+[г. Молодечно, ул. Городокская 113а]
+(*<-lang_ru;;*);;

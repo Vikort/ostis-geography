@@ -1,0 +1,133 @@
+Belorusneft_No45<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.862083]
+    (* <- rrel_latitude;; *);
+    [30.307566]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No45
+<= nrel_address:
+[г. Могилев, ул. Симонова 69А]
+(*<-lang_ru;;*);;Belorusneft_No45<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.245556]
+    (* <- rrel_latitude;; *);
+    [27.859444]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No45
+<= nrel_address:
+[г. Житковичи, ул. Пролетарская, 112]
+(*<-lang_ru;;*);;Belorusneft_No45<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.54123]
+    (* <- rrel_latitude;; *);
+    [28.206126]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;;
+Belorusneft_No45
+<= nrel_address:
+[Миорский р-н, Заустьевский с/с, д. Моназыль]
+(*<-lang_ru;;*);;Belorusneft_No45<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.168364]
+    (* <- rrel_latitude;; *);
+    [24.429308]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No45
+<= nrel_address:
+[г. Волковыск, ул. С. Панковой 59]
+(*<-lang_ru;;*);;Belorusneft_No45<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.51044]
+    (* <- rrel_latitude;; *);
+    [27.22033]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No45
+<= nrel_address:
+[Минская область, Вилейский район, д. Сосенка, ул. Васильковая, 1"Б]
+(*<-lang_ru;;*);;Belorusneft_No45<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.95247]
+    (* <- rrel_latitude;; *);
+    [27.713305]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No45
+<= nrel_address:
+[г. Минск, пр. Независимости, 200]
+(*<-lang_ru;;*);;Belorusneft_No45<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.548333]
+    (* <- rrel_latitude;; *);
+    [25.060833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No45
+<= nrel_address:
+[Брестская обл., Березовский р-н, М-1, 123-й км, 1]
+(*<-lang_ru;;*);;

@@ -1,0 +1,97 @@
+Belorusneft_No78<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No78]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No78]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.80534]
+    (* <- rrel_latitude;; *);
+    [27.798022]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No78
+<= nrel_address:
+[Минская обл., Минская район, М4 19 км, 3]
+(*<-lang_ru;;*);;Belorusneft_No78<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No78]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No78]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.16386]
+    (* <- rrel_latitude;; *);
+    [30.284694]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_ai98;;
+Belorusneft_No78
+<= nrel_address:
+[г. Витебск, ул. 33 Армии]
+(*<-lang_ru;;*);;Belorusneft_No78<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No78]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No78]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.8926]
+    (* <- rrel_latitude;; *);
+    [26.8317]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No78
+<= nrel_address:
+[Брестская обл., Столинский р-н, г. Столин, ул. Пинская, 72]
+(*<-lang_ru;;*);;Belorusneft_No78<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No78]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No78]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.67165]
+    (* <- rrel_latitude;; *);
+    [23.762382]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No78
+<= nrel_address:
+[г. Гродно ул.Городенская,д.117]
+(*<-lang_ru;;*);;Belorusneft_No78<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No78]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No78]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.155539]
+    (* <- rrel_latitude;; *);
+    [30.459782]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No78
+<= nrel_address:
+[Довский с/с., аг. Довск, ул Гомельская, 2Б]
+(*<-lang_ru;;*);;

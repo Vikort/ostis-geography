@@ -1,0 +1,94 @@
+Belorusneft_No13<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No13]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No13]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.84467]
+    (* <- rrel_latitude;; *);
+    [29.972797]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No13
+<= nrel_address:
+[г.п. Езерище, ул. Ленинская, 1А]
+(*<-lang_ru;;*);;Belorusneft_No13<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No13]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No13]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.739539]
+    (* <- rrel_latitude;; *);
+    [24.534247]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No13
+<= nrel_address:
+[г.п. Острино]
+(*<-lang_ru;;*);;Belorusneft_No13<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No13]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No13]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.7406]
+    (* <- rrel_latitude;; *);
+    [23.6058]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No13
+<= nrel_address:
+[Брестская обл., Брестский р-н, г.п. Домачево, ул. Комсомольская, 51]
+(*<-lang_ru;;*);;Belorusneft_No13<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No13]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No13]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.833889]
+    (* <- rrel_latitude;; *);
+    [27.602777]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No13
+<= nrel_address:
+[г. Минск, ул. Уборевича, 105]
+(*<-lang_ru;;*);;Belorusneft_No13<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No13]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No13]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.3475]
+    (* <- rrel_latitude;; *);
+    [27.452222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No13
+<= nrel_address:
+[трасса Р-23, 183-й. км., 1]
+(*<-lang_ru;;*);;

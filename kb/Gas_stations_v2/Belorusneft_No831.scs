@@ -1,0 +1,18 @@
+Belorusneft_No831<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No831]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No83(1)]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.595]
+    (* <- rrel_latitude;; *);
+    [24.992222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No831
+<= nrel_address:
+[Желудок ул. 17 сентября]
+(*<-lang_ru;;*);;

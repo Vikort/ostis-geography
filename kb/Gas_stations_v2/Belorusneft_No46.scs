@@ -1,0 +1,136 @@
+Belorusneft_No46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.077222]
+    (* <- rrel_latitude;; *);
+    [29.276389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No46
+<= nrel_address:
+[г. Мозырь, ул. Иваненко А.С., 12]
+(*<-lang_ru;;*);;Belorusneft_No46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.528483]
+    (* <- rrel_latitude;; *);
+    [24.955033]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No46
+<= nrel_address:
+[Брестская обл., Березовский р-н, г. Береза, ул. Промышленная.12]
+(*<-lang_ru;;*);;Belorusneft_No46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.730206]
+    (* <- rrel_latitude;; *);
+    [27.444553]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No46
+<= nrel_address:
+[Минская обл., Солигорский р-н, гп Старобин, ул. Радужная, 10, на 140 км. автодороги Р-23 Минск-Микашевичи]
+(*<-lang_ru;;*);;Belorusneft_No46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.664925]
+    (* <- rrel_latitude;; *);
+    [23.784226]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_No46
+<= nrel_address:
+[г. Гродно ул.О.Соломовой 109]
+(*<-lang_ru;;*);;Belorusneft_No46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.48436]
+    (* <- rrel_latitude;; *);
+    [28.800306]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;
+concept_ai98;;
+Belorusneft_No46
+<= nrel_address:
+[г. Полоцк, ул.Гагарина,32]
+(*<-lang_ru;;*);;Belorusneft_No46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.894444]
+    (* <- rrel_latitude;; *);
+    [28.03]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No46
+<= nrel_address:
+[Национальный аэропорт  "Минск", 94]
+(*<-lang_ru;;*);;Belorusneft_No46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.071111]
+    (* <- rrel_latitude;; *);
+    [29.073055]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No46
+<= nrel_address:
+[Бобруйский р-н, Р-31, 17-й км,1]
+(*<-lang_ru;;*);;

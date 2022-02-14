@@ -1,0 +1,131 @@
+Belorusneft_No41<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.815066]
+    (* <- rrel_latitude;; *);
+    [27.689186]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No41
+<= nrel_address:
+[г. Минск, ул.Селицкого, 17 б]
+(*<-lang_ru;;*);;Belorusneft_No41<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.050277]
+    (* <- rrel_latitude;; *);
+    [27.5625]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No41
+<= nrel_address:
+[Минская обл.,Слуцкий р-н, Бокшицкий с/с, 13, 1240 м от д.Василинки ,ул. Колхозная ,68]
+(*<-lang_ru;;*);;Belorusneft_No41<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.434775]
+    (* <- rrel_latitude;; *);
+    [28.778668]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No41
+<= nrel_address:
+[д. Тросно, Минское шоссе]
+(*<-lang_ru;;*);;Belorusneft_No41<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.244722]
+    (* <- rrel_latitude;; *);
+    [24.411389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No41
+<= nrel_address:
+[Брестская обл., Кобринский р-н, Буховичский с/с, д. Луцевичи]
+(*<-lang_ru;;*);;Belorusneft_No41<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.684222]
+    (* <- rrel_latitude;; *);
+    [31.687111]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No41
+<= nrel_address:
+[Кричевский р-н, Р-43, 42-й км,1]
+(*<-lang_ru;;*);;Belorusneft_No41<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.533795]
+    (* <- rrel_latitude;; *);
+    [25.724647]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No41
+<= nrel_address:
+[147-й км трассы М-7, 1, 231105, Ошмянский район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;Belorusneft_No41<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.063611]
+    (* <- rrel_latitude;; *);
+    [27.773611]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No41
+<= nrel_address:
+[вблизи д. Кремное, трасса Р-88, 22-й. км., 1]
+(*<-lang_ru;;*);;

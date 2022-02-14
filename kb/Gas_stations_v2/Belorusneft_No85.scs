@@ -1,0 +1,77 @@
+Belorusneft_No85<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No85]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No85]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.74125]
+    (* <- rrel_latitude;; *);
+    [27.351944]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95;;
+Belorusneft_No85
+<= nrel_address:
+[г. Фаниполь, ул. Заводская, 9Г]
+(*<-lang_ru;;*);;Belorusneft_No85<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No85]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No85]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.942617]
+    (* <- rrel_latitude;; *);
+    [26.14747]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_No85
+<= nrel_address:
+[Автодорога М6, 103 км, 1]
+(*<-lang_ru;;*);;Belorusneft_No85<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No85]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No85]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.080283]
+    (* <- rrel_latitude;; *);
+    [23.770483]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_No85
+<= nrel_address:
+[Брестская обл., г. Брест, ул. Суворова, 200]
+(*<-lang_ru;;*);;Belorusneft_No85<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No85]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No85]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.501522]
+    (* <- rrel_latitude;; *);
+    [30.66105]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No85
+<= nrel_address:
+[трасса М5 – 283 км, 1]
+(*<-lang_ru;;*);;

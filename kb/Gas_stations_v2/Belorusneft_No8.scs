@@ -1,0 +1,114 @@
+Belorusneft_No8<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.780833]
+    (* <- rrel_latitude;; *);
+    [24.050833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No8
+<= nrel_address:
+[Брестская обл., Малоритский р-н, Хотиславский с/с, 30, 0,2 км юго-западнее г. Малорита]
+(*<-lang_ru;;*);;Belorusneft_No8<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.107633]
+    (* <- rrel_latitude;; *);
+    [28.341417]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No8
+<= nrel_address:
+[г. Жодино, ул. Богуславо Поле,1Б]
+(*<-lang_ru;;*);;Belorusneft_No8<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.709943]
+    (* <- rrel_latitude;; *);
+    [23.839214]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No8
+<= nrel_address:
+[г. Гродно, ул. Дзержинского,96 А]
+(*<-lang_ru;;*);;Belorusneft_No8<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.900056]
+    (* <- rrel_latitude;; *);
+    [30.357389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No8
+<= nrel_address:
+[г. Могилев, бул. Юбилейный, 2]
+(*<-lang_ru;;*);;Belorusneft_No8<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.929405]
+    (* <- rrel_latitude;; *);
+    [30.016375]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No8
+<= nrel_address:
+[трасса М-5, 214-й км., 1/5]
+(*<-lang_ru;;*);;Belorusneft_No8<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.859317]
+    (* <- rrel_latitude;; *);
+    [27.676832]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No8
+<= nrel_address:
+[г. Минск, пр-т Партизанский, 156]
+(*<-lang_ru;;*);;

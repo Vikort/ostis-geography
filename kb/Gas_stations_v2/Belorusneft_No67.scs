@@ -1,0 +1,78 @@
+Belorusneft_No67<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No67]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No67]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.906433]
+    (* <- rrel_latitude;; *);
+    [29.399433]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No67
+<= nrel_address:
+[Белыничский р-н, М-4,132 км,1]
+(*<-lang_ru;;*);;Belorusneft_No67<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No67]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No67]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.755272]
+    (* <- rrel_latitude;; *);
+    [27.955751]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_No67
+<= nrel_address:
+[Верхнедвинский район, Шайтеровский сельсовет, 1]
+(*<-lang_ru;;*);;Belorusneft_No67<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No67]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No67]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.2468]
+    (* <- rrel_latitude;; *);
+    [27.0836]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No67
+<= nrel_address:
+[Брестская область, Лунинецкий район, М-10, 344-й км, 1]
+(*<-lang_ru;;*);;Belorusneft_No67<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No67]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No67]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.613434]
+    (* <- rrel_latitude;; *);
+    [26.014564]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No67
+<= nrel_address:
+[Островецкий сельсовет, 2, 231219, Островецкий район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;

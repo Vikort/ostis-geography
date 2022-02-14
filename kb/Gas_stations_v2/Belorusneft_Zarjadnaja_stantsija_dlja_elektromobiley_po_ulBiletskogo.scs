@@ -1,0 +1,15 @@
+Belorusneft_Zarjadnaja_stantsija_dlja_elektromobiley_po_ulBiletskogo<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_Zarjadnaja_stantsija_dlja_elektromobiley_po_ulBiletskogo]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть Зарядная станция для электромобилей по ул.Билецкого]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.427017]
+    (* <- rrel_latitude;; *);
+    [31.016831]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_Zarjadnaja_stantsija_dlja_elektromobiley_po_ulBiletskogo
+<= nrel_address:
+[г.Гомель, ул.Билецкого, 7]
+(*<-lang_ru;;*);;

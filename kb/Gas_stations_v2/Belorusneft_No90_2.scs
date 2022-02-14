@@ -1,0 +1,18 @@
+Belorusneft_No90_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No90_2]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No90 (2)]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.357726]
+    (* <- rrel_latitude;; *);
+    [28.221479]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No90_2
+<= nrel_address:
+[Минская обл., Борисовский р-н, аг. Зембин]
+(*<-lang_ru;;*);;

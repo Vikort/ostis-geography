@@ -1,0 +1,90 @@
+Belorusneft_No73<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.842223]
+    (* <- rrel_latitude;; *);
+    [30.239463]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No73
+<= nrel_address:
+[Сенненский р-н, г.п. Богушевск на а/д Р-86 12+500 (лево)]
+(*<-lang_ru;;*);;Belorusneft_No73<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.664071]
+    (* <- rrel_latitude;; *);
+    [23.859148]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No73
+<= nrel_address:
+[г.Гродно, ул.Совхозная, 39]
+(*<-lang_ru;;*);;Belorusneft_No73<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.5151]
+    (* <- rrel_latitude;; *);
+    [25.8351]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No73
+<= nrel_address:
+[Брестская обл., Ивацевичский р-н, г.п. Телеханы]
+(*<-lang_ru;;*);;Belorusneft_No73<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.013838]
+    (* <- rrel_latitude;; *);
+    [29.728166]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No73
+<= nrel_address:
+[Рогачевский р-н., Поболовский с-с., 12]
+(*<-lang_ru;;*);;Belorusneft_No73<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.56373]
+    (* <- rrel_latitude;; *);
+    [27.471161]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No73
+<= nrel_address:
+[Минская обл., Узденский р-н, Р-23, 41-й км, 1]
+(*<-lang_ru;;*);;

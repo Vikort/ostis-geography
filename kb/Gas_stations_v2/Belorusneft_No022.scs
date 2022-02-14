@@ -1,0 +1,15 @@
+Belorusneft_No022<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No022]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No022]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.864503]
+    (* <- rrel_latitude;; *);
+    [27.482044]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_No022
+<= nrel_address:
+[г. Минск, пр. Газеты Правда, 25]
+(*<-lang_ru;;*);;

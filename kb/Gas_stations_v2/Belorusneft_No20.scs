@@ -1,0 +1,132 @@
+Belorusneft_No20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.5569]
+    (* <- rrel_latitude;; *);
+    [23.6105]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No20
+<= nrel_address:
+[Брестская обл., Брестский р-н, Томашовский с/с, аг. Томашовка, ул. Лесная, 5]
+(*<-lang_ru;;*);;Belorusneft_No20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.038358]
+    (* <- rrel_latitude;; *);
+    [27.789656]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_No20
+<= nrel_address:
+[аг. Крулевщина, ул. Черняховского, 128]
+(*<-lang_ru;;*);;Belorusneft_No20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.216151]
+    (* <- rrel_latitude;; *);
+    [26.39101]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No20
+<= nrel_address:
+[Минская обл.,Несвижский р-н,Р-91, 169-й км , 2]
+(*<-lang_ru;;*);;Belorusneft_No20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.916342]
+    (* <- rrel_latitude;; *);
+    [27.276198]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No20
+<= nrel_address:
+[Минская обл., Минский р-н, Ждановичский с/с, М-6,20-й км.1]
+(*<-lang_ru;;*);;Belorusneft_No20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.705639]
+    (* <- rrel_latitude;; *);
+    [31.70975]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No20
+<= nrel_address:
+[г. Кричев, ул. Московская, 44/1]
+(*<-lang_ru;;*);;Belorusneft_No20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.892196]
+    (* <- rrel_latitude;; *);
+    [25.253441]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No20
+<= nrel_address:
+[г. Лида, ул. Красноармейская,110]
+(*<-lang_ru;;*);;Belorusneft_No20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.443638]
+    (* <- rrel_latitude;; *);
+    [31.023259]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No20
+<= nrel_address:
+[г. Гомель, ул. Хатаевича, 40]
+(*<-lang_ru;;*);;

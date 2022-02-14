@@ -1,0 +1,135 @@
+Belorusneft_No28<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.300645]
+    (* <- rrel_latitude;; *);
+    [28.215931]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;;
+Belorusneft_No28
+<= nrel_address:
+[н.п. Прозороки, Дисненский тракт, 5]
+(*<-lang_ru;;*);;Belorusneft_No28<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.723033]
+    (* <- rrel_latitude;; *);
+    [27.50551]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No28
+<= nrel_address:
+[а/д Брест - граница РФ 346 км. (право), район д. Углы]
+(*<-lang_ru;;*);;Belorusneft_No28<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.18845]
+    (* <- rrel_latitude;; *);
+    [29.2145]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No28
+<= nrel_address:
+[г. Бобруйск , ул.Генерала Батова, д. 1а]
+(*<-lang_ru;;*);;Belorusneft_No28<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.345777]
+    (* <- rrel_latitude;; *);
+    [23.945371]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No28
+<= nrel_address:
+[а.г. Олекшицы Р99 2 км]
+(*<-lang_ru;;*);;Belorusneft_No28<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.19037]
+    (* <- rrel_latitude;; *);
+    [26.07576]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No28
+<= nrel_address:
+[Брестская область, Барановичский район, М-1, 226-й км, 2]
+(*<-lang_ru;;*);;Belorusneft_No28<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.293968]
+    (* <- rrel_latitude;; *);
+    [26.82279]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_No28
+<= nrel_address:
+[г. Молодечно, ул. Машерова, 39 В]
+(*<-lang_ru;;*);;Belorusneft_No28<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.101615]
+    (* <- rrel_latitude;; *);
+    [30.971571]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_No28
+<= nrel_address:
+[Терюхский с/с., вблизи аг. Новая Гута]
+(*<-lang_ru;;*);;

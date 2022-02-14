@@ -1,0 +1,118 @@
+Belorusneft_No23<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No23]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No23]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.24146]
+    (* <- rrel_latitude;; *);
+    [26.632222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No23
+<= nrel_address:
+[Минская обл.,Несвижский р-н, Р-11, 132-й км, 1]
+(*<-lang_ru;;*);;Belorusneft_No23<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No23]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No23]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.107222]
+    (* <- rrel_latitude;; *);
+    [26.000277]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No23
+<= nrel_address:
+[ул. Марфицкого-Журавлевича, 1]
+(*<-lang_ru;;*);;Belorusneft_No23<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No23]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No23]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.949722]
+    (* <- rrel_latitude;; *);
+    [27.447222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No23
+<= nrel_address:
+[г. Минск, проспект Победителей, 143]
+(*<-lang_ru;;*);;Belorusneft_No23<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No23]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No23]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.625594]
+    (* <- rrel_latitude;; *);
+    [24.729001]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No23
+<= nrel_address:
+[Гродненская обл., Щучинский р-н, М-6, 212-й км, 3]
+(*<-lang_ru;;*);;Belorusneft_No23<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No23]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No23]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.131431]
+    (* <- rrel_latitude;; *);
+    [29.179645]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;;
+Belorusneft_No23
+<= nrel_address:
+[г. Бобруйск, ул. Орловского, 22А]
+(*<-lang_ru;;*);;Belorusneft_No23<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No23]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No23]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.367234]
+    (* <- rrel_latitude;; *);
+    [30.345153]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_No23
+<= nrel_address:
+[г. Речица, Светлогорское шоссе, 1Д]
+(*<-lang_ru;;*);;

@@ -1,0 +1,137 @@
+Belorusneft_No51<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.359964]
+    (* <- rrel_latitude;; *);
+    [32.035291]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No51
+<= nrel_address:
+[г. Костюковичи, Костюковичский р-н, ул. Юношеская, 116]
+(*<-lang_ru;;*);;Belorusneft_No51<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.544722]
+    (* <- rrel_latitude;; *);
+    [24.487222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_No51
+<= nrel_address:
+[Брестская обл., Пружанский р-н, г. Пружаны, ул. Лазо, 11]
+(*<-lang_ru;;*);;Belorusneft_No51<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.040138]
+    (* <- rrel_latitude;; *);
+    [28.08821]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_No51
+<= nrel_address:
+[г. Смолевичи, ул. Комсомольская 50]
+(*<-lang_ru;;*);;Belorusneft_No51<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.864496]
+    (* <- rrel_latitude;; *);
+    [27.426393]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_No51
+<= nrel_address:
+[г. Минск, ул. Слободская, 4]
+(*<-lang_ru;;*);;Belorusneft_No51<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.521708]
+    (* <- rrel_latitude;; *);
+    [30.403893]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;
+concept_gas;
+concept_ai98;;
+Belorusneft_No51
+<= nrel_address:
+[г. Орша, ул. Пограничная]
+(*<-lang_ru;;*);;Belorusneft_No51<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.756317]
+    (* <- rrel_latitude;; *);
+    [25.948377]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_No51
+<= nrel_address:
+[Полоцкая, 1, 231221, Ворнянский сельсовет, Островецкий район, Гродненская область, а/г Ворона, Беларусь]
+(*<-lang_ru;;*);;Belorusneft_No51<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_No51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть No51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.145395]
+    (* <- rrel_latitude;; *);
+    [29.341739]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_No51
+<= nrel_address:
+[г. Калинковичи, ул. Советская, 30а]
+(*<-lang_ru;;*);;
