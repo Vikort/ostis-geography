@@ -1,0 +1,9 @@
+uzdetski_pottery_workshop <-sc_node_not_relation;
+=>nrel_main_idtf:
+    [Uzdetski pottery workshop ]
+    (* <- lang_en;; <- name_en;;*);
+    [Уздецкая гончарная мастерская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    uzda;;
+
