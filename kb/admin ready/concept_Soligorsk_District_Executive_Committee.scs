@@ -1,5 +1,5 @@
 concept_Soligorsk_District_Executive_Committee
-<-sc_node_not_relation;=>nrel_search_area:belarus;
+<-sc_node_not_relation;=>nrel_search_area:salihorsk_district;
  <- concept_way;=>nrel_main_idtf:
 	[Солигорский Райисполком]
 	(* <- lang_ru;;<-name;; *);

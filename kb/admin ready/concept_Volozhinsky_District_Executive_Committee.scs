@@ -1,5 +1,5 @@
 concept_Volozhinsky_District_Executive_Committee
-<-sc_node_not_relation;=>nrel_search_area:belarus;
+<-sc_node_not_relation;=>nrel_search_area:valozhyn_district;
  <- concept_way;=>nrel_main_idtf:
 	[Воложинский районный исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);

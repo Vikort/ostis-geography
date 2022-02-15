@@ -1,7 +1,7 @@
 concept_Residence_of_the_President_Ozerny
-<-sc_node_not_relation;=>nrel_search_area:belarus;
+<-sc_node_not_relation;=>nrel_search_area:minsk_district;
  <- concept_way;=>nrel_main_idtf:
-	[Резиденция президента Озёрный]
+	[Резиденция президента "Озёрный"]
 	(* <- lang_ru;;<-name;; *);
 	[Residence of the President Ozerny]
 	(* <- lang_en;; *);

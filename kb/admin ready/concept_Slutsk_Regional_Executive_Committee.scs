@@ -1,5 +1,5 @@
 concept_Slutsk_Regional_Executive_Committee
-<-sc_node_not_relation;=>nrel_search_area:belarus;
+<-sc_node_not_relation;=>nrel_search_area:slutsk_district;
  <- concept_way;=>nrel_main_idtf:
 	[Слуцкий Районный Исполнительный Комитет]
 	(* <- lang_ru;;<-name;; *);

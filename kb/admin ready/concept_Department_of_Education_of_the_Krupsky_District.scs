@@ -1,5 +1,5 @@
 concept_Department_of_Education_of_the_Krupsky_District
-<-sc_node_not_relation;=>nrel_search_area:belarus; <- concept_way;=>nrel_main_idtf:
+<-sc_node_not_relation;=>nrel_search_area:krupki_district; <- concept_way;=>nrel_main_idtf:
 	[Управление по образованию Крупского района]
 	(* <- lang_ru;;<-name;; *);
 	[Department of Education of the Krupsky District]

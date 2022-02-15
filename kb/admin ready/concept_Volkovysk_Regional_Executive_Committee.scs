@@ -1,7 +1,7 @@
 concept_Volkovysk_Regional_Executive_Committee
-<-sc_node_not_relation;=>nrel_search_area:belarus;
+<-sc_node_not_relation;=>nrel_search_area:vawkavysk_district;
  <- concept_way;=>nrel_main_idtf:
-	[ Волковысский районный исполнительный комитет]
+	[Волковысский районный исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);
 	[Volkovysk Regional Executive Committee]
 	(* <- lang_en;; *);

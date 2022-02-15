@@ -1,5 +1,5 @@
 concept_Kopyl_regional_executive_committee
-<-sc_node_not_relation;=>nrel_search_area:belarus; <- concept_way;=>nrel_main_idtf:
+<-sc_node_not_relation;=>nrel_search_area:kapyl_district; <- concept_way;=>nrel_main_idtf:
 	[Копыльский районный исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);
 	[Kopyl regional executive committee]
