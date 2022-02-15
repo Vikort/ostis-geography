@@ -12,4 +12,4 @@ village_Krajni <- concept_village;
 =>nrel_district:
     bialynitski_district;
 =>nrel_selsoviet:
-    lan'kawski_selsoviet;;
+    lankawski_selsoviet;;

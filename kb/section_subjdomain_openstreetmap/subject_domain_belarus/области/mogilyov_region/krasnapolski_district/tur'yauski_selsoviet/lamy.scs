@@ -10,6 +10,6 @@ village_Lamy <- concept_village;
 => nrel_region:
    mogilev_region;
 =>nrel_district:
-    krasnapol'ski_district;
+    krasnapolski_district;
 =>nrel_selsoviet:
     turjuwski_selsoviet;;

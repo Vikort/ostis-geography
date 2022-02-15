@@ -12,4 +12,4 @@ village_Dubrova <- concept_village;
 =>nrel_district:
     shklowski_district;
 =>nrel_selsoviet:
-    starasiel'ski_selsoviet;;
+    starasielski_selsoviet;;
