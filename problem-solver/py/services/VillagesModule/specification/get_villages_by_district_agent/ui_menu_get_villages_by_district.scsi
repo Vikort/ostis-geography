@@ -1,0 +1,29 @@
+ui_menu_get_villages_by_selsoviet <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_get_villages_by_selsoviet
+=> nrel_main_idtf: 
+	[Найти Поселки]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска поселков для указанного сельсовета]
+	(* <- lang_ru;; *);;
+
+ui_menu_get_villages_by_selsoviet
+=> nrel_main_idtf: 
+	[Get Villages]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request searches for Villages of the specified selsoviet]
+	(* <- lang_en;; *);;
+
+ui_menu_get_villages_by_selsoviet => ui_nrel_command_template:
+	[*
+		action_get_villages_by_selsoviet _-> ._question_get_villages_by_selsoviet
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_get_villages_by_selsoviet _<- question;;
+	*];;
+
+ui_menu_get_villages_by_selsoviet => ui_nrel_command_lang_template: [Найти Поселки для $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_get_villages_by_selsoviet => ui_nrel_command_lang_template: [Get Villages for $ui_arg_1] (* <- lang_en;; *);;
