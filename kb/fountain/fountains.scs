@@ -1,0 +1,1511 @@
+opernyj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [opernyj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [оперный фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1965]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+kupalie_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [kupalie fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [купалье фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1934]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+amfiteatr_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [amfiteatr fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [амфитеатр фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1954]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+jubilejnyj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [jubilejnyj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [юбилейный фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1929]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;      
+
+spadchyna_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [spadchyna fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [спадчына фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1987]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;   
+
+komsomolskij_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [komsomolskij fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [комсомольский фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1995]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+minskvodokanal_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [minskvodokanal fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [минскводоканал фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1978]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+simon_bolivar_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [simon bolivar fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [симон боливар фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1994]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+filarmonija_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [filarmonija fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [филармония фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1977]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+gandolnyj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [gandolnyj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [гандольный фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2010]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+minchanka_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [minchanka fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [минчанка фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1987]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+junost_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [junost fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [юность фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1989]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+naberezhnyj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [naberezhnyj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [набережный фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1986]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+pobeda_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [pobeda fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [победа фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1984]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+vechnost_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [vechnost fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [вечность фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1993]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+parus_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [parus fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [парус фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1997]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+manezh_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [manezh fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [манеж фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1990]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+maski_teatralnye_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [maski teatralnye fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [маски театральные фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1956]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+tri_aista_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [tri aista fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [три аиста фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2004]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+shary_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [shary fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [шары фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2007]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+svetomuzykalnyj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [svetomuzykalnyj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [светомузыкальный фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2011]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+malchik_s_lebedem_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [malchik s lebedem fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [мальчик с лебедем фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1874]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+shirma_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [shirma fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [ширма фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2005]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+bulvarnyj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [bulvarnyj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [бульварный фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2013]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+prityckij_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [prityckij fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [притыцкий фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1938]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+mtz_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [mtz fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [мтз фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1990]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_1 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 1]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 1]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1991]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_2 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 2]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 2]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1992]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_3 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 3]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 3]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1993]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_4 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 4]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 4]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1994]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_5 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 5]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 5]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1995]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_6 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 6]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 6]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1996]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_7 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 7]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 7]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1998]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_8 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 8]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 8]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1990]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_9 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 9]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 9]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1985]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_10 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 10]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 10]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1984]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_11 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 11]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 11]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1983]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_12 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 12]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 12]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1982]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_13 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 13]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 13]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1981]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_14 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 14]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 14]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1980]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+unnamed_fountain_15 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 15]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 15]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2020]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+
+druzhby_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [druzhby fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [дружбы фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2014]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       hrodna;
+
+unnamed_fountain_16 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 16]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 16]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2015]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       hrodna;
+
+unnamed_fountain_17 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 17]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 17]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2012]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       hrodna;
+
+unnamed_fountain_18 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 18]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 18]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2017]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       hrodna;
+
+unnamed_fountain_19 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 19]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 19]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2019]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       hrodna;
+
+unnamed_fountain_20 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 20]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 20]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2011]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       hrodna;
+
+unnamed_fountain_21 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 21]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 21]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2021]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       hrodna;
+
+oduvanchik_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [oduvanchik fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [одуванчик фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1975]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+gorodskoj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [gorodskoj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [городской фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1943]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+belickij_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [belickij fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [белицкий фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1901]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+busel_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [busel fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [бусел фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1999]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+gomel_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [gomel fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [гомель фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1998]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_42 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 42]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 42]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1997]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_43 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 43]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 43]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1996]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_44 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 44]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 44]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1995]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_45 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 45]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 45]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1994]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+       
+unnamed_fountain_46 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 46]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 46]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1993]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_47 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 47]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 47]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1992]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_48 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 48]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 48]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1991]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_49 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 49]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 49]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2000]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_50 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 50]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 50]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2010]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_51 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 51]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 51]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2021]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+unnamed_fountain_52 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 52]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 52]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2015]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       homiel;
+
+aisty_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [aisty fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [аисты фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2012]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       novopolotsk;
+
+neptun_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [neptun fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [нептун фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2007]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       novopolotsk;
+
+gigeja_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [gigeja fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [гигея фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2008]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+slijanie_trjoh_rek_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [slijanie trjoh rek fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [слияние трёх рек фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2009]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+unnamed_fountain_22 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 22]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 22]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2010]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+unnamed_fountain_23 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 23]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 23]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2003]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+unnamed_fountain_24 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 24]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 24]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2014]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+unnamed_fountain_25 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 25]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 25]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2005]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+       
+unnamed_fountain_26 <- concept_fountain;
+=>nrel_main_idtf:
+        [unnamed fountain 26]
+        (* <- lang_en;; <- name_en;;*);
+        [безымянный фонтан 26]
+        (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+        [2001]
+        (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+        belarus;
+=>nrel_city:
+        vitebsk;
+
+unnamed_fountain_27 <- concept_fountain;
+=>nrel_main_idtf:
+        [unnamed fountain 27]
+        (* <- lang_en;; <- name_en;;*);
+        [безымянный фонтан 27]
+        (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+        [2002]
+        (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+        belarus;
+=>nrel_city:
+        vitebsk;
+
+unnamed_fountain_28 <- concept_fountain;
+=>nrel_main_idtf:
+        [unnamed fountain 28]
+        (* <- lang_en;; <- name_en;;*);
+        [безымянный фонтан 28]
+        (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+        [2003]
+        (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+        belarus;
+=>nrel_city:
+        vitebsk;
+
+unnamed_fountain_29 <- concept_fountain;
+=>nrel_main_idtf:
+        [unnamed fountain 29]
+        (* <- lang_en;; <- name_en;;*);
+        [безымянный фонтан 29]
+        (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+        [2003]
+        (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+        belarus;
+=>nrel_city:
+        vitebsk;
+
+unnamed_fountain_30 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 30]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 30]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2005]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+unnamed_fountain_31 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 31]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 31]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2006]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+unnamed_fountain_32 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 32]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 32]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1967]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       vitebsk;
+
+zhelanij_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [zhelanij fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [желаний фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1968]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       verhnedvinsk;
+
+kupalshhicy_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [kupalshhicy fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [купальщицы фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1969]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_33 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 33]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 33]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1969]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_34 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 34]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 34]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1965]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_35 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 35]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 35]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1966]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+       
+unnamed_fountain_36 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 36]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 36]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1964]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_37 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 37]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 37]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1963]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_38 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 38]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 38]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1962]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_39 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 39]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 39]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1961]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_40 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 40]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 40]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1960]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+unnamed_fountain_41 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 41]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 41]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1959]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       mogilev;
+
+chasha_sljoz_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [chasha sljoz fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [чаша слёз фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1958]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       byaroza;
+
+plavajushhij_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [plavajushhij fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [плавающий фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1957]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+tysjacheletija_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [tysjacheletija fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [тысячелетия фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1959]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+na_naberezhnoj_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [na naberezhnoj fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [на набережной фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2004]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+zuraba_cereteli_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [zuraba cereteli fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [зураба церетели фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2015]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+sljozy_golikova_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [sljozy golikova fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [слёзы голикова фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2016]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_53 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 53]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 53]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2008]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_54 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 54]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 54]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2011]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_55 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 55]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 55]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1976]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+       
+unnamed_fountain_56 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 56]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 56]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1927]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_57 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 57]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 57]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1977]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_58 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 58]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 58]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1988]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+        brest;
+       
+unnamed_fountain_59 <- concept_fountain;
+=>nrel_main_idtf:
+        [unnamed fountain 59]
+        (* <- lang_en;; <- name_en;;*);
+        [безымянный фонтан 59]
+        (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+        [1999]
+        (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+        belarus;
+=>nrel_city:
+        brest;
+
+unnamed_fountain_60 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 60]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 60]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1987]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_61 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 61]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 61]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1956]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_62 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 62]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 62]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [1949]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+
+unnamed_fountain_63 <- concept_fountain;
+=>nrel_main_idtf:
+       [unnamed fountain 63]
+       (* <- lang_en;; <- name_en;;*);
+       [безымянный фонтан 63]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2013]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
+       
+brgtu_fountain <- concept_fountain;
+=>nrel_main_idtf:
+       [brgtu fountain]
+       (* <- lang_en;; <- name_en;;*);
+       [бргту фонтан]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       [2007]
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       brest;
