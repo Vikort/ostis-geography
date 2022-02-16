@@ -1,8 +1,8 @@
-diogenes_studio_theater <- concept_theatre;
+national_academic_bolshoi_opera_and_ballet_theater_of_the_republic_of_belarus <- concept_theatre;
 =>nrel_main_idtf:
-    [Diogenes studio theater]
+    [National Academic Bolshoi Opera and Ballet Theater of the Republic of Belarus]
     (* <- lang_en;; <- name_en;;*);
-    [Студия]
+    [Национальный академический Большой театр оперы и балета Республики Беларусь]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 pinsk;
@@ -11,5 +11,5 @@ belarus;
 =>nrel_type:
 national;
 =>nrel_status;
-status_closed;;
+opened_status;;
 

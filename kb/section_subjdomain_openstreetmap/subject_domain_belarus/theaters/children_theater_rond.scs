@@ -1,8 +1,6 @@
-christopher <- concept_theatre;
+children_theater_rond <- concept_theatre;
 =>nrel_main_idtf:
-    [Christopher]
-    (* <- lang_en;; <- name_en;;*);
-    [Христофор]
+    [Театр детей "Ронд"]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;
@@ -11,5 +9,5 @@ belarus;
 =>nrel_type:
 national;
 =>nrel_status;
-status_closed;;
+opened_status;;
 

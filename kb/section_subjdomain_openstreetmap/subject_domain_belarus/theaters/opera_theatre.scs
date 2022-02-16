@@ -1,6 +1,8 @@
-carousel_peoples_theater_of_variety_miniatures_unitary_enterprise_kultservis_mtz <- concept_theatre;
+opera_theatre <- concept_theatre;
 =>nrel_main_idtf:
-    [Театр детей "Ронд"]
+    [Opera theatre]
+    (* <- lang_en;; <- name_en;;*);
+    [Оперный театр]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

@@ -1,8 +1,6 @@
-croc_at_the_sky_example_theater_team <- concept_theatre;
+theater_minsk_regional_drama_theater <- concept_theatre;
 =>nrel_main_idtf:
-    [Croc at the sky example theater team]
-    (* <- lang_en;; <- name_en;;*);
-    [Крок у неба образцовый театральный коллектив]
+    [Минский областной драматический театр]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 slonim;
@@ -11,5 +9,5 @@ belarus;
 =>nrel_type:
 national;
 =>nrel_status;
-status_closed;;
+opened_status;;
 

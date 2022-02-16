@@ -1,4 +1,4 @@
-belarusian_state_puppet_theater_gu_honored_collective_of_the_republic_of_belarus <- concept_theatre;
+belarusian_state_puppet_theater_honored_collective_of_the_republic_of_belarus <- concept_theatre;
 =>nrel_main_idtf:
     [Belarusian state puppet theater gu honored collective of the republic of belarus]
     (* <- lang_en;; <- name_en;;*);
