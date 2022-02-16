@@ -3,7 +3,7 @@ InKofeIn <- concept_coffee_house;
        [InKofeIn]
        (* <- lang_en;; <- name_en;;*);
        [ИнКофеИн]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2020]
        (* <-concept_year_of_foundation;;*);
@@ -12,7 +12,7 @@ InKofeIn <- concept_coffee_house;
 =>nrel_city:
        minsk;
 =>nrel_rating:
-       4.4;
+       3.9;
 =>nrel_price:
        $;;
                 

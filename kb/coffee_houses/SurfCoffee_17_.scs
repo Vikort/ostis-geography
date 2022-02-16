@@ -3,9 +3,9 @@ SurfCoffee <- concept_coffee_house;
        [SurfCoffee]
        (* <- lang_en;; <- name_en;;*);
        [СурфЦоффее]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
-       [2016]
+       [2017]
        (* <-concept_year_of_foundation;;*);
 =>nrel_country:
        belarus;
@@ -14,5 +14,5 @@ SurfCoffee <- concept_coffee_house;
 =>nrel_rating:
        4.9;
 =>nrel_price:
-       $$;;
+       $$$;;
                 

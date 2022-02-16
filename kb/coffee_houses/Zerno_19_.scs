@@ -3,7 +3,7 @@ Zerno <- concept_coffee_house;
        [Zerno]
        (* <- lang_en;; <- name_en;;*);
        [Зерно]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2020]
        (* <-concept_year_of_foundation;;*);
@@ -12,7 +12,7 @@ Zerno <- concept_coffee_house;
 =>nrel_city:
        minsk;
 =>nrel_rating:
-       3.8;
+       3.7;
 =>nrel_price:
-       $;;
+       $$;;
                 

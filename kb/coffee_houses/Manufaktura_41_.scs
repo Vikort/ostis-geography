@@ -3,7 +3,7 @@ Manufaktura <- concept_coffee_house;
        [Manufaktura]
        (* <- lang_en;; <- name_en;;*);
        [Мануфактура]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2016]
        (* <-concept_year_of_foundation;;*);
@@ -12,7 +12,7 @@ Manufaktura <- concept_coffee_house;
 =>nrel_city:
        minsk;
 =>nrel_rating:
-       3.6;
+       3.2;
 =>nrel_price:
-       $$;;
+       $;;
                 

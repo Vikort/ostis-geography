@@ -2,10 +2,10 @@ BREW <- concept_coffee_house;
 =>nrel_main_idtf:
        [BREW]
        (* <- lang_en;; <- name_en;;*);
-       [БРЕW]
-       (* <- lang_ru;; <- name_ru;;*);
+       [БРЕВ]
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
-       [2015]
+       [2020]
        (* <-concept_year_of_foundation;;*);
 =>nrel_country:
        belarus;
@@ -14,5 +14,5 @@ BREW <- concept_coffee_house;
 =>nrel_rating:
        3.5;
 =>nrel_price:
-       $;;
+       $$;;
                 
