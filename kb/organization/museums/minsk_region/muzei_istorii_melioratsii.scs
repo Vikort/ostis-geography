@@ -5,4 +5,4 @@ muzei_istorii_melioratsii <- concept_museum;
    [Музей истории мелиорации]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

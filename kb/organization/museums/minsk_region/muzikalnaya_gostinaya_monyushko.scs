@@ -5,4 +5,4 @@ muzikalnaya_gostinaya_monyushko <- concept_museum;
    [Музыкальная гостиная Монюшко]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

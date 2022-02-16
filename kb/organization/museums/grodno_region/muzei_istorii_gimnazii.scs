@@ -5,4 +5,4 @@ muzei_istorii_gimnazii <- concept_museum;
    [Музей истории гимназии]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

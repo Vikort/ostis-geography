@@ -5,4 +5,4 @@ fotogalereya <- concept_museum;
    [Фотогалерея]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

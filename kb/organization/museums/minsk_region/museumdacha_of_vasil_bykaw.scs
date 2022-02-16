@@ -5,4 +5,4 @@ museumdacha_of_vasil_bykaw <- concept_museum;
    [Музей-дача Василя Быкова]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

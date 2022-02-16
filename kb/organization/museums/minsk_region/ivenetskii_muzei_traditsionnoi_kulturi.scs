@@ -5,4 +5,4 @@ ivenetskii_muzei_traditsionnoi_kulturi <- concept_museum;
    [Ивенецкий музей традиционной культуры]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

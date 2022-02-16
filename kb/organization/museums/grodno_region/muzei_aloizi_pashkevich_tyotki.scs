@@ -8,4 +8,4 @@ muzei_aloizi_pashkevich_tyotki <- concept_museum;
    [80151430427]
    (* <- concept_phone_number;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

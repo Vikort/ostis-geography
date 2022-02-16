@@ -11,4 +11,4 @@ literaturnoetnografichnii_muzei_yakuba_kolasa <- concept_museum;
    [http://lusino.gancevichi.edu.by/ru/main.aspx?guid=1081]
    (*<-concept_site;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

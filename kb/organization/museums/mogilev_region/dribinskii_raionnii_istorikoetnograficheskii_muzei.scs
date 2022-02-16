@@ -5,4 +5,4 @@ dribinskii_raionnii_istorikoetnograficheskii_muzei <- concept_museum;
    [Дрибинский районный историко-этнографический музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [mogilev_region];;
+   mogilev_region;;

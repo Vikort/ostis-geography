@@ -14,4 +14,4 @@ museum_of_the_central_part_of_the_rumyantsev_and_paskevich_palace <- concept_mus
    [ansambl.rp@post.gomel.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

@@ -5,4 +5,4 @@ museum_of_criminology <- concept_museum;
    [Музей криминалистики]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

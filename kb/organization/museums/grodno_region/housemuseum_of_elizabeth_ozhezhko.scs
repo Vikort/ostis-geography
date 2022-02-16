@@ -5,4 +5,4 @@ housemuseum_of_elizabeth_ozhezhko <- concept_museum;
    [Дом-музей Элизы Ожешко]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

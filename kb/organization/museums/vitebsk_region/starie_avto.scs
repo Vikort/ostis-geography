@@ -5,4 +5,4 @@ starie_avto <- concept_museum;
    [Старые авто]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

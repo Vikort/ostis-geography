@@ -5,4 +5,4 @@ muzei_sechkarni <- concept_museum;
    [музей сечкарни]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

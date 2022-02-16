@@ -5,4 +5,4 @@ muzei <- concept_museum;
    [Музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

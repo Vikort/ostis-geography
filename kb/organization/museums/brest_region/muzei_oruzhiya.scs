@@ -8,4 +8,4 @@ muzei_oruzhiya <- concept_museum;
    [https://vsr.mil.by/2015/01/16/tajny-bronnoj-gory/]
    (*<-concept_site;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

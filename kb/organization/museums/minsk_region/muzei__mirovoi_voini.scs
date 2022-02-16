@@ -8,4 +8,4 @@ muzei__mirovoi_voini <- concept_museum;
    [https://zabrodje.com/]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

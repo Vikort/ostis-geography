@@ -5,4 +5,4 @@ dobrush_local_history_museum <- concept_museum;
    [Добрушский краеведческий музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

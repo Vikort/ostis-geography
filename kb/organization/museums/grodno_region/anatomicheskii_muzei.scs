@@ -5,4 +5,4 @@ anatomicheskii_muzei <- concept_museum;
    [Анатомический музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

@@ -5,4 +5,4 @@ arkheologicheskii_muzei <- concept_museum;
    [Археологический музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

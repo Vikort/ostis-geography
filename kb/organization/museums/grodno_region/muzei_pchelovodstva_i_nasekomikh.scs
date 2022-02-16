@@ -5,4 +5,4 @@ muzei_pchelovodstva_i_nasekomikh <- concept_museum;
    [Музей пчеловодства и насекомых]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

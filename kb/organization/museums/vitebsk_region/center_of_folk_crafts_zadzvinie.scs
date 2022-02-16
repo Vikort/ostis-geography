@@ -5,4 +5,4 @@ center_of_folk_crafts_zadzvinie <- concept_museum;
    [Центр народных ремёсел "Задвинье"]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

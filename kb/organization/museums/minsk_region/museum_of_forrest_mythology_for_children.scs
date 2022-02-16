@@ -5,4 +5,4 @@ museum_of_forrest_mythology_for_children <- concept_museum;
    [Дзіцячы музей міфалогіі лесу]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

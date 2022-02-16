@@ -5,4 +5,4 @@ muzei_belki <- concept_museum;
    [Музей белки]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

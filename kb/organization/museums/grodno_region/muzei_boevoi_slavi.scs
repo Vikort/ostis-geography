@@ -8,4 +8,4 @@ muzei_boevoi_slavi <- concept_museum;
    [https://sch23grodno.schools.by/pages/muzejnaja-komnata]
    (*<-concept_site;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

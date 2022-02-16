@@ -5,4 +5,4 @@ proshloe_i_nastoyashchee_maloi_rodini <- concept_museum;
    [Прошлое и настоящее малой родины]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

@@ -5,4 +5,4 @@ khudozhestvennaya_galereya <- concept_museum;
    [Художественная галерея]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

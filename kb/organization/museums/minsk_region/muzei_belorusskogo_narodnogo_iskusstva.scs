@@ -5,4 +5,4 @@ muzei_belorusskogo_narodnogo_iskusstva <- concept_museum;
    [Музей белорусского народного искусства]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

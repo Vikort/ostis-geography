@@ -5,4 +5,4 @@ starodorozhskii_raionnii_istorikoetnograficheskii_muzei <- concept_museum;
    [Стародорожский районный историко-этнографический музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

@@ -5,4 +5,4 @@ muzei_narodnoi_slavi <- concept_museum;
    [Музей Народной Славы]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

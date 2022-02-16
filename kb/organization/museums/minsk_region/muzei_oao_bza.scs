@@ -5,4 +5,4 @@ muzei_oao_bza <- concept_museum;
    [Музей ОАО "БЗА"]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

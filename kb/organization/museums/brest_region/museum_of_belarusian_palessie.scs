@@ -5,4 +5,4 @@ museum_of_belarusian_palessie <- concept_museum;
    [Музей Белорусского Полесья]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

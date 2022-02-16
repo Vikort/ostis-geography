@@ -8,4 +8,4 @@ dommuzei_derev <- concept_museum;
    [http://kupala-museum.by/muzey/filiyalyi/vyazyinka/]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

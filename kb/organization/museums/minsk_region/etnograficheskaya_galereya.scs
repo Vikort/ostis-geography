@@ -5,4 +5,4 @@ etnograficheskaya_galereya <- concept_museum;
    [Этнографическая галерея]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

@@ -5,4 +5,4 @@ muzei_fyodora_makhnova <- concept_museum;
    [Музей Фёдора Махнова]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

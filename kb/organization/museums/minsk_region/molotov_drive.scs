@@ -8,4 +8,4 @@ molotov_drive <- concept_museum;
    [https://zabrodje.com/mus2.php]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

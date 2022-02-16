@@ -5,4 +5,4 @@ muzei__fort <- concept_museum;
    [Музей 5 форт]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

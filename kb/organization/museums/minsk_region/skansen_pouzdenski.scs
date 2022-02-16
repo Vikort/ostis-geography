@@ -5,4 +5,4 @@ skansen_pouzdenski <- concept_museum;
    [Скансен по-узденски]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

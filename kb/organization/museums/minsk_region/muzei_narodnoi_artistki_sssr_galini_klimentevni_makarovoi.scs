@@ -8,4 +8,4 @@ muzei_narodnoi_artistki_sssr_galini_klimentevni_makarovoi <- concept_museum;
    [http://soligorsk.city/museum/museum_of_makarova/]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

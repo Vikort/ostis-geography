@@ -5,4 +5,4 @@ muzei_narodnoi_slavi <- concept_museum;
    [Музей народной славы]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

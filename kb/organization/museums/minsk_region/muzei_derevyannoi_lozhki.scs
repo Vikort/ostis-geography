@@ -8,4 +8,4 @@ muzei_derevyannoi_lozhki <- concept_museum;
    [http://lyzhka.by]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

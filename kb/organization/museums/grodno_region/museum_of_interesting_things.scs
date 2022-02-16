@@ -5,4 +5,4 @@ museum_of_interesting_things <- concept_museum;
    [Музей интересностей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

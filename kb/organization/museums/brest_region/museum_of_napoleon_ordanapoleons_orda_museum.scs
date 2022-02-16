@@ -11,4 +11,4 @@ museum_of_napoleon_ordanapoleons_orda_museum <- concept_museum;
    [ordamuseum@mail.ru]
    (*<-concept_email;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

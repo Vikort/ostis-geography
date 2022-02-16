@@ -11,4 +11,4 @@ glubokskii_istorikoetnograficheskii_muzei <- concept_museum;
    [http://glubmusej.by/be]
    (*<-concept_site;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

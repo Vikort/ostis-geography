@@ -8,4 +8,4 @@ cool_cat_museum <- concept_museum;
    [+375296277703]
    (* <- concept_phone_number;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

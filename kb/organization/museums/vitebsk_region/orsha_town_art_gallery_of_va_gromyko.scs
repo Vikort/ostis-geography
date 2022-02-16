@@ -8,4 +8,4 @@ orsha_town_art_gallery_of_va_gromyko <- concept_museum;
    [http://orsha.museum.by]
    (*<-concept_site;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

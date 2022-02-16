@@ -8,4 +8,4 @@ muzei_pavla_osipovicha_sukhogo <- concept_museum;
    [http://schkola1.rooglub.gov.by/muzej-pavla-osipovicha-sukhogo.html]
    (*<-concept_site;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

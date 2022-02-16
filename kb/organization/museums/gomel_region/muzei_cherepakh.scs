@@ -8,4 +8,4 @@ muzei_cherepakh <- concept_museum;
    [http://www.rcvr.guo.by/e/868-informatsionno-ekologicheskiy-tsentr]
    (*<-concept_site;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

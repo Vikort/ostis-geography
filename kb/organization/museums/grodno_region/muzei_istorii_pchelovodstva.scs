@@ -5,4 +5,4 @@ muzei_istorii_pchelovodstva <- concept_museum;
    [Музей истории пчеловодства]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

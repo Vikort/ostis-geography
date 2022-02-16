@@ -8,4 +8,4 @@ narodnii_muzei_pionerskoi_organizatsii_i_sovremennogo_detskogo_dvizheniya <- con
    [http://soligorsk.city/museum/museum_pionerov/]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

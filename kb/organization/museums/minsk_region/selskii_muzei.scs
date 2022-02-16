@@ -5,4 +5,4 @@ selskii_muzei <- concept_museum;
    [Сельский музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

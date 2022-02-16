@@ -5,4 +5,4 @@ brest_railway_museum <- concept_museum;
    [Брестский железнодорожный музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

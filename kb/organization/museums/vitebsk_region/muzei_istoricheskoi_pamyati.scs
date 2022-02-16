@@ -5,4 +5,4 @@ muzei_istoricheskoi_pamyati <- concept_museum;
    [Музей исторической памяти]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

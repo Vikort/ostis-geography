@@ -5,4 +5,4 @@ muzei_vodi_i_istorii_predpriyatiya <- concept_museum;
    [Музей воды и истории предприятия]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

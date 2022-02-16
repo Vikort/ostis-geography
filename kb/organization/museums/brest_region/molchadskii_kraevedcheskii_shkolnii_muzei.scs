@@ -8,4 +8,4 @@ molchadskii_kraevedcheskii_shkolnii_muzei <- concept_museum;
    [http://molint.by/]
    (*<-concept_site;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

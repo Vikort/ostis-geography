@@ -5,4 +5,4 @@ usadbamuzei_vasilya_bikova <- concept_museum;
    [Усадьба-музей Василя Быкова]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

@@ -5,4 +5,4 @@ muzei_istorii_voini__goda <- concept_museum;
    [Музей истории войны 1812 года]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

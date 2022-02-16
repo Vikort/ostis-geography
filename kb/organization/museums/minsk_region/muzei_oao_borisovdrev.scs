@@ -5,4 +5,4 @@ muzei_oao_borisovdrev <- concept_museum;
    [Музей ОАО Борисовдрев]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

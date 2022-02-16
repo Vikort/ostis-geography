@@ -5,4 +5,4 @@ showroom <- concept_museum;
    [Выставочный зал]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

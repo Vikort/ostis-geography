@@ -5,4 +5,4 @@ muzei_sssr <- concept_museum;
    [Музей СССР]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [mogilev_region];;
+   mogilev_region;;

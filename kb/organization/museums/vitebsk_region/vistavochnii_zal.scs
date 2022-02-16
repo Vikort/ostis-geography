@@ -5,4 +5,4 @@ vistavochnii_zal <- concept_museum;
    [Выставочный зал]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

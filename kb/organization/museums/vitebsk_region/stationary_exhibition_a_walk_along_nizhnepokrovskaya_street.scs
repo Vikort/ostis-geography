@@ -14,4 +14,4 @@ stationary_exhibition_a_walk_along_nizhnepokrovskaya_street <- concept_museum;
    [walk.polotsk@museum.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

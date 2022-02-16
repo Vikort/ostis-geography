@@ -8,4 +8,4 @@ muzei_imeni_idcherskogo <- concept_museum;
    [+375 2151 59309]
    (* <- concept_phone_number;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

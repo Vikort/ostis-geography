@@ -8,4 +8,4 @@ istorikokraevedcheskii_muzei <- concept_museum;
    [https://deniskovichi.schools.by/pages/shkolnyj-muzej]
    (*<-concept_site;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

@@ -5,4 +5,4 @@ muzei_stroitelnoi_tekhniki <- concept_museum;
    [Музей строительной техники]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

@@ -14,4 +14,4 @@ museum_krasny_bierah <- concept_museum;
    [krbereg.usadba@mail.gomel.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

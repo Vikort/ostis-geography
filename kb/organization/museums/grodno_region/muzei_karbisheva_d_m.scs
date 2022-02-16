@@ -5,4 +5,4 @@ muzei_karbisheva_d_m <- concept_museum;
    [Музей Карбышева Д. М.]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

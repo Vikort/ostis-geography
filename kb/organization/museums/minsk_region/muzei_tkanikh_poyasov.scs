@@ -5,4 +5,4 @@ muzei_tkanikh_poyasov <- concept_museum;
    [Музей тканых поясов]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

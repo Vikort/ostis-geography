@@ -8,4 +8,4 @@ sennenskii_dom_remyosel <- concept_museum;
    [https://sennoremeslo.wixsite.com/dom-remesel]
    (*<-concept_site;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

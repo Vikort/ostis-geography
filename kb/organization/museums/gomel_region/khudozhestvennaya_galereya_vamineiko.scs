@@ -5,4 +5,4 @@ khudozhestvennaya_galereya_vamineiko <- concept_museum;
    [Художественная галерея В.А.Минейко]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

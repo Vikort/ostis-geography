@@ -5,4 +5,4 @@ muzei_lesa <- concept_museum;
    [Музей леса]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

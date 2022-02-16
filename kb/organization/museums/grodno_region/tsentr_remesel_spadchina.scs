@@ -5,4 +5,4 @@ tsentr_remesel_spadchina <- concept_museum;
    [Центр ремесел Спадчына]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

@@ -1,8 +1,8 @@
-muzei_khristianstva <- concept_museum;
+kossovskii_zamok <- concept_museum;
 => nrel_main_idtf:
-   [Muzei khristianstva]
+   [Kossovskii zamok]
    (* <- lang_en;; <- name_en;;*);
-   [Музей христианства]
+   [Коссовский замок]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
    brest_region;;

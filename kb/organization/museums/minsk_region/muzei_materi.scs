@@ -8,4 +8,4 @@ muzei_materi <- concept_museum;
    [http://soligorsk.city/museum/museum_mum/]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

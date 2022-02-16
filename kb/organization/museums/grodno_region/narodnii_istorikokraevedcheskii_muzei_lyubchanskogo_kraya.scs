@@ -5,4 +5,4 @@ narodnii_istorikokraevedcheskii_muzei_lyubchanskogo_kraya <- concept_museum;
    [Народный историко-краеведческий музей Любчанского края]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

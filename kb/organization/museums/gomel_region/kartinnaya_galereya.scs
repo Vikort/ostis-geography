@@ -5,4 +5,4 @@ kartinnaya_galereya <- concept_museum;
    [Картинная галерея]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

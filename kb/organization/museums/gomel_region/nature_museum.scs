@@ -11,4 +11,4 @@ nature_museum <- concept_museum;
    [https://www.npp.by/about_national_park/museum/]
    (*<-concept_site;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

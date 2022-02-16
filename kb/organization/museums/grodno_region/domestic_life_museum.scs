@@ -8,4 +8,4 @@ domestic_life_museum <- concept_museum;
    [+375336049008]
    (* <- concept_phone_number;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

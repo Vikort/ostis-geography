@@ -5,4 +5,4 @@ dommuzei_posvyashchennii_tatyane <- concept_museum;
    [Дом-музей посвященный Татьяне]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

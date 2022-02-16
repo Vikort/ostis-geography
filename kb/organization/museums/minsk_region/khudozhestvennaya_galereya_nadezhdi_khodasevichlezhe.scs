@@ -5,4 +5,4 @@ khudozhestvennaya_galereya_nadezhdi_khodasevichlezhe <- concept_museum;
    [Художественная галерея Надежды Ходасевич-Леже]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

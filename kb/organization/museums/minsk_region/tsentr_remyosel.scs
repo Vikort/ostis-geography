@@ -5,4 +5,4 @@ tsentr_remyosel <- concept_museum;
    [Центр ремёсел]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

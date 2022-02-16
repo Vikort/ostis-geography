@@ -14,4 +14,4 @@ museumlibrary_of_simeon_of_polotsk <- concept_museum;
    [book.polotsk@museum.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

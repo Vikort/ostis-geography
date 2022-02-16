@@ -5,4 +5,4 @@ muzei_narodnogo_bita_i_starodavnikh_tekhnologii <- concept_museum;
    [Музей народного быта и стародавних технологий]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

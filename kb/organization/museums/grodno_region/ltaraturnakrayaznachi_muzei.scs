@@ -8,4 +8,4 @@ ltaraturnakrayaznachi_muzei <- concept_museum;
    [https://cvrgrodroo.wixsite.com/museummilkowska/]
    (*<-concept_site;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

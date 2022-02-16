@@ -14,4 +14,4 @@ ethnographic_museum_spadyna <- concept_museum;
    [sch8@tut.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

@@ -5,4 +5,4 @@ muzei_kosmonavtiki_im_p_klimuka <- concept_museum;
    [Музей космонавтики (им. П. Климука)]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

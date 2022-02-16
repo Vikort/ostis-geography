@@ -8,4 +8,4 @@ khudozhestvennii_muzei <- concept_museum;
    [http://brokm.vbreste.by/filial-hudojestvennyi-muzei.html]
    (*<-concept_site;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

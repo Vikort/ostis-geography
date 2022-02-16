@@ -5,4 +5,4 @@ muzei_prirodi <- concept_museum;
    [Музей Природы]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

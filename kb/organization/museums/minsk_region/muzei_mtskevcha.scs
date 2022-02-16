@@ -5,4 +5,4 @@ muzei_mtskevcha <- concept_museum;
    [Музей Міцкевіча]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

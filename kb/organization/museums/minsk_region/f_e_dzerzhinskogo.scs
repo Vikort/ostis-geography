@@ -5,4 +5,4 @@ f_e_dzerzhinskogo <- concept_museum;
    [Ф. Э. Дзержинского]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

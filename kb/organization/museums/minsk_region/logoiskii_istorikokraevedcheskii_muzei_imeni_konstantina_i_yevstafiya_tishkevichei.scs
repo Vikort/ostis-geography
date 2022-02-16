@@ -5,4 +5,4 @@ logoiskii_istorikokraevedcheskii_muzei_imeni_konstantina_i_yevstafiya_tishkevich
    [Логойский историко-краеведческий музей имени Константина и Евстафия Тышкевичей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

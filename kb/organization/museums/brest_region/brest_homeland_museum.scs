@@ -5,4 +5,4 @@ brest_homeland_museum <- concept_museum;
    [Брестский областной краеведческий музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

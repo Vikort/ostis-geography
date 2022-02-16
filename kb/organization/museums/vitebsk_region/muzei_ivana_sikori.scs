@@ -5,4 +5,4 @@ muzei_ivana_sikori <- concept_museum;
    [Музей Ивана Сикоры]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

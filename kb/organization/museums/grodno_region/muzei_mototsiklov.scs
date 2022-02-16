@@ -8,4 +8,4 @@ muzei_mototsiklov <- concept_museum;
    [+375 29 9585360]
    (* <- concept_phone_number;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

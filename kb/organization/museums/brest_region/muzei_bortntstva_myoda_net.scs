@@ -5,4 +5,4 @@ muzei_bortntstva_myoda_net <- concept_museum;
    [Музей Бортніцтва (мёда нет)]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

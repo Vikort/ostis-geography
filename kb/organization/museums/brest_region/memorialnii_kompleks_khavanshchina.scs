@@ -8,4 +8,4 @@ memorialnii_kompleks_khavanshchina <- concept_museum;
    [http://maiak.by/news/history/hovanshchina.html]
    (*<-concept_site;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

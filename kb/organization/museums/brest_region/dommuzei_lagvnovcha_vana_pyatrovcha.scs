@@ -5,4 +5,4 @@ dommuzei_lagvnovcha_vana_pyatrovcha <- concept_museum;
    [Дом-музей Лагвіновіча Івана Пятровіча]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

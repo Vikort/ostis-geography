@@ -1,17 +1,8 @@
 kraevedcheskii_muzei <- concept_museum;
 => nrel_main_idtf:
-   [Kraevedcheskii Muzei]
+   [kraevedcheskii muzei]
    (* <- lang_en;; <- name_en;;*);
-   [Краеведческий Музей]
+   [краеведческий музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=> nrel_phone_number:
-   [+375(2340)21382]
-   (* <- concept_phone_number;;*);
-=> nrel_site:
-   [http://rechitsa.museum.by/node/34442]
-   (*<-concept_site;;*);
-=> nrel_email:
-   [rechitsamuzey@mail.ru]
-   (*<-concept_email;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

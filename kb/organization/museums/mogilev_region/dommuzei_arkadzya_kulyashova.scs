@@ -5,4 +5,4 @@ dommuzei_arkadzya_kulyashova <- concept_museum;
    [Дом-музей Аркадзя Куляшова]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [mogilev_region];;
+   mogilev_region;;

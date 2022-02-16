@@ -5,4 +5,4 @@ muzei_distantsii_puti <- concept_museum;
    [Музей дистанции пути]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

@@ -5,4 +5,4 @@ muzei_istorii_zaronovskogo_kraya <- concept_museum;
    [Музей истории зароновского края]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

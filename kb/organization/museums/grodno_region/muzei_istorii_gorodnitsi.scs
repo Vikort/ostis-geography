@@ -8,4 +8,4 @@ muzei_istorii_gorodnitsi <- concept_museum;
    [https://museum-grodno.by/ru/pages/muzej-istorii-gorodnicy.html]
    (*<-concept_site;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

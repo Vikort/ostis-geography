@@ -5,4 +5,4 @@ muzeiusadba_yakuba_kolasa <- concept_museum;
    [Музей-усадьба Якуба Коласа]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

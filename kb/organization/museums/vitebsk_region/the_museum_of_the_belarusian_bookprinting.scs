@@ -14,4 +14,4 @@ the_museum_of_the_belarusian_bookprinting <- concept_museum;
    [book.polotsk@museum.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

@@ -5,4 +5,4 @@ muzei_istorii_natsionalnorevolyutsionnoi_voini_v_ispanii <- concept_museum;
    [Музей истории национально-революционной войны в Испании]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

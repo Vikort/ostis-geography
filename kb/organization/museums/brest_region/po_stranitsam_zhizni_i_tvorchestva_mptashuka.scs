@@ -5,4 +5,4 @@ po_stranitsam_zhizni_i_tvorchestva_mptashuka <- concept_museum;
    [По страницам жизни и творчества М.Пташука]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

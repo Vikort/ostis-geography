@@ -1,8 +1,0 @@
-kossovskii_zamokk <- concept_museum;
-=> nrel_main_idtf:
-   [Kossovskii zamokK]
-   (* <- lang_en;; <- name_en;;*);
-   [Коссовский замокК]
-   (* <- lang_ru;; <- name_ru;; <- name;;*);
-=> nrel_region:
-   [brest_region];;

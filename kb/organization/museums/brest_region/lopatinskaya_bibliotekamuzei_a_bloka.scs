@@ -5,4 +5,4 @@ lopatinskaya_bibliotekamuzei_a_bloka <- concept_museum;
    [Лопатинская библиотека-музей А. Блока]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

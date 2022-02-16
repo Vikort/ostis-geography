@@ -5,4 +5,4 @@ tadeusz_kociuszko_museum <- concept_museum;
    [музей Тадеуша Костюшко]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

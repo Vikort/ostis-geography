@@ -5,4 +5,4 @@ museum_of_the_history_of_architecture_of_st_sophia_cathedral <- concept_museum;
    [Музей истории архитектуры Софийского собора]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

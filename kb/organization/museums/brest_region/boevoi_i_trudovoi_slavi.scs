@@ -5,4 +5,4 @@ boevoi_i_trudovoi_slavi <- concept_museum;
    [Боевой и трудовой славы]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

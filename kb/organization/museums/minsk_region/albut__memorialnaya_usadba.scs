@@ -5,4 +5,4 @@ albut__memorialnaya_usadba <- concept_museum;
    [Альбуть - мемориальная усадьба]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

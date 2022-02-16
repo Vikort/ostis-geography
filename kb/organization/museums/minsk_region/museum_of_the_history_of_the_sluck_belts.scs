@@ -11,4 +11,4 @@ museum_of_the_history_of_the_sluck_belts <- concept_museum;
    [https://slutskiepoyasa.by/%d0%bc%d1%83%d0%b7%d0%b5%d0%b9/]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

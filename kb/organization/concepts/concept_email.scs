@@ -1,7 +1,7 @@
 concept_email
 <-sc_node_not_relation;
 =>nrel_main_idtf:
-	[эмейл]
+	[электронная почта]
 	(* <- lang_ru;; *);
 	[email]
 	(* <- lang_en;; *);
@@ -9,7 +9,7 @@ concept_email
 	...
 	(*
 	=>nrel_main_idtf:
-		[Опр. (эмейл)]
+		[Опр. (электронная почта)]
 		(* <- lang_ru;; *);
 		[Def. (email)]
 		(* <- lang_en;; *);;
@@ -18,7 +18,7 @@ concept_email
 		...
 		(*
 		->rrel_example:
-			[Эмейл - это адресс электронной почты.]
+			[Эмейл - это адрес электронной почты.]
 			(* <- lang_ru;; *);;
 		*);
 		...

@@ -5,4 +5,4 @@ muzei_partizanskoi_slavi <- concept_museum;
    [Музей партизанской славы]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

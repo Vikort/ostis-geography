@@ -5,4 +5,4 @@ voennaya_tekhnika <- concept_museum;
    [Военная техника]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

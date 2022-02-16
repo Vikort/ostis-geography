@@ -8,4 +8,4 @@ museum_of_confiscated_art <- concept_museum;
    [http://values.brest.museum.by/]
    (*<-concept_site;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

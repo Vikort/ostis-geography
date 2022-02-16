@@ -5,4 +5,4 @@ muzeinaya_ekspozitsiya_sudebnikh_ekspertov <- concept_museum;
    [Музейная экспозиция судебных экспертов]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

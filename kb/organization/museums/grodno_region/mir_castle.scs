@@ -14,4 +14,4 @@ mir_castle <- concept_museum;
    [info@mirzamak.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

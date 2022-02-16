@@ -5,4 +5,4 @@ muzei_khleba <- concept_museum;
    [Музей хлеба]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

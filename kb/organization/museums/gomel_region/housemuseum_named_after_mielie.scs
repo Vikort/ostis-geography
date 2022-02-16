@@ -11,4 +11,4 @@ housemuseum_named_after_mielie <- concept_museum;
    [http://melezh.hoiniki.museum.by]
    (*<-concept_site;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

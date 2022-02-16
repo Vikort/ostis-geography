@@ -5,4 +5,4 @@ muzei_khleba__zernya <- concept_museum;
    [Музей хлеба і зерня]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

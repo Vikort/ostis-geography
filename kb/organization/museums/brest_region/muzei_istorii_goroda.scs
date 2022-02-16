@@ -5,4 +5,4 @@ muzei_istorii_goroda <- concept_museum;
    [Музей истории города]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

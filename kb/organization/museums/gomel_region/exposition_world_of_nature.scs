@@ -5,4 +5,4 @@ exposition_world_of_nature <- concept_museum;
    [Экспозиция «Мир природы»]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

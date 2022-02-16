@@ -5,4 +5,4 @@ muzei_mineralov <- concept_museum;
    [Музей минералов]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

@@ -5,4 +5,4 @@ maglyosk_ablasni_krayaznachi_muzei_mya_yedakma_ramanavcha_ramanava <- concept_mu
    [Магілёўскі абласны краязнаўчы музей імя Еўдакіма Раманавіча Раманава]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [mogilev_region];;
+   mogilev_region;;

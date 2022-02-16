@@ -8,4 +8,4 @@ khotlyanskii_narodnii_istorikokraevedcheskii_muzei <- concept_museum;
    [80171838375]
    (* <- concept_phone_number;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

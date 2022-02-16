@@ -5,4 +5,4 @@ chastnaya_khudozhestvennaya_galereya <- concept_museum;
    [Частная художественная галерея]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

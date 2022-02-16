@@ -11,4 +11,4 @@ museum_medieval_history_on_hotel_base <- concept_museum;
    [https://vk.com/pousvizh]
    (*<-concept_site;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

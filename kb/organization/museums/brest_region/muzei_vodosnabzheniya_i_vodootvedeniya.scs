@@ -8,4 +8,4 @@ muzei_vodosnabzheniya_i_vodootvedeniya <- concept_museum;
    [+375 162 450902]
    (* <- concept_phone_number;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

@@ -5,4 +5,4 @@ berdovskii_narodnii_istorikokraevedcheskii_muzei <- concept_museum;
    [Бердовский народный историкокраеведческий музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

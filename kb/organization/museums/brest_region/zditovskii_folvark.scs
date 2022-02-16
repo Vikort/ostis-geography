@@ -11,4 +11,4 @@ zditovskii_folvark <- concept_museum;
    [vitalzhukovich@gmail.com]
    (*<-concept_email;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

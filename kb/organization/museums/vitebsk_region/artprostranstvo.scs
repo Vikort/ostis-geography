@@ -11,4 +11,4 @@ artprostranstvo <- concept_museum;
    [http://vk.com/artprastora_7]
    (*<-concept_site;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

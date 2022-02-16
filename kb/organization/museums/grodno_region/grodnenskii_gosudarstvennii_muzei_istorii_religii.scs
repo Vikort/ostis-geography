@@ -11,4 +11,4 @@ grodnenskii_gosudarstvennii_muzei_istorii_religii <- concept_museum;
    [http://muzej.by/]
    (*<-concept_site;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

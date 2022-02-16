@@ -11,4 +11,4 @@ museum_haim_sutin <- concept_museum;
    [https://soutine-smilovichi.by/]
    (*<-concept_site;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

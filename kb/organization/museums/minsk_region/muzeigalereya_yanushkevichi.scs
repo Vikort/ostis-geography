@@ -5,4 +5,4 @@ muzeigalereya_yanushkevichi <- concept_museum;
    [Музей-галерея «Янушкевичи»]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

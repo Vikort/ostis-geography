@@ -14,4 +14,4 @@ museumapartment_of_hero_of_the_soviet_union_z_m_tusnolobovamarchenko <- concept_
    [war.polotsk@museum.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

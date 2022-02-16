@@ -14,4 +14,4 @@ muzei_starinnikh_remesel_dudutki <- concept_museum;
    [info@dudutki.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

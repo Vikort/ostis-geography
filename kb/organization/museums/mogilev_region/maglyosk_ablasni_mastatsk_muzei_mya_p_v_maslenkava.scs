@@ -5,4 +5,4 @@ maglyosk_ablasni_mastatsk_muzei_mya_p_v_maslenkava <- concept_museum;
    [Магілёўскі абласны мастацкі музей імя П. В. Масленікава]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [mogilev_region];;
+   mogilev_region;;

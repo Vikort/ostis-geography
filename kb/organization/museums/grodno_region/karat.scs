@@ -8,4 +8,4 @@ karat <- concept_museum;
    [https://school16grodno.wixsite.com/karat]
    (*<-concept_site;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;

@@ -5,4 +5,4 @@ muzei_materi <- concept_museum;
    [Музей матери]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

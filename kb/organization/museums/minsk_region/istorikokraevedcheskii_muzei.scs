@@ -5,4 +5,4 @@ istorikokraevedcheskii_muzei <- concept_museum;
    [Историко–краеведческий музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

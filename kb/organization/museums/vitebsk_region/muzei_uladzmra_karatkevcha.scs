@@ -14,4 +14,4 @@ muzei_uladzmra_karatkevcha <- concept_museum;
    [muzejkaratkevicha@yandex.by]
    (*<-concept_email;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

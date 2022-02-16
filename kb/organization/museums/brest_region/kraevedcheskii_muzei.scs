@@ -5,4 +5,4 @@ kraevedcheskii_muzei <- concept_museum;
    [Краеведческий музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [brest_region];;
+   brest_region;;

@@ -5,4 +5,4 @@ muzei_srednevekovogo_ritsarstva <- concept_museum;
    [Музей средневекового рыцарства]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

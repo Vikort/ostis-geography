@@ -5,4 +5,4 @@ dom_v_kotorom_rodilsya_narodnii_poet_belarusi_maksim_tank <- concept_museum;
    [Дом в котором родился народный поэт Беларуси Максим Танк]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [minsk_region];;
+   minsk_region;;

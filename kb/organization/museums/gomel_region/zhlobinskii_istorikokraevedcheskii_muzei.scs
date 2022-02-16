@@ -5,4 +5,4 @@ zhlobinskii_istorikokraevedcheskii_muzei <- concept_museum;
    [Жлобинский историко-краеведческий музей]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

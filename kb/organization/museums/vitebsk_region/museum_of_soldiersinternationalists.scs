@@ -14,4 +14,4 @@ museum_of_soldiersinternationalists <- concept_museum;
    [musey-afgan@mail.ru]
    (*<-concept_email;;*);
 => nrel_region:
-   [vitebsk_region];;
+   vitebsk_region;;

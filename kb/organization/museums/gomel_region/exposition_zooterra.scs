@@ -11,4 +11,4 @@ exposition_zooterra <- concept_museum;
    [http://www.palacegomel.by/index.php?newsid=1557]
    (*<-concept_site;;*);
 => nrel_region:
-   [gomel_region];;
+   gomel_region;;

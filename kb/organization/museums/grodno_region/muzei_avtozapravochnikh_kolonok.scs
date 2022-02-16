@@ -5,4 +5,4 @@ muzei_avtozapravochnikh_kolonok <- concept_museum;
    [Музей автозаправочных колонок]
    (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_region:
-   [grodno_region];;
+   grodno_region;;
