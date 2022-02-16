@@ -10,6 +10,6 @@ nesvizhh;
 belarus;
 =>nrel_type:
 national;
-=>nrel_availability;
-available;;
+=>nrel_status;
+opened_status;;
 

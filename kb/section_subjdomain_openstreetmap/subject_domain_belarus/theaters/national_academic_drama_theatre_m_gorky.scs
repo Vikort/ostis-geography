@@ -10,6 +10,6 @@ minsk;
 belarus;
 =>nrel_type:
 Dramaturgical;
-=>nrel_availability;
-available;;
+=>nrel_status;
+opened_status;;
 

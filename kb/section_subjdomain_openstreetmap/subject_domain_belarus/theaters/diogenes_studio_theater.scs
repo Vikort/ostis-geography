@@ -10,6 +10,6 @@ pinsk;
 belarus;
 =>nrel_type:
 national;
-=>nrel_availability;
+=>nrel_status;
 status_closed;;
 
