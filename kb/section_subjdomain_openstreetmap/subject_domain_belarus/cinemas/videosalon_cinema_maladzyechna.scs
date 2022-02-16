@@ -1,16 +1,15 @@
+videosalon_cinema_maladzyechna  <- concept_cinema;
+=>nrel_main_idtf:
+    [Видеосалон]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+belarus;
+=>nrel_city:
+maladzyechna;
+=>nrel_search_area: maladzyechna;
+=>nrel_capacity:
+[64]
+(*<-concept_seat;;*);
+=>nrel_status:
+opened_status;;
 
-    videosalon_cinema_maladzyechna  <- concept_cinema;
-    =>nrel_main_idtf:
-        [Видеосалон]
-        (* <- lang_ru;; <- name_ru;; <- name;;*);
-    =>nrel_country:
-    belarus;
-    =>nrel_city:
-    maladzyechna;
-    =>nrel_search_area: maladzyechna;
-    =>nrel_capacity:
-    [64]
-    (*<-concept_seat;;*);
-    =>nrel_status:
-    opened_status;;
-    

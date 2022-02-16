@@ -5,3 +5,4 @@ concept_seat
 	(* <- lang_ru;; *);
 	[seat]
 	(* <- lang_en;; *);
+	
