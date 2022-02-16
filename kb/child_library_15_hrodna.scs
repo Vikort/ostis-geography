@@ -1,0 +1,10 @@
+child_library_hrodna_15 <- concept_map_object;
+=>nrel_main_idtf:
+    [child library №15]
+    (* <- lang_en;; <- name_en;;*);
+    [Детская библиотека №15]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_city:
+    hrodna;;

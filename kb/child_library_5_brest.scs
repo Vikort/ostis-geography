@@ -1,0 +1,10 @@
+child_library_brest_5 <- concept_map_object;
+=>nrel_main_idtf:
+    [child library №5]
+    (* <- lang_en;; <- name_en;;*);
+    [Детская библиотека №5]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_city:
+    brest;;

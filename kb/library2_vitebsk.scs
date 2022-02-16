@@ -1,0 +1,10 @@
+library_vitebsk_2 <- concept_map_object;
+=>nrel_main_idtf:
+    [library №2]
+    (* <- lang_en;; <- name_en;;*);
+    [Библиотека №2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_city:
+    vitebsk;;
