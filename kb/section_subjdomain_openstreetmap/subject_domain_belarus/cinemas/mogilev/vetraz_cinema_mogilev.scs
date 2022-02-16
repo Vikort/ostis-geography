@@ -12,4 +12,3 @@ mogilev_region;
 (*<-concept_seat;;*);
 =>nrel_status:
 opened_status;;
-

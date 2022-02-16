@@ -1,6 +1,6 @@
 mysteria_cinema_gomel  <- concept_cinema;
 =>nrel_main_idtf:
-    [Мистерия Синема]
+    [MISTERIA CINEMA]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
 belarus;
