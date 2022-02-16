@@ -2,7 +2,7 @@ new_drama_theater_establishment <- concept_theatre;
 =>nrel_main_idtf:
     [New drama theater establishment]
     (* <- lang_en;; <- name_en;;*);
-    [Новый драматический театр учреждение]
+    [Новый Драмтеатр]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

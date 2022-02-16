@@ -2,7 +2,7 @@ youth_variety_theater_gtzu <- concept_theatre;
 =>nrel_main_idtf:
     [Youth variety theater gtzu]
     (* <- lang_en;; <- name_en;;*);
-    [Молодежный театр эстрады гтзу]
+    [Молодёжный театр эстрады]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

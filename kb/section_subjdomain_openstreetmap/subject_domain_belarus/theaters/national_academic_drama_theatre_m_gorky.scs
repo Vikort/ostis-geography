@@ -2,7 +2,7 @@ national_academic_drama_theatre_m_gorky <- concept_theatre;
 =>nrel_main_idtf:
     [National academic drama theatre m gorky]
     (* <- lang_en;; <- name_en;;*);
-    [Национальный академический драматический театр им м горького]
+    [Театр имени М.Горького]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

@@ -2,7 +2,7 @@ theater_studio_at_the_philological_faculty_peoples_musical_theater_department_of
 =>nrel_main_idtf:
     [Theater studio at the philological faculty peoples musical theater department of cultural affairs bsu]
     (* <- lang_en;; <- name_en;;*);
-    [Студия на филфаке народный музыкальный театр управление по делам культуры бгу]
+    [Театр Музыкальный театр]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

@@ -2,7 +2,7 @@ national_academic_theatre_ya_kupala_state_university <- concept_theatre;
 =>nrel_main_idtf:
     [National academic theatre ya kupala state university]
     (* <- lang_en;; <- name_en;;*);
-    [Национальный академический театр им я купалы гу]
+    [Национальный академический театр имени Янки Купалы]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

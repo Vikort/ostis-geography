@@ -1,8 +1,8 @@
-exemplary_puppet_theater_chudesniki <- concept_theatre;
+exemplary_puppet_theater <- concept_theatre;
 =>nrel_main_idtf:
-    [Exemplary puppet theater chudesniki]
+    [Exemplary puppet theater]
     (* <- lang_en;; <- name_en;;*);
-    [Образцовый кукольный театр «чудесники»]
+    [Белорусский государственный театр кукол]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 zhitkovichi;

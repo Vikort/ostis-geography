@@ -2,7 +2,7 @@ national_academic_bolshoi_opera_and_ballet_theater_of_the_republic_of_belarus <-
 =>nrel_main_idtf:
     [National academic bolshoi opera and ballet theater of the republic of belarus]
     (* <- lang_en;; <- name_en;;*);
-    [Национальный академический большой театр оперы и балета республики беларусь]
+    [Национальный академический Большой театр оперы и балета Республики Беларусь]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

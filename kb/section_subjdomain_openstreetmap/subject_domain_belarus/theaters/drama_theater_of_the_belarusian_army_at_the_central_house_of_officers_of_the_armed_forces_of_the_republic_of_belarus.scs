@@ -2,7 +2,7 @@ drama_theater_of_the_belarusian_army_at_the_central_house_of_officers_of_the_arm
 =>nrel_main_idtf:
     [Drama theater of the belarusian army at the central house of officers of the armed forces of the republic of belarus]
     (* <- lang_en;; <- name_en;;*);
-    [Драматический театр белорусской армии при центральном доме офицеров вооруженных сил рб]
+    [Театр Драматический театр Белорусской Армии]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;

@@ -2,7 +2,7 @@ exemplary_drama_theater_dk_avtozavodets <- concept_theatre;
 =>nrel_main_idtf:
     [Exemplary drama theater dk avtozavodets]
     (* <- lang_en;; <- name_en;;*);
-    [Драматический театр дк автозаводец]
+    [Театр На Балконе]
     (* <- lang_ru;; <- name_ru;;<- name;;*);
 =>nrel_city:
 minsk;
