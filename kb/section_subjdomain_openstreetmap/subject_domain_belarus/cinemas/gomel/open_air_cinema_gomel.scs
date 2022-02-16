@@ -11,6 +11,6 @@ gomel_region;
 [260]
 (*<-concept_seat;;*);
 =>nrel_status:
-opened_status;;
+closed_status;;
 
     
