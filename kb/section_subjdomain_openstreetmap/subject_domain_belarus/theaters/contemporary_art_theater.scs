@@ -1,15 +1,15 @@
-    contemporary_art_theater <- concept_theatre;
-    =>nrel_main_idtf:
-        [Contemporary art theater]
-        (* <- lang_en;; <- name_en;;*);
-        [Современный художественный театр]
-        (* <- lang_ru;; <- name_ru;;<- name;;*);
-    =>nrel_city:
-        minsk;
-    =>nrel_country:
-        belarus;
-    =>nrel_type:
-        national;
-    =>nrel_availability;
-        available;;
-                    
+contemporary_art_theater <- concept_theatre;
+=>nrel_main_idtf:
+    [Contemporary art theater]
+    (* <- lang_en;; <- name_en;;*);
+    [Современный художественный театр]
+    (* <- lang_ru;; <- name_ru;;<- name;;*);
+=>nrel_city:
+minsk;
+=>nrel_country:
+belarus;
+=>nrel_type:
+national;
+=>nrel_availability;
+available;;
+
