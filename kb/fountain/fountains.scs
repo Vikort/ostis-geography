@@ -3,7 +3,7 @@ opernyj_fountain <- concept_fountain;
        [opernyj fountain]
        (* <- lang_en;; <- name_en;;*);
        [оперный фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1965]
        (* <-concept_year_of_foundation;;*);
@@ -12,12 +12,12 @@ opernyj_fountain <- concept_fountain;
 =>nrel_city:
        minsk;
 
-kupalie_fountain <- concept_fountain;
+venok_fountain <- concept_fountain;
 =>nrel_main_idtf:
-       [kupalie fountain]
+       [venok fountain]
        (* <- lang_en;; <- name_en;;*);
-       [купалье фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       [венок фонтан]
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1934]
        (* <-concept_year_of_foundation;;*);
@@ -31,7 +31,7 @@ amfiteatr_fountain <- concept_fountain;
        [amfiteatr fountain]
        (* <- lang_en;; <- name_en;;*);
        [амфитеатр фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1954]
        (* <-concept_year_of_foundation;;*);
@@ -45,7 +45,7 @@ jubilejnyj_fountain <- concept_fountain;
        [jubilejnyj fountain]
        (* <- lang_en;; <- name_en;;*);
        [юбилейный фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1929]
        (* <-concept_year_of_foundation;;*);
@@ -59,7 +59,7 @@ spadchyna_fountain <- concept_fountain;
        [spadchyna fountain]
        (* <- lang_en;; <- name_en;;*);
        [спадчына фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1987]
        (* <-concept_year_of_foundation;;*);
@@ -73,7 +73,7 @@ komsomolskij_fountain <- concept_fountain;
        [komsomolskij fountain]
        (* <- lang_en;; <- name_en;;*);
        [комсомольский фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1995]
        (* <-concept_year_of_foundation;;*);
@@ -87,7 +87,7 @@ minskvodokanal_fountain <- concept_fountain;
        [minskvodokanal fountain]
        (* <- lang_en;; <- name_en;;*);
        [минскводоканал фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1978]
        (* <-concept_year_of_foundation;;*);
@@ -101,7 +101,7 @@ simon_bolivar_fountain <- concept_fountain;
        [simon bolivar fountain]
        (* <- lang_en;; <- name_en;;*);
        [симон боливар фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1994]
        (* <-concept_year_of_foundation;;*);
@@ -115,7 +115,7 @@ filarmonija_fountain <- concept_fountain;
        [filarmonija fountain]
        (* <- lang_en;; <- name_en;;*);
        [филармония фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1977]
        (* <-concept_year_of_foundation;;*);
@@ -129,7 +129,7 @@ gandolnyj_fountain <- concept_fountain;
        [gandolnyj fountain]
        (* <- lang_en;; <- name_en;;*);
        [гандольный фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2010]
        (* <-concept_year_of_foundation;;*);
@@ -143,7 +143,7 @@ minchanka_fountain <- concept_fountain;
        [minchanka fountain]
        (* <- lang_en;; <- name_en;;*);
        [минчанка фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1987]
        (* <-concept_year_of_foundation;;*);
@@ -157,7 +157,7 @@ junost_fountain <- concept_fountain;
        [junost fountain]
        (* <- lang_en;; <- name_en;;*);
        [юность фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1989]
        (* <-concept_year_of_foundation;;*);
@@ -171,7 +171,7 @@ naberezhnyj_fountain <- concept_fountain;
        [naberezhnyj fountain]
        (* <- lang_en;; <- name_en;;*);
        [набережный фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1986]
        (* <-concept_year_of_foundation;;*);
@@ -185,7 +185,7 @@ pobeda_fountain <- concept_fountain;
        [pobeda fountain]
        (* <- lang_en;; <- name_en;;*);
        [победа фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1984]
        (* <-concept_year_of_foundation;;*);
@@ -199,7 +199,7 @@ vechnost_fountain <- concept_fountain;
        [vechnost fountain]
        (* <- lang_en;; <- name_en;;*);
        [вечность фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1993]
        (* <-concept_year_of_foundation;;*);
@@ -213,7 +213,7 @@ parus_fountain <- concept_fountain;
        [parus fountain]
        (* <- lang_en;; <- name_en;;*);
        [парус фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1997]
        (* <-concept_year_of_foundation;;*);
@@ -227,7 +227,7 @@ manezh_fountain <- concept_fountain;
        [manezh fountain]
        (* <- lang_en;; <- name_en;;*);
        [манеж фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1990]
        (* <-concept_year_of_foundation;;*);
@@ -241,7 +241,7 @@ maski_teatralnye_fountain <- concept_fountain;
        [maski teatralnye fountain]
        (* <- lang_en;; <- name_en;;*);
        [маски театральные фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1956]
        (* <-concept_year_of_foundation;;*);
@@ -255,7 +255,7 @@ tri_aista_fountain <- concept_fountain;
        [tri aista fountain]
        (* <- lang_en;; <- name_en;;*);
        [три аиста фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2004]
        (* <-concept_year_of_foundation;;*);
@@ -269,7 +269,7 @@ shary_fountain <- concept_fountain;
        [shary fountain]
        (* <- lang_en;; <- name_en;;*);
        [шары фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2007]
        (* <-concept_year_of_foundation;;*);
@@ -283,7 +283,7 @@ svetomuzykalnyj_fountain <- concept_fountain;
        [svetomuzykalnyj fountain]
        (* <- lang_en;; <- name_en;;*);
        [светомузыкальный фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2011]
        (* <-concept_year_of_foundation;;*);
@@ -297,7 +297,7 @@ malchik_s_lebedem_fountain <- concept_fountain;
        [malchik s lebedem fountain]
        (* <- lang_en;; <- name_en;;*);
        [мальчик с лебедем фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1874]
        (* <-concept_year_of_foundation;;*);
@@ -311,7 +311,7 @@ shirma_fountain <- concept_fountain;
        [shirma fountain]
        (* <- lang_en;; <- name_en;;*);
        [ширма фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2005]
        (* <-concept_year_of_foundation;;*);
@@ -325,7 +325,7 @@ bulvarnyj_fountain <- concept_fountain;
        [bulvarnyj fountain]
        (* <- lang_en;; <- name_en;;*);
        [бульварный фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2013]
        (* <-concept_year_of_foundation;;*);
@@ -339,7 +339,7 @@ prityckij_fountain <- concept_fountain;
        [prityckij fountain]
        (* <- lang_en;; <- name_en;;*);
        [притыцкий фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1938]
        (* <-concept_year_of_foundation;;*);
@@ -353,7 +353,7 @@ mtz_fountain <- concept_fountain;
        [mtz fountain]
        (* <- lang_en;; <- name_en;;*);
        [мтз фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1990]
        (* <-concept_year_of_foundation;;*);
@@ -577,7 +577,7 @@ druzhby_fountain <- concept_fountain;
        [druzhby fountain]
        (* <- lang_en;; <- name_en;;*);
        [дружбы фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2014]
        (* <-concept_year_of_foundation;;*);
@@ -675,7 +675,7 @@ oduvanchik_fountain <- concept_fountain;
        [oduvanchik fountain]
        (* <- lang_en;; <- name_en;;*);
        [одуванчик фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1975]
        (* <-concept_year_of_foundation;;*);
@@ -689,7 +689,7 @@ gorodskoj_fountain <- concept_fountain;
        [gorodskoj fountain]
        (* <- lang_en;; <- name_en;;*);
        [городской фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1943]
        (* <-concept_year_of_foundation;;*);
@@ -703,7 +703,7 @@ belickij_fountain <- concept_fountain;
        [belickij fountain]
        (* <- lang_en;; <- name_en;;*);
        [белицкий фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1901]
        (* <-concept_year_of_foundation;;*);
@@ -717,7 +717,7 @@ busel_fountain <- concept_fountain;
        [busel fountain]
        (* <- lang_en;; <- name_en;;*);
        [бусел фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1999]
        (* <-concept_year_of_foundation;;*);
@@ -731,7 +731,7 @@ gomel_fountain <- concept_fountain;
        [gomel fountain]
        (* <- lang_en;; <- name_en;;*);
        [гомель фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1998]
        (* <-concept_year_of_foundation;;*);
@@ -899,7 +899,7 @@ aisty_fountain <- concept_fountain;
        [aisty fountain]
        (* <- lang_en;; <- name_en;;*);
        [аисты фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2012]
        (* <-concept_year_of_foundation;;*);
@@ -913,7 +913,7 @@ neptun_fountain <- concept_fountain;
        [neptun fountain]
        (* <- lang_en;; <- name_en;;*);
        [нептун фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2007]
        (* <-concept_year_of_foundation;;*);
@@ -927,7 +927,7 @@ gigeja_fountain <- concept_fountain;
        [gigeja fountain]
        (* <- lang_en;; <- name_en;;*);
        [гигея фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2008]
        (* <-concept_year_of_foundation;;*);
@@ -941,7 +941,7 @@ slijanie_trjoh_rek_fountain <- concept_fountain;
        [slijanie trjoh rek fountain]
        (* <- lang_en;; <- name_en;;*);
        [слияние трёх рек фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2009]
        (* <-concept_year_of_foundation;;*);
@@ -1011,7 +1011,7 @@ unnamed_fountain_26 <- concept_fountain;
         [unnamed fountain 26]
         (* <- lang_en;; <- name_en;;*);
         [безымянный фонтан 26]
-        (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
         [2001]
         (* <-concept_year_of_foundation;;*);
@@ -1025,7 +1025,7 @@ unnamed_fountain_27 <- concept_fountain;
         [unnamed fountain 27]
         (* <- lang_en;; <- name_en;;*);
         [безымянный фонтан 27]
-        (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
         [2002]
         (* <-concept_year_of_foundation;;*);
@@ -1039,7 +1039,7 @@ unnamed_fountain_28 <- concept_fountain;
         [unnamed fountain 28]
         (* <- lang_en;; <- name_en;;*);
         [безымянный фонтан 28]
-        (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
         [2003]
         (* <-concept_year_of_foundation;;*);
@@ -1053,7 +1053,7 @@ unnamed_fountain_29 <- concept_fountain;
         [unnamed fountain 29]
         (* <- lang_en;; <- name_en;;*);
         [безымянный фонтан 29]
-        (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
         [2003]
         (* <-concept_year_of_foundation;;*);
@@ -1109,7 +1109,7 @@ zhelanij_fountain <- concept_fountain;
        [zhelanij fountain]
        (* <- lang_en;; <- name_en;;*);
        [желаний фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1968]
        (* <-concept_year_of_foundation;;*);
@@ -1123,7 +1123,7 @@ kupalshhicy_fountain <- concept_fountain;
        [kupalshhicy fountain]
        (* <- lang_en;; <- name_en;;*);
        [купальщицы фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1969]
        (* <-concept_year_of_foundation;;*);
@@ -1263,7 +1263,7 @@ chasha_sljoz_fountain <- concept_fountain;
        [chasha sljoz fountain]
        (* <- lang_en;; <- name_en;;*);
        [чаша слёз фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1958]
        (* <-concept_year_of_foundation;;*);
@@ -1277,7 +1277,7 @@ plavajushhij_fountain <- concept_fountain;
        [plavajushhij fountain]
        (* <- lang_en;; <- name_en;;*);
        [плавающий фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1957]
        (* <-concept_year_of_foundation;;*);
@@ -1291,7 +1291,7 @@ tysjacheletija_fountain <- concept_fountain;
        [tysjacheletija fountain]
        (* <- lang_en;; <- name_en;;*);
        [тысячелетия фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [1959]
        (* <-concept_year_of_foundation;;*);
@@ -1305,7 +1305,7 @@ na_naberezhnoj_fountain <- concept_fountain;
        [na naberezhnoj fountain]
        (* <- lang_en;; <- name_en;;*);
        [на набережной фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2004]
        (* <-concept_year_of_foundation;;*);
@@ -1319,7 +1319,7 @@ zuraba_cereteli_fountain <- concept_fountain;
        [zuraba cereteli fountain]
        (* <- lang_en;; <- name_en;;*);
        [зураба церетели фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2015]
        (* <-concept_year_of_foundation;;*);
@@ -1333,7 +1333,7 @@ sljozy_golikova_fountain <- concept_fountain;
        [sljozy golikova fountain]
        (* <- lang_en;; <- name_en;;*);
        [слёзы голикова фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2016]
        (* <-concept_year_of_foundation;;*);
@@ -1431,7 +1431,7 @@ unnamed_fountain_59 <- concept_fountain;
         [unnamed fountain 59]
         (* <- lang_en;; <- name_en;;*);
         [безымянный фонтан 59]
-        (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
         [1999]
         (* <-concept_year_of_foundation;;*);
@@ -1501,7 +1501,7 @@ brgtu_fountain <- concept_fountain;
        [brgtu fountain]
        (* <- lang_en;; <- name_en;;*);
        [бргту фонтан]
-       (* <- lang_ru;; <- name_ru;;*);
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_year_of_foundation:
        [2007]
        (* <-concept_year_of_foundation;;*);
