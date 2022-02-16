@@ -5,6 +5,8 @@ lake_gomel_beloe
 =>nrel_main_idtf:
     [Белое озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_salt:
+    [1.7];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -71,6 +73,8 @@ lake_kolpyno
 <- concept_way;
 =>nrel_search_area:
     gomel_region;
+=>nrel_temperature:
+    [10];
 =>nrel_main_idtf:
     [озеро Колпино]
     (* <- lang_ru;; <- name;;*);
@@ -104,6 +108,8 @@ lake_krushinivskoe
 =>nrel_main_idtf:
     [Крушиновское озеро]
     (* <- lang_ru;; <- name;;*);
+=>nrel_salt:
+    [0.1];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -166,6 +172,8 @@ lake_velikoe
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=>nrel_area:
+    [1.6];
 =>nrel_region:
     gomel_region;;
 

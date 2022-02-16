@@ -10,6 +10,8 @@ lake_Miadnianskaje
     belarus;
 =>nrel_region:
     brest_region;
+=> nrel_area:
+    [0.24];
 =>nrel_district:
     brest_district;
 =>nrel_search_area:
@@ -23,6 +25,8 @@ lake_Stradzieckaje
 =>nrel_main_idtf:
     [Страдечское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_area:
+    [0.14];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -56,6 +60,8 @@ lake_pogost
 =>nrel_main_idtf:
     [Погост]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_area:
+    [17];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -71,6 +77,8 @@ lake_Horodyszczewskie
 =>nrel_main_idtf:
     [Городищенское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_temperature:
+    [5];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -138,6 +146,8 @@ lake_bobrovichskoe
 =>nrel_main_idtf:
     [Бобровичское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_salt:
+    [0.12];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -174,6 +184,8 @@ lake_Wygonowskie
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_salt:
+    [26];
 =>nrel_region:
     brest_region;
 =>nrel_district:

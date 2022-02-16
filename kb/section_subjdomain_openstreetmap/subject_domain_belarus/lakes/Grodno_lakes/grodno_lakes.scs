@@ -38,6 +38,8 @@ lake_Bielaszka
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_temperature:
+    [-2];
 =>nrel_region:
     grodno_region;
 =>nrel_district:
@@ -97,6 +99,8 @@ lake_Timnicha
 =>nrel_main_idtf:
     [озеро Тимница]
     (* <- lang_ru;; <- name;;*);
+=> nrel_temperature:
+    [1];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -141,6 +145,8 @@ lake_Dlugie
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_temperature:
+    [4];
 =>nrel_region:
     grodno_region;;
 
@@ -186,6 +192,8 @@ lake_Czereszles
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_temperature:
+    [2];
 =>nrel_region:
     grodno_region;;
 
@@ -231,6 +239,8 @@ lake_Jodzi
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_salt:
+    [0.95];
 =>nrel_region:
     grodno_region;;
 
@@ -261,6 +271,8 @@ lake_Halubinaje
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_area:
+    [1.9];
 =>nrel_region:
     grodno_region;;
 

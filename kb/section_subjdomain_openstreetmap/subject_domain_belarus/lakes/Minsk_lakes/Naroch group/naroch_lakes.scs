@@ -7,6 +7,10 @@ lake_narach
     (* <- lang_en;; <- name_en;;*);
     [озеро Нарочь]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_temperature:
+    [10];
+=> nrel_area:
+    [79.62];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -24,6 +28,8 @@ lake_myastro
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_area:
+    [13];
 =>nrel_region:
     minsk_region;
 =>nrel_district:
@@ -39,6 +45,8 @@ lake_batorino
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_area:
+    [6];
 =>nrel_region:
     minsk_region;
 =>nrel_district:
@@ -52,6 +60,8 @@ lake_blyado
 =>nrel_main_idtf:
     [озеро Блядо]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_temperature:
+    [5];
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -85,6 +95,8 @@ lake_podshapie
 <- concept_way;
 =>nrel_search_area:
     minsk_region;
+=> nrel_temperature:
+    [20];
 =>nrel_main_idtf:
     [озеро Подшапье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -142,6 +154,8 @@ lake_mlynok
 =>nrel_main_idtf:
     [озеро Млынок]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_temperature:
+    [7];
 =>nrel_country:
     belarus;
 =>nrel_region:
