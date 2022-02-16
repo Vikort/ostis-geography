@@ -1,4 +1,4 @@
-company_sk-hayniks-memori-solyushens-vostochnaya-evropa <- concept_company;
+company_sk_hayniks_memori_solyushens_vostochnaya_evropa <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СК хайникс мемори солюшнс Восточная Европа]

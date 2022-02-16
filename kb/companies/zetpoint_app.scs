@@ -1,4 +1,4 @@
-company_zetpoint-app <- concept_company;
+company_zetpoint_app <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЗЭТПОИНТ АПП]

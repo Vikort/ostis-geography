@@ -1,4 +1,4 @@
-company_seladon-development <- concept_company;
+company_seladon_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Селадон]

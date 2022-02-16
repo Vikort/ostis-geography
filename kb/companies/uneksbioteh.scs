@@ -5,9 +5,9 @@ company_uneksbioteh <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375296135343]
 	(* <- concept_phone_number;;*);
-	[biotech@unex-holding.de]
+	[biotech@unex_holding.de]
 	(* <- concept_email;;*);
-	[http://unex-holding.de/]
+	[http://unex_holding.de/]
 	(* <- concept_website;;*);
 	[691778417]
 	(* <- concept_ucn;;*);

@@ -1,9 +1,9 @@
-company_veb-viki <- concept_company;
+company_veb_viki <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Веб ВИКИ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-752-43-62]
+	[+375_29_752_43_62]
 	(* <- concept_phone_number;;*);
 	[info@webviki.by]
 	(* <- concept_email;;*);

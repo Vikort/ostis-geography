@@ -1,4 +1,4 @@
-company_lift-app <- concept_company;
+company_lift_app <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[APPSULOVE]

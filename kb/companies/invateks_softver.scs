@@ -1,4 +1,4 @@
-company_invateks-softver <- concept_company;
+company_invateks_softver <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Инватекс Софтвер]

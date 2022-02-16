@@ -1,4 +1,4 @@
-company_ay-treyl <- concept_company;
+company_ay_treyl <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ай Трэйл]

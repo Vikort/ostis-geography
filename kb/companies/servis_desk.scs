@@ -1,13 +1,13 @@
-company_servis-desk <- concept_company;
+company_servis_desk <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сервис Деск]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 215 55 00]
 	(* <- concept_phone_number;;*);
-	[info@service-it.by]
+	[info@service_it.by]
 	(* <- concept_email;;*);
-	[http://service-it.by/]
+	[http://service_it.by/]
 	(* <- concept_website;;*);
 	[191636450]
 	(* <- concept_ucn;;*);

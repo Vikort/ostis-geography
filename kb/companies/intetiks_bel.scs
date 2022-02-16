@@ -1,9 +1,9 @@
-company_intetiks-bel <- concept_company;
+company_intetiks_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Интетикс Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 211-27-85]
+	[+375 17 211_27_85]
 	(* <- concept_phone_number;;*);
 	[intetics@intetics.com]
 	(* <- concept_email;;*);

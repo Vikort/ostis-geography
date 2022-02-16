@@ -11,7 +11,7 @@ company_lazerskom <- concept_company;
 	(* <- concept_website;;*);
 	[191606389]
 	(* <- concept_ucn;;*);
-	[Логойский тракт 22-418а]
+	[Логойский тракт 22_418а]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

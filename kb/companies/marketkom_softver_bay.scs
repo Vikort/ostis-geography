@@ -1,4 +1,4 @@
-company_marketkom-softver-bay <- concept_company;
+company_marketkom_softver_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Маркетком Софтвер Бай]
@@ -7,7 +7,7 @@ company_marketkom-softver-bay <- concept_company;
 	(* <- concept_phone_number;;*);
 	[aprischepchik@bdo.by]
 	(* <- concept_email;;*);
-	[http://market-group.com/]
+	[http://market_group.com/]
 	(* <- concept_website;;*);
 	[193243548]
 	(* <- concept_ucn;;*);

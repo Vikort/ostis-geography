@@ -3,7 +3,7 @@ company_nyupeks <- concept_company;
 =>nrel_main_idtf:
 	[Ньюпэкс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (17) 227-17-26]
+	[+375 (17) 227_17_26]
 	(* <- concept_phone_number;;*);
 	[info@nwp.by]
 	(* <- concept_email;;*);

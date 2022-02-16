@@ -11,7 +11,7 @@ company_fortvizhn <- concept_company;
 	(* <- concept_website;;*);
 	[491340112]
 	(* <- concept_ucn;;*);
-	[Гагарина, 49, каб. 4-19]
+	[Гагарина, 49, каб. 4_19]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

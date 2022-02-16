@@ -1,9 +1,9 @@
-company_tidiay-bel <- concept_company;
+company_tidiay_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ТиДиАй Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-555-02-74]
+	[+375_44_555_02_74]
 	(* <- concept_phone_number;;*);
 	[eugene.ryzhuk@tdibel.com]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_omegasoftver <- concept_company;
 =>nrel_main_idtf:
 	[Омегасофтвер]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 300-69-41]
+	[+375 17 300_69_41]
 	(* <- concept_phone_number;;*);
 	[omega@omegasoftware.eu]
 	(* <- concept_email;;*);

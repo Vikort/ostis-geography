@@ -11,7 +11,7 @@ company_netkrekerbel <- concept_company;
 	(* <- concept_website;;*);
 	[192180913]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, 57, 4 этаж, пом. 23-1]
+	[пр_т Дзержинского, 57, 4 этаж, пом. 23_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

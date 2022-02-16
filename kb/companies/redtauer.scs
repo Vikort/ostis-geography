@@ -3,7 +3,7 @@ company_redtauer <- concept_company;
 =>nrel_main_idtf:
 	[РЭДТАУЭР]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-540-94-73]
+	[+375_29_540_94_73]
 	(* <- concept_phone_number;;*);
 	[hello@redtower.by]
 	(* <- concept_email;;*);

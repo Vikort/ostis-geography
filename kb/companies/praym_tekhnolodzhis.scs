@@ -1,4 +1,4 @@
-company_praym-tekhnolodzhis <- concept_company;
+company_praym_tekhnolodzhis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Прайм Технолоджис]

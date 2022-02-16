@@ -1,11 +1,11 @@
-company_era-zashchity <- concept_company;
+company_era_zashchity <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эра защиты]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 222 60 51]
 	(* <- concept_phone_number;;*);
-	[info@era-zaschity.by]
+	[info@era_zaschity.by]
 	(* <- concept_email;;*);
 	[193359132]
 	(* <- concept_ucn;;*);

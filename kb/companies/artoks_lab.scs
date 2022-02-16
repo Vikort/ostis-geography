@@ -1,17 +1,17 @@
-company_artoks-lab <- concept_company;
+company_artoks_lab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Артокс Лаб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (17) 215-00-20]
+	[+375 (17) 215_00_20]
 	(* <- concept_phone_number;;*);
-	[info@artox-lab.com]
+	[info@artox_lab.com]
 	(* <- concept_email;;*);
-	[http://www.artox-lab.com/]
+	[http://www.artox_lab.com/]
 	(* <- concept_website;;*);
 	[191700409]
 	(* <- concept_ucn;;*);
-	[ул. Толбухина 2, 5-этаж, офис 21]
+	[ул. Толбухина 2, 5_этаж, офис 21]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

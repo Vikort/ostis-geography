@@ -3,7 +3,7 @@ company_getklin <- concept_company;
 =>nrel_main_idtf:
 	[Гетклин]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 133-12-13]
+	[+375_29 133_12_13]
 	(* <- concept_phone_number;;*);
 	[info@getclean.by]
 	(* <- concept_email;;*);

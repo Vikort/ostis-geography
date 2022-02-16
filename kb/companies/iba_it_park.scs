@@ -1,4 +1,4 @@
-company_iba-it-park <- concept_company;
+company_iba_it_park <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[IBA IT Park]

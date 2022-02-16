@@ -1,9 +1,9 @@
-company_studiya-rayt <- concept_company;
+company_studiya_rayt <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Студия Райт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 7564287]
+	[+375_29 7564287]
 	(* <- concept_phone_number;;*);
 	[all@right.by]
 	(* <- concept_email;;*);

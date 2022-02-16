@@ -1,9 +1,9 @@
-company_d8-finansovye-tehnologii <- concept_company;
+company_d8_finansovye_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Д8 Финансовые Технологии]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-364-26-86]
+	[+375_17_364_26_86]
 	(* <- concept_phone_number;;*);
 	[d8belarus@d8corp.com]
 	(* <- concept_email;;*);

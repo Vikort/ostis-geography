@@ -1,4 +1,4 @@
-company_mezhdunarodnyy-evraziyskiy-industrialnyy-fond <- concept_company;
+company_mezhdunarodnyy_evraziyskiy_industrialnyy_fond <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[МЕИФ]

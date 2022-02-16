@@ -1,4 +1,4 @@
-company_sed-ket-studioz <- concept_company;
+company_sed_ket_studioz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сэд Кэт Студиоз]

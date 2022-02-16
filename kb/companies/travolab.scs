@@ -5,9 +5,9 @@ company_travolab <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 360 50 12]
 	(* <- concept_phone_number;;*);
-	[dcasvigny@travo-lab.com]
+	[dcasvigny@travo_lab.com]
 	(* <- concept_email;;*);
-	[http://travo-lab.com/]
+	[http://travo_lab.com/]
 	(* <- concept_website;;*);
 	[193050723]
 	(* <- concept_ucn;;*);

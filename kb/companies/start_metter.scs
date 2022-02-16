@@ -1,4 +1,4 @@
-company_start-metter <- concept_company;
+company_start_metter <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Старт Мэттер]
@@ -11,7 +11,7 @@ company_start-metter <- concept_company;
 	(* <- concept_website;;*);
 	[491330470]
 	(* <- concept_ucn;;*);
-	[ул. Крестьянская 1А-2, оф. 11]
+	[ул. Крестьянская 1А_2, оф. 11]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

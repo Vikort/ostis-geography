@@ -1,9 +1,9 @@
-company_izovak-dr <- concept_company;
+company_izovak_dr <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Изовак ДР]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-293-18-42]
+	[+375_17_293_18_42]
 	(* <- concept_phone_number;;*);
 	[artamonov@izovac.com]
 	(* <- concept_email;;*);

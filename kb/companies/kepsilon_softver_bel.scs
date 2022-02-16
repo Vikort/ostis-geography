@@ -1,4 +1,4 @@
-company_kepsilon-softver-bel <- concept_company;
+company_kepsilon_softver_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Кэпсилон Софтвер Бел]
@@ -11,7 +11,7 @@ company_kepsilon-softver-bel <- concept_company;
 	(* <- concept_website;;*);
 	[192496948]
 	(* <- concept_ucn;;*);
-	[ул. Толстого, 10, пом. 161, офис 161-3]
+	[ул. Толстого, 10, пом. 161, офис 161_3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

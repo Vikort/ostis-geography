@@ -1,9 +1,9 @@
-company_inteliko-sistems <- concept_company;
+company_inteliko_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Интелико Системс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (17) 374-8060]
+	[+375 (17) 374_8060]
 	(* <- concept_phone_number;;*);
 	[connect@intelico.su]
 	(* <- concept_email;;*);

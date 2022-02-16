@@ -1,9 +1,9 @@
-company_softtech-development <- concept_company;
+company_softtech_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СофтТеч Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-645-57-90]
+	[+375_29_645_57_90]
 	(* <- concept_phone_number;;*);
 	[a.smai@softtech.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_softtech-development <- concept_company;
 	(* <- concept_website;;*);
 	[193480613]
 	(* <- concept_ucn;;*);
-	[ул. Селицкого, д. 21Б, помещение 1, комната 1-4]
+	[ул. Селицкого, д. 21Б, помещение 1, комната 1_4]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

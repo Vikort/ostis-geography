@@ -3,7 +3,7 @@ company_svey <- concept_company;
 =>nrel_main_idtf:
 	[СВЭЙ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 264-20-18]
+	[+375 17 264_20_18]
 	(* <- concept_phone_number;;*);
 	[averson@averson.by]
 	(* <- concept_email;;*);

@@ -1,4 +1,4 @@
-company_severeks-bay <- concept_company;
+company_severeks_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Северекс Бай]

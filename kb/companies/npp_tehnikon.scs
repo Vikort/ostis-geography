@@ -1,4 +1,4 @@
-company_npp-tehnikon <- concept_company;
+company_npp_tehnikon <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[НПП ТЕХНИКОН]
@@ -11,7 +11,7 @@ company_npp-tehnikon <- concept_company;
 	(* <- concept_website;;*);
 	[190361606]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости 177, офис 10, каб. 403]
+	[пр_т Независимости 177, офис 10, каб. 403]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,9 +1,9 @@
-company_eskaer-geyms <- concept_company;
+company_eskaer_geyms <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭСКАЭР ГЕЙМС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6994399]
+	[+375_29 6994399]
 	(* <- concept_phone_number;;*);
 	[vatifasta@gmail.com]
 	(* <- concept_email;;*);

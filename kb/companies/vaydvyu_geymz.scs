@@ -1,9 +1,9 @@
-company_vaydvyu-geymz <- concept_company;
+company_vaydvyu_geymz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВайдВью Геймз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-360-91-09]
+	[+375_29_360_91_09]
 	(* <- concept_phone_number;;*);
 	[contact@wideview.games]
 	(* <- concept_email;;*);

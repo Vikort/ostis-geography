@@ -1,4 +1,4 @@
-company_spiral-skaut <- concept_company;
+company_spiral_skaut <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Спираль Скаут]

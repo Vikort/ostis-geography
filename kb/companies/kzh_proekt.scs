@@ -1,9 +1,9 @@
-company_kzh-proekt <- concept_company;
+company_kzh_proekt <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[КЖ-ПРОЕКТ]
+	[КЖ_ПРОЕКТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[-+375-17-241-89-91]
+	[_+375_17_241_89_91]
 	(* <- concept_phone_number;;*);
 	[https://kjproject.by/]
 	(* <- concept_website;;*);

@@ -1,9 +1,9 @@
-company_borovoy-studio-vorldvayd <- concept_company;
+company_borovoy_studio_vorldvayd <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Боровой Студио Ворлдвайд]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-694-22-80]
+	[+375_29_694_22_80]
 	(* <- concept_phone_number;;*);
 	[info@db.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_borovoy-studio-vorldvayd <- concept_company;
 	(* <- concept_website;;*);
 	[193133724]
 	(* <- concept_ucn;;*);
-	[ул. Шафарнянская, д. 11, пом. 325-1]
+	[ул. Шафарнянская, д. 11, пом. 325_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

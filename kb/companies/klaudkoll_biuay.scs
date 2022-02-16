@@ -1,4 +1,4 @@
-company_klaudkoll-biuay <- concept_company;
+company_klaudkoll_biuay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[КлаудКолл БиУай]

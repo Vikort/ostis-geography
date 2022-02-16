@@ -1,4 +1,4 @@
-company_arpies-tek <- concept_company;
+company_arpies_tek <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АрПиЭс Тек]
@@ -9,7 +9,7 @@ company_arpies-tek <- concept_company;
 	(* <- concept_email;;*);
 	[192275883]
 	(* <- concept_ucn;;*);
-	[ул. Железнодорожная, 33-301]
+	[ул. Железнодорожная, 33_301]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

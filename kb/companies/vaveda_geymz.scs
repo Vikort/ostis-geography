@@ -1,9 +1,9 @@
-company_vaveda-geymz <- concept_company;
+company_vaveda_geymz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ваведа Геймз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-785-50-00]
+	[+375_44_785_50_00]
 	(* <- concept_phone_number;;*);
 	[yury.kovalkov@vaveda.games]
 	(* <- concept_email;;*);

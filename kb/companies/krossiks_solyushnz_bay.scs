@@ -1,11 +1,11 @@
-company_krossiks-solyushnz-bay <- concept_company;
+company_krossiks_solyushnz_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Кроссикс Солюшнз Бай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-323-55-15]
+	[+375_17_323_55_15]
 	(* <- concept_phone_number;;*);
-	[https://www.veeva.com/products/marketing-analytics/]
+	[https://www.veeva.com/products/marketing_analytics/]
 	(* <- concept_website;;*);
 	[193139431]
 	(* <- concept_ucn;;*);

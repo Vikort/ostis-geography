@@ -1,13 +1,13 @@
-company_sensis-inzhiniring <- concept_company;
+company_sensis_inzhiniring <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сенсис Инжиниринг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+37533 3 522 911]
 	(* <- concept_phone_number;;*);
-	[info@pro-sensys.com]
+	[info@pro_sensys.com]
 	(* <- concept_email;;*);
-	[https://pro-sensys.com/]
+	[https://pro_sensys.com/]
 	(* <- concept_website;;*);
 	[193455160]
 	(* <- concept_ucn;;*);

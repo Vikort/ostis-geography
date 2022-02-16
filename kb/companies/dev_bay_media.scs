@@ -1,9 +1,9 @@
-company_dev-bay-media <- concept_company;
+company_dev_bay_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дев Бай Медиа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-708-41-05]
+	[+375_44_708_41_05]
 	(* <- concept_phone_number;;*);
 	[dev@dev.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_dev-bay-media <- concept_company;
 	(* <- concept_website;;*);
 	[193010172]
 	(* <- concept_ucn;;*);
-	[ул. Зыбицкая, д. 2, пом. 6-13]
+	[ул. Зыбицкая, д. 2, пом. 6_13]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

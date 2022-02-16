@@ -1,17 +1,17 @@
-company_il-tim-grup <- concept_company;
+company_il_tim_grup <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[ИЛ-Тим Груп]
+	[ИЛ_Тим Груп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375444898756]
 	(* <- concept_phone_number;;*);
-	[info@elteam-group]
+	[info@elteam_group]
 	(* <- concept_email;;*);
-	[https://elteam-group.com/]
+	[https://elteam_group.com/]
 	(* <- concept_website;;*);
 	[193110841]
 	(* <- concept_ucn;;*);
-	[пр-т Газеты «Правда», дом 1, помещение 312, 1-й этаж]
+	[пр_т Газеты «Правда», дом 1, помещение 312, 1_й этаж]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

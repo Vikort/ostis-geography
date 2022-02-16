@@ -1,4 +1,4 @@
-company_elektronnye-dokumenty-i-nakladnye <- concept_company;
+company_elektronnye_dokumenty_i_nakladnye <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Электронные документы и накладные]
@@ -11,7 +11,7 @@ company_elektronnye-dokumenty-i-nakladnye <- concept_company;
 	(* <- concept_website;;*);
 	[192545366]
 	(* <- concept_ucn;;*);
-	[г. Минск, ул. 3-я Щорса, д. 9, офис 304]
+	[г. Минск, ул. 3_я Щорса, д. 9, офис 304]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

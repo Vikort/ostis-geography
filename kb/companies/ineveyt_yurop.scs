@@ -1,4 +1,4 @@
-company_ineveyt-yurop <- concept_company;
+company_ineveyt_yurop <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Инэвейт Юроп]
@@ -11,7 +11,7 @@ company_ineveyt-yurop <- concept_company;
 	(* <- concept_website;;*);
 	[193303150]
 	(* <- concept_ucn;;*);
-	[ул. Городецкая, дом 38А, комната 30-1]
+	[ул. Городецкая, дом 38А, комната 30_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

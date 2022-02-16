@@ -3,7 +3,7 @@ company_pieychpidev <- concept_company;
 =>nrel_main_idtf:
 	[ООО "ПиЭйчПиДев"]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (44) 777-26-61]
+	[+375 (44) 777_26_61]
 	(* <- concept_phone_number;;*);
 	[info@phpdev.org]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_ekvay <- concept_company;
 =>nrel_main_idtf:
 	[Эквай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-177-51-90]
+	[+375_29_177_51_90]
 	(* <- concept_phone_number;;*);
 	[htp@equai.xyz]
 	(* <- concept_email;;*);

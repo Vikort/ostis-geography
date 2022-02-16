@@ -5,9 +5,9 @@ company_melsoft <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 264 24 09]
 	(* <- concept_phone_number;;*);
-	[info@melsoft-games.com]
+	[info@melsoft_games.com]
 	(* <- concept_email;;*);
-	[http://melsoft-games.com/]
+	[http://melsoft_games.com/]
 	(* <- concept_website;;*);
 	[690542788]
 	(* <- concept_ucn;;*);

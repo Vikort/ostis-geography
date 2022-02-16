@@ -1,4 +1,4 @@
-company_insoft-injiniring <- concept_company;
+company_insoft_injiniring <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Инсофт Инжиниринг]

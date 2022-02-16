@@ -3,7 +3,7 @@ company_lunshots <- concept_company;
 =>nrel_main_idtf:
 	[Луншотс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-893-49-34]
+	[+375_29_893_49_34]
 	(* <- concept_phone_number;;*);
 	[contact@loonshot.app]
 	(* <- concept_email;;*);

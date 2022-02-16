@@ -1,9 +1,9 @@
-company_viga-soft <- concept_company;
+company_viga_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВИГА Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-383-54-28]
+	[+375_29_383_54_28]
 	(* <- concept_phone_number;;*);
 	[ask@lihtarik.co.uk]
 	(* <- concept_email;;*);

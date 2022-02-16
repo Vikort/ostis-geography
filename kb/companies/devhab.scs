@@ -3,7 +3,7 @@ company_devhab <- concept_company;
 =>nrel_main_idtf:
 	[Девхаб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-554-08-99]
+	[+375_29_554_08_99]
 	(* <- concept_phone_number;;*);
 	[htp@upsilonit.com]
 	(* <- concept_email;;*);

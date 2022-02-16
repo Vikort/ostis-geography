@@ -1,13 +1,13 @@
-company_oem-teh <- concept_company;
+company_oem_teh <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ОЕМ Тех]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375(29)752 80 64]
 	(* <- concept_phone_number;;*);
-	[info@oem-tech.by]
+	[info@oem_tech.by]
 	(* <- concept_email;;*);
-	[http://oem-tech.by/]
+	[http://oem_tech.by/]
 	(* <- concept_website;;*);
 	[190975448]
 	(* <- concept_ucn;;*);

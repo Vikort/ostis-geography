@@ -1,9 +1,9 @@
-company_dual-lab-bel <- concept_company;
+company_dual_lab_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дуал Лаб Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-264-39-34]
+	[+375_17_264_39_34]
 	(* <- concept_phone_number;;*);
 	[info@duallab.com]
 	(* <- concept_email;;*);

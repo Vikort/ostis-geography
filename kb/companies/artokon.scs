@@ -3,7 +3,7 @@ company_artokon <- concept_company;
 =>nrel_main_idtf:
 	[Артокон]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 3349181]
+	[+375_29 3349181]
 	(* <- concept_phone_number;;*);
 	[artocon@artocons.com]
 	(* <- concept_email;;*);

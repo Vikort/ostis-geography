@@ -3,7 +3,7 @@ company_admitad <- concept_company;
 =>nrel_main_idtf:
 	[Адмитад]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 3181699]
+	[+375_17 3181699]
 	(* <- concept_phone_number;;*);
 	[by.sales@admitad.com]
 	(* <- concept_email;;*);

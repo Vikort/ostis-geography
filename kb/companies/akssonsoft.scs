@@ -3,7 +3,7 @@ company_akssonsoft <- concept_company;
 =>nrel_main_idtf:
 	[АкссонСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 3952008]
+	[+375_17 3952008]
 	(* <- concept_phone_number;;*);
 	[mnk@itv.ru]
 	(* <- concept_email;;*);

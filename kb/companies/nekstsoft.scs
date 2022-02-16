@@ -3,7 +3,7 @@ company_nekstsoft <- concept_company;
 =>nrel_main_idtf:
 	[Нэкстсофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 288-60-25]
+	[+375 17 288_60_25]
 	(* <- concept_phone_number;;*);
 	[raroslik@nextsoftltd.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_nekstsoft <- concept_company;
 	(* <- concept_website;;*);
 	[192496167]
 	(* <- concept_ucn;;*);
-	[ул. Кульман 9, 7-й этаж, пом. 26]
+	[ул. Кульман 9, 7_й этаж, пом. 26]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

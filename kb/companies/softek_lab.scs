@@ -1,4 +1,4 @@
-company_softek-lab <- concept_company;
+company_softek_lab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Софтек Лаб]

@@ -1,9 +1,9 @@
-company_d-end-i-servis-grupp <- concept_company;
+company_d_end_i_servis_grupp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Д энд И сервис групп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-178-78-57]
+	[+375_29_178_78_57]
 	(* <- concept_phone_number;;*);
 	[193360017]
 	(* <- concept_ucn;;*);

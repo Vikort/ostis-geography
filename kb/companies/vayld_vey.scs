@@ -1,9 +1,9 @@
-company_vayld-vey <- concept_company;
+company_vayld_vey <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вайлд Вей]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-25-990-45-41]
+	[+375_25_990_45_41]
 	(* <- concept_phone_number;;*);
 	[contact@wildwaygames.com]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_fintekslab <- concept_company;
 =>nrel_main_idtf:
 	[ФинтексЛаб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+ 375-16-227-29-17]
+	[+ 375_16_227_29_17]
 	(* <- concept_phone_number;;*);
 	[contact@fintexlab.com]
 	(* <- concept_email;;*);

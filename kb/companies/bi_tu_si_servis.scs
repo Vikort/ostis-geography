@@ -1,4 +1,4 @@
-company_bi-tu-si-servis <- concept_company;
+company_bi_tu_si_servis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Би Ту Си Сервис]
@@ -9,7 +9,7 @@ company_bi-tu-si-servis <- concept_company;
 	(* <- concept_email;;*);
 	[193170510]
 	(* <- concept_ucn;;*);
-	[пер.3-ий Загородный, д.4В, оф.208]
+	[пер.3_ий Загородный, д.4В, оф.208]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

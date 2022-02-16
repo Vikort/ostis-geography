@@ -3,7 +3,7 @@ company_vizuatika <- concept_company;
 =>nrel_main_idtf:
 	[Визуатика]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-883-77-92]
+	[+375_29_883_77_92]
 	(* <- concept_phone_number;;*);
 	[bbakhvalov@vizuatica.com]
 	(* <- concept_email;;*);

@@ -11,7 +11,7 @@ company_aetsoft <- concept_company;
 	(* <- concept_website;;*);
 	[192209462]
 	(* <- concept_ucn;;*);
-	[Республика Беларусь, г. Минск, ул. Железнодорожная 33А/1-6]
+	[Республика Беларусь, г. Минск, ул. Железнодорожная 33А/1_6]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

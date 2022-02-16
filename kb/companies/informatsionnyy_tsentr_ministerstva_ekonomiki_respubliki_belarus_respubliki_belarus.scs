@@ -1,9 +1,9 @@
-company_informatsionnyy-tsentr-ministerstva-ekonomiki-respubliki-belarus-respubliki-belarus <- concept_company;
+company_informatsionnyy_tsentr_ministerstva_ekonomiki_respubliki_belarus_respubliki_belarus <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Информационный центр Минэкономики]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-200-73-33]
+	[+375_17_200_73_33]
 	(* <- concept_phone_number;;*);
 	[centr@economy.gov.by]
 	(* <- concept_email;;*);

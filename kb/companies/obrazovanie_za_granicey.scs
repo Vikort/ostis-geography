@@ -1,4 +1,4 @@
-company_obrazovanie-za-granicey <- concept_company;
+company_obrazovanie_za_granicey <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Образование за границей]

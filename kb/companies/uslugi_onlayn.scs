@@ -1,9 +1,9 @@
-company_uslugi-onlayn <- concept_company;
+company_uslugi_onlayn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Услуги Онлайн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-109-46-34]
+	[+375_29_109_46_34]
 	(* <- concept_phone_number;;*);
 	[dmitriy@geran.in]
 	(* <- concept_email;;*);

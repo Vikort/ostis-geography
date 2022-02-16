@@ -1,7 +1,7 @@
-company_r-volver-tekhnolodzhis <- concept_company;
+company_r_volver_tekhnolodzhis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Р-вольвер Технолоджис]
+	[Р_вольвер Технолоджис]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375291155353]
 	(* <- concept_phone_number;;*);

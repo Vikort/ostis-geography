@@ -1,4 +1,4 @@
-company_neshta-media <- concept_company;
+company_neshta_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Нешта Медиа]

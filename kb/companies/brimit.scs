@@ -3,7 +3,7 @@ company_brimit <- concept_company;
 =>nrel_main_idtf:
 	[Бримит]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-782-77-86]
+	[+375_29_782_77_86]
 	(* <- concept_phone_number;;*);
 	[contact@brimit.com]
 	(* <- concept_email;;*);

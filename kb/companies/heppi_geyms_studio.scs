@@ -1,4 +1,4 @@
-company_heppi-geyms-studio <- concept_company;
+company_heppi_geyms_studio <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Хэппи Геймс Студио]

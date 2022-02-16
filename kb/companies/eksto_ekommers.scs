@@ -1,4 +1,4 @@
-company_eksto-ekommers <- concept_company;
+company_eksto_ekommers <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭКСТО ЕКОММЕРС]

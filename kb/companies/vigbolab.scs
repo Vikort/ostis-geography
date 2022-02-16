@@ -3,7 +3,7 @@ company_vigbolab <- concept_company;
 =>nrel_main_idtf:
 	[ВигбоЛаб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-777-50-99]
+	[+375_44_777_50_99]
 	(* <- concept_phone_number;;*);
 	[hello@vigbo.com]
 	(* <- concept_email;;*);

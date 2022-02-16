@@ -5,7 +5,7 @@ company_izovak <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+37517 2931842]
 	(* <- concept_phone_number;;*);
-	[Pvt-i@izovac.com]
+	[Pvt_i@izovac.com]
 	(* <- concept_email;;*);
 	[http://izovac.com/]
 	(* <- concept_website;;*);

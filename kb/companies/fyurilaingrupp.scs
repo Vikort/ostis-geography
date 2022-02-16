@@ -11,7 +11,7 @@ company_fyurilaingrupp <- concept_company;
 	(* <- concept_website;;*);
 	[391611950]
 	(* <- concept_ucn;;*);
-	[пр-т Ф.Скорины, 37, пом.410]
+	[пр_т Ф.Скорины, 37, пом.410]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

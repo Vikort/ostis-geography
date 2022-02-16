@@ -3,7 +3,7 @@ company_erpbel <- concept_company;
 =>nrel_main_idtf:
 	[ЕРПБЕЛ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-285-82-12]
+	[+375_17_285_82_12]
 	(* <- concept_phone_number;;*);
 	[info@erpbel.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_erpbel <- concept_company;
 	(* <- concept_website;;*);
 	[690610877]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости, д. 172, офис 308]
+	[пр_т Независимости, д. 172, офис 308]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

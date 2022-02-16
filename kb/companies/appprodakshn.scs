@@ -3,7 +3,7 @@ company_appprodakshn <- concept_company;
 =>nrel_main_idtf:
 	[Апп продакшн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 856-80-02]
+	[+375 (29) 856_80_02]
 	(* <- concept_phone_number;;*);
 	[job@appyfurious.com]
 	(* <- concept_email;;*);

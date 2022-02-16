@@ -1,4 +1,4 @@
-company_evolyushn-prodakts-development <- concept_company;
+company_evolyushn_prodakts_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эволюшн Продактс Девелопмент]

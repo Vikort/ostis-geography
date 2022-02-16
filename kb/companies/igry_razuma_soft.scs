@@ -1,4 +1,4 @@
-company_igry-razuma-soft <- concept_company;
+company_igry_razuma_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Игры Разума Софт]

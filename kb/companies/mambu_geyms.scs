@@ -1,9 +1,9 @@
-company_mambu-geyms <- concept_company;
+company_mambu_geyms <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Мамбу Геймс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-814-94-39]
+	[+375_29_814_94_39]
 	(* <- concept_phone_number;;*);
 	[info@mamboogames.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_mambu-geyms <- concept_company;
 	(* <- concept_website;;*);
 	[193382105]
 	(* <- concept_ucn;;*);
-	[ул. Сторожевская, д. 6, помщение 249-3]
+	[ул. Сторожевская, д. 6, помщение 249_3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

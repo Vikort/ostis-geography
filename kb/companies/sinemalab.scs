@@ -3,7 +3,7 @@ company_sinemalab <- concept_company;
 =>nrel_main_idtf:
 	[СинемаЛаб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (44) 590-95-50]
+	[+375 (44) 590_95_50]
 	(* <- concept_phone_number;;*);
 	[info@cinemalab.io]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_sinemalab <- concept_company;
 	(* <- concept_website;;*);
 	[193142929]
 	(* <- concept_ucn;;*);
-	[ул.П.Мстиславца, д.11, часть пом. 5-5]
+	[ул.П.Мстиславца, д.11, часть пом. 5_5]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

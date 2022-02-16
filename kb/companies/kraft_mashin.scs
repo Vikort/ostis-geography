@@ -1,4 +1,4 @@
-company_kraft-mashin <- concept_company;
+company_kraft_mashin <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Крафт Машин]
@@ -11,7 +11,7 @@ company_kraft-mashin <- concept_company;
 	(* <- concept_website;;*);
 	[192659596]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей 110-505]
+	[пр_т Победителей 110_505]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

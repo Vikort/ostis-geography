@@ -1,4 +1,4 @@
-company_data-prayvasi-ofis <- concept_company;
+company_data_prayvasi_ofis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ООО “ДПО” ]
@@ -7,7 +7,7 @@ company_data-prayvasi-ofis <- concept_company;
 	(* <- concept_phone_number;;*);
 	[info@dpo.by]
 	(* <- concept_email;;*);
-	[https://data-privacy-office.com/]
+	[https://data_privacy_office.com/]
 	(* <- concept_website;;*);
 	[193051454]
 	(* <- concept_ucn;;*);

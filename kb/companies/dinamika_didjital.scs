@@ -1,9 +1,9 @@
-company_dinamika-didjital <- concept_company;
+company_dinamika_didjital <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Динамика Диджитал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-719-18-06]
+	[+375_44_719_18_06]
 	(* <- concept_phone_number;;*);
 	[info@dinamicadigital.io]
 	(* <- concept_email;;*);

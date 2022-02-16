@@ -11,7 +11,7 @@ company_fyurilaindevelopment <- concept_company;
 	(* <- concept_website;;*);
 	[391617614]
 	(* <- concept_ucn;;*);
-	[Полоцк, пр-т Ф.Скорины, 37, пом.410]
+	[Полоцк, пр_т Ф.Скорины, 37, пом.410]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

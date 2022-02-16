@@ -11,7 +11,7 @@ company_temsa <- concept_company;
 	(* <- concept_website;;*);
 	[291194034]
 	(* <- concept_ucn;;*);
-	[Минск, ул. Раковская 16Б-5Н]
+	[Минск, ул. Раковская 16Б_5Н]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

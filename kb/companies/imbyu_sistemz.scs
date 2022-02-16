@@ -1,4 +1,4 @@
-company_imbyu-sistemz <- concept_company;
+company_imbyu_sistemz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Имбью Системз]

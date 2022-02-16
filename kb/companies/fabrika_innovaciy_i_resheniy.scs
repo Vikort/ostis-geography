@@ -1,13 +1,13 @@
-company_fabrika-innovaciy-i-resheniy <- concept_company;
+company_fabrika_innovaciy_i_resheniy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Фабрика инноваций и решений]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+ 375 (212) 27 31 29]
 	(* <- concept_phone_number;;*);
-	[contact@innowise-group.com]
+	[contact@innowise_group.com]
 	(* <- concept_email;;*);
-	[http://innowise-group.com]
+	[http://innowise_group.com]
 	(* <- concept_website;;*);
 	[190961014]
 	(* <- concept_ucn;;*);

@@ -1,9 +1,9 @@
-company_bit-media-soft <- concept_company;
+company_bit_media_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[БИТ МЕДИА СОФТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-850-95-75]
+	[+375_29_850_95_75]
 	(* <- concept_phone_number;;*);
 	[contact@bmsoft.by]
 	(* <- concept_email;;*);

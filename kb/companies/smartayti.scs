@@ -3,11 +3,11 @@ company_smartayti <- concept_company;
 =>nrel_main_idtf:
 	[СмартАйТи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33-684-30-01]
+	[+375_33_684_30_01]
 	(* <- concept_phone_number;;*);
-	[info@smart-it.io]
+	[info@smart_it.io]
 	(* <- concept_email;;*);
-	[http://smart-it.by/]
+	[http://smart_it.by/]
 	(* <- concept_website;;*);
 	[192819122]
 	(* <- concept_ucn;;*);

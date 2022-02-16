@@ -11,7 +11,7 @@ company_rieltbay <- concept_company;
 	(* <- concept_website;;*);
 	[191179355]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей, 7А, оф.58]
+	[пр_т Победителей, 7А, оф.58]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

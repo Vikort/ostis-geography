@@ -1,7 +1,7 @@
-company_itach-soft <- concept_company;
+company_itach_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Итач-софт]
+	[Итач_софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375173884530]
 	(* <- concept_phone_number;;*);

@@ -1,4 +1,4 @@
-company_citrea-soft <- concept_company;
+company_citrea_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЦИТРЕА СОФТ]

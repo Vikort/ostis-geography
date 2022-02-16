@@ -1,9 +1,9 @@
-company_arbisi-bel <- concept_company;
+company_arbisi_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АРБИСИ БЕЛ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (33) 337-19-66]
+	[+375 (33) 337_19_66]
 	(* <- concept_phone_number;;*);
 	[info@rbcgrp.com]
 	(* <- concept_email;;*);

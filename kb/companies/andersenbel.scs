@@ -3,7 +3,7 @@ company_andersenbel <- concept_company;
 =>nrel_main_idtf:
 	[АндерсенБел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 3884022]
+	[+375_17 3884022]
 	(* <- concept_phone_number;;*);
 	[docs@andersenlab.com]
 	(* <- concept_email;;*);

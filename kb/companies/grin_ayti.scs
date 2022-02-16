@@ -1,4 +1,4 @@
-company_grin-ayti <- concept_company;
+company_grin_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Грин АйТи]

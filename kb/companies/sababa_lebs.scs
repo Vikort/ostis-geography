@@ -1,13 +1,13 @@
-company_sababa-lebs <- concept_company;
+company_sababa_lebs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сабаба Лэбс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 44 7 527 527]
 	(* <- concept_phone_number;;*);
-	[inbox@sababa-labs.by]
+	[inbox@sababa_labs.by]
 	(* <- concept_email;;*);
-	[http://sababa-labs.by/]
+	[http://sababa_labs.by/]
 	(* <- concept_website;;*);
 	[193045353]
 	(* <- concept_ucn;;*);

@@ -3,7 +3,7 @@ company_fitspair <- concept_company;
 =>nrel_main_idtf:
 	[Фитспаир]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-575-16-50]
+	[+375_44_575_16_50]
 	(* <- concept_phone_number;;*);
 	[inna@fitspire.app]
 	(* <- concept_email;;*);

@@ -1,4 +1,4 @@
-company_cit-mintruda-i-soczashchity <- concept_company;
+company_cit_mintruda_i_soczashchity <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЦИТ Минтруда и соцзащиты]
@@ -7,7 +7,7 @@ company_cit-mintruda-i-soczashchity <- concept_company;
 	(* <- concept_phone_number;;*);
 	[cit@mlsp.gov.by]
 	(* <- concept_email;;*);
-	[http://cit-mintrud.by/]
+	[http://cit_mintrud.by/]
 	(* <- concept_website;;*);
 	[191009727]
 	(* <- concept_ucn;;*);

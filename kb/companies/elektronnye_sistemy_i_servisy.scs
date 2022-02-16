@@ -1,9 +1,9 @@
-company_elektronnye-sistemy-i-servisy <- concept_company;
+company_elektronnye_sistemy_i_servisy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Электронные Системы и Сервисы]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 670-41-69]
+	[+375 (29) 670_41_69]
 	(* <- concept_phone_number;;*);
 	[info@esas.by]
 	(* <- concept_email;;*);

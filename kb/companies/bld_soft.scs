@@ -1,9 +1,9 @@
-company_bld-soft <- concept_company;
+company_bld_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[БЛД Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29-667-36-48]
+	[+375 29_667_36_48]
 	(* <- concept_phone_number;;*);
 	[i.smalian@setplex.com]
 	(* <- concept_email;;*);

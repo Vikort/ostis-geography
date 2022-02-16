@@ -11,7 +11,7 @@ company_libertaym <- concept_company;
 	(* <- concept_website;;*);
 	[192294163]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей 23/1, офис 700а]
+	[пр_т Победителей 23/1, офис 700а]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,4 +1,4 @@
-company_intelidjent-semantik-sistems <- concept_company;
+company_intelidjent_semantik_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Интелиджент семантик системс]

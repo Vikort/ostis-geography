@@ -1,9 +1,9 @@
-company_novye-tsifrovye-tekhnologii <- concept_company;
+company_novye_tsifrovye_tekhnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Новые цифровые технологии]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-810-70-56]
+	[+375_29_810_70_56]
 	(* <- concept_phone_number;;*);
 	[info@newdt.by]
 	(* <- concept_email;;*);

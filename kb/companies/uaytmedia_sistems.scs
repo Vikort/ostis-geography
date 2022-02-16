@@ -1,9 +1,9 @@
-company_uaytmedia-sistems <- concept_company;
+company_uaytmedia_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Уайтмедиа Системс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-587-96-42]
+	[+375_29_587_96_42]
 	(* <- concept_phone_number;;*);
 	[am@whitemedia.by]
 	(* <- concept_email;;*);

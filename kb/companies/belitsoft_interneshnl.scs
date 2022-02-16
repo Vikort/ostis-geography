@@ -1,9 +1,9 @@
-company_belitsoft-interneshnl <- concept_company;
+company_belitsoft_interneshnl <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Белитсофт Интернешнл]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+1 (917) 410-57-5]
+	[+1 (917) 410_57_5]
 	(* <- concept_phone_number;;*);
 	[info@belitsoft.com]
 	(* <- concept_email;;*);

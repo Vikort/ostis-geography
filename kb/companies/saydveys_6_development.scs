@@ -1,9 +1,9 @@
-company_saydveys-6-development <- concept_company;
+company_saydveys_6_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сайдвэйс 6 Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6162256]
+	[+375_29 6162256]
 	(* <- concept_phone_number;;*);
 	[nikita.kudin@sideways6.com]
 	(* <- concept_email;;*);

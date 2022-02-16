@@ -1,4 +1,4 @@
-company_evok-sistemz <- concept_company;
+company_evok_sistemz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭВОК Системз]

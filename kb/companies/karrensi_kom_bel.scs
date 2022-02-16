@@ -1,4 +1,4 @@
-company_karrensi-kom-bel <- concept_company;
+company_karrensi_kom_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Карренси Ком Бел]
@@ -9,7 +9,7 @@ company_karrensi-kom-bel <- concept_company;
 	(* <- concept_website;;*);
 	[193130368]
 	(* <- concept_ucn;;*);
-	[ул. Интернациональная, д. 36-1, офис 724, пом. 2]
+	[ул. Интернациональная, д. 36_1, офис 724, пом. 2]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

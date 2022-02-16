@@ -3,7 +3,7 @@ company_deltatre <- concept_company;
 =>nrel_main_idtf:
 	[Дельтатрэ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33-311-40-98]
+	[+375_33_311_40_98]
 	(* <- concept_phone_number;;*);
 	[https://www.deltatre.com/]
 	(* <- concept_website;;*);

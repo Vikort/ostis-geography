@@ -1,13 +1,13 @@
-company_ekspert-softvare-development <- concept_company;
+company_ekspert_softvare_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эксперт Софтваре Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 630 00 60]
 	(* <- concept_phone_number;;*);
-	[info@expert-soft.com]
+	[info@expert_soft.com]
 	(* <- concept_email;;*);
-	[http://expert-soft.com]
+	[http://expert_soft.com]
 	(* <- concept_website;;*);
 	[192305355]
 	(* <- concept_ucn;;*);

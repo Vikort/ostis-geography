@@ -1,9 +1,9 @@
-company_e-kom-tehnologii <- concept_company;
+company_e_kom_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Е-ком Технологии]
+	[Е_ком Технологии]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33-340-34-03]
+	[+375_33_340_34_03]
 	(* <- concept_phone_number;;*);
 	[info@ecomtech.dev]
 	(* <- concept_email;;*);

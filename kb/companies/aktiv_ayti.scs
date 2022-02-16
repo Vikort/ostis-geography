@@ -1,13 +1,13 @@
-company_aktiv-ayti <- concept_company;
+company_aktiv_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Актив АйТи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 360 03 73]
 	(* <- concept_phone_number;;*);
-	[info@active-it.by]
+	[info@active_it.by]
 	(* <- concept_email;;*);
-	[http://www.active-it.by/]
+	[http://www.active_it.by/]
 	(* <- concept_website;;*);
 	[191477611]
 	(* <- concept_ucn;;*);

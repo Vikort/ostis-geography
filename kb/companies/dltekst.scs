@@ -3,7 +3,7 @@ company_dltekst <- concept_company;
 =>nrel_main_idtf:
 	[ДЛТекст]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-264-39-34]
+	[+375_17_264_39_34]
 	(* <- concept_phone_number;;*);
 	[info@dltext.com]
 	(* <- concept_email;;*);

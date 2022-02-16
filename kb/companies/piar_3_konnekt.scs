@@ -1,4 +1,4 @@
-company_piar-3-konnekt <- concept_company;
+company_piar_3_konnekt <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Пиар 3 Коннект]

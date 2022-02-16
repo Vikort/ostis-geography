@@ -3,7 +3,7 @@ company_demsols <- concept_company;
 =>nrel_main_idtf:
 	[ДЭМСОЛС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-811-37-66]
+	[+375_29_811_37_66]
 	(* <- concept_phone_number;;*);
 	[info@damsols.com]
 	(* <- concept_email;;*);

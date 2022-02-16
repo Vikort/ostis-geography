@@ -1,9 +1,9 @@
-company_kupl-biuay <- concept_company;
+company_kupl_biuay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Купл БиУай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-394-95-03]
+	[+375_17_394_95_03]
 	(* <- concept_phone_number;;*);
 	[mb@bakertilly.by]
 	(* <- concept_email;;*);

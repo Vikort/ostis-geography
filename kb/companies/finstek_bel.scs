@@ -1,4 +1,4 @@
-company_finstek-bel <- concept_company;
+company_finstek_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Финстек Бел]

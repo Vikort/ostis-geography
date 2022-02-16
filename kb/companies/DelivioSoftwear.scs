@@ -3,7 +3,7 @@ company_DelivioSoftwear <- concept_company;
 =>nrel_main_idtf:
 	[Деливери софтвеа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-555-55-33]
+	[+375_44_555_55_33]
 	(* <- concept_phone_number;;*);
 	[business@delivio.by]
 	(* <- concept_email;;*);

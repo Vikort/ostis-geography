@@ -1,4 +1,4 @@
-company_alseda-konsalting <- concept_company;
+company_alseda_konsalting <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Алседа Консалтинг]

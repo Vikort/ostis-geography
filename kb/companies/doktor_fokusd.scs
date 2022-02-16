@@ -1,9 +1,9 @@
-company_doktor-fokusd <- concept_company;
+company_doktor_fokusd <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Доктор Фокусд]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-146-45-46]
+	[+375_29_146_45_46]
 	(* <- concept_phone_number;;*);
 	[igor@drfocused.com]
 	(* <- concept_email;;*);

@@ -1,4 +1,4 @@
-company_nuga-development <- concept_company;
+company_nuga_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Нуга Девелопмент]
@@ -11,7 +11,7 @@ company_nuga-development <- concept_company;
 	(* <- concept_website;;*);
 	[193344871]
 	(* <- concept_ucn;;*);
-	[ул. Петра Мстиславца, 9, пом. №7-17]
+	[ул. Петра Мстиславца, 9, пом. №7_17]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

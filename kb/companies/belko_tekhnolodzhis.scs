@@ -1,9 +1,9 @@
-company_belko-tekhnolodzhis <- concept_company;
+company_belko_tekhnolodzhis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Белко Технолоджис]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-566-56-56]
+	[+375_44_566_56_56]
 	(* <- concept_phone_number;;*);
 	[info@belko.tech]
 	(* <- concept_email;;*);

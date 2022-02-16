@@ -1,9 +1,9 @@
-company_prikladnye-sistemy <- concept_company;
+company_prikladnye_sistemy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Прикладные системы]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 227-10-30]
+	[+375 17 227_10_30]
 	(* <- concept_phone_number;;*);
 	[contact@appsys.net]
 	(* <- concept_email;;*);

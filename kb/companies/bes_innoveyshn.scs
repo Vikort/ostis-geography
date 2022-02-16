@@ -1,4 +1,4 @@
-company_bes-innoveyshn <- concept_company;
+company_bes_innoveyshn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Котвек]

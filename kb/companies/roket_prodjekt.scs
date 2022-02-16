@@ -1,9 +1,9 @@
-company_roket-prodjekt <- concept_company;
+company_roket_prodjekt <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[РОКЕТ ПРОДЖЕКТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (44) 779-99-97]
+	[+375 (44) 779_99_97]
 	(* <- concept_phone_number;;*);
 	[hello@jordantraff.com]
 	(* <- concept_email;;*);

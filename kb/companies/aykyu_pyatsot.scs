@@ -1,9 +1,9 @@
-company_aykyu-pyatsot <- concept_company;
+company_aykyu_pyatsot <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Айкью пятьсот]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 44 783-73-36]
+	[+375 44 783_73_36]
 	(* <- concept_phone_number;;*);
 	[info@iqd.by]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_rigelshtorm <- concept_company;
 =>nrel_main_idtf:
 	[ООО "Ригельшторм"]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-542-85-73]
+	[+375_44_542_85_73]
 	(* <- concept_phone_number;;*);
 	[info@rigelstorm.com]
 	(* <- concept_email;;*);

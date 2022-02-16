@@ -1,4 +1,4 @@
-company_aristek-sistems <- concept_company;
+company_aristek_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Аристек Системс]

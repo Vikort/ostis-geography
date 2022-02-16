@@ -1,4 +1,4 @@
-company_ouls-grup <- concept_company;
+company_ouls_grup <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Оулс Груп]

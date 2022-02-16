@@ -1,9 +1,9 @@
-company_eurus-teh <- concept_company;
+company_eurus_teh <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Еурус Тех]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-123-85-42]
+	[+375_29_123_85_42]
 	(* <- concept_phone_number;;*);
 	[zsubach@ethoslending.com]
 	(* <- concept_email;;*);

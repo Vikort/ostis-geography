@@ -5,7 +5,7 @@ company_kreosoft <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 237 49 98]
 	(* <- concept_phone_number;;*);
-	[minsk-office@kreo.net]
+	[minsk_office@kreo.net]
 	(* <- concept_email;;*);
 	[http://kreo.net/]
 	(* <- concept_website;;*);

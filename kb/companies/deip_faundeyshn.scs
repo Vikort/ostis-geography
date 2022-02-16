@@ -1,9 +1,9 @@
-company_deip-faundeyshn <- concept_company;
+company_deip_faundeyshn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ДЕИП Фаундейшн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-663-79-81]
+	[+375_29_663_79_81]
 	(* <- concept_phone_number;;*);
 	[artur@deip.world]
 	(* <- concept_email;;*);

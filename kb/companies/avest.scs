@@ -3,7 +3,7 @@ company_avest <- concept_company;
 =>nrel_main_idtf:
 	[АВЕСT]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-207-92-34]
+	[+375_17_207_92_34]
 	(* <- concept_phone_number;;*);
 	[welcome@avest.by]
 	(* <- concept_email;;*);

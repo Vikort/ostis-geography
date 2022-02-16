@@ -1,9 +1,9 @@
-company_kyuliks-sistems <- concept_company;
+company_kyuliks_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Кьюликс Системс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 306-38-68]
+	[+375 17 306_38_68]
 	(* <- concept_phone_number;;*);
 	[info@qulix.com]
 	(* <- concept_email;;*);

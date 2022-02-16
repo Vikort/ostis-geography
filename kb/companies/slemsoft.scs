@@ -3,7 +3,7 @@ company_slemsoft <- concept_company;
 =>nrel_main_idtf:
 	[Слэмсофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 44 564-45-64]
+	[+375 44 564_45_64]
 	(* <- concept_phone_number;;*);
 	[info@slam.by]
 	(* <- concept_email;;*);

@@ -1,4 +1,4 @@
-company_rozum-robotiks <- concept_company;
+company_rozum_robotiks <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Розум Роботикс]

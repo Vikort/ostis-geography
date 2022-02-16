@@ -1,9 +1,9 @@
-company_laro-apps <- concept_company;
+company_laro_apps <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ларо аппс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-302-92-42]
+	[+375_29_302_92_42]
 	(* <- concept_phone_number;;*);
 	[andrey.rodichev@laroapps.com]
 	(* <- concept_email;;*);

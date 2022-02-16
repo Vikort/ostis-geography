@@ -1,9 +1,9 @@
-company_sinezis-stratus <- concept_company;
+company_sinezis_stratus <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Синезис Стратус]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-364 70 21]
+	[+375_17_364 70 21]
 	(* <- concept_phone_number;;*);
 	[info@altezza.org]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_gudgeymzsoft <- concept_company;
 =>nrel_main_idtf:
 	[ГудГеймзСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 773 75 46]
+	[+375_29 773 75 46]
 	(* <- concept_phone_number;;*);
 	[info@goodville.me]
 	(* <- concept_email;;*);

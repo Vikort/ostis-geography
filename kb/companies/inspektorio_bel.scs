@@ -1,9 +1,9 @@
-company_inspektorio-bel <- concept_company;
+company_inspektorio_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Инспекторио Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 772 00 77]
+	[+375_29 772 00 77]
 	(* <- concept_phone_number;;*);
 	[gleb@inspectorio.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_inspektorio-bel <- concept_company;
 	(* <- concept_website;;*);
 	[193113243]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей, д.7А, пом. офисное 16]
+	[пр_т Победителей, д.7А, пом. офисное 16]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,13 +1,13 @@
-company_chempion-sistem <- concept_company;
+company_chempion_sistem <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЧЕМПИОН СИСТЕМ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 134-01-10]
+	[+375 (29) 134_01_10]
 	(* <- concept_phone_number;;*);
-	[info@champion-system.by]
+	[info@champion_system.by]
 	(* <- concept_email;;*);
-	[http://champion-system.by/]
+	[http://champion_system.by/]
 	(* <- concept_website;;*);
 	[391619433]
 	(* <- concept_ucn;;*);

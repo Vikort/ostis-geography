@@ -1,4 +1,4 @@
-company_ooo-piksel-internet <- concept_company;
+company_ooo_piksel_internet <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Пиксель Интернет]

@@ -1,11 +1,11 @@
-company_igro-tek <- concept_company;
+company_igro_tek <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Игро Тэк]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 1187000]
+	[+375_29 1187000]
 	(* <- concept_phone_number;;*);
-	[contact@igro-tek.com]
+	[contact@igro_tek.com]
 	(* <- concept_email;;*);
 	[192990750]
 	(* <- concept_ucn;;*);

@@ -11,7 +11,7 @@ company_foranks <- concept_company;
 	(* <- concept_website;;*);
 	[190839851]
 	(* <- concept_ucn;;*);
-	[ул. Пономаренко, 35а, офис 201-75]
+	[ул. Пономаренко, 35а, офис 201_75]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

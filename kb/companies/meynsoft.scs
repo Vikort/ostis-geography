@@ -3,7 +3,7 @@ company_meynsoft <- concept_company;
 =>nrel_main_idtf:
 	[МэйнСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 820-86-00]
+	[+375 (29) 820_86_00]
 	(* <- concept_phone_number;;*);
 	[contact@mainsoft.org]
 	(* <- concept_email;;*);

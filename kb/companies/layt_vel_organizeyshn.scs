@@ -1,4 +1,4 @@
-company_layt-vel-organizeyshn <- concept_company;
+company_layt_vel_organizeyshn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Лайт Вел Организейшн]

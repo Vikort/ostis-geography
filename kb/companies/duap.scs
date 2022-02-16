@@ -3,7 +3,7 @@ company_duap <- concept_company;
 =>nrel_main_idtf:
 	[ДУАП]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-162-44-97]
+	[+375_29_162_44_97]
 	(* <- concept_phone_number;;*);
 	[v.a.iakovlev@gmail.com]
 	(* <- concept_email;;*);

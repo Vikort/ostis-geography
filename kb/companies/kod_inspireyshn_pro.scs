@@ -1,4 +1,4 @@
-company_kod-inspireyshn-pro <- concept_company;
+company_kod_inspireyshn_pro <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Код Инспирэйшн Про]

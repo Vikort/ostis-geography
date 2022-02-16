@@ -1,9 +1,9 @@
-company_69-grupp <- concept_company;
+company_69_grupp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[69 групп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-754-56-16]
+	[+375_44_754_56_16]
 	(* <- concept_phone_number;;*);
 	[hello@69pixels.com]
 	(* <- concept_email;;*);

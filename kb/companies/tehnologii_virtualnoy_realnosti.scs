@@ -1,4 +1,4 @@
-company_tehnologii-virtualnoy-realnosti <- concept_company;
+company_tehnologii_virtualnoy_realnosti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Технологии Виртуальной Реальности]

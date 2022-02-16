@@ -3,7 +3,7 @@ company_vseryez <- concept_company;
 =>nrel_main_idtf:
 	[Всерьёз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-338-03-38]
+	[+375_29_338_03_38]
 	(* <- concept_phone_number;;*);
 	[ceo@fasol.app]
 	(* <- concept_email;;*);

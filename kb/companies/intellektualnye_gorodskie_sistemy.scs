@@ -1,4 +1,4 @@
-company_intellektualnye-gorodskie-sistemy <- concept_company;
+company_intellektualnye_gorodskie_sistemy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Интеллектуальные городские системы]

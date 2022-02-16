@@ -1,9 +1,9 @@
-company_teksod-tehnolodjiz <- concept_company;
+company_teksod_tehnolodjiz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Тэксод Технолоджиз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 385-24-50]
+	[+375 17 385_24_50]
 	(* <- concept_phone_number;;*);
 	[info@texode.com]
 	(* <- concept_email;;*);

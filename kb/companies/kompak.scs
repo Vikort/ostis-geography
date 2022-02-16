@@ -3,7 +3,7 @@ company_kompak <- concept_company;
 =>nrel_main_idtf:
 	[КОМПАК]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-393-48-64]
+	[+375_17_393_48_64]
 	(* <- concept_phone_number;;*);
 	[http://kompak.by/]
 	(* <- concept_website;;*);

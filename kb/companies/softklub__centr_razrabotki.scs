@@ -1,4 +1,4 @@
-company_softklub--centr-razrabotki <- concept_company;
+company_softklub__centr_razrabotki <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СОФТКЛУБ – Центр разработки]
@@ -11,7 +11,7 @@ company_softklub--centr-razrabotki <- concept_company;
 	(* <- concept_website;;*);
 	[101111077]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости, 168/1, офис 303]
+	[пр_т Независимости, 168/1, офис 303]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

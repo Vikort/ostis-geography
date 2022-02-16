@@ -3,7 +3,7 @@ company_esies <- concept_company;
 =>nrel_main_idtf:
 	[Эсиэс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-109-80-99]
+	[+375_29_109_80_99]
 	(* <- concept_phone_number;;*);
 	[info@esiespro.by]
 	(* <- concept_email;;*);

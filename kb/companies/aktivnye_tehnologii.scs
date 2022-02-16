@@ -1,9 +1,9 @@
-company_aktivnye-tehnologii <- concept_company;
+company_aktivnye_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Активные технологии]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 308-22-00]
+	[+375 17 308_22_00]
 	(* <- concept_phone_number;;*);
 	[contact@active.by]
 	(* <- concept_email;;*);

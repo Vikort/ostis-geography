@@ -1,9 +1,9 @@
-company_eksto-didzhital <- concept_company;
+company_eksto_didzhital <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эксто Диджитал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-588-64-54]
+	[+375_29_588_64_54]
 	(* <- concept_phone_number;;*);
 	[khmurchik@exto.io]
 	(* <- concept_email;;*);

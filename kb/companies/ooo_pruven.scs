@@ -1,9 +1,9 @@
-company_ooo-pruven <- concept_company;
+company_ooo_pruven <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Прувен]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 366-44-77]
+	[+375 29 366_44_77]
 	(* <- concept_phone_number;;*);
 	[hello@provensolution.com]
 	(* <- concept_email;;*);

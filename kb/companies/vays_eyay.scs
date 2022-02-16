@@ -1,9 +1,9 @@
-company_vays-eyay <- concept_company;
+company_vays_eyay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вайс ЭйАй]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-243-77-16]
+	[+375_29_243_77_16]
 	(* <- concept_phone_number;;*);
 	[info@skinive.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_vays-eyay <- concept_company;
 	(* <- concept_website;;*);
 	[193107247]
 	(* <- concept_ucn;;*);
-	[ул. Тимирязева, д. 97, оф 22-1]
+	[ул. Тимирязева, д. 97, оф 22_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

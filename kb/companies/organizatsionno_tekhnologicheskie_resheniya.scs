@@ -1,7 +1,7 @@
-company_organizatsionno-tekhnologicheskie-resheniya <- concept_company;
+company_organizatsionno_tekhnologicheskie_resheniya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Организационно-технологические решения]
+	[Организационно_технологические решения]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[info@otr.eu]
 	(* <- concept_phone_number;;*);

@@ -3,7 +3,7 @@ company_mepdeyta <- concept_company;
 =>nrel_main_idtf:
 	[МэпДэйта]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 6-350-125]
+	[+375 (29) 6_350_125]
 	(* <- concept_phone_number;;*);
 	[info@mapbox.by]
 	(* <- concept_email;;*);

@@ -1,4 +1,4 @@
-company_medikal-eyay-tekhnolodzhi <- concept_company;
+company_medikal_eyay_tekhnolodzhi <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Медикал ЭйАй Технолоджи]
@@ -9,7 +9,7 @@ company_medikal-eyay-tekhnolodzhi <- concept_company;
 	(* <- concept_website;;*);
 	[193450911]
 	(* <- concept_ucn;;*);
-	[ул. К.Либкнехта, д. 66, оф.165-6]
+	[ул. К.Либкнехта, д. 66, оф.165_6]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,13 +1,13 @@
-company_linlayn-meditsinskie-sistemy <- concept_company;
+company_linlayn_meditsinskie_sistemy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЛИНЛАЙН Медицинские Системы]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 375 2991]
 	(* <- concept_phone_number;;*);
-	[mail@linline-ms.com]
+	[mail@linline_ms.com]
 	(* <- concept_email;;*);
-	[https://linline-ms.com/]
+	[https://linline_ms.com/]
 	(* <- concept_website;;*);
 	[190789750]
 	(* <- concept_ucn;;*);

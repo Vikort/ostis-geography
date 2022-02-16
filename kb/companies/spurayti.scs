@@ -5,13 +5,13 @@ company_spurayti <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 5097976]
 	(* <- concept_phone_number;;*);
-	[ceo@spur-i-t.com]
+	[ceo@spur_i_t.com]
 	(* <- concept_email;;*);
-	[https://spur-i-t.com/]
+	[https://spur_i_t.com/]
 	(* <- concept_website;;*);
 	[191690438]
 	(* <- concept_ucn;;*);
-	[220076, г. Минск, ул. Франциска Скорины, дом 8, помещение 60-2]
+	[220076, г. Минск, ул. Франциска Скорины, дом 8, помещение 60_2]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

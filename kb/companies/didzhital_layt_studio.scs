@@ -1,9 +1,9 @@
-company_didzhital-layt-studio <- concept_company;
+company_didzhital_layt_studio <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Диджитал Лайт Студио]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-294-54-63]
+	[+375_17_294_54_63]
 	(* <- concept_phone_number;;*);
 	[info@dls.by]
 	(* <- concept_email;;*);

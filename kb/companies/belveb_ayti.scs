@@ -1,4 +1,4 @@
-company_belveb-ayti <- concept_company;
+company_belveb_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[БелВЭБ АйТи]

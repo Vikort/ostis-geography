@@ -11,7 +11,7 @@ company_fyujnteh <- concept_company;
 	(* <- concept_website;;*);
 	[192459924]
 	(* <- concept_ucn;;*);
-	[ул. Л.Беды 2б-327]
+	[ул. Л.Беды 2б_327]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,4 +1,4 @@
-company_oktonion-tehnolodji <- concept_company;
+company_oktonion_tehnolodji <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Октонион технолоджи]

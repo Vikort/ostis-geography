@@ -1,17 +1,17 @@
-company_territoriya-ayti <- concept_company;
+company_territoriya_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ТЕРРИТОРИЯ АЙТИ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375(29) 610 89 10]
 	(* <- concept_phone_number;;*);
-	[igor@it-territory.by]
+	[igor@it_territory.by]
 	(* <- concept_email;;*);
-	[http://it-territory.by/]
+	[http://it_territory.by/]
 	(* <- concept_website;;*);
 	[192945674]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей, 100-6а]
+	[пр_т Победителей, 100_6а]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

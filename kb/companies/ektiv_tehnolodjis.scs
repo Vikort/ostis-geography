@@ -1,4 +1,4 @@
-company_ektiv-tehnolodjis <- concept_company;
+company_ektiv_tehnolodjis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эктив Технолоджис]

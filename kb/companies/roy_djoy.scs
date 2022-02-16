@@ -1,9 +1,9 @@
-company_roy-djoy <- concept_company;
+company_roy_djoy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Рой Джой]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 1233991]
+	[+375_29 1233991]
 	(* <- concept_phone_number;;*);
 	[dzmitry.memus@royjoy.co]
 	(* <- concept_email;;*);

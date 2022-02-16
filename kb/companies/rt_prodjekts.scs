@@ -1,9 +1,9 @@
-company_rt-prodjekts <- concept_company;
+company_rt_prodjekts <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[РТ Проджектс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+ 375 29 133-17-35]
+	[+ 375 29 133_17_35]
 	(* <- concept_phone_number;;*);
 	[hi@razortheory.com]
 	(* <- concept_email;;*);

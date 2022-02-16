@@ -1,9 +1,9 @@
-company_viaypi-ayti <- concept_company;
+company_viaypi_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Виайпи Айти]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-199-03-99]
+	[+375_29_199_03_99]
 	(* <- concept_phone_number;;*);
 	[ceo@vipit.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_viaypi-ayti <- concept_company;
 	(* <- concept_website;;*);
 	[193213818]
 	(* <- concept_ucn;;*);
-	[пр-т Машерова, д. 17/4 офис 304А]
+	[пр_т Машерова, д. 17/4 офис 304А]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

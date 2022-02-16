@@ -3,7 +3,7 @@ company_vdcl <- concept_company;
 =>nrel_main_idtf:
 	[ВДЦЛ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-745-41-45]
+	[+375_29_745_41_45]
 	(* <- concept_phone_number;;*);
 	[hq.wdcl@gmail.com]
 	(* <- concept_email;;*);

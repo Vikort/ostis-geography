@@ -1,4 +1,4 @@
-company_pikselpleks-labs <- concept_company;
+company_pikselpleks_labs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ПикселПлекс Лабс]

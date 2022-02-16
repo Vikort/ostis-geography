@@ -1,9 +1,9 @@
-company_busel-kapital <- concept_company;
+company_busel_kapital <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Бусел Капитал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-671-26-33]
+	[+375_29_671_26_33]
 	(* <- concept_phone_number;;*);
 	[ceo@appservice.by]
 	(* <- concept_email;;*);

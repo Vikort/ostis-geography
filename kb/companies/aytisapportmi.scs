@@ -11,7 +11,7 @@ company_aytisapportmi <- concept_company;
 	(* <- concept_website;;*);
 	[491051339]
 	(* <- concept_ucn;;*);
-	[Ул. Федюнинского, 17, офис 12-1]
+	[Ул. Федюнинского, 17, офис 12_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

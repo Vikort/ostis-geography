@@ -1,4 +1,4 @@
-company_helsi-netvorks <- concept_company;
+company_helsi_netvorks <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Хэлси Нэтворкс]

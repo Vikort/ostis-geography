@@ -1,4 +1,4 @@
-company_gloriumtekh-bel <- concept_company;
+company_gloriumtekh_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ГлориумТех Бел]
@@ -11,7 +11,7 @@ company_gloriumtekh-bel <- concept_company;
 	(* <- concept_website;;*);
 	[791237267]
 	(* <- concept_ucn;;*);
-	[пр-кт Мира, д. 73, офис 706]
+	[пр_кт Мира, д. 73, офис 706]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

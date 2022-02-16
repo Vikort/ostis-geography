@@ -1,4 +1,4 @@
-company_market-data <- concept_company;
+company_market_data <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[МАРКЕТ ДАТА]

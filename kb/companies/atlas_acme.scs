@@ -1,13 +1,13 @@
-company_atlas-acme <- concept_company;
+company_atlas_acme <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Атлас Акме]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-2403650]
+	[+375_17_2403650]
 	(* <- concept_phone_number;;*);
-	[info-acme@altezza.org]
+	[info_acme@altezza.org]
 	(* <- concept_email;;*);
-	[https://atlas-acme.com/]
+	[https://atlas_acme.com/]
 	(* <- concept_website;;*);
 	[192981066]
 	(* <- concept_ucn;;*);

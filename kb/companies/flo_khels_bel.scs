@@ -1,4 +1,4 @@
-company_flo-khels-bel <- concept_company;
+company_flo_khels_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Фло Хелс Бел]

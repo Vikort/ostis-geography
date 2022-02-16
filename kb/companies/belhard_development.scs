@@ -1,9 +1,9 @@
-company_belhard-development <- concept_company;
+company_belhard_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[БелХард Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 220-84-26]
+	[+375 29 220_84_26]
 	(* <- concept_phone_number;;*);
 	[info@belhard.com]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_intraheals-m <- concept_company;
+company_intraheals_m <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Интрахеалс М]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 675-65-65]
+	[+375 (29) 675_65_65]
 	(* <- concept_phone_number;;*);
 	[info@intrahealth.by]
 	(* <- concept_email;;*);

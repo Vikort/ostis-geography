@@ -1,4 +1,4 @@
-company_enfeyz-sistems <- concept_company;
+company_enfeyz_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭнФэйз Системс]

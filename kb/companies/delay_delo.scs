@@ -1,13 +1,13 @@
-company_delay-delo <- concept_company;
+company_delay_delo <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Делай Дело]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-17-666-01]
+	[+375_29_17_666_01]
 	(* <- concept_phone_number;;*);
-	[vn@delai-delo.by]
+	[vn@delai_delo.by]
 	(* <- concept_email;;*);
-	[http://delai-delo.by]
+	[http://delai_delo.by]
 	(* <- concept_website;;*);
 	[691784972]
 	(* <- concept_ucn;;*);

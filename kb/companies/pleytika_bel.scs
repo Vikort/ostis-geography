@@ -1,4 +1,4 @@
-company_pleytika-bel <- concept_company;
+company_pleytika_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Плэйтика Бел]

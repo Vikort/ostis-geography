@@ -1,4 +1,4 @@
-company_kayriba-injiniring <- concept_company;
+company_kayriba_injiniring <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Кайриба Инжиниринг]
@@ -11,7 +11,7 @@ company_kayriba-injiniring <- concept_company;
 	(* <- concept_website;;*);
 	[193069260]
 	(* <- concept_ucn;;*);
-	[ул. Кальварийская д. 42, помещение 1, 5-ый этаж]
+	[ул. Кальварийская д. 42, помещение 1, 5_ый этаж]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,9 +1,9 @@
-company_smartum-erenddi <- concept_company;
+company_smartum_erenddi <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Смартум Эрэндди]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29-850-93-61]
+	[+375 29_850_93_61]
 	(* <- concept_phone_number;;*);
 	[office@smartym.pro]
 	(* <- concept_email;;*);

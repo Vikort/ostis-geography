@@ -1,4 +1,4 @@
-company_smartgraf-tehnologii <- concept_company;
+company_smartgraf_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СмартГраф Технологии]
@@ -11,7 +11,7 @@ company_smartgraf-tehnologii <- concept_company;
 	(* <- concept_website;;*);
 	[193272519]
 	(* <- concept_ucn;;*);
-	[ул. Маяковского, 127/2-10, кабинет №3]
+	[ул. Маяковского, 127/2_10, кабинет №3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,9 +1,9 @@
-company_djey-netvorks <- concept_company;
+company_djey_netvorks <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Джей Нетворкс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-977-06-59]
+	[+375_29_977_06_59]
 	(* <- concept_phone_number;;*);
 	[info@jnetworks.by]
 	(* <- concept_email;;*);

@@ -1,13 +1,13 @@
-company_djeneral-soft <- concept_company;
+company_djeneral_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дженерал Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-510-61-31]
+	[+375_29_510_61_31]
 	(* <- concept_phone_number;;*);
-	[info@generals-soft.com]
+	[info@generals_soft.com]
 	(* <- concept_email;;*);
-	[http://generals-soft.com]
+	[http://generals_soft.com]
 	(* <- concept_website;;*);
 	[391341286]
 	(* <- concept_ucn;;*);

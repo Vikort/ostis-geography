@@ -3,7 +3,7 @@ company_softkhaus <- concept_company;
 =>nrel_main_idtf:
 	[СофтХаус]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-783-88-15]
+	[+375_44_783_88_15]
 	(* <- concept_phone_number;;*);
 	[info@softhouse.com]
 	(* <- concept_email;;*);

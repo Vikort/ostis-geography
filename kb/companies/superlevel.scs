@@ -3,11 +3,11 @@ company_superlevel <- concept_company;
 =>nrel_main_idtf:
 	[СУПЕРЛЕВЕЛ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-706-96-09]
+	[+375_29_706_96_09]
 	(* <- concept_phone_number;;*);
-	[ay@super-level.com]
+	[ay@super_level.com]
 	(* <- concept_email;;*);
-	[http://super-level.com/]
+	[http://super_level.com/]
 	(* <- concept_website;;*);
 	[193442463]
 	(* <- concept_ucn;;*);

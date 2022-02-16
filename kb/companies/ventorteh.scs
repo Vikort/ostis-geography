@@ -3,7 +3,7 @@ company_ventorteh <- concept_company;
 =>nrel_main_idtf:
 	[ВенторТех]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-629-96-49]
+	[+375_29_629_96_49]
 	(* <- concept_phone_number;;*);
 	[administration@ventor.tech]
 	(* <- concept_email;;*);

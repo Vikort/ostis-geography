@@ -7,7 +7,7 @@ company_starkgeymz <- concept_company;
 	(* <- concept_phone_number;;*);
 	[HR@stark.games]
 	(* <- concept_email;;*);
-	[http://stark-games.by]
+	[http://stark_games.by]
 	(* <- concept_website;;*);
 	[192585427]
 	(* <- concept_ucn;;*);

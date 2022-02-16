@@ -1,9 +1,9 @@
-company_mama-pro-global <- concept_company;
+company_mama_pro_global <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Мама Про Глобал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-626-25-24]
+	[+375_29_626_25_24]
 	(* <- concept_phone_number;;*);
 	[info@mamapro.app]
 	(* <- concept_email;;*);

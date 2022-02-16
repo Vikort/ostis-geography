@@ -1,4 +1,4 @@
-company_apalon-apps <- concept_company;
+company_apalon_apps <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Апалон Аппс]

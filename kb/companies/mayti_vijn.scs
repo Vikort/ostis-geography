@@ -1,4 +1,4 @@
-company_mayti-vijn <- concept_company;
+company_mayti_vijn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Майти Вижн]

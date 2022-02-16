@@ -3,7 +3,7 @@ company_biggiko <- concept_company;
 =>nrel_main_idtf:
 	[Биггико]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-25-605-00-38]
+	[+375_25_605_00_38]
 	(* <- concept_phone_number;;*);
 	[info@biggiko.com]
 	(* <- concept_email;;*);

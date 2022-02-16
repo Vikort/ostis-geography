@@ -1,4 +1,4 @@
-company_tehnologii-upravleniya-proektami <- concept_company;
+company_tehnologii_upravleniya_proektami <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Технологии управления проектами]
@@ -11,7 +11,7 @@ company_tehnologii-upravleniya-proektami <- concept_company;
 	(* <- concept_website;;*);
 	[192929727]
 	(* <- concept_ucn;;*);
-	[ул.Соломенная, 13-420]
+	[ул.Соломенная, 13_420]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,4 +1,4 @@
-company_skandiveb-bel <- concept_company;
+company_skandiveb_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Скандивеб Бел]
@@ -11,7 +11,7 @@ company_skandiveb-bel <- concept_company;
 	(* <- concept_website;;*);
 	[193442514]
 	(* <- concept_ucn;;*);
-	[Республика Беларусь, 220020, ул. Тимирязева, д. 97, каб. 22-116]
+	[Республика Беларусь, 220020, ул. Тимирязева, д. 97, каб. 22_116]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

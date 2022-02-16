@@ -1,4 +1,4 @@
-company_konstruktorskoe-byuro-sistemnogo-programmirovaniya <- concept_company;
+company_konstruktorskoe_byuro_sistemnogo_programmirovaniya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Конструкторское бюро системного программирования]

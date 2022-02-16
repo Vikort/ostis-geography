@@ -1,13 +1,13 @@
-company_elektronnoe-delo <- concept_company;
+company_elektronnoe_delo <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Электронное ДЕЛО]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 3966889]
+	[+375_29 3966889]
 	(* <- concept_phone_number;;*);
-	[ced@e-office.by]
+	[ced@e_office.by]
 	(* <- concept_email;;*);
-	[http://e-office.by/]
+	[http://e_office.by/]
 	(* <- concept_website;;*);
 	[191366355]
 	(* <- concept_ucn;;*);

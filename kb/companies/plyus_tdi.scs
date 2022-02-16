@@ -1,9 +1,9 @@
-company_plyus-tdi <- concept_company;
+company_plyus_tdi <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ПЛЮС ТДИ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-296-67-83]
+	[+375_17_296_67_83]
 	(* <- concept_phone_number;;*);
 	[https://tdi.by/]
 	(* <- concept_website;;*);

@@ -3,7 +3,7 @@ company_bismart <- concept_company;
 =>nrel_main_idtf:
 	[БИСМАРТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-334-52-04]
+	[+375_17_334_52_04]
 	(* <- concept_phone_number;;*);
 	[info@besmart.by]
 	(* <- concept_email;;*);

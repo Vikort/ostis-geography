@@ -3,7 +3,7 @@ company_targsoft <- concept_company;
 =>nrel_main_idtf:
 	[ТаргСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 2264150]
+	[+375_29 2264150]
 	(* <- concept_phone_number;;*);
 	[info@targsoftware.com]
 	(* <- concept_email;;*);

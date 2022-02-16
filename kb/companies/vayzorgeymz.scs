@@ -3,15 +3,15 @@ company_vayzorgeymz <- concept_company;
 =>nrel_main_idtf:
 	[ВайзорГеймз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-268-80-45]
+	[+375_17_268_80_45]
 	(* <- concept_phone_number;;*);
-	[info@vizor-games.com]
+	[info@vizor_games.com]
 	(* <- concept_email;;*);
-	[https://vizor-games.com/]
+	[https://vizor_games.com/]
 	(* <- concept_website;;*);
 	[192009170]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости, д. 117А, этаж 18, помещение 18]
+	[пр_т Независимости, д. 117А, этаж 18, помещение 18]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

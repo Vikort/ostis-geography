@@ -1,9 +1,9 @@
-company_slivki-bay <- concept_company;
+company_slivki_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СЛИВКИ БАЙ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 1958888]
+	[+375_29 1958888]
 	(* <- concept_phone_number;;*);
 	[info@slivki.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_slivki-bay <- concept_company;
 	(* <- concept_website;;*);
 	[100993744]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей, 7А, оф. 60]
+	[пр_т Победителей, 7А, оф. 60]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

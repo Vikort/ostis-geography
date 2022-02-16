@@ -1,4 +1,4 @@
-company_bd-tehnologii <- concept_company;
+company_bd_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[БД Технологии]

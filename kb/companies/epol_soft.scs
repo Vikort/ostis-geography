@@ -1,9 +1,9 @@
-company_epol-soft <- concept_company;
+company_epol_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эполь Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-162 22 00 19]
+	[+375_162 22 00 19]
 	(* <- concept_phone_number;;*);
 	[Valery.Tsilind@epolsoft.com]
 	(* <- concept_email;;*);

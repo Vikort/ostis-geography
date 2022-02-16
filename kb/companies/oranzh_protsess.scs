@@ -1,9 +1,9 @@
-company_oranzh-protsess <- concept_company;
+company_oranzh_protsess <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Оранж Процесс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-777-74-27]
+	[+375_44_777_74_27]
 	(* <- concept_phone_number;;*);
 	[orange@orangeprocess.by/]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_ay-kyu-klash <- concept_company;
+company_ay_kyu_klash <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ай Кью Клаш]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 8539025]
+	[+375_29 8539025]
 	(* <- concept_phone_number;;*);
 	[info@iqclash.com]
 	(* <- concept_email;;*);

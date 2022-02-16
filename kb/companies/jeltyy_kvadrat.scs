@@ -1,9 +1,9 @@
-company_jeltyy-kvadrat <- concept_company;
+company_jeltyy_kvadrat <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Жёлтый Квадрат]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-825-94-92]
+	[+375_29_825_94_92]
 	(* <- concept_phone_number;;*);
 	[hello@yellowsquare.dev]
 	(* <- concept_email;;*);

@@ -3,13 +3,13 @@ company_dialmedia <- concept_company;
 =>nrel_main_idtf:
 	[ДиалМедиа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-609-01-91]
+	[+375_29_609_01_91]
 	(* <- concept_phone_number;;*);
 	[legal@buzzguru.com]
 	(* <- concept_email;;*);
 	[193087672]
 	(* <- concept_ucn;;*);
-	[ул. Веры Хоружей, д. 25/1-3]
+	[ул. Веры Хоружей, д. 25/1_3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

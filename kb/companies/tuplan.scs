@@ -3,7 +3,7 @@ company_tuplan <- concept_company;
 =>nrel_main_idtf:
 	[ТуПлан]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-524-18-13]
+	[+375_29_524_18_13]
 	(* <- concept_phone_number;;*);
 	[finance@2plan.by]
 	(* <- concept_email;;*);

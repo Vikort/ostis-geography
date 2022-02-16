@@ -1,9 +1,9 @@
-company_feniks-sistems <- concept_company;
+company_feniks_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Феникс Системс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-25-909-06-45]
+	[+375_25_909_06_45]
 	(* <- concept_phone_number;;*);
 	[193331827]
 	(* <- concept_ucn;;*);

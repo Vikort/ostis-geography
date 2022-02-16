@@ -3,7 +3,7 @@ company_gambino <- concept_company;
 =>nrel_main_idtf:
 	[Гамбино]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-227-14-11]
+	[+375_17_227_14_11]
 	(* <- concept_phone_number;;*);
 	[contact@gambino.by]
 	(* <- concept_email;;*);

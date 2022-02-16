@@ -11,7 +11,7 @@ company_uayldspayks <- concept_company;
 	(* <- concept_website;;*);
 	[193002199]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского 3Б, 19]
+	[пр_т Дзержинского 3Б, 19]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

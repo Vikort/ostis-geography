@@ -1,9 +1,9 @@
-company_cniitu-it <- concept_company;
+company_cniitu_it <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[ЦНИИТУ-ИТ]
+	[ЦНИИТУ_ИТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 3300300]
+	[+375_17 3300300]
 	(* <- concept_phone_number;;*);
 	[info@cniitu.by]
 	(* <- concept_email;;*);

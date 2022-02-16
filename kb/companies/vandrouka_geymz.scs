@@ -1,9 +1,9 @@
-company_vandrouka-geymz <- concept_company;
+company_vandrouka_geymz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вандроука Геймз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-640-73-86]
+	[+375_29_640_73_86]
 	(* <- concept_phone_number;;*);
 	[inbox@vandrouka.games]
 	(* <- concept_email;;*);

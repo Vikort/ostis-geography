@@ -1,4 +1,4 @@
-company_aktivnye-sistemy <- concept_company;
+company_aktivnye_sistemy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Активные Системы]
@@ -11,7 +11,7 @@ company_aktivnye-sistemy <- concept_company;
 	(* <- concept_website;;*);
 	[192712122]
 	(* <- concept_ucn;;*);
-	[ул.Каменногорская 47-55]
+	[ул.Каменногорская 47_55]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

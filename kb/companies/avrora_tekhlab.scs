@@ -1,13 +1,13 @@
-company_avrora-tekhlab <- concept_company;
+company_avrora_tekhlab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Аврора ТехЛаб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 44 726 24 26]
 	(* <- concept_phone_number;;*);
-	[htp@aurora-tl.com]
+	[htp@aurora_tl.com]
 	(* <- concept_email;;*);
-	[https://aurora-tl.com/]
+	[https://aurora_tl.com/]
 	(* <- concept_website;;*);
 	[193363016]
 	(* <- concept_ucn;;*);

@@ -1,4 +1,4 @@
-company_viakod-bel <- concept_company;
+company_viakod_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВИАКОД БЕЛ]
@@ -11,7 +11,7 @@ company_viakod-bel <- concept_company;
 	(* <- concept_website;;*);
 	[192642296]
 	(* <- concept_ucn;;*);
-	[1-й Загородный переулок, 20 пом.7]
+	[1_й Загородный переулок, 20 пом.7]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

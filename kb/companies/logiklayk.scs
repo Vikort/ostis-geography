@@ -3,7 +3,7 @@ company_logiklayk <- concept_company;
 =>nrel_main_idtf:
 	[Логиклайк]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-361-22-99]
+	[+375_29_361_22_99]
 	(* <- concept_phone_number;;*);
 	[office@logiclike.com]
 	(* <- concept_email;;*);

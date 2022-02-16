@@ -1,9 +1,9 @@
-company_vorkfyujn-sistems <- concept_company;
+company_vorkfyujn_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Воркфьюжн Системс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-185-09-50]
+	[+375_29_185_09_50]
 	(* <- concept_phone_number;;*);
 	[MSQ@workfusion.com]
 	(* <- concept_email;;*);

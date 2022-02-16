@@ -1,9 +1,9 @@
-company_vayserket-softver-bel <- concept_company;
+company_vayserket_softver_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вайсеркет Софтвер Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-639-63-82]
+	[+375_29_639_63_82]
 	(* <- concept_phone_number;;*);
 	[maksim.shilov@wisercat.eu]
 	(* <- concept_email;;*);

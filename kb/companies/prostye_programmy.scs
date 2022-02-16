@@ -1,4 +1,4 @@
-company_prostye-programmy <- concept_company;
+company_prostye_programmy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Простые программы]
@@ -11,7 +11,7 @@ company_prostye-programmy <- concept_company;
 	(* <- concept_website;;*);
 	[191233327]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, д.104, каб. 1105]
+	[пр_т Дзержинского, д.104, каб. 1105]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

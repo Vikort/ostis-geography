@@ -1,9 +1,9 @@
-company_deriv-bay <- concept_company;
+company_deriv_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дерив БАЙ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-366-44-77]
+	[+375_29_366_44_77]
 	(* <- concept_phone_number;;*);
 	[info@spex.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_deriv-bay <- concept_company;
 	(* <- concept_website;;*);
 	[193488946]
 	(* <- concept_ucn;;*);
-	[ул. В. Хоружей, д. 25/1, помещение 3-1]
+	[ул. В. Хоружей, д. 25/1, помещение 3_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

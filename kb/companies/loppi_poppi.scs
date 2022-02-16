@@ -1,4 +1,4 @@
-company_loppi-poppi <- concept_company;
+company_loppi_poppi <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЛОППИ ПОППИ]

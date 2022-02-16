@@ -1,4 +1,4 @@
-company_silk-ailayns <- concept_company;
+company_silk_ailayns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Силк АИлайнс]
@@ -11,7 +11,7 @@ company_silk-ailayns <- concept_company;
 	(* <- concept_website;;*);
 	[193065967]
 	(* <- concept_ucn;;*);
-	[ул.Гикало, 3-7]
+	[ул.Гикало, 3_7]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

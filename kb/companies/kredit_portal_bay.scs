@@ -1,9 +1,9 @@
-company_kredit-portal-bay <- concept_company;
+company_kredit_portal_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Кредит портал бай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-606-07-80]
+	[+375_29_606_07_80]
 	(* <- concept_phone_number;;*);
 	[admin@creditportal.by]
 	(* <- concept_email;;*);

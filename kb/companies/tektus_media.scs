@@ -1,9 +1,9 @@
-company_tektus-media <- concept_company;
+company_tektus_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Тектус Медиа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 240-36-41]
+	[+375 17 240_36_41]
 	(* <- concept_phone_number;;*);
 	[ivan.nevmerzhitsky@tectus.by]
 	(* <- concept_email;;*);

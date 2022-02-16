@@ -1,4 +1,4 @@
-company_algimed-tekhno <- concept_company;
+company_algimed_tekhno <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Альгимед Техно]
@@ -7,7 +7,7 @@ company_algimed-tekhno <- concept_company;
 	(* <- concept_phone_number;;*);
 	[techno@algimed.com]
 	(* <- concept_email;;*);
-	[https://algimed-techno.com/]
+	[https://algimed_techno.com/]
 	(* <- concept_website;;*);
 	[193208315]
 	(* <- concept_ucn;;*);

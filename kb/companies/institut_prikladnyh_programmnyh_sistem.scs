@@ -1,4 +1,4 @@
-company_institut-prikladnyh-programmnyh-sistem <- concept_company;
+company_institut_prikladnyh_programmnyh_sistem <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Институт прикладных программных систем]

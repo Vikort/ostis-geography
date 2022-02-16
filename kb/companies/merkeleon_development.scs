@@ -1,4 +1,4 @@
-company_merkeleon-development <- concept_company;
+company_merkeleon_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Меркелеон девелопмент]

@@ -1,13 +1,13 @@
-company_e-inzhenirs-biuay <- concept_company;
+company_e_inzhenirs_biuay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Е-Инженирс БиУай]
+	[Е_Инженирс БиУай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-670-40-06]
+	[+375_29_670_40_06]
 	(* <- concept_phone_number;;*);
-	[ang@e-ngineers.com]
+	[ang@e_ngineers.com]
 	(* <- concept_email;;*);
-	[https://e-ngineers.com/]
+	[https://e_ngineers.com/]
 	(* <- concept_website;;*);
 	[193309516]
 	(* <- concept_ucn;;*);

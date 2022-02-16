@@ -1,9 +1,9 @@
-company_dji-pi-solyushns <- concept_company;
+company_dji_pi_solyushns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Джи-Пи Солюшнс]
+	[Джи_Пи Солюшнс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-301-03-97]
+	[+375_17_301_03_97]
 	(* <- concept_phone_number;;*);
 	[sales@gpsolutions.com]
 	(* <- concept_email;;*);

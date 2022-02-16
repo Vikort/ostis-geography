@@ -1,9 +1,9 @@
-company_veb-marketing <- concept_company;
+company_veb_marketing <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Веб Маркетинг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-181-22-35]
+	[+375_29_181_22_35]
 	(* <- concept_phone_number;;*);
 	[minskwm@gmail.com]
 	(* <- concept_email;;*);

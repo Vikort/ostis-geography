@@ -1,9 +1,9 @@
-company_oriol-baza-dannyh <- concept_company;
+company_oriol_baza_dannyh <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ориоль База Данных]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (33) 3-000-777]
+	[+375 (33) 3_000_777]
 	(* <- concept_phone_number;;*);
 	[alexander@orioledb.com]
 	(* <- concept_email;;*);

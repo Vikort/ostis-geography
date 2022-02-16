@@ -1,4 +1,4 @@
-company_skayvind-tek-bay <- concept_company;
+company_skayvind_tek_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Скайвинд Тек Бай]
@@ -7,7 +7,7 @@ company_skayvind-tek-bay <- concept_company;
 	(* <- concept_phone_number;;*);
 	[info.by@skywindgroup.com]
 	(* <- concept_email;;*);
-	[http://www.skywind-tech.by/]
+	[http://www.skywind_tech.by/]
 	(* <- concept_website;;*);
 	[190737733]
 	(* <- concept_ucn;;*);

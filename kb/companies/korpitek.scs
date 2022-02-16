@@ -3,7 +3,7 @@ company_korpitek <- concept_company;
 =>nrel_main_idtf:
 	[Корпитек]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-685-10-71]
+	[+375_29_685_10_71]
 	(* <- concept_phone_number;;*);
 	[info@corpitech.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_korpitek <- concept_company;
 	(* <- concept_website;;*);
 	[391756332]
 	(* <- concept_ucn;;*);
-	[ул.Молодежная, д.169-2д, помещение 1]
+	[ул.Молодежная, д.169_2д, помещение 1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

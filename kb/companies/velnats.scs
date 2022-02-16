@@ -3,7 +3,7 @@ company_velnats <- concept_company;
 =>nrel_main_idtf:
 	[Велнатс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-580-60-69]
+	[+375_44_580_60_69]
 	(* <- concept_phone_number;;*);
 	[info@wellnuts.by]
 	(* <- concept_email;;*);

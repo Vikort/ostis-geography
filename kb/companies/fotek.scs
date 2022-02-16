@@ -3,7 +3,7 @@ company_fotek <- concept_company;
 =>nrel_main_idtf:
 	[ФОТЭК]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-385-19-22]
+	[+375_17_385_19_22]
 	(* <- concept_phone_number;;*);
 	[info@mediola.by]
 	(* <- concept_email;;*);

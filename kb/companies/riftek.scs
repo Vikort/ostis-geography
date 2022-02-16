@@ -11,7 +11,7 @@ company_riftek <- concept_company;
 	(* <- concept_website;;*);
 	[100051163]
 	(* <- concept_ucn;;*);
-	[Логойский трак 22-311]
+	[Логойский трак 22_311]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,4 +1,4 @@
-company_softera-solyushns <- concept_company;
+company_softera_solyushns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Софтера Солюшнс]

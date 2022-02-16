@@ -1,4 +1,4 @@
-company_primeta-geyms <- concept_company;
+company_primeta_geyms <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ПРИМЕТА ГЕЙМС]
@@ -11,7 +11,7 @@ company_primeta-geyms <- concept_company;
 	(* <- concept_website;;*);
 	[193200207]
 	(* <- concept_ucn;;*);
-	[ул.Кропоткина 44-2, офис 1305г]
+	[ул.Кропоткина 44_2, офис 1305г]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

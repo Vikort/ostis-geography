@@ -1,9 +1,9 @@
-company_oranjsoft-development <- concept_company;
+company_oranjsoft_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Оранжсофт Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+7-926-657-6777]
+	[+7_926_657_6777]
 	(* <- concept_phone_number;;*);
 	[tk@orangesoft.by]
 	(* <- concept_email;;*);

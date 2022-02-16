@@ -1,9 +1,9 @@
-company_b-soft-laboratoriya <- concept_company;
+company_b_soft_laboratoriya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Б Софт Лаборатория]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 389-43-26]
+	[+375 17 389_43_26]
 	(* <- concept_phone_number;;*);
 	[office@bsl.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_b-soft-laboratoriya <- concept_company;
 	(* <- concept_website;;*);
 	[190491117]
 	(* <- concept_ucn;;*);
-	[ул. Толбухина, 2А-12, офис 332]
+	[ул. Толбухина, 2А_12, офис 332]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

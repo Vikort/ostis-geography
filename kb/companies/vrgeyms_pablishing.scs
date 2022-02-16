@@ -1,9 +1,9 @@
-company_vrgeyms-pablishing <- concept_company;
+company_vrgeyms_pablishing <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВРГеймс паблишинг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+7-915-620-80-75]
+	[+7_915_620_80_75]
 	(* <- concept_phone_number;;*);
 	[info@wrgames.by]
 	(* <- concept_email;;*);

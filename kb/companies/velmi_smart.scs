@@ -1,9 +1,9 @@
-company_velmi-smart <- concept_company;
+company_velmi_smart <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[ВЕЛМИ-СМАРТ]
+	[ВЕЛМИ_СМАРТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-679-76-64]
+	[+375_29_679_76_64]
 	(* <- concept_phone_number;;*);
 	[support@velmie.com]
 	(* <- concept_email;;*);

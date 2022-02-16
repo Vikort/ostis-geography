@@ -1,9 +1,9 @@
-company_nomari-softver <- concept_company;
+company_nomari_softver <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[НОМАРИ СОФТВЕР]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 357-23-66]
+	[+375 (29) 357_23_66]
 	(* <- concept_phone_number;;*);
 	[info@knomary.by]
 	(* <- concept_email;;*);

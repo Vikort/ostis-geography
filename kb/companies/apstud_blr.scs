@@ -1,4 +1,4 @@
-company_apstud-blr <- concept_company;
+company_apstud_blr <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Апстуд БЛР]

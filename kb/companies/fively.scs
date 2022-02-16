@@ -3,7 +3,7 @@ company_fively <- concept_company;
 =>nrel_main_idtf:
 	[Файвли]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-608-23-04]
+	[+375_29_608_23_04]
 	(* <- concept_phone_number;;*);
 	[info@5ly.co]
 	(* <- concept_email;;*);

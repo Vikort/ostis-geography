@@ -1,9 +1,9 @@
-company_parametry-zapuska <- concept_company;
+company_parametry_zapuska <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Параметры Запуска]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-872-82-97]
+	[+375_29_872_82_97]
 	(* <- concept_phone_number;;*);
 	[https://launchoptions.by/]
 	(* <- concept_website;;*);

@@ -1,11 +1,11 @@
-company_mergon-injenering <- concept_company;
+company_mergon_injenering <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Мэргон Инженеринг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 103 95 89]
 	(* <- concept_phone_number;;*);
-	[mail-pvt@mergon.by]
+	[mail_pvt@mergon.by]
 	(* <- concept_email;;*);
 	[http://mergon.by/]
 	(* <- concept_website;;*);

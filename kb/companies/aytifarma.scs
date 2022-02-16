@@ -3,7 +3,7 @@ company_aytifarma <- concept_company;
 =>nrel_main_idtf:
 	[АйТиФарма]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-269-88-34]
+	[+375_17_269_88_34]
 	(* <- concept_phone_number;;*);
 	[info@itpharma.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_aytifarma <- concept_company;
 	(* <- concept_website;;*);
 	[193190315]
 	(* <- concept_ucn;;*);
-	[пр. Независимости, 177-62,каб. 15В]
+	[пр. Независимости, 177_62,каб. 15В]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

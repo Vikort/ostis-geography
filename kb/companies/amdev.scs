@@ -3,7 +3,7 @@ company_amdev <- concept_company;
 =>nrel_main_idtf:
 	[АмДев]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6514691]
+	[+375_29 6514691]
 	(* <- concept_phone_number;;*);
 	[amdev@gmail.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_amdev <- concept_company;
 	(* <- concept_website;;*);
 	[192814386]
 	(* <- concept_ucn;;*);
-	[Пр-т Дзержинского, 104А, офис 1302]
+	[Пр_т Дзержинского, 104А, офис 1302]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

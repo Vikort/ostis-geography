@@ -1,4 +1,4 @@
-company_hyumans-ayti <- concept_company;
+company_hyumans_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Хьюманс АйТи]

@@ -1,4 +1,4 @@
-company_ooo-stigma-soft <- concept_company;
+company_ooo_stigma_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Стигма Софт]

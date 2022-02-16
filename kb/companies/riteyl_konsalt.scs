@@ -1,13 +1,13 @@
-company_riteyl-konsalt <- concept_company;
+company_riteyl_konsalt <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[РИТЭЙЛ КОНСАЛТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 5866222]
 	(* <- concept_phone_number;;*);
-	[inbox@retail-consult.by]
+	[inbox@retail_consult.by]
 	(* <- concept_email;;*);
-	[retail-consult.by]
+	[retail_consult.by]
 	(* <- concept_website;;*);
 	[192244151]
 	(* <- concept_ucn;;*);

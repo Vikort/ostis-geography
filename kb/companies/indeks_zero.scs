@@ -1,13 +1,13 @@
-company_indeks-zero <- concept_company;
+company_indeks_zero <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Индекс Зеро]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375292770069]
 	(* <- concept_phone_number;;*);
-	[hi@idx-zero.com]
+	[hi@idx_zero.com]
 	(* <- concept_email;;*);
-	[http://idx-zero.com]
+	[http://idx_zero.com]
 	(* <- concept_website;;*);
 	[193279008]
 	(* <- concept_ucn;;*);

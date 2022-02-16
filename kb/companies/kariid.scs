@@ -3,7 +3,7 @@ company_kariid <- concept_company;
 =>nrel_main_idtf:
 	[Кариид]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6221321]
+	[+375_29 6221321]
 	(* <- concept_phone_number;;*);
 	[info@kariid.com]
 	(* <- concept_email;;*);

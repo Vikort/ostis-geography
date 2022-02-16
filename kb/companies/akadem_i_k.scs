@@ -1,4 +1,4 @@
-company_akadem-i-k <- concept_company;
+company_akadem_i_k <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Академ и К]

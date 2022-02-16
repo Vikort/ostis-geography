@@ -1,13 +1,13 @@
-company_elektronnaya-ekonomika <- concept_company;
+company_elektronnaya_ekonomika <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Электронная экономика]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375296022565]
 	(* <- concept_phone_number;;*);
-	[info@e-economy.by]
+	[info@e_economy.by]
 	(* <- concept_email;;*);
-	[https://e-economy.by/]
+	[https://e_economy.by/]
 	(* <- concept_website;;*);
 	[192666693]
 	(* <- concept_ucn;;*);

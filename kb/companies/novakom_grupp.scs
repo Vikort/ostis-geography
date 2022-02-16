@@ -1,4 +1,4 @@
-company_novakom-grupp <- concept_company;
+company_novakom_grupp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Новаком Групп]
@@ -11,7 +11,7 @@ company_novakom-grupp <- concept_company;
 	(* <- concept_website;;*);
 	[190756983]
 	(* <- concept_ucn;;*);
-	[ул. Пинская, д. 28А-20, этаж 10]
+	[ул. Пинская, д. 28А_20, этаж 10]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

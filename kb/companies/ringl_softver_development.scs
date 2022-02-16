@@ -1,4 +1,4 @@
-company_ringl-softver-development <- concept_company;
+company_ringl_softver_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[РИНГЛ Софтвер Девелопмент]

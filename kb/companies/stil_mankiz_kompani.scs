@@ -1,9 +1,9 @@
-company_stil-mankiz-kompani <- concept_company;
+company_stil_mankiz_kompani <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Стил Манкиз Компани]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 2124128]
+	[+375_17 2124128]
 	(* <- concept_phone_number;;*);
 	[mail@steelmonkeys.by]
 	(* <- concept_email;;*);

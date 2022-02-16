@@ -1,4 +1,4 @@
-company_rubiroyd-development <- concept_company;
+company_rubiroyd_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Рубиройд Девелопмент]

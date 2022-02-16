@@ -1,4 +1,4 @@
-company_fizzi-brizzi-geyms <- concept_company;
+company_fizzi_brizzi_geyms <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Физзи Бриззи Геймс]
@@ -11,7 +11,7 @@ company_fizzi-brizzi-geyms <- concept_company;
 	(* <- concept_website;;*);
 	[193460819]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей, д. 106, офис 10]
+	[пр_т Победителей, д. 106, офис 10]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

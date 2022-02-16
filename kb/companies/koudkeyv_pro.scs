@@ -1,9 +1,9 @@
-company_koudkeyv-pro <- concept_company;
+company_koudkeyv_pro <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[КОУДКЭЙВ ПРО]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-236-61-25]
+	[+375_29_236_61_25]
 	(* <- concept_phone_number;;*);
 	[info@codecave.pro]
 	(* <- concept_email;;*);

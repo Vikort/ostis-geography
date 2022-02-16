@@ -1,9 +1,9 @@
-company_ayris-media <- concept_company;
+company_ayris_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Айрис Медиа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 2224994]
+	[+375_29 2224994]
 	(* <- concept_phone_number;;*);
 	[alena@theiris.io]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_ayris-media <- concept_company;
 	(* <- concept_website;;*);
 	[193296546]
 	(* <- concept_ucn;;*);
-	[ул. Зыбицкая, 2-6, офис 311]
+	[ул. Зыбицкая, 2_6, офис 311]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

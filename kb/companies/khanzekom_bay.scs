@@ -1,9 +1,9 @@
-company_khanzekom-bay <- concept_company;
+company_khanzekom_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ханзеком БАЙ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-694-40-52]
+	[+375_29_694_40_52]
 	(* <- concept_phone_number;;*);
 	[Ulyana.kavalionak@hansecom.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_khanzekom-bay <- concept_company;
 	(* <- concept_website;;*);
 	[193303388]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, д. 3Б, офис 52]
+	[пр_т Дзержинского, д. 3Б, офис 52]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

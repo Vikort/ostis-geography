@@ -1,9 +1,9 @@
-company_adam-tehnologii <- concept_company;
+company_adam_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АДАМ Технологии]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 616-55-46‬]
+	[+375 (29) 616_55_46‬]
 	(* <- concept_phone_number;;*);
 	[alx_m@tut.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_adam-tehnologii <- concept_company;
 	(* <- concept_website;;*);
 	[193166558]
 	(* <- concept_ucn;;*);
-	[пр-т Партизанский, д. 19А, пом. 1, ком. 304]
+	[пр_т Партизанский, д. 19А, пом. 1, ком. 304]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

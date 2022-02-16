@@ -1,9 +1,9 @@
-company_dashbuket-development <- concept_company;
+company_dashbuket_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дашбукет Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-850-27-06]
+	[+375_29_850_27_06]
 	(* <- concept_phone_number;;*);
 	[db@dashbouquet.com]
 	(* <- concept_email;;*);

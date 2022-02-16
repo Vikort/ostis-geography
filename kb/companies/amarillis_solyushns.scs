@@ -1,9 +1,9 @@
-company_amarillis-solyushns <- concept_company;
+company_amarillis_solyushns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Амариллис Солюшнс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 609-4109]
+	[+375 29 609_4109]
 	(* <- concept_phone_number;;*);
 	[contact@amaryllis.by]
 	(* <- concept_email;;*);

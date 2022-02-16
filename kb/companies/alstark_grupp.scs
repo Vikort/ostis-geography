@@ -1,9 +1,9 @@
-company_alstark-grupp <- concept_company;
+company_alstark_grupp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Альстарк Групп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-328-37-17]
+	[+375_17_328_37_17]
 	(* <- concept_phone_number;;*);
 	[info@aptekabel.by]
 	(* <- concept_email;;*);

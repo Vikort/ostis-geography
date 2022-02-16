@@ -3,7 +3,7 @@ company_asterus <- concept_company;
 =>nrel_main_idtf:
 	[Астерус]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 5872857]
+	[+375_29 5872857]
 	(* <- concept_phone_number;;*);
 	[ceo@asterus.by]
 	(* <- concept_email;;*);

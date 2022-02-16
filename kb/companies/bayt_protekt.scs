@@ -1,13 +1,13 @@
-company_bayt-protekt <- concept_company;
+company_bayt_protekt <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Байт протект]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 269-92-04]
+	[+375 17 269_92_04]
 	(* <- concept_phone_number;;*);
-	[contact@byte-protect.com]
+	[contact@byte_protect.com]
 	(* <- concept_email;;*);
-	[http://www.byte-protect.com/]
+	[http://www.byte_protect.com/]
 	(* <- concept_website;;*);
 	[191661518]
 	(* <- concept_ucn;;*);

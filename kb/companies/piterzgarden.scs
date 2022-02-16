@@ -5,9 +5,9 @@ company_piterzgarden <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375293771330]
 	(* <- concept_phone_number;;*);
-	[info@call-tracking.by]
+	[info@call_tracking.by]
 	(* <- concept_email;;*);
-	[http://call-tracking.by/]
+	[http://call_tracking.by/]
 	(* <- concept_website;;*);
 	[191844647]
 	(* <- concept_ucn;;*);

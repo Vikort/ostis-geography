@@ -11,7 +11,7 @@ company_gloksoft <- concept_company;
 	(* <- concept_website;;*);
 	[191155938]
 	(* <- concept_ucn;;*);
-	[3-я ул. Щорса д. 9, комн. 705]
+	[3_я ул. Щорса д. 9, комн. 705]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

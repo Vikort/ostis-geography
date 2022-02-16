@@ -3,7 +3,7 @@ company_roksoft <- concept_company;
 =>nrel_main_idtf:
 	[Роксофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 2527072]
+	[+375_17 2527072]
 	(* <- concept_phone_number;;*);
 	[connect@roxoft.by]
 	(* <- concept_email;;*);

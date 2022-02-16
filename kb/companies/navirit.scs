@@ -11,7 +11,7 @@ company_navirit <- concept_company;
 	(* <- concept_website;;*);
 	[193298697]
 	(* <- concept_ucn;;*);
-	[ул. Скрыганова, 6-2203]
+	[ул. Скрыганова, 6_2203]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

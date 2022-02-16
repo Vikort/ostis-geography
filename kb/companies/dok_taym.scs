@@ -1,9 +1,9 @@
-company_dok-taym <- concept_company;
+company_dok_taym <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Док Тайм]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-676-72-09]
+	[+375_29_676_72_09]
 	(* <- concept_phone_number;;*);
 	[193428825]
 	(* <- concept_ucn;;*);

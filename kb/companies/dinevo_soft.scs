@@ -1,9 +1,9 @@
-company_dinevo-soft <- concept_company;
+company_dinevo_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Динево Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-287-19-23]
+	[+375_29_287_19_23]
 	(* <- concept_phone_number;;*);
 	[andrei@dynevo.org]
 	(* <- concept_email;;*);

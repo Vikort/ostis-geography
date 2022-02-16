@@ -3,7 +3,7 @@ company_binatomik <- concept_company;
 =>nrel_main_idtf:
 	[БИНАТОМИК]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-315-11-27]
+	[+375_29_315_11_27]
 	(* <- concept_phone_number;;*);
 	[info@binatomic.com]
 	(* <- concept_email;;*);

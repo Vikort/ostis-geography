@@ -1,4 +1,4 @@
-company_abf-programming <- concept_company;
+company_abf_programming <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АБФ Программинг]
@@ -9,7 +9,7 @@ company_abf-programming <- concept_company;
 	(* <- concept_website;;*);
 	[193103902]
 	(* <- concept_ucn;;*);
-	[220069, пр-т Дзержинского, 3Б, пом. 44, 45]
+	[220069, пр_т Дзержинского, 3Б, пом. 44, 45]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

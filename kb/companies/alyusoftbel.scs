@@ -3,7 +3,7 @@ company_alyusoftbel <- concept_company;
 =>nrel_main_idtf:
 	[АлюсофтБел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (17) 330-11-44]
+	[+375 (17) 330_11_44]
 	(* <- concept_phone_number;;*);
 	[info@alusoft.by]
 	(* <- concept_email;;*);

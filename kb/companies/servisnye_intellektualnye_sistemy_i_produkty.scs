@@ -1,15 +1,15 @@
-company_servisnye-intellektualnye-sistemy-i-produkty <- concept_company;
+company_servisnye_intellektualnye_sistemy_i_produkty <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сервисные интеллектуальные системы и продукты]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-110-32-48]
+	[+375_29_110_32_48]
 	(* <- concept_phone_number;;*);
 	[http://sisp.by/]
 	(* <- concept_website;;*);
 	[193480613]
 	(* <- concept_ucn;;*);
-	[ул. 2-я Шестая линия, д. 11, офис 6В-4-40]
+	[ул. 2_я Шестая линия, д. 11, офис 6В_4_40]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

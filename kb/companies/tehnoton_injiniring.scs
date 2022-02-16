@@ -1,4 +1,4 @@
-company_tehnoton-injiniring <- concept_company;
+company_tehnoton_injiniring <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Технотон инжиниринг]
@@ -9,7 +9,7 @@ company_tehnoton-injiniring <- concept_company;
 	(* <- concept_email;;*);
 	[192466345]
 	(* <- concept_ucn;;*);
-	[Республика Беларусь, Минская область, Минский район, д. Большое Стиклево, д. 40, корп. 2, офис 124 (Бизнес-центр "S. Union")]
+	[Республика Беларусь, Минская область, Минский район, д. Большое Стиклево, д. 40, корп. 2, офис 124 (Бизнес_центр "S. Union")]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

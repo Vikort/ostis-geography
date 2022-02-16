@@ -1,4 +1,4 @@
-company_svaps-sistemz <- concept_company;
+company_svaps_sistemz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СВАПС системз]
@@ -11,7 +11,7 @@ company_svaps-sistemz <- concept_company;
 	(* <- concept_website;;*);
 	[192455505]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, 104 А, офис 1301]
+	[пр_т Дзержинского, 104 А, офис 1301]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

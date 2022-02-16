@@ -1,11 +1,11 @@
-company_onde-issledovaniya-i-razrabotki <- concept_company;
+company_onde_issledovaniya_i_razrabotki <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Онде исследования и разработки]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 8500646]
 	(* <- concept_phone_number;;*);
-	[contact-by@onde.app]
+	[contact_by@onde.app]
 	(* <- concept_email;;*);
 	[http://onde.app/]
 	(* <- concept_website;;*);

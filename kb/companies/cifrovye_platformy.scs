@@ -1,4 +1,4 @@
-company_cifrovye-platformy <- concept_company;
+company_cifrovye_platformy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Цифровые платформы]

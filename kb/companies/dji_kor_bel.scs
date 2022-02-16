@@ -1,9 +1,9 @@
-company_dji-kor-bel <- concept_company;
+company_dji_kor_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Джи-Кор Бел]
+	[Джи_Кор Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-352-00-82]
+	[+375_17_352_00_82]
 	(* <- concept_phone_number;;*);
 	[a_green@gcore.lu]
 	(* <- concept_email;;*);

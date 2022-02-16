@@ -3,7 +3,7 @@ company_tvistellar <- concept_company;
 =>nrel_main_idtf:
 	[Твистеллар]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6414136]
+	[+375_29 6414136]
 	(* <- concept_phone_number;;*);
 	[hello@twistellar.com]
 	(* <- concept_email;;*);

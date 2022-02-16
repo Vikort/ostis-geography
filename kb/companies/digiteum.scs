@@ -3,7 +3,7 @@ company_digiteum <- concept_company;
 =>nrel_main_idtf:
 	[Дигитеум]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-288-60-05]
+	[+375_17_288_60_05]
 	(* <- concept_phone_number;;*);
 	[hello@digiteum.com]
 	(* <- concept_email;;*);

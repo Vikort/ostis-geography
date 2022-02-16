@@ -3,7 +3,7 @@ company_siklumbel <- concept_company;
 =>nrel_main_idtf:
 	[Сиклум Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 393-30-98]
+	[+375 17 393_30_98]
 	(* <- concept_phone_number;;*);
 	[belarus@ciklum.com]
 	(* <- concept_email;;*);

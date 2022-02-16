@@ -1,9 +1,9 @@
-company_zorachka-soft <- concept_company;
+company_zorachka_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Зорачка Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375(25)912-05-06]
+	[+375(25)912_05_06]
 	(* <- concept_phone_number;;*);
 	[business@zorachka.com]
 	(* <- concept_email;;*);

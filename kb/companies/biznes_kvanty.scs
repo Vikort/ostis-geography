@@ -1,9 +1,9 @@
-company_biznes-kvanty <- concept_company;
+company_biznes_kvanty <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Бизнес Кванты]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 586-73-26]
+	[+375 29 586_73_26]
 	(* <- concept_phone_number;;*);
 	[info@biquants.com]
 	(* <- concept_email;;*);

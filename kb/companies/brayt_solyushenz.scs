@@ -1,17 +1,17 @@
-company_brayt-solyushenz <- concept_company;
+company_brayt_solyushenz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Брайт Солюшенз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+ 375-44-555-10-92]
+	[+ 375_44_555_10_92]
 	(* <- concept_phone_number;;*);
-	[contact@bs-solutions.by]
+	[contact@bs_solutions.by]
 	(* <- concept_email;;*);
-	[http://bs-solutions.by/]
+	[http://bs_solutions.by/]
 	(* <- concept_website;;*);
 	[191837287]
 	(* <- concept_ucn;;*);
-	[пр-т. Победителей, д. 89, корп. 3, ком. 15]
+	[пр_т. Победителей, д. 89, корп. 3, ком. 15]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

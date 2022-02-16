@@ -1,9 +1,9 @@
-company_egorov-edjensi <- concept_company;
+company_egorov_edjensi <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Егоров Эдженси]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-606-02-80]
+	[+375_29_606_02_80]
 	(* <- concept_phone_number;;*);
 	[welcome@egorovagency.com]
 	(* <- concept_email;;*);

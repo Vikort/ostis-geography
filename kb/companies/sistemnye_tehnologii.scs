@@ -1,9 +1,9 @@
-company_sistemnye-tehnologii <- concept_company;
+company_sistemnye_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СИСТЕМНЫЕ ТЕХНОЛОГИИ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 269-04-00]
+	[+375 17 269_04_00]
 	(* <- concept_phone_number;;*);
 	[info@st.by]
 	(* <- concept_email;;*);

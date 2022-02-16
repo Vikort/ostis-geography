@@ -3,7 +3,7 @@ company_ksappeksbel <- concept_company;
 =>nrel_main_idtf:
 	[КсаппексБел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-629-44-91]
+	[+375_29_629_44_91]
 	(* <- concept_phone_number;;*);
 	[it@xappexbel.by]
 	(* <- concept_email;;*);

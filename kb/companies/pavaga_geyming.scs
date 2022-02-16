@@ -1,4 +1,4 @@
-company_pavaga-geyming <- concept_company;
+company_pavaga_geyming <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Павага Гейминг]
@@ -9,7 +9,7 @@ company_pavaga-geyming <- concept_company;
 	(* <- concept_email;;*);
 	[193169797]
 	(* <- concept_ucn;;*);
-	[ул. Кропоткина 44-2, комната 502]
+	[ул. Кропоткина 44_2, комната 502]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

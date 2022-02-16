@@ -1,4 +1,4 @@
-company_km-lab <- concept_company;
+company_km_lab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[КМ Лаб]

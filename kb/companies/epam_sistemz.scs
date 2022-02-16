@@ -1,9 +1,9 @@
-company_epam-sistemz <- concept_company;
+company_epam_sistemz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭПАМ Системз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 389-01-00]
+	[+375 17 389_01_00]
 	(* <- concept_phone_number;;*);
 	[info@epam.com]
 	(* <- concept_email;;*);

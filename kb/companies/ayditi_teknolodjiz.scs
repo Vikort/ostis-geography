@@ -1,11 +1,11 @@
-company_ayditi-teknolodjiz <- concept_company;
+company_ayditi_teknolodjiz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АйДиТи Текнолоджиз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 733-88-25]
+	[+375 (29) 733_88_25]
 	(* <- concept_phone_number;;*);
-	[htp-belarus@idt.net]
+	[htp_belarus@idt.net]
 	(* <- concept_email;;*);
 	[http://idt.by]
 	(* <- concept_website;;*);

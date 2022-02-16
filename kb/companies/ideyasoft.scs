@@ -5,13 +5,13 @@ company_ideyasoft <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 7638592]
 	(* <- concept_phone_number;;*);
-	[info@i-deasoft.com]
+	[info@i_deasoft.com]
 	(* <- concept_email;;*);
-	[httpы://i-deasoft.com/]
+	[httpы://i_deasoft.com/]
 	(* <- concept_website;;*);
 	[192189142]
 	(* <- concept_ucn;;*);
-	[проспект Независимости 40А, 2-3]
+	[проспект Независимости 40А, 2_3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

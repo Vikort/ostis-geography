@@ -1,4 +1,4 @@
-company_orion-soft <- concept_company;
+company_orion_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Орион Софт]

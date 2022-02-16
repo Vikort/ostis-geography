@@ -1,9 +1,9 @@
-company_dokflou-bel <- concept_company;
+company_dokflou_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Докфлоу Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-699-39-66]
+	[+375_29_699_39_66]
 	(* <- concept_phone_number;;*);
 	[homza@sapdocflow.ru]
 	(* <- concept_email;;*);

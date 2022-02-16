@@ -1,7 +1,7 @@
-company_iva-gomel-park <- concept_company;
+company_iva_gomel_park <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[ИВА-Гомель-Парк]
+	[ИВА_Гомель_Парк]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+ 375 232 68 26 64]
 	(* <- concept_phone_number;;*);

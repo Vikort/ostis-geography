@@ -1,9 +1,9 @@
-company_top-soft <- concept_company;
+company_top_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Топ Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 294-99-99]
+	[+375 17 294_99_99]
 	(* <- concept_phone_number;;*);
 	[market@topsoft.by]
 	(* <- concept_email;;*);

@@ -1,11 +1,11 @@
-company_devtim-grupp <- concept_company;
+company_devtim_grupp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[ДэвТим-Групп]
+	[ДэвТим_Групп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-323-25-30]
+	[+375_29_323_25_30]
 	(* <- concept_phone_number;;*);
-	[legal@dev-team.group]
+	[legal@dev_team.group]
 	(* <- concept_email;;*);
 	[192845176]
 	(* <- concept_ucn;;*);

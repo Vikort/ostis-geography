@@ -1,4 +1,4 @@
-company_npc-mnogofunkcionalnyh-bespilotnyh-kompleksov <- concept_company;
+company_npc_mnogofunkcionalnyh_bespilotnyh_kompleksov <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[НПЦ многофункциональных беспилотных комплексов]

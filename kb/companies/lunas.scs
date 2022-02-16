@@ -3,7 +3,7 @@ company_lunas <- concept_company;
 =>nrel_main_idtf:
 	[Лунас]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44 518 01 84]
+	[+375_44 518 01 84]
 	(* <- concept_phone_number;;*);
 	[ceo@lunas.pro]
 	(* <- concept_email;;*);

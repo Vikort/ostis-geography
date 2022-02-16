@@ -1,9 +1,9 @@
-company_aton-injirniring <- concept_company;
+company_aton_injirniring <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АТОН Инжирниринг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6264264]
+	[+375_29 6264264]
 	(* <- concept_phone_number;;*);
 	[info@aton.by]
 	(* <- concept_email;;*);

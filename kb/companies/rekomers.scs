@@ -3,7 +3,7 @@ company_rekomers <- concept_company;
 =>nrel_main_idtf:
 	[Рекомерс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 44 555-62-40]
+	[+375 44 555_62_40]
 	(* <- concept_phone_number;;*);
 	[pvt@recommerce.by]
 	(* <- concept_email;;*);

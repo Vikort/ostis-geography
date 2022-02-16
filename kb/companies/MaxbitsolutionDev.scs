@@ -9,7 +9,7 @@ company_MaxbitsolutionDev <- concept_company;
 	(* <- concept_email;;*);
 	[193338160]
 	(* <- concept_ucn;;*);
-	[пер. Козлова, д. 25, офис 7-28]
+	[пер. Козлова, д. 25, офис 7_28]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

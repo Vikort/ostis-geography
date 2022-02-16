@@ -1,9 +1,9 @@
-company_innoteh-solyushns <- concept_company;
+company_innoteh_solyushns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ИнноТех Солюшнс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 397-28-77]
+	[+375 17 397_28_77]
 	(* <- concept_phone_number;;*);
 	[info@intechs.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_innoteh-solyushns <- concept_company;
 	(* <- concept_website;;*);
 	[193156727]
 	(* <- concept_ucn;;*);
-	[ул. Кульман 21Б-4, пом 9]
+	[ул. Кульман 21Б_4, пом 9]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

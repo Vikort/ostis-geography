@@ -1,4 +1,4 @@
-company_aybion-tekhnolodzhiz <- concept_company;
+company_aybion_tekhnolodzhiz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Айбион Технолоджиз]
@@ -11,7 +11,7 @@ company_aybion-tekhnolodzhiz <- concept_company;
 	(* <- concept_website;;*);
 	[691840125]
 	(* <- concept_ucn;;*);
-	[ул. 2-я Щорса, 5, офис 47]
+	[ул. 2_я Щорса, 5, офис 47]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,11 +1,11 @@
-company_aytiti-kommunikeyshns <- concept_company;
+company_aytiti_kommunikeyshns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АйТиТи Коммуникейшнс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 302560]
 	(* <- concept_phone_number;;*);
-	[info@itt-us.com]
+	[info@itt_us.com]
 	(* <- concept_email;;*);
 	[192208851]
 	(* <- concept_ucn;;*);

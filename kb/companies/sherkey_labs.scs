@@ -1,4 +1,4 @@
-company_sherkey-labs <- concept_company;
+company_sherkey_labs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ШЕРКЕЙ Лабс]
@@ -11,7 +11,7 @@ company_sherkey-labs <- concept_company;
 	(* <- concept_website;;*);
 	[192974553]
 	(* <- concept_ucn;;*);
-	[ул.Интернациональная, 25а-24]
+	[ул.Интернациональная, 25а_24]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

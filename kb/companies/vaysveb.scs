@@ -3,7 +3,7 @@ company_vaysveb <- concept_company;
 =>nrel_main_idtf:
 	[ВайсВеб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-236-80-55]
+	[+375_17_236_80_55]
 	(* <- concept_phone_number;;*);
 	[info@wiseweb.by]
 	(* <- concept_email;;*);

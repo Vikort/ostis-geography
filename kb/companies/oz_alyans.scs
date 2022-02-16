@@ -1,4 +1,4 @@
-company_oz-alyans <- concept_company;
+company_oz_alyans <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Оз Альянс]

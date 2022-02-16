@@ -1,13 +1,13 @@
-company_haykvo-solyushens <- concept_company;
+company_haykvo_solyushens <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ХайКво Солюшенс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 3963934;]
 	(* <- concept_phone_number;;*);
-	[info@hiqo-solutions.com]
+	[info@hiqo_solutions.com]
 	(* <- concept_email;;*);
-	[http://www.hiqo-solutions.com]
+	[http://www.hiqo_solutions.com]
 	(* <- concept_website;;*);
 	[190867987]
 	(* <- concept_ucn;;*);

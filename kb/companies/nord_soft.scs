@@ -1,13 +1,13 @@
-company_nord-soft <- concept_company;
+company_nord_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Норд-Софт]
+	[Норд_Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6759317]
+	[+375_29 6759317]
 	(* <- concept_phone_number;;*);
-	[contact@nord-soft.com]
+	[contact@nord_soft.com]
 	(* <- concept_email;;*);
-	[http://nord-soft.com/]
+	[http://nord_soft.com/]
 	(* <- concept_website;;*);
 	[191077796]
 	(* <- concept_ucn;;*);

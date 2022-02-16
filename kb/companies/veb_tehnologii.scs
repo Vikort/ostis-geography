@@ -1,9 +1,9 @@
-company_veb-tehnologii <- concept_company;
+company_veb_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВЭБ Технологии]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-388-03-73]
+	[+375_17_388_03_73]
 	(* <- concept_phone_number;;*);
 	[info@vebtech.by]
 	(* <- concept_email;;*);

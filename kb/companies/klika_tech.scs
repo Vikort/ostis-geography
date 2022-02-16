@@ -1,13 +1,13 @@
-company_klika-tech <- concept_company;
+company_klika_tech <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Клика Тек]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 234 22 59]
 	(* <- concept_phone_number;;*);
-	[contact@klika-tech.com]
+	[contact@klika_tech.com]
 	(* <- concept_email;;*);
-	[www.klika-tech.com]
+	[www.klika_tech.com]
 	(* <- concept_website;;*);
 	[192983268]
 	(* <- concept_ucn;;*);

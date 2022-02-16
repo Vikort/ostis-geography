@@ -1,9 +1,9 @@
-company_emk-soft <- concept_company;
+company_emk_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЕМК Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-610-21-18]
+	[+375_29_610_21_18]
 	(* <- concept_phone_number;;*);
 	[https://emksoft.dev/]
 	(* <- concept_website;;*);

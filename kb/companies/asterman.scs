@@ -3,7 +3,7 @@ company_asterman <- concept_company;
 =>nrel_main_idtf:
 	[Астерман]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[(029) 688-85-46]
+	[(029) 688_85_46]
 	(* <- concept_phone_number;;*);
 	[office@asterman.org]
 	(* <- concept_email;;*);

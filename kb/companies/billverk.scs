@@ -3,7 +3,7 @@ company_billverk <- concept_company;
 =>nrel_main_idtf:
 	[Биллверк]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-867-99-20]
+	[+375_29_867_99_20]
 	(* <- concept_phone_number;;*);
 	[belarus@billwerk.com]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_melius-soft <- concept_company;
+company_melius_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Мелиус Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-157-57-26]
+	[+375_29_157_57_26]
 	(* <- concept_phone_number;;*);
 	[skn@skz.by]
 	(* <- concept_email;;*);

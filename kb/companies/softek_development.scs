@@ -1,4 +1,4 @@
-company_softek-development <- concept_company;
+company_softek_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Софтек Девелопмент]

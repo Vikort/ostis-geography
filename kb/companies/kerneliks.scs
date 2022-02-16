@@ -3,7 +3,7 @@ company_kerneliks <- concept_company;
 =>nrel_main_idtf:
 	[Кернеликс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-592-42-55]
+	[+375_44_592_42_55]
 	(* <- concept_phone_number;;*);
 	[https://kernelics.by/]
 	(* <- concept_website;;*);

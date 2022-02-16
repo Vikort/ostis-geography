@@ -1,9 +1,9 @@
-company_helmes-bel <- concept_company;
+company_helmes_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Хелмес Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+37529-7078072]
+	[+37529_7078072]
 	(* <- concept_phone_number;;*);
 	[minsk@helmes.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_helmes-bel <- concept_company;
 	(* <- concept_website;;*);
 	[191114707]
 	(* <- concept_ucn;;*);
-	[г.Минск, ул. Могилевская 39А, 501-512]
+	[г.Минск, ул. Могилевская 39А, 501_512]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,9 +1,9 @@
-company_koral-tim <- concept_company;
+company_koral_tim <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Корал Тим]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 639-05-70]
+	[+375 29 639_05_70]
 	(* <- concept_phone_number;;*);
 	[info@coral.team]
 	(* <- concept_email;;*);

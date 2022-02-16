@@ -3,7 +3,7 @@ company_devhed <- concept_company;
 =>nrel_main_idtf:
 	[ДЕВХЭД]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-699-79-66]
+	[+375_29_699_79_66]
 	(* <- concept_phone_number;;*);
 	[info@devxed.com]
 	(* <- concept_email;;*);

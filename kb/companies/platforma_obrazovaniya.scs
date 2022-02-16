@@ -1,4 +1,4 @@
-company_platforma-obrazovaniya <- concept_company;
+company_platforma_obrazovaniya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Платформа образования]

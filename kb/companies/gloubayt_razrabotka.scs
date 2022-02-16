@@ -1,9 +1,9 @@
-company_gloubayt-razrabotka <- concept_company;
+company_gloubayt_razrabotka <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ГлоуБайт Разработка]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+37517-306-24-55]
+	[+37517_306_24_55]
 	(* <- concept_phone_number;;*);
 	[contact@gbconsulting.ru]
 	(* <- concept_email;;*);

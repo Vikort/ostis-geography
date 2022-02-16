@@ -3,7 +3,7 @@ company_drayvit <- concept_company;
 =>nrel_main_idtf:
 	[ДрайвИТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-771-93-7]
+	[+375_44_771_93_7]
 	(* <- concept_phone_number;;*);
 	[driveitcompany@gmail.com]
 	(* <- concept_email;;*);

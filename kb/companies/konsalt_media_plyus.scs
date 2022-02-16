@@ -1,4 +1,4 @@
-company_konsalt-media-plyus <- concept_company;
+company_konsalt_media_plyus <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Айконтекст]
@@ -11,7 +11,7 @@ company_konsalt-media-plyus <- concept_company;
 	(* <- concept_website;;*);
 	[193071509]
 	(* <- concept_ucn;;*);
-	[Республика Беларусь, г. Минск, ул. Либаво-Роменская, д. 23, пом. 10]
+	[Республика Беларусь, г. Минск, ул. Либаво_Роменская, д. 23, пом. 10]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

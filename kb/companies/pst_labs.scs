@@ -1,9 +1,9 @@
-company_pst-labs <- concept_company;
+company_pst_labs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ПСТ Лабс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-322-92-72]
+	[+375_29_322_92_72]
 	(* <- concept_phone_number;;*);
 	[info@pstlabs.by]
 	(* <- concept_email;;*);

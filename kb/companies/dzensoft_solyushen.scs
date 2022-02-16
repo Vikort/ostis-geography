@@ -1,9 +1,9 @@
-company_dzensoft-solyushen <- concept_company;
+company_dzensoft_solyushen <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ДЗЭНСОФТ СОЛЮШЕН]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-677-22-44]
+	[+375_29_677_22_44]
 	(* <- concept_phone_number;;*);
 	[https://dzensoft.com/]
 	(* <- concept_website;;*);

@@ -1,4 +1,4 @@
-company_sovershennyy-kod <- concept_company;
+company_sovershennyy_kod <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Совершенный код]

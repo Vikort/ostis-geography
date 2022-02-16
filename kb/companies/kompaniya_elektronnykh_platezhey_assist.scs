@@ -1,9 +1,9 @@
-company_kompaniya-elektronnykh-platezhey-assist <- concept_company;
+company_kompaniya_elektronnykh_platezhey_assist <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Компания Электронных Платежей "АССИСТ"]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-203-86-85]
+	[+375_17_203_86_85]
 	(* <- concept_phone_number;;*);
 	[info@belassist.by]
 	(* <- concept_email;;*);

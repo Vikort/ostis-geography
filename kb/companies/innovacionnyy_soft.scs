@@ -1,4 +1,4 @@
-company_innovacionnyy-soft <- concept_company;
+company_innovacionnyy_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Инновационный Софт]
@@ -11,7 +11,7 @@ company_innovacionnyy-soft <- concept_company;
 	(* <- concept_website;;*);
 	[192940976]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, 57, офис 18]
+	[пр_т Дзержинского, 57, офис 18]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

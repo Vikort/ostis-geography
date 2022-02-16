@@ -11,7 +11,7 @@ company_yomiko <- concept_company;
 	(* <- concept_website;;*);
 	[193280454]
 	(* <- concept_ucn;;*);
-	[ул. Радужная 7-69]
+	[ул. Радужная 7_69]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

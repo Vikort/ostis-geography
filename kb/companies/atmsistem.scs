@@ -3,7 +3,7 @@ company_atmsistem <- concept_company;
 =>nrel_main_idtf:
 	[Атмсистем]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (17) 268-84-0]
+	[+375 (17) 268_84_0]
 	(* <- concept_phone_number;;*);
 	[mail@atmsys.by]
 	(* <- concept_email;;*);

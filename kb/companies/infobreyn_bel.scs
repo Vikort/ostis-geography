@@ -1,4 +1,4 @@
-company_infobreyn-bel <- concept_company;
+company_infobreyn_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Инфобрейн Бел]

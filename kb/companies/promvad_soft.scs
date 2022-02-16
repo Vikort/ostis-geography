@@ -1,4 +1,4 @@
-company_promvad-soft <- concept_company;
+company_promvad_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Промвад Софт]

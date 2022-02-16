@@ -1,4 +1,4 @@
-company_ayeyches-global <- concept_company;
+company_ayeyches_global <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АйЭйчЭс Глобал]
@@ -11,7 +11,7 @@ company_ayeyches-global <- concept_company;
 	(* <- concept_website;;*);
 	[190591204]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей, 106, комн. 201]
+	[пр_т Победителей, 106, комн. 201]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

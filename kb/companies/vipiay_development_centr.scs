@@ -1,13 +1,13 @@
-company_vipiay-development-centr <- concept_company;
+company_vipiay_development_centr <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВиПиАй Девелопмент Центр]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-283-68-53]
+	[+375_17_283_68_53]
 	(* <- concept_phone_number;;*);
-	[p.khovrenkov@vpi-minsk.com]
+	[p.khovrenkov@vpi_minsk.com]
 	(* <- concept_email;;*);
-	[http://www.vpi-minsk.by]
+	[http://www.vpi_minsk.by]
 	(* <- concept_website;;*);
 	[800011158]
 	(* <- concept_ucn;;*);

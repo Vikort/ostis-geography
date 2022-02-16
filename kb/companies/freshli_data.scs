@@ -1,9 +1,9 @@
-company_freshli-data <- concept_company;
+company_freshli_data <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Фрешли Дата]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 6342791]
+	[+375_29 6342791]
 	(* <- concept_phone_number;;*);
 	[ivaschenko.if@gmail.com]
 	(* <- concept_email;;*);

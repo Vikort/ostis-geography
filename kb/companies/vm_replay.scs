@@ -1,9 +1,9 @@
-company_vm-replay <- concept_company;
+company_vm_replay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВМ Реплай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-555-12-89]
+	[+375_29_555_12_89]
 	(* <- concept_phone_number;;*);
 	[info@wmreply.by]
 	(* <- concept_email;;*);

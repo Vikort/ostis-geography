@@ -3,7 +3,7 @@ company_nittekh <- concept_company;
 =>nrel_main_idtf:
 	[НитТех]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-117-93-07]
+	[+375_29_117_93_07]
 	(* <- concept_phone_number;;*);
 	[alexisakova@neattech.io]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_hayend-sistems <- concept_company;
+company_hayend_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Хайэнд Системс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 3023521]
+	[+375_17 3023521]
 	(* <- concept_phone_number;;*);
 	[pvt@hiendsys.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_hayend-sistems <- concept_company;
 	(* <- concept_website;;*);
 	[191892735]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости, д.177, пом.1В, каб. 8]
+	[пр_т Независимости, д.177, пом.1В, каб. 8]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

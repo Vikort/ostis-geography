@@ -1,13 +1,13 @@
-company_bi-lodjik <- concept_company;
+company_bi_lodjik <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[БИ-ЛОДЖИК]
+	[БИ_ЛОДЖИК]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+ 375 17 279340]
 	(* <- concept_phone_number;;*);
-	[office@b-logic.by]
+	[office@b_logic.by]
 	(* <- concept_email;;*);
-	[http://b-logic.by/]
+	[http://b_logic.by/]
 	(* <- concept_website;;*);
 	[101218276]
 	(* <- concept_ucn;;*);

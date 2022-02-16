@@ -1,9 +1,9 @@
-company_bambu-grup <- concept_company;
+company_bambu_grup <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Бамбу Груп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 2390600]
+	[+375_17 2390600]
 	(* <- concept_phone_number;;*);
 	[contact@bamboogroup.eu]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_bambu-grup <- concept_company;
 	(* <- concept_website;;*);
 	[192466807]
 	(* <- concept_ucn;;*);
-	[ул. Ф.Скорины, д. 15Б-2, второй этаж]
+	[ул. Ф.Скорины, д. 15Б_2, второй этаж]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

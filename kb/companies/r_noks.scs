@@ -1,13 +1,13 @@
-company_r-noks <- concept_company;
+company_r_noks <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Р-НОКС]
+	[Р_НОКС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44 721 91 31]
+	[+375_44 721 91 31]
 	(* <- concept_phone_number;;*);
-	[vadim@r-nox.com]
+	[vadim@r_nox.com]
 	(* <- concept_email;;*);
-	[http://www.r-nox.com/]
+	[http://www.r_nox.com/]
 	(* <- concept_website;;*);
 	[193059960]
 	(* <- concept_ucn;;*);

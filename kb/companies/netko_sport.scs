@@ -1,4 +1,4 @@
-company_netko-sport <- concept_company;
+company_netko_sport <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Нетко Спорт]

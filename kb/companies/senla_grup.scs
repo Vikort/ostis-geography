@@ -1,4 +1,4 @@
-company_senla-grup <- concept_company;
+company_senla_grup <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СЕНЛА ГРУП]

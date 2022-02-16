@@ -1,9 +1,9 @@
-company_vertik-konsalting <- concept_company;
+company_vertik_konsalting <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вертик Консалтинг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-328-32-31]
+	[+375_29_328_32_31]
 	(* <- concept_phone_number;;*);
 	[info@vertic.by]
 	(* <- concept_email;;*);

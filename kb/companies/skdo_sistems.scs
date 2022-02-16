@@ -1,4 +1,4 @@
-company_skdo-sistems <- concept_company;
+company_skdo_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СКДО Системс]

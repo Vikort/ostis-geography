@@ -1,4 +1,4 @@
-company_softareks-tehnolodjies <- concept_company;
+company_softareks_tehnolodjies <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Софтарекс Технолоджиес]
@@ -11,7 +11,7 @@ company_softareks-tehnolodjies <- concept_company;
 	(* <- concept_website;;*);
 	[192678698]
 	(* <- concept_ucn;;*);
-	[Пр-т Независимости,177, помещение 1Б,4 этаж]
+	[Пр_т Независимости,177, помещение 1Б,4 этаж]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

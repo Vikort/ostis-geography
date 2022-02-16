@@ -1,9 +1,9 @@
-company_nota-bene-arkhitekts <- concept_company;
+company_nota_bene_arkhitekts <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[НОТА БЕНЕ-архитектс]
+	[НОТА БЕНЕ_архитектс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-377-37-83]
+	[+375_29_377_37_83]
 	(* <- concept_phone_number;;*);
 	[director@nota.by]
 	(* <- concept_email;;*);

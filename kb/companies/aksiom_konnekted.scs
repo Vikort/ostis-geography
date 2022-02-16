@@ -1,9 +1,9 @@
-company_aksiom-konnekted <- concept_company;
+company_aksiom_konnekted <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Аксиом Коннэктэд]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+1 (312) 380-0980]
+	[+1 (312) 380_0980]
 	(* <- concept_phone_number;;*);
 	[sergey@axiomconnected.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_aksiom-konnekted <- concept_company;
 	(* <- concept_website;;*);
 	[193245341]
 	(* <- concept_ucn;;*);
-	[ул. Московская, д. 22, помещение 14-8]
+	[ул. Московская, д. 22, помещение 14_8]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,13 +1,13 @@
-company_1s-bitriks <- concept_company;
+company_1s_bitriks <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[1С-Битрикс]
+	[1С_Битрикс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 124-50-2]
+	[+375 (29) 124_50_2]
 	(* <- concept_phone_number;;*);
-	[belarus@1c-bitrix.by]
+	[belarus@1c_bitrix.by]
 	(* <- concept_email;;*);
-	[http://1c-bitrix.by]
+	[http://1c_bitrix.by]
 	(* <- concept_website;;*);
 	[192042385]
 	(* <- concept_ucn;;*);

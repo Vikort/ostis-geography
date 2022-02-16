@@ -1,4 +1,4 @@
-company_banuba-development <- concept_company;
+company_banuba_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Бануба Девелопмент]
@@ -11,7 +11,7 @@ company_banuba-development <- concept_company;
 	(* <- concept_website;;*);
 	[192205972]
 	(* <- concept_ucn;;*);
-	[ул.Интернациональная, 36-3]
+	[ул.Интернациональная, 36_3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

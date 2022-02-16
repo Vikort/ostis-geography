@@ -3,7 +3,7 @@ company_vochi <- concept_company;
 =>nrel_main_idtf:
 	[Вочи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-603-56-04]
+	[+375_29_603_56_04]
 	(* <- concept_phone_number;;*);
 	[hello@vochi.ai]
 	(* <- concept_email;;*);

@@ -1,15 +1,15 @@
-company_onlayner-injiniring <- concept_company;
+company_onlayner_injiniring <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Онлайнер Инжиниринг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 705 34 15]
+	[+375_29 705 34 15]
 	(* <- concept_phone_number;;*);
 	[emi@onliner.by]
 	(* <- concept_email;;*);
 	[193298707]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, 5 к. 613]
+	[пр_т Дзержинского, 5 к. 613]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

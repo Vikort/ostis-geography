@@ -1,9 +1,9 @@
-company_dana-netvorks <- concept_company;
+company_dana_netvorks <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дана Нетворкс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-734-38-00]
+	[+375_44_734_38_00]
 	(* <- concept_phone_number;;*);
 	[andrey.busko@dananetworks.net]
 	(* <- concept_email;;*);

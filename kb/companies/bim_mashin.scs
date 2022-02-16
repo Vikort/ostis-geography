@@ -1,13 +1,13 @@
-company_bim-mashin <- concept_company;
+company_bim_mashin <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[БИМ Машин]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33 9022976]
+	[+375_33 9022976]
 	(* <- concept_phone_number;;*);
-	[nb@bim-machine.com]
+	[nb@bim_machine.com]
 	(* <- concept_email;;*);
-	[http://bim-machine.com/]
+	[http://bim_machine.com/]
 	(* <- concept_website;;*);
 	[192755818]
 	(* <- concept_ucn;;*);

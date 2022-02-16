@@ -3,7 +3,7 @@ company_kutrit <- concept_company;
 =>nrel_main_idtf:
 	[Кутрит]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 503-41-41]
+	[+375 (29) 503_41_41]
 	(* <- concept_phone_number;;*);
 	[aliaksei.biarozkin@gmail.com]
 	(* <- concept_email;;*);

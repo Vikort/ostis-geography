@@ -1,4 +1,4 @@
-company_tvoya-stolicaanalitiks <- concept_company;
+company_tvoya_stolicaanalitiks <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Твоя столицааналитикс]

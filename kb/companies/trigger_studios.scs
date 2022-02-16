@@ -1,11 +1,11 @@
-company_trigger-studios <- concept_company;
+company_trigger_studios <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Триггер Студиос]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 44 588 76 01]
 	(* <- concept_phone_number;;*);
-	[office-minsk@triggre.com]
+	[office_minsk@triggre.com]
 	(* <- concept_email;;*);
 	[http://triggre.by/]
 	(* <- concept_website;;*);

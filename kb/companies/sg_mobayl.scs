@@ -1,9 +1,9 @@
-company_sg-mobayl <- concept_company;
+company_sg_mobayl <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СГ Мобайл]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-25-925-53-65]
+	[+375_25_925_53_65]
 	(* <- concept_phone_number;;*);
 	[https://www.shorigames.com/]
 	(* <- concept_website;;*);

@@ -3,7 +3,7 @@ company_lacit <- concept_company;
 =>nrel_main_idtf:
 	[ЛАЦИТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (33) 399-95-01]
+	[+375 (33) 399_95_01]
 	(* <- concept_phone_number;;*);
 	[info@lacit.net]
 	(* <- concept_email;;*);

@@ -1,13 +1,13 @@
-company_modis-teh <- concept_company;
+company_modis_teh <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[МОДИС Тех]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375(29)171-66-48]
+	[+375(29)171_66_48]
 	(* <- concept_phone_number;;*);
-	[mtech@modis-m.by]
+	[mtech@modis_m.by]
 	(* <- concept_email;;*);
-	[http://modis-m.by/]
+	[http://modis_m.by/]
 	(* <- concept_website;;*);
 	[193179084]
 	(* <- concept_ucn;;*);

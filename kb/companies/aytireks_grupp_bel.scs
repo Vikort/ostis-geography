@@ -1,4 +1,4 @@
-company_aytireks-grupp-bel <- concept_company;
+company_aytireks_grupp_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АйтиРекс Групп Бел]

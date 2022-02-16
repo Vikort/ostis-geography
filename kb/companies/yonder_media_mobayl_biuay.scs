@@ -1,4 +1,4 @@
-company_yonder-media-mobayl-biuay <- concept_company;
+company_yonder_media_mobayl_biuay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Йондер Медиа Мобайл БиУай]
@@ -11,7 +11,7 @@ company_yonder-media-mobayl-biuay <- concept_company;
 	(* <- concept_website;;*);
 	[193084339]
 	(* <- concept_ucn;;*);
-	[ул. П. Мстиславца, дом 9, офис 7-17]
+	[ул. П. Мстиславца, дом 9, офис 7_17]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -11,7 +11,7 @@ company_bravokado <- concept_company;
 	(* <- concept_website;;*);
 	[193200687]
 	(* <- concept_ucn;;*);
-	[пр-т Победителей, д. 7А, офис 73, г. Минск, Республика Беларусь 220004]
+	[пр_т Победителей, д. 7А, офис 73, г. Минск, Республика Беларусь 220004]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,4 +1,4 @@
-company_alternativnye-tehnologii <- concept_company;
+company_alternativnye_tehnologii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Альтернативные технологии]

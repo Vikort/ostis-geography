@@ -3,7 +3,7 @@ company_belabat <- concept_company;
 =>nrel_main_idtf:
 	[БелАбат]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 337-37-00]
+	[+375 17 337_37_00]
 	(* <- concept_phone_number;;*);
 	[info@belabat.org]
 	(* <- concept_email;;*);

@@ -1,11 +1,11 @@
-company_drimtim-apps <- concept_company;
+company_drimtim_apps <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дримтим Аппс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-628-80-91]
+	[+375_29_628_80_91]
 	(* <- concept_phone_number;;*);
-	[y.myakotkin@dreamteam-apps.com]
+	[y.myakotkin@dreamteam_apps.com]
 	(* <- concept_email;;*);
 	[193328049]
 	(* <- concept_ucn;;*);

@@ -1,9 +1,9 @@
-company_kognitiv-apps <- concept_company;
+company_kognitiv_apps <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Когнитив Аппс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-586-62-63]
+	[+375_29_586_62_63]
 	(* <- concept_phone_number;;*);
 	[https://cogapps.com/]
 	(* <- concept_website;;*);

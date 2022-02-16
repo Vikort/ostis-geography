@@ -1,4 +1,4 @@
-company_koels-bel <- concept_company;
+company_koels_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[КОЭЛС]
@@ -11,7 +11,7 @@ company_koels-bel <- concept_company;
 	(* <- concept_website;;*);
 	[193489409]
 	(* <- concept_ucn;;*);
-	[220052, Республика Беларусь, Минск, Будславская, 2-15В]
+	[220052, Республика Беларусь, Минск, Будславская, 2_15В]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

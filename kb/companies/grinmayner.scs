@@ -11,7 +11,7 @@ company_grinmayner <- concept_company;
 	(* <- concept_website;;*);
 	[691879993]
 	(* <- concept_ucn;;*);
-	[Несвижский р-н, д. Новые Новоселки, ул. Садовая 14-1]
+	[Несвижский р_н, д. Новые Новоселки, ул. Садовая 14_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

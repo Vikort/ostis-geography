@@ -3,7 +3,7 @@ company_esayti <- concept_company;
 =>nrel_main_idtf:
 	[ЕсАйТи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-684-48-12]
+	[+375_29_684_48_12]
 	(* <- concept_phone_number;;*);
 	[info@yesit.by]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_isida-informatika <- concept_company;
+company_isida_informatika <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Исида-Информатика]
+	[Исида_Информатика]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (212) 261-212;]
+	[+375 (212) 261_212;]
 	(* <- concept_phone_number;;*);
 	[market@isida.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_isida-informatika <- concept_company;
 	(* <- concept_website;;*);
 	[300247505]
 	(* <- concept_ucn;;*);
-	[пр-т Строителей, 11а]
+	[пр_т Строителей, 11а]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

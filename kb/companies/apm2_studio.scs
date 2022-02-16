@@ -1,9 +1,9 @@
-company_apm2-studio <- concept_company;
+company_apm2_studio <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АПМ2 Студио]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 1319608]
+	[+375_29 1319608]
 	(* <- concept_phone_number;;*);
 	[info@apm2.studio]
 	(* <- concept_email;;*);

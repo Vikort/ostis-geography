@@ -1,4 +1,4 @@
-company_ooo-uayt-byerd <- concept_company;
+company_ooo_uayt_byerd <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Уайт Бёрд]

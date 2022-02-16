@@ -1,9 +1,9 @@
-company_sovremennye-tekhnologii-torgovli <- concept_company;
+company_sovremennye_tekhnologii_torgovli <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[EDI-провайдер СТТ | Современные технологии торговли]
+	[EDI_провайдер СТТ | Современные технологии торговли]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-336-06-28]
+	[+375_17_336_06_28]
 	(* <- concept_phone_number;;*);
 	[info@topby.by]
 	(* <- concept_email;;*);

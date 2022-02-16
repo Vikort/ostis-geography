@@ -1,9 +1,9 @@
-company_osmp-bel <- concept_company;
+company_osmp_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ОСМП БЕЛ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+ 375 29 650-64-65]
+	[+ 375 29 650_64_65]
 	(* <- concept_phone_number;;*);
 	[support@osmp.by; n.blazhko@qiwi.com]
 	(* <- concept_email;;*);

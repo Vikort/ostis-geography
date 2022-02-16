@@ -1,7 +1,7 @@
-company_agnt-lab <- concept_company;
+company_agnt_lab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[АГНТ-ЛАБ]
+	[АГНТ_ЛАБ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 335 25 45]
 	(* <- concept_phone_number;;*);

@@ -1,9 +1,9 @@
-company_b2broker-bay <- concept_company;
+company_b2broker_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Б2Брокер Бай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (17) 378-01-95]
+	[+375 (17) 378_01_95]
 	(* <- concept_phone_number;;*);
 	[info@b2broker.by]
 	(* <- concept_email;;*);

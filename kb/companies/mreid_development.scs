@@ -1,4 +1,4 @@
-company_mreid-development <- concept_company;
+company_mreid_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[МРЭИД Девелопмент]

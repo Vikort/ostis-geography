@@ -1,4 +1,4 @@
-company_crpo-araskorp <- concept_company;
+company_crpo_araskorp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЦРПО АрасКорп]

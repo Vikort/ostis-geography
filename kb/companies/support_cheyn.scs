@@ -1,4 +1,4 @@
-company_support-cheyn <- concept_company;
+company_support_cheyn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Суппорт чейн]

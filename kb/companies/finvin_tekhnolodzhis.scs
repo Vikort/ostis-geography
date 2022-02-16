@@ -1,9 +1,9 @@
-company_finvin-tekhnolodzhis <- concept_company;
+company_finvin_tekhnolodzhis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Финвин технолоджис]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-615-22-22]
+	[+375_29_615_22_22]
 	(* <- concept_phone_number;;*);
 	[osg@finwintech.com]
 	(* <- concept_email;;*);

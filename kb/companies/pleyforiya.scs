@@ -3,7 +3,7 @@ company_pleyforiya <- concept_company;
 =>nrel_main_idtf:
 	[ПЛЕЙФОРИЯ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-872-34-22]
+	[+375_29_872_34_22]
 	(* <- concept_phone_number;;*);
 	[playphoria@gmail.com]
 	(* <- concept_email;;*);

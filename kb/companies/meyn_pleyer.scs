@@ -1,4 +1,4 @@
-company_meyn-pleyer <- concept_company;
+company_meyn_pleyer <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Мэйн Плэйер]
@@ -9,7 +9,7 @@ company_meyn-pleyer <- concept_company;
 	(* <- concept_email;;*);
 	[193493959]
 	(* <- concept_ucn;;*);
-	[220089, Республика Беларусь, г. Минск, ул. Железнодорожная, 33А-802/1]
+	[220089, Республика Беларусь, г. Минск, ул. Железнодорожная, 33А_802/1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

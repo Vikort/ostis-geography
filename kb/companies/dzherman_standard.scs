@@ -1,9 +1,9 @@
-company_dzherman-standard <- concept_company;
+company_dzherman_standard <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Джерман Стандард]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-944-41-44]
+	[+375_29_944_41_44]
 	(* <- concept_phone_number;;*);
 	[https://germanstandard.dev/]
 	(* <- concept_website;;*);

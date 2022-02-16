@@ -1,11 +1,11 @@
-company_vebbi-tekhnolodzhis <- concept_company;
+company_vebbi_tekhnolodzhis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вебби Технолоджис]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-25-916-30-64]
+	[+375_25_916_30_64]
 	(* <- concept_phone_number;;*);
-	[https://www.web-bee.org/]
+	[https://www.web_bee.org/]
 	(* <- concept_website;;*);
 	[193177796]
 	(* <- concept_ucn;;*);

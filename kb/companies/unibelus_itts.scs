@@ -1,4 +1,4 @@
-company_unibelus-itts <- concept_company;
+company_unibelus_itts <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Унибелус ИТЦ]

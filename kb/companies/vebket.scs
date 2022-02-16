@@ -3,7 +3,7 @@ company_vebket <- concept_company;
 =>nrel_main_idtf:
 	[ВебКет]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-603-50-25]
+	[+375_29_603_50_25]
 	(* <- concept_phone_number;;*);
 	[info@webcat.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_vebket <- concept_company;
 	(* <- concept_website;;*);
 	[192975123]
 	(* <- concept_ucn;;*);
-	[ул. Казинца, д.11А, офис 802-А]
+	[ул. Казинца, д.11А, офис 802_А]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

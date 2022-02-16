@@ -1,9 +1,9 @@
-company_oktopus-geyms <- concept_company;
+company_oktopus_geyms <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Октопус Геймс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 3312433]
+	[+375_29 3312433]
 	(* <- concept_phone_number;;*);
 	[info@gamedevsource.com]
 	(* <- concept_email;;*);

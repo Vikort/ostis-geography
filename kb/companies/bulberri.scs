@@ -3,7 +3,7 @@ company_bulberri <- concept_company;
 =>nrel_main_idtf:
 	[Булберри]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-159-96-40]
+	[+375_29_159_96_40]
 	(* <- concept_phone_number;;*);
 	[http://bulberry.by/]
 	(* <- concept_website;;*);

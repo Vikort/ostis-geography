@@ -1,9 +1,9 @@
-company_nezabudka-softver <- concept_company;
+company_nezabudka_softver <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Незабудка Софтвер]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33-333-7778]
+	[+375_33_333_7778]
 	(* <- concept_phone_number;;*);
 	[contact@nezaboodka.com]
 	(* <- concept_email;;*);

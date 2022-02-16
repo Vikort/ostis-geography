@@ -1,4 +1,4 @@
-company_programmnye-resheniya-plyus <- concept_company;
+company_programmnye_resheniya_plyus <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Программные решения плюс]

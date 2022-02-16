@@ -1,9 +1,9 @@
-company_propeller-plan <- concept_company;
+company_propeller_plan <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Пропеллер План]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 202-78-25]
+	[+375 (29) 202_78_25]
 	(* <- concept_phone_number;;*);
 	[yarik@propellerplan.com]
 	(* <- concept_email;;*);

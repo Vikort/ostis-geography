@@ -3,7 +3,7 @@ company_aydolon <- concept_company;
 =>nrel_main_idtf:
 	[Айдолон]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 8488735]
+	[+375_29 8488735]
 	(* <- concept_phone_number;;*);
 	[contact@eidoloncorp.com]
 	(* <- concept_email;;*);

@@ -11,7 +11,7 @@ company_eneka <- concept_company;
 	(* <- concept_website;;*);
 	[190549168]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости, 177, пом. 1а, бизнес-центр "ПОРТ", 3- й этаж.]
+	[пр_т Независимости, 177, пом. 1а, бизнес_центр "ПОРТ", 3_ й этаж.]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

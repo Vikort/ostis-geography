@@ -1,9 +1,9 @@
-company_aydief-tehnolodji <- concept_company;
+company_aydief_tehnolodji <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АйДиЭф Технолоджи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 2365340]
+	[+375_17 2365340]
 	(* <- concept_phone_number;;*);
 	[management@idftechnology.by]
 	(* <- concept_email;;*);

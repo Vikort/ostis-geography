@@ -1,4 +1,4 @@
-company_t2-soft <- concept_company;
+company_t2_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Т2 Софт]

@@ -1,7 +1,7 @@
-company_amis-ayti <- concept_company;
+company_amis_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[АМИС-АйТи]
+	[АМИС_АйТи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[692108263]
 	(* <- concept_ucn;;*);

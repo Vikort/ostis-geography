@@ -1,4 +1,4 @@
-company_ayti-top-biuay <- concept_company;
+company_ayti_top_biuay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АИДЛТ БАЙ]

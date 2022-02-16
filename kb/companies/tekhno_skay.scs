@@ -1,13 +1,13 @@
-company_tekhno-skay <- concept_company;
+company_tekhno_skay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Техно-Скай]
+	[Техно_Скай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 (29) 118 77 72]
 	(* <- concept_phone_number;;*);
-	[info@high-tech.by]
+	[info@high_tech.by]
 	(* <- concept_email;;*);
-	[high-tech.by]
+	[high_tech.by]
 	(* <- concept_website;;*);
 	[90929337]
 	(* <- concept_ucn;;*);

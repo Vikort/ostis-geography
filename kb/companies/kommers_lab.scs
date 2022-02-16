@@ -1,9 +1,9 @@
-company_kommers-lab <- concept_company;
+company_kommers_lab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ивейв]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 372-65-76]
+	[+375 17 372_65_76]
 	(* <- concept_phone_number;;*);
 	[vera.pavluchenkova@ewave.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_kommers-lab <- concept_company;
 	(* <- concept_website;;*);
 	[193071218]
 	(* <- concept_ucn;;*);
-	[г. Минск, 220089, пр-т Дзержинского 57, пом. 34-1]
+	[г. Минск, 220089, пр_т Дзержинского 57, пом. 34_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

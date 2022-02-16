@@ -1,9 +1,9 @@
-company_zeniya-ai <- concept_company;
+company_zeniya_ai <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЗЕНИЯ АИ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33-616-58-88]
+	[+375_33_616_58_88]
 	(* <- concept_phone_number;;*);
 	[info@zenia.co]
 	(* <- concept_email;;*);

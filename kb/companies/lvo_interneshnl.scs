@@ -1,4 +1,4 @@
-company_lvo-interneshnl <- concept_company;
+company_lvo_interneshnl <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЛВО Интернешнл]

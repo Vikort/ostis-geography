@@ -3,7 +3,7 @@ company_chetyreachetyre <- concept_company;
 =>nrel_main_idtf:
 	[ЧЕТЫРЕАЧЕТЫРЕ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-558-98-79]
+	[+375_44_558_98_79]
 	(* <- concept_phone_number;;*);
 	[a.navatskaya@a4.by]
 	(* <- concept_email;;*);

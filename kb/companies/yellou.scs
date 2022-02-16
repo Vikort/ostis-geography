@@ -11,7 +11,7 @@ company_yellou <- concept_company;
 	(* <- concept_website;;*);
 	[192572666]
 	(* <- concept_ucn;;*);
-	[ул. Немига 5-301]
+	[ул. Немига 5_301]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

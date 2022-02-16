@@ -1,9 +1,9 @@
-company_laboratoriya-bloggerov <- concept_company;
+company_laboratoriya_bloggerov <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Лаборатория блоггеров]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (25) 524-95-90]
+	[+375 (25) 524_95_90]
 	(* <- concept_phone_number;;*);
 	[yauhen.razhko@gmail.com]
 	(* <- concept_email;;*);

@@ -1,4 +1,4 @@
-company_laboratorii-invento <- concept_company;
+company_laboratorii_invento <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Лаборатории Инвенто]
@@ -11,7 +11,7 @@ company_laboratorii-invento <- concept_company;
 	(* <- concept_website;;*);
 	[191186212]
 	(* <- concept_ucn;;*);
-	[220116 Минск, пр-т Дзержинского, 104, пом. 141]
+	[220116 Минск, пр_т Дзержинского, 104, пом. 141]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

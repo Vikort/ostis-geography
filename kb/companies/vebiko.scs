@@ -3,7 +3,7 @@ company_vebiko <- concept_company;
 =>nrel_main_idtf:
 	[ВебиКо]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-155-60-31]
+	[+375_29_155_60_31]
 	(* <- concept_phone_number;;*);
 	[pavro@tut.by]
 	(* <- concept_email;;*);

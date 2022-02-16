@@ -1,4 +1,4 @@
-company_blinger-limited <- concept_company;
+company_blinger_limited <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Блингер Лимитед]

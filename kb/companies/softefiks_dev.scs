@@ -1,13 +1,13 @@
-company_softefiks-dev <- concept_company;
+company_softefiks_dev <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СофтЭфИкс Дэв]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 215 00 41; fax]
 	(* <- concept_phone_number;;*);
-	[b2b@soft-fx.com]
+	[b2b@soft_fx.com]
 	(* <- concept_email;;*);
-	[http://www.soft-fx.by/]
+	[http://www.soft_fx.by/]
 	(* <- concept_website;;*);
 	[192373740]
 	(* <- concept_ucn;;*);

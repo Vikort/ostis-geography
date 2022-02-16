@@ -3,7 +3,7 @@ company_sintegriko <- concept_company;
 =>nrel_main_idtf:
 	[Синтегрико]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 319-38-85]
+	[+375 17 319_38_85]
 	(* <- concept_phone_number;;*);
 	[info@syntegrico.com]
 	(* <- concept_email;;*);

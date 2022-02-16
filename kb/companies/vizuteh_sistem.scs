@@ -1,4 +1,4 @@
-company_vizuteh-sistem <- concept_company;
+company_vizuteh_sistem <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Визутех Систем]
@@ -11,7 +11,7 @@ company_vizuteh-sistem <- concept_company;
 	(* <- concept_website;;*);
 	[101472744]
 	(* <- concept_ucn;;*);
-	[ул. Клары Цеткин, 24-9]
+	[ул. Клары Цеткин, 24_9]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

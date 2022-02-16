@@ -11,7 +11,7 @@ company_oksadjayl <- concept_company;
 	(* <- concept_website;;*);
 	[191473486]
 	(* <- concept_ucn;;*);
-	[пр. Дзержинского, 57, помещение 47-1, 11-й этаж]
+	[пр. Дзержинского, 57, помещение 47_1, 11_й этаж]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

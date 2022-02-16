@@ -1,4 +1,4 @@
-company_indata-labs <- concept_company;
+company_indata_labs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ИнДата Лабс]
@@ -9,7 +9,7 @@ company_indata-labs <- concept_company;
 	(* <- concept_email;;*);
 	[193 535 001]
 	(* <- concept_ucn;;*);
-	[Республика Беларусь, 220125, г. Минск, пр-т Независимости 173, помещение 212, комната 14]
+	[Республика Беларусь, 220125, г. Минск, пр_т Независимости 173, помещение 212, комната 14]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

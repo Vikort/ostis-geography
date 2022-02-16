@@ -11,7 +11,7 @@ company_rednevis <- concept_company;
 	(* <- concept_website;;*);
 	[191777526]
 	(* <- concept_ucn;;*);
-	[пр.-т Дзержинского, д. 104 офис 8001]
+	[пр._т Дзержинского, д. 104 офис 8001]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

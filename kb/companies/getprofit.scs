@@ -3,7 +3,7 @@ company_getprofit <- concept_company;
 =>nrel_main_idtf:
 	[Гетпрофит]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-308-12-09]
+	[+375_29_308_12_09]
 	(* <- concept_phone_number;;*);
 	[info@getprofitads.by]
 	(* <- concept_email;;*);

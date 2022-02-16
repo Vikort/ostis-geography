@@ -1,4 +1,4 @@
-company_tsentr-strategicheskikh-razrabotok-kriptosoft <- concept_company;
+company_tsentr_strategicheskikh_razrabotok_kriptosoft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[КРИПТОСОФТ]

@@ -1,9 +1,9 @@
-company_filin-didjital <- concept_company;
+company_filin_didjital <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Филин Диджитал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-753-16-63]
+	[+375_29_753_16_63]
 	(* <- concept_phone_number;;*);
 	[digital@feeling.by]
 	(* <- concept_email;;*);

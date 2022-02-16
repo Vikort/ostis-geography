@@ -1,4 +1,4 @@
-company_ei774ar-skvad <- concept_company;
+company_ei774ar_skvad <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭйАр Сквад]
@@ -11,7 +11,7 @@ company_ei774ar-skvad <- concept_company;
 	(* <- concept_website;;*);
 	[192946655]
 	(* <- concept_ucn;;*);
-	[ул. Зыбицкая 2, 6-20]
+	[ул. Зыбицкая 2, 6_20]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

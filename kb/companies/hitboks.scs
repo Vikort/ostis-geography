@@ -3,7 +3,7 @@ company_hitboks <- concept_company;
 =>nrel_main_idtf:
 	[Хитбокс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 9504603]
+	[+375_29 9504603]
 	(* <- concept_phone_number;;*);
 	[info@hitbox.by]
 	(* <- concept_email;;*);

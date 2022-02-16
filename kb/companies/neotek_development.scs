@@ -1,9 +1,9 @@
-company_neotek-development <- concept_company;
+company_neotek_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Неотек Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+37529 330-58-96]
+	[+37529 330_58_96]
 	(* <- concept_phone_number;;*);
 	[info@neotech.by]
 	(* <- concept_email;;*);

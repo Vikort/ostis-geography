@@ -3,7 +3,7 @@ company_intermeh <- concept_company;
 =>nrel_main_idtf:
 	[ИНТЕРМЕХ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 3062130]
+	[+375_17 3062130]
 	(* <- concept_phone_number;;*);
 	[market@intermech.ru]
 	(* <- concept_email;;*);

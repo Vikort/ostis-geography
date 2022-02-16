@@ -1,4 +1,4 @@
-company_innoveytiv-fyucha <- concept_company;
+company_innoveytiv_fyucha <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Инновейтив Фьюча]

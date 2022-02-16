@@ -1,9 +1,9 @@
-company_eks-pi-graf <- concept_company;
+company_eks_pi_graf <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Экс Пи Граф]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44 7401525]
+	[+375_44 7401525]
 	(* <- concept_phone_number;;*);
 	[contact@xpgraph.com]
 	(* <- concept_email;;*);

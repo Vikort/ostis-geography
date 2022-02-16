@@ -3,7 +3,7 @@ company_dizzeyntim <- concept_company;
 =>nrel_main_idtf:
 	[Диззэйнтим]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-770-07-12]
+	[+375_29_770_07_12]
 	(* <- concept_phone_number;;*);
 	[hello@dizzain.com]
 	(* <- concept_email;;*);

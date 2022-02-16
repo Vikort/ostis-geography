@@ -3,7 +3,7 @@ company_artbiotekh <- concept_company;
 =>nrel_main_idtf:
 	[АртБиоТех]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-395-94-22]
+	[+375_17_395_94_22]
 	(* <- concept_phone_number;;*);
 	[info@qpcr.by]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_data-deliveri <- concept_company;
+company_data_deliveri <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дата деливери]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-204-24-10]
+	[+375_17_204_24_10]
 	(* <- concept_phone_number;;*);
 	[help@rocketdata.io]
 	(* <- concept_email;;*);

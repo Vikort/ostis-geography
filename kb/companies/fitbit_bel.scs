@@ -1,9 +1,9 @@
-company_fitbit-bel <- concept_company;
+company_fitbit_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Фитбит Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-380-33-38]
+	[+375_17_380_33_38]
 	(* <- concept_phone_number;;*);
 	[stsvetkova@fitbit.com]
 	(* <- concept_email;;*);

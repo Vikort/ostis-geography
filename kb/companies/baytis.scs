@@ -5,7 +5,7 @@ company_baytis <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[191181754]
 	(* <- concept_ucn;;*);
-	[ул.Уманская-54 пом.2]
+	[ул.Уманская_54 пом.2]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

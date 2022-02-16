@@ -1,9 +1,9 @@
-company_7-bit <- concept_company;
+company_7_bit <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[7 Бит]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-587-12-95]
+	[+375_29_587_12_95]
 	(* <- concept_phone_number;;*);
 	[https://www.7thbeat.space/]
 	(* <- concept_website;;*);

@@ -1,13 +1,13 @@
-company_aksiopeya-konsalting <- concept_company;
+company_aksiopeya_konsalting <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Аксиопея Консалтинг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 611-23-70]
+	[+375 29 611_23_70]
 	(* <- concept_phone_number;;*);
-	[info@axiopea-consulting.com]
+	[info@axiopea_consulting.com]
 	(* <- concept_email;;*);
-	[http://axiopea-consulting.com/]
+	[http://axiopea_consulting.com/]
 	(* <- concept_website;;*);
 	[191753236]
 	(* <- concept_ucn;;*);

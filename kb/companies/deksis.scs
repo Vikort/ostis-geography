@@ -3,7 +3,7 @@ company_deksis <- concept_company;
 =>nrel_main_idtf:
 	[ДекСис]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-240-41-99]
+	[+375_17_240_41_99]
 	(* <- concept_phone_number;;*);
 	[info@decsys.org]
 	(* <- concept_email;;*);

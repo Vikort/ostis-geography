@@ -1,9 +1,9 @@
-company_iksbi-softvare <- concept_company;
+company_iksbi_softvare <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ИксБи Софтваре]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 200 03 40]
+	[+375_17 200 03 40]
 	(* <- concept_phone_number;;*);
 	[info@xbsoftware.com]
 	(* <- concept_email;;*);

@@ -1,7 +1,7 @@
-company_etna-bel <- concept_company;
+company_etna_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Этна-Бел]
+	[Этна_Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375296250427]
 	(* <- concept_phone_number;;*);
@@ -11,7 +11,7 @@ company_etna-bel <- concept_company;
 	(* <- concept_website;;*);
 	[790606443]
 	(* <- concept_ucn;;*);
-	[переулок 3-й Октябрьский, 7а, оф.1]
+	[переулок 3_й Октябрьский, 7а, оф.1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

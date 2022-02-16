@@ -1,11 +1,11 @@
-company_lodjik-vey-solyushenz <- concept_company;
+company_lodjik_vey_solyushenz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЛОДЖИК ВЭЙ СОЛЮШЕНЗ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[info@logic-way.com]
+	[info@logic_way.com]
 	(* <- concept_email;;*);
-	[http://logic-way.com/]
+	[http://logic_way.com/]
 	(* <- concept_website;;*);
 	[191052841]
 	(* <- concept_ucn;;*);

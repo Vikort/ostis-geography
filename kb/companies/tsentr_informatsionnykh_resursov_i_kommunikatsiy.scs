@@ -1,9 +1,9 @@
-company_tsentr-informatsionnykh-resursov-i-kommunikatsiy <- concept_company;
+company_tsentr_informatsionnykh_resursov_i_kommunikatsiy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Центр информационных ресурсов и коммуникаций]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-282-11-44]
+	[+375_17_282_11_44]
 	(* <- concept_phone_number;;*);
 	[circ@circ.by]
 	(* <- concept_email;;*);

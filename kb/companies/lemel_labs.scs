@@ -1,4 +1,4 @@
-company_lemel-labs <- concept_company;
+company_lemel_labs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЛемеЛ Лабс]
@@ -11,7 +11,7 @@ company_lemel-labs <- concept_company;
 	(* <- concept_website;;*);
 	[193208435]
 	(* <- concept_ucn;;*);
-	[3я-ул.Щорса, 9, офис 508]
+	[3я_ул.Щорса, 9, офис 508]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

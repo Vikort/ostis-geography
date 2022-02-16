@@ -11,7 +11,7 @@ company_noyriks <- concept_company;
 	(* <- concept_website;;*);
 	[692149027]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости 39, пом. 2H, ком. 80]
+	[пр_т Независимости 39, пом. 2H, ком. 80]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

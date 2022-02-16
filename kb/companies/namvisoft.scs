@@ -3,7 +3,7 @@ company_namvisoft <- concept_company;
 =>nrel_main_idtf:
 	[Намвисофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-823-12-00]
+	[+375_29_823_12_00]
 	(* <- concept_phone_number;;*);
 	[elizaveta@namvisoft.com]
 	(* <- concept_email;;*);

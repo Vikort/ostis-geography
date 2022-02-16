@@ -1,4 +1,4 @@
-company_aytiey-evolyushn <- concept_company;
+company_aytiey_evolyushn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АйТиЭй Эволюшн]

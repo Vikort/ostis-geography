@@ -1,9 +1,9 @@
-company_on-ze-spot-development <- concept_company;
+company_on_ze_spot_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Он Зэ Спот Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 137-13-70]
+	[+375 29 137_13_70]
 	(* <- concept_phone_number;;*);
 	[yegor@onthespotdev.com]
 	(* <- concept_email;;*);

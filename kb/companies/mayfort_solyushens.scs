@@ -1,4 +1,4 @@
-company_mayfort-solyushens <- concept_company;
+company_mayfort_solyushens <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Майфорт ]
@@ -11,7 +11,7 @@ company_mayfort-solyushens <- concept_company;
 	(* <- concept_website;;*);
 	[192705597]
 	(* <- concept_ucn;;*);
-	[Республика Беларусь, город Минск, ул. Лобанка 20-191]
+	[Республика Беларусь, город Минск, ул. Лобанка 20_191]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

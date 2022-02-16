@@ -11,7 +11,7 @@ company_artezio <- concept_company;
 	(* <- concept_website;;*);
 	[190980782]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, дом 8, пом. 10]
+	[пр_т Дзержинского, дом 8, пом. 10]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

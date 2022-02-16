@@ -3,7 +3,7 @@ company_ollsports <- concept_company;
 =>nrel_main_idtf:
 	[ОЛЛСПОРТС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-516-39-14]
+	[+375_44_516_39_14]
 	(* <- concept_phone_number;;*);
 	[https://www.allsports.by/]
 	(* <- concept_website;;*);

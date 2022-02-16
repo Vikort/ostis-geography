@@ -3,7 +3,7 @@ company_vayden <- concept_company;
 =>nrel_main_idtf:
 	[Вайден]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-197-39-63]
+	[+375_29_197_39_63]
 	(* <- concept_phone_number;;*);
 	[info@videnglobe.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_vayden <- concept_company;
 	(* <- concept_website;;*);
 	[192997372]
 	(* <- concept_ucn;;*);
-	[пр-т Держинского, д. 3Б, офис 17]
+	[пр_т Держинского, д. 3Б, офис 17]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

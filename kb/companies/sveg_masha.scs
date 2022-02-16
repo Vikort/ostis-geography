@@ -1,4 +1,4 @@
-company_sveg-masha <- concept_company;
+company_sveg_masha <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СВЭГ МАША]

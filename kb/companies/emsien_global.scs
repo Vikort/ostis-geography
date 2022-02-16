@@ -1,4 +1,4 @@
-company_emsien-global <- concept_company;
+company_emsien_global <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭМСИЭН Глобал]

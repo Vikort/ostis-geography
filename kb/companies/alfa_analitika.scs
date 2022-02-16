@@ -1,4 +1,4 @@
-company_alfa-analitika <- concept_company;
+company_alfa_analitika <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Альфа Аналитика]

@@ -7,7 +7,7 @@ company_edudu <- concept_company;
 	(* <- concept_website;;*);
 	[193449519]
 	(* <- concept_ucn;;*);
-	[220013 г. Минск ул. 2-я Шестая линия 11, каб. 6в-4-26]
+	[220013 г. Минск ул. 2_я Шестая линия 11, каб. 6в_4_26]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

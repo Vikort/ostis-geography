@@ -3,7 +3,7 @@ company_dinnersoft <- concept_company;
 =>nrel_main_idtf:
 	[Диннерсофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-788-93-59]
+	[+375_29_788_93_59]
 	(* <- concept_phone_number;;*);
 	[193431437]
 	(* <- concept_ucn;;*);

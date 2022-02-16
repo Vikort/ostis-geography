@@ -1,4 +1,4 @@
-company_effektivnye-programmy <- concept_company;
+company_effektivnye_programmy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эффективные программы]

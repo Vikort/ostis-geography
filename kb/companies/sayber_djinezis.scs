@@ -1,13 +1,13 @@
-company_sayber-djinezis <- concept_company;
+company_sayber_djinezis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сайбер Джинезис]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 360 14 57]
 	(* <- concept_phone_number;;*);
-	[CEO@cyber-genesis.by]
+	[CEO@cyber_genesis.by]
 	(* <- concept_email;;*);
-	[http://cyber-genesis.by/]
+	[http://cyber_genesis.by/]
 	(* <- concept_website;;*);
 	[191110066]
 	(* <- concept_ucn;;*);

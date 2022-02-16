@@ -1,4 +1,4 @@
-company_staarter-labs <- concept_company;
+company_staarter_labs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Стаартер Лабс]

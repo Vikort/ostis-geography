@@ -1,9 +1,9 @@
-company_issoft-solyushenz <- concept_company;
+company_issoft_solyushenz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Иcсофт Солюшенз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 396-61-61]
+	[+375 17 396_61_61]
 	(* <- concept_phone_number;;*);
 	[sales@issoft.by]
 	(* <- concept_email;;*);

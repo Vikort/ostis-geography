@@ -11,7 +11,7 @@ company_kbst <- concept_company;
 	(* <- concept_website;;*);
 	[691794775]
 	(* <- concept_ucn;;*);
-	[Минский р-н, а.г.Колодищи, ул.Живописная 7А]
+	[Минский р_н, а.г.Колодищи, ул.Живописная 7А]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

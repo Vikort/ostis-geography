@@ -1,4 +1,4 @@
-company_nastoyashchaya-cifrovaya <- concept_company;
+company_nastoyashchaya_cifrovaya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[НАСТОЯЩАЯ ЦИФРОВАЯ]
@@ -11,7 +11,7 @@ company_nastoyashchaya-cifrovaya <- concept_company;
 	(* <- concept_website;;*);
 	[192822477]
 	(* <- concept_ucn;;*);
-	[пр-т Газеты «Правда», д. 1, офис 321, каб. 20]
+	[пр_т Газеты «Правда», д. 1, офис 321, каб. 20]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,13 +1,13 @@
-company_guli-geymz <- concept_company;
+company_guli_geymz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Гули ГЕЙМЗ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375292547442]
 	(* <- concept_phone_number;;*);
-	[info@guli-games.com]
+	[info@guli_games.com]
 	(* <- concept_email;;*);
-	[http://guli-games.com]
+	[http://guli_games.com]
 	(* <- concept_website;;*);
 	[193367024]
 	(* <- concept_ucn;;*);

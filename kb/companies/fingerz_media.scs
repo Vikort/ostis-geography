@@ -1,11 +1,11 @@
-company_fingerz-media <- concept_company;
+company_fingerz_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Фингерз медиа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[info@fingers-media.com]
+	[info@fingers_media.com]
 	(* <- concept_email;;*);
-	[https://fingers-media.com/]
+	[https://fingers_media.com/]
 	(* <- concept_website;;*);
 	[191620208]
 	(* <- concept_ucn;;*);

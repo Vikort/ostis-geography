@@ -1,9 +1,9 @@
-company_centr-sistem-identifikacii <- concept_company;
+company_centr_sistem_identifikacii <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Центр систем идентификации]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 2949080]
+	[+375_17 2949080]
 	(* <- concept_phone_number;;*);
 	[info@ids.by]
 	(* <- concept_email;;*);

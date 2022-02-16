@@ -1,9 +1,9 @@
-company_zetteh-development <- concept_company;
+company_zetteh_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Зеттех Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-645-09-95]
+	[+375_29_645_09_95]
 	(* <- concept_phone_number;;*);
 	[oh@affise.com]
 	(* <- concept_email;;*);

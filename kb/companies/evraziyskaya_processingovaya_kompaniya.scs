@@ -1,13 +1,13 @@
-company_evraziyskaya-processingovaya-kompaniya <- concept_company;
+company_evraziyskaya_processingovaya_kompaniya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Евразийская процессинговая компания]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-16-252-77-67]
+	[+375_16_252_77_67]
 	(* <- concept_phone_number;;*);
-	[info@epc-it.by]
+	[info@epc_it.by]
 	(* <- concept_email;;*);
-	[https://epc-it.com/]
+	[https://epc_it.com/]
 	(* <- concept_website;;*);
 	[192009206]
 	(* <- concept_ucn;;*);

@@ -5,11 +5,11 @@ company_sproayti <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 203 85 21]
 	(* <- concept_phone_number;;*);
-	[info@spro-it.net]
+	[info@spro_it.net]
 	(* <- concept_email;;*);
 	[191440928]
 	(* <- concept_ucn;;*);
-	[ул. Ольшевского, 22, 13-й этаж, комн. 22.]
+	[ул. Ольшевского, 22, 13_й этаж, комн. 22.]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

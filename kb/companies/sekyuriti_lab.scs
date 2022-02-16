@@ -1,4 +1,4 @@
-company_sekyuriti-lab <- concept_company;
+company_sekyuriti_lab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Секьюрити Лаб]
@@ -11,7 +11,7 @@ company_sekyuriti-lab <- concept_company;
 	(* <- concept_website;;*);
 	[192926968]
 	(* <- concept_ucn;;*);
-	[220141, г. Минск, пр-т Независимости д.172 оф. 213.]
+	[220141, г. Минск, пр_т Независимости д.172 оф. 213.]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

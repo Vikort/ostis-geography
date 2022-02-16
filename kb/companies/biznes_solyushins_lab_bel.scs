@@ -1,4 +1,4 @@
-company_biznes-solyushins-lab-bel <- concept_company;
+company_biznes_solyushins_lab_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Бизнес Солюшинс Лаб Бел]
@@ -9,7 +9,7 @@ company_biznes-solyushins-lab-bel <- concept_company;
 	(* <- concept_website;;*);
 	[193295976]
 	(* <- concept_ucn;;*);
-	[220036 г. Минск, пр-т Дзержинского, 3Б, помещение 38]
+	[220036 г. Минск, пр_т Дзержинского, 3Б, помещение 38]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

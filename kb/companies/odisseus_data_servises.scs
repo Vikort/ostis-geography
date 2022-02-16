@@ -1,11 +1,11 @@
-company_odisseus-data-servises <- concept_company;
+company_odisseus_data_servises <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Одиссеус Дата Сервисес]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+ 375 (29) 651 63 68]
 	(* <- concept_phone_number;;*);
-	[contact-by@odysseusinc.com]
+	[contact_by@odysseusinc.com]
 	(* <- concept_email;;*);
 	[http://odysseusinc.com]
 	(* <- concept_website;;*);

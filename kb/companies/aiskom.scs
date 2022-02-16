@@ -11,7 +11,7 @@ company_aiskom <- concept_company;
 	(* <- concept_website;;*);
 	[191439341]
 	(* <- concept_ucn;;*);
-	[ул. Кульман 11, 6-й этаж]
+	[ул. Кульман 11, 6_й этаж]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

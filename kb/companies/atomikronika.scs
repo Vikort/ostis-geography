@@ -11,7 +11,7 @@ company_atomikronika <- concept_company;
 	(* <- concept_website;;*);
 	[193038639]
 	(* <- concept_ucn;;*);
-	[ул. Замковая-27]
+	[ул. Замковая_27]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

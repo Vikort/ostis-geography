@@ -1,9 +1,9 @@
-company_ntlab-sistemy <- concept_company;
+company_ntlab_sistemy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[НТЛаб-системы]
+	[НТЛаб_системы]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 290-09-99]
+	[+375 17 290_09_99]
 	(* <- concept_phone_number;;*);
 	[ntlab@ntlab.com]
 	(* <- concept_email;;*);

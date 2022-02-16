@@ -1,13 +1,13 @@
-company_web-cybernetics <- concept_company;
+company_web_cybernetics <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[ВЕБ-КИБЕРНЕТИКА]
+	[ВЕБ_КИБЕРНЕТИКА]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 6733690]
 	(* <- concept_phone_number;;*);
 	[office@webernetic.by]
 	(* <- concept_email;;*);
-	[https://webernetic-family.com/]
+	[https://webernetic_family.com/]
 	(* <- concept_website;;*);
 	[192833490]
 	(* <- concept_ucn;;*);

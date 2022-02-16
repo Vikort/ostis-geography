@@ -1,13 +1,13 @@
-company_s-terra-bel <- concept_company;
+company_s_terra_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[С-Терра Бел]
+	[С_Терра Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 280 60 00]
+	[+375_17 280 60 00]
 	(* <- concept_phone_number;;*);
-	[info@s-terra.by]
+	[info@s_terra.by]
 	(* <- concept_email;;*);
-	[http://s-terra.by]
+	[http://s_terra.by]
 	(* <- concept_website;;*);
 	[191007645]
 	(* <- concept_ucn;;*);

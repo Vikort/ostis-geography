@@ -1,13 +1,13 @@
-company_pi-konsalt-bay <- concept_company;
+company_pi_konsalt_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Пи-консалт бай]
+	[Пи_консалт бай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 304 81 55]
 	(* <- concept_phone_number;;*);
-	[info@pi-consult.by]
+	[info@pi_consult.by]
 	(* <- concept_email;;*);
-	[http://www.pi-consult.by/]
+	[http://www.pi_consult.by/]
 	(* <- concept_website;;*);
 	[190732680]
 	(* <- concept_ucn;;*);

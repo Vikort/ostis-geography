@@ -1,11 +1,11 @@
-company_kollab-ayti <- concept_company;
+company_kollab_ayti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Коллаб Айти]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375293560064]
 	(* <- concept_phone_number;;*);
-	[info@collab-it.com]
+	[info@collab_it.com]
 	(* <- concept_email;;*);
 	[192795631]
 	(* <- concept_ucn;;*);

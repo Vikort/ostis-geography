@@ -1,15 +1,15 @@
-company_e-vijn <- concept_company;
+company_e_vijn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Е-Вижн]
+	[Е_Вижн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-387-05-38]
+	[+375_17_387_05_38]
 	(* <- concept_phone_number;;*);
-	[info@e-vision.by]
+	[info@e_vision.by]
 	(* <- concept_email;;*);
 	[192318621]
 	(* <- concept_ucn;;*);
-	[пр-т Рокоссовского, д. 136А]
+	[пр_т Рокоссовского, д. 136А]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

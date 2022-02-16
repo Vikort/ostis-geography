@@ -1,9 +1,9 @@
-company_djet-bi-ay <- concept_company;
+company_djet_bi_ay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Джет Би Ай]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-334-24-16;]
+	[+375_17_334_24_16;]
 	(* <- concept_phone_number;;*);
 	[office@jetbi.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_djet-bi-ay <- concept_company;
 	(* <- concept_website;;*);
 	[192182084]
 	(* <- concept_ucn;;*);
-	[пр-т Машерова, д. 19]
+	[пр_т Машерова, д. 19]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

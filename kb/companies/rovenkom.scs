@@ -3,7 +3,7 @@ company_rovenkom <- concept_company;
 =>nrel_main_idtf:
 	[Ровенком]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 5627341]
+	[+375_29 5627341]
 	(* <- concept_phone_number;;*);
 	[info@rovenkom.by]
 	(* <- concept_email;;*);

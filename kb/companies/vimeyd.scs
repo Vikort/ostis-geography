@@ -3,7 +3,7 @@ company_vimeyd <- concept_company;
 =>nrel_main_idtf:
 	[Вимэйд]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44-747-04-70]
+	[+375_44_747_04_70]
 	(* <- concept_phone_number;;*);
 	[ps@wemade.by]
 	(* <- concept_email;;*);

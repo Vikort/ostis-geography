@@ -1,11 +1,11 @@
-company_levereks-interneshnl <- concept_company;
+company_levereks_interneshnl <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Леверекс Интернешнл]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 2322001]
 	(* <- concept_phone_number;;*);
-	[contact-leverx@leverx.com]
+	[contact_leverx@leverx.com]
 	(* <- concept_email;;*);
 	[https://leverx.com/]
 	(* <- concept_website;;*);

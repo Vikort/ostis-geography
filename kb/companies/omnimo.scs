@@ -3,7 +3,7 @@ company_omnimo <- concept_company;
 =>nrel_main_idtf:
 	[Омнимо]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 505 72 33]
+	[+375_29 505 72 33]
 	(* <- concept_phone_number;;*);
 	[v.zebrev@omneemo.com]
 	(* <- concept_email;;*);

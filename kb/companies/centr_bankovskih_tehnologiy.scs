@@ -1,9 +1,9 @@
-company_centr-bankovskih-tehnologiy <- concept_company;
+company_centr_bankovskih_tehnologiy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Центр банковских технологий]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-203-29-16]
+	[+375_17_203_29_16]
 	(* <- concept_phone_number;;*);
 	[cbt@cbt.by]
 	(* <- concept_email;;*);

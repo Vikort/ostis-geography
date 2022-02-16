@@ -1,9 +1,9 @@
-company_vaypley-media <- concept_company;
+company_vaypley_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вайплей Медиа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-655-73-73]
+	[+375_29_655_73_73]
 	(* <- concept_phone_number;;*);
 	[viplaymedia@gmail.com]
 	(* <- concept_email;;*);

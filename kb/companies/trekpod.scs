@@ -3,9 +3,9 @@ company_trekpod <- concept_company;
 =>nrel_main_idtf:
 	[ТрэкПод]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[info@track-pod.com]
+	[info@track_pod.com]
 	(* <- concept_email;;*);
-	[https://track-pod.com/]
+	[https://track_pod.com/]
 	(* <- concept_website;;*);
 	[193084341]
 	(* <- concept_ucn;;*);

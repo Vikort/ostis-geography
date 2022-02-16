@@ -3,7 +3,7 @@ company_tabgreyt <- concept_company;
 =>nrel_main_idtf:
 	[Табгрейт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-139-44-85]
+	[+375_29_139_44_85]
 	(* <- concept_phone_number;;*);
 	[193357091]
 	(* <- concept_ucn;;*);

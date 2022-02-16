@@ -3,7 +3,7 @@ company_lansoft <- concept_company;
 =>nrel_main_idtf:
 	[ЛанСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-557-36-74]
+	[+375_29_557_36_74]
 	(* <- concept_phone_number;;*);
 	[info@lansoft.by]
 	(* <- concept_email;;*);

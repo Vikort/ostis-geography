@@ -1,9 +1,9 @@
-company_vizuteh-pleyting <- concept_company;
+company_vizuteh_pleyting <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Визутех Плейтинг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-348-34-23]
+	[+375_17_348_34_23]
 	(* <- concept_phone_number;;*);
 	[info@visutechplating.by]
 	(* <- concept_email;;*);

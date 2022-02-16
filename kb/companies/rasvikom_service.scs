@@ -1,4 +1,4 @@
-company_rasvikom-service <- concept_company;
+company_rasvikom_service <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Расвиком Сервис]

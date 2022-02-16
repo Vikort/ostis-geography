@@ -1,4 +1,4 @@
-company_intellektualnye-sistemy <- concept_company;
+company_intellektualnye_sistemy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Интеллектуальные системы]

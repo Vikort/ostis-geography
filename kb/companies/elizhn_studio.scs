@@ -1,9 +1,9 @@
-company_elizhn-studio <- concept_company;
+company_elizhn_studio <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Элижн студио]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-828-92-19]
+	[+375_29_828_92_19]
 	(* <- concept_phone_number;;*);
 	[anton@witheyezon.com]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_tyutoronlayn <- concept_company;
 =>nrel_main_idtf:
 	[ТьюторОнлайн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-507-11-45]
+	[+375_29_507_11_45]
 	(* <- concept_phone_number;;*);
 	[https://www.tutoronline.ru/]
 	(* <- concept_website;;*);

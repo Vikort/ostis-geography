@@ -1,9 +1,9 @@
-company_ay-top-tehnolodji <- concept_company;
+company_ay_top_tehnolodji <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Ай-ТОП Технолоджи]
+	[Ай_ТОП Технолоджи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[office@i-top.by]
+	[office@i_top.by]
 	(* <- concept_email;;*);
 	[193125646]
 	(* <- concept_ucn;;*);

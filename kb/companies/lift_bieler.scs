@@ -1,4 +1,4 @@
-company_lift-bieler <- concept_company;
+company_lift_bieler <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Лифт БиЭлЭр]
@@ -11,7 +11,7 @@ company_lift-bieler <- concept_company;
 	(* <- concept_website;;*);
 	[192471835]
 	(* <- concept_ucn;;*);
-	[Республика Беларусь, 220114, г. Минск, ул. Ф. Скорины д. 2, помещение 7-56]
+	[Республика Беларусь, 220114, г. Минск, ул. Ф. Скорины д. 2, помещение 7_56]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

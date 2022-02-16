@@ -1,4 +1,4 @@
-company_centr-informacionnyh-tehnologiy-bikonsalt <- concept_company;
+company_centr_informacionnyh_tehnologiy_bikonsalt <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Центр информационных технологий Биконсалт]

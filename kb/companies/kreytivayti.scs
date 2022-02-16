@@ -3,7 +3,7 @@ company_kreytivayti <- concept_company;
 =>nrel_main_idtf:
 	[КреативАйТи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 3799327]
+	[+375_29 3799327]
 	(* <- concept_phone_number;;*);
 	[hello@creativeit.io]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_kreytivayti <- concept_company;
 	(* <- concept_website;;*);
 	[192562000]
 	(* <- concept_ucn;;*);
-	[пер. Кольцова 4-й, д.51, каб.22/3]
+	[пер. Кольцова 4_й, д.51, каб.22/3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

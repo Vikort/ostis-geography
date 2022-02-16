@@ -1,9 +1,9 @@
-company_asist-lab <- concept_company;
+company_asist_lab <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Асист-лаб]
+	[Асист_лаб]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[https://asist-lab.com/]
+	[https://asist_lab.com/]
 	(* <- concept_website;;*);
 	[491335510]
 	(* <- concept_ucn;;*);

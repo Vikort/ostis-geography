@@ -1,9 +1,9 @@
-company_deloyt-didzhital <- concept_company;
+company_deloyt_didzhital <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Делойт Диджитал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-309-99-00]
+	[+375_17_309_99_00]
 	(* <- concept_phone_number;;*);
 	[https://www2.deloitte.com/by/ru.html]
 	(* <- concept_website;;*);

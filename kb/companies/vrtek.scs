@@ -3,7 +3,7 @@ company_vrtek <- concept_company;
 =>nrel_main_idtf:
 	[ВРТЭК]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-235-54-53]
+	[+375_17_235_54_53]
 	(* <- concept_phone_number;;*);
 	[info.vrtek@teslasuit.io]
 	(* <- concept_email;;*);

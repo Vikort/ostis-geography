@@ -1,4 +1,4 @@
-company_softvare-kantri <- concept_company;
+company_softvare_kantri <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Софтваре Кантри]

@@ -3,11 +3,11 @@ company_virusblokada <- concept_company;
 =>nrel_main_idtf:
 	[ВирусБлокАда]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-294-84-29]
+	[+375_17_294_84_29]
 	(* <- concept_phone_number;;*);
-	[info@anti-virus.by]
+	[info@anti_virus.by]
 	(* <- concept_email;;*);
-	[http://www.anti-virus.by/]
+	[http://www.anti_virus.by/]
 	(* <- concept_website;;*);
 	[101294617]
 	(* <- concept_ucn;;*);

@@ -1,9 +1,9 @@
-company_perpl-geymz <- concept_company;
+company_perpl_geymz <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Пёрпл Геймз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-6101096]
+	[+375_29_6101096]
 	(* <- concept_phone_number;;*);
 	[contact@purple.games]
 	(* <- concept_email;;*);

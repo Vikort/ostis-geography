@@ -1,11 +1,11 @@
-company_omp-sistem <- concept_company;
+company_omp_sistem <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ОМП Систем]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 688 21 77]
+	[+375_29 688 21 77]
 	(* <- concept_phone_number;;*);
-	[kas@omp-system.ru]
+	[kas@omp_system.ru]
 	(* <- concept_email;;*);
 	[http://omegasoftware.ru/]
 	(* <- concept_website;;*);

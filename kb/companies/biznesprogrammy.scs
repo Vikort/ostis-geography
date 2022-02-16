@@ -3,7 +3,7 @@ company_biznesprogrammy <- concept_company;
 =>nrel_main_idtf:
 	[БизнесПрограммы]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-388-77-78]
+	[+375_17_388_77_78]
 	(* <- concept_phone_number;;*);
 	[office@bpr.by]
 	(* <- concept_email;;*);

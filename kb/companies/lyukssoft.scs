@@ -3,7 +3,7 @@ company_lyukssoft <- concept_company;
 =>nrel_main_idtf:
 	[ЛюксСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 224-08-91, 224-08-92, 251-18-93]
+	[+375 17 224_08_91, 224_08_92, 251_18_93]
 	(* <- concept_phone_number;;*);
 	[luxsoft@mail.ru]
 	(* <- concept_email;;*);

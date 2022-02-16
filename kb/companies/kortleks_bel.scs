@@ -1,4 +1,4 @@
-company_kortleks-bel <- concept_company;
+company_kortleks_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Кортлекс Бел]

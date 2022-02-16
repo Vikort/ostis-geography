@@ -1,4 +1,4 @@
-company_luvea-blr <- concept_company;
+company_luvea_blr <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Лувэа БЛР]

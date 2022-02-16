@@ -1,9 +1,9 @@
-company_gik-solyushns <- concept_company;
+company_gik_solyushns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[ГИК-СОЛЮШНС]
+	[ГИК_СОЛЮШНС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 25 601-05-35]
+	[+375 25 601_05_35]
 	(* <- concept_phone_number;;*);
 	[pavelk@geeksolutions.co]
 	(* <- concept_email;;*);

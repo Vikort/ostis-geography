@@ -3,7 +3,7 @@ company_ampersant <- concept_company;
 =>nrel_main_idtf:
 	[АМПЕРСАНТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-256-27-83]
+	[+375_17_256_27_83]
 	(* <- concept_phone_number;;*);
 	[gs1994@gmail.com]
 	(* <- concept_email;;*);

@@ -9,7 +9,7 @@ company_4logist <- concept_company;
 	(* <- concept_website;;*);
 	[193369318]
 	(* <- concept_ucn;;*);
-	[ул. Волгоградская, 13, помещение 213-19]
+	[ул. Волгоградская, 13, помещение 213_19]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

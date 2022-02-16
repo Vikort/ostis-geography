@@ -1,4 +1,4 @@
-company_agm-soft <- concept_company;
+company_agm_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АГМ Софт]

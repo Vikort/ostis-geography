@@ -1,11 +1,11 @@
-company_ptsi-solyushns <- concept_company;
+company_ptsi_solyushns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ООО ПЦИ Солюшнс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[193482182]
 	(* <- concept_ucn;;*);
-	[ул. Кирова, 8, помещение 7-12]
+	[ул. Кирова, 8, помещение 7_12]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

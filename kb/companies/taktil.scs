@@ -3,7 +3,7 @@ company_taktil <- concept_company;
 =>nrel_main_idtf:
 	[ТАКТИЛ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-767-35-25]
+	[+375_29_767_35_25]
 	(* <- concept_phone_number;;*);
 	[https://taktil.tech/]
 	(* <- concept_website;;*);

@@ -1,9 +1,9 @@
-company_sayberri-siayes <- concept_company;
+company_sayberri_siayes <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сайберри СиАйЭс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (33) 66-00-116]
+	[+375 (33) 66_00_116]
 	(* <- concept_phone_number;;*);
 	[info@syberry.com]
 	(* <- concept_email;;*);

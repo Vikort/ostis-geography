@@ -1,9 +1,9 @@
-company_si-bi-mobayl <- concept_company;
+company_si_bi_mobayl <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Си Би Мобайл]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-360-16-89]
+	[+375_17_360_16_89]
 	(* <- concept_phone_number;;*);
 	[https://cbmobile.by/]
 	(* <- concept_website;;*);

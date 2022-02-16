@@ -1,9 +1,9 @@
-company_ntlab-dizayn <- concept_company;
+company_ntlab_dizayn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[НТЛаб-Дизайн]
+	[НТЛаб_Дизайн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-290 09 99]
+	[+375_17_290 09 99]
 	(* <- concept_phone_number;;*);
 	[office@ntlab.com]
 	(* <- concept_email;;*);

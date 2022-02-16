@@ -1,9 +1,9 @@
-company_vero-didjital <- concept_company;
+company_vero_didjital <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВЕРО Диджитал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-747-55-02]
+	[+375_29_747_55_02]
 	(* <- concept_phone_number;;*);
 	[office@vero.digital.com]
 	(* <- concept_email;;*);

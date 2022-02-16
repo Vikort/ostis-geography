@@ -3,7 +3,7 @@ company_bayskilz <- concept_company;
 =>nrel_main_idtf:
 	[Байскилз]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 44 736-88-40]
+	[+375 44 736_88_40]
 	(* <- concept_phone_number;;*);
 	[info@lerna.by]
 	(* <- concept_email;;*);

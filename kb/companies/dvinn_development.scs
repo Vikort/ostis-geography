@@ -1,9 +1,9 @@
-company_dvinn-development <- concept_company;
+company_dvinn_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ДВИНН Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-118-11-10]
+	[+375_29_118_11_10]
 	(* <- concept_phone_number;;*);
 	[info@dwynn.by]
 	(* <- concept_email;;*);

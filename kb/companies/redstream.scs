@@ -11,7 +11,7 @@ company_redstream <- concept_company;
 	(* <- concept_website;;*);
 	[691815586]
 	(* <- concept_ucn;;*);
-	[223060, Минский р-н, Новодворский с/с, южнее д. Большое Стиклево, 40/2, офис 97 (бизнес-центр S.Union)]
+	[223060, Минский р_н, Новодворский с/с, южнее д. Большое Стиклево, 40/2, офис 97 (бизнес_центр S.Union)]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

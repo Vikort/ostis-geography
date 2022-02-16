@@ -5,9 +5,9 @@ company_sakcess <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 33 635 71 71]
 	(* <- concept_phone_number;;*);
-	[partner@success-craft.com]
+	[partner@success_craft.com]
 	(* <- concept_email;;*);
-	[https://success-craft.com/]
+	[https://success_craft.com/]
 	(* <- concept_website;;*);
 	[291379906]
 	(* <- concept_ucn;;*);

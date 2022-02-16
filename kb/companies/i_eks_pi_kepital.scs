@@ -1,7 +1,7 @@
-company_i-eks-pi-kepital <- concept_company;
+company_i_eks_pi_kepital <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[И-Экс-Пи Кэпитал]
+	[И_Экс_Пи Кэпитал]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 392 28 22; fax]
 	(* <- concept_phone_number;;*);
@@ -11,7 +11,7 @@ company_i-eks-pi-kepital <- concept_company;
 	(* <- concept_website;;*);
 	[191780020]
 	(* <- concept_ucn;;*);
-	[ул. Интернациональная, д. 36-1, офис 624]
+	[ул. Интернациональная, д. 36_1, офис 624]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

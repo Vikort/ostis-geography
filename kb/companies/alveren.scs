@@ -3,7 +3,7 @@ company_alveren <- concept_company;
 =>nrel_main_idtf:
 	[Альверден]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (44) 777-44-51]
+	[+375 (44) 777_44_51]
 	(* <- concept_phone_number;;*);
 	[info@alverden.com]
 	(* <- concept_email;;*);

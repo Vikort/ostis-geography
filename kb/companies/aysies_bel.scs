@@ -1,13 +1,13 @@
-company_aysies-bel <- concept_company;
+company_aysies_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АйСиЭс Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 712-59-10]
+	[+375 29 712_59_10]
 	(* <- concept_phone_number;;*);
-	[vip@ic-service.by]
+	[vip@ic_service.by]
 	(* <- concept_email;;*);
-	[https://ic-service.by/]
+	[https://ic_service.by/]
 	(* <- concept_website;;*);
 	[193132266]
 	(* <- concept_ucn;;*);

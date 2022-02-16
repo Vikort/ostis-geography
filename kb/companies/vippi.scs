@@ -3,11 +3,11 @@ company_vippi <- concept_company;
 =>nrel_main_idtf:
 	[Виппи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-661-36-82]
+	[+375_29_661_36_82]
 	(* <- concept_phone_number;;*);
 	[mail@weappy.co]
 	(* <- concept_email;;*);
-	[http://weappy-studio.com/]
+	[http://weappy_studio.com/]
 	(* <- concept_website;;*);
 	[192559613]
 	(* <- concept_ucn;;*);

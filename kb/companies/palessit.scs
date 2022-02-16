@@ -11,7 +11,7 @@ company_palessit <- concept_company;
 	(* <- concept_website;;*);
 	[193058395]
 	(* <- concept_ucn;;*);
-	[ул. Пинская, 28А-25]
+	[ул. Пинская, 28А_25]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

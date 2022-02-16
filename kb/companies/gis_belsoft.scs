@@ -1,17 +1,17 @@
-company_gis-belsoft <- concept_company;
+company_gis_belsoft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ГИС БЕЛСОФТ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+(375) 29 9589231]
 	(* <- concept_phone_number;;*);
-	[i.golovaty@gicsoft-europe.com]
+	[i.golovaty@gicsoft_europe.com]
 	(* <- concept_email;;*);
-	[http://gicsoft-europe.com/]
+	[http://gicsoft_europe.com/]
 	(* <- concept_website;;*);
 	[192256156]
 	(* <- concept_ucn;;*);
-	[г. Минск, ул. Амураторская 4-Б]
+	[г. Минск, ул. Амураторская 4_Б]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

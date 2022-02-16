@@ -1,4 +1,4 @@
-company_drimtim-development <- concept_company;
+company_drimtim_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дримтим Девелопмент]

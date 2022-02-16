@@ -3,7 +3,7 @@ company_pras <- concept_company;
 =>nrel_main_idtf:
 	[ПРАС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 130-03-77]
+	[+375 29 130_03_77]
 	(* <- concept_phone_number;;*);
 	[list@pras.by]
 	(* <- concept_email;;*);

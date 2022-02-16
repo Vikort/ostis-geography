@@ -11,7 +11,7 @@ company_skedyuler <- concept_company;
 	(* <- concept_website;;*);
 	[193298669]
 	(* <- concept_ucn;;*);
-	[пер. Железнодорожный 3-й, 10-243, офисное помещение 2]
+	[пер. Железнодорожный 3_й, 10_243, офисное помещение 2]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

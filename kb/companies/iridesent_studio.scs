@@ -1,9 +1,9 @@
-company_iridesent-studio <- concept_company;
+company_iridesent_studio <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Иридесэнт Студио]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-25-946-65-86]
+	[+375_25_946_65_86]
 	(* <- concept_phone_number;;*);
 	[hello@iridescent.studio]
 	(* <- concept_email;;*);

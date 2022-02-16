@@ -1,9 +1,9 @@
-company_saber-bgs <- concept_company;
+company_saber_bgs <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Сабер БГС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 374 28 96]
+	[+375_17 374 28 96]
 	(* <- concept_phone_number;;*);
 	[mail@saber3d.by]
 	(* <- concept_email;;*);

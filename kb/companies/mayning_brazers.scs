@@ -1,9 +1,9 @@
-company_mayning-brazers <- concept_company;
+company_mayning_brazers <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Майнинг Бразерс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33 684-84-99]
+	[+375_33 684_84_99]
 	(* <- concept_phone_number;;*);
 	[miningbrothersllc@gmail.com]
 	(* <- concept_email;;*);

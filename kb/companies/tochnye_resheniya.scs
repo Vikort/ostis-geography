@@ -1,4 +1,4 @@
-company_tochnye-resheniya <- concept_company;
+company_tochnye_resheniya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Точные решения]

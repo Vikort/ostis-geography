@@ -1,4 +1,4 @@
-company_inshurans-solyushens <- concept_company;
+company_inshurans_solyushens <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Иншуранс Солюшенс]
@@ -11,7 +11,7 @@ company_inshurans-solyushens <- concept_company;
 	(* <- concept_website;;*);
 	[191012724]
 	(* <- concept_ucn;;*);
-	[Пр-т. Дзержинского, д. 3Б, пом 117]
+	[Пр_т. Дзержинского, д. 3Б, пом 117]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

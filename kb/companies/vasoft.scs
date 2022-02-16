@@ -3,7 +3,7 @@ company_vasoft <- concept_company;
 =>nrel_main_idtf:
 	[ВАСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-175-88-28]
+	[+375_29_175_88_28]
 	(* <- concept_phone_number;;*);
 	[a.kurinova@vironit.com]
 	(* <- concept_email;;*);

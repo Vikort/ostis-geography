@@ -1,9 +1,9 @@
-company_restorans-konsalt-end-support <- concept_company;
+company_restorans_konsalt_end_support <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ресторанс консалт энд суппорт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-106-73-92]
+	[+375_29_106_73_92]
 	(* <- concept_phone_number;;*);
 	[restoranskonsalt@gmail.com]
 	(* <- concept_email;;*);

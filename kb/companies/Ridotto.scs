@@ -3,7 +3,7 @@ company_Ridotto <- concept_company;
 =>nrel_main_idtf:
 	[Ридотто]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-567-85-86]
+	[+375_29_567_85_86]
 	(* <- concept_phone_number;;*);
 	[info@ridotto.by]
 	(* <- concept_email;;*);

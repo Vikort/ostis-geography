@@ -1,9 +1,9 @@
-company_masshtabnye-resheniya <- concept_company;
+company_masshtabnye_resheniya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Масштабные решения]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-396-68-83]
+	[+375_17_396_68_83]
 	(* <- concept_phone_number;;*);
 	[mr@mrsoft.by]
 	(* <- concept_email;;*);

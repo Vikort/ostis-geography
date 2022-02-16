@@ -11,7 +11,7 @@ company_stdev <- concept_company;
 	(* <- concept_website;;*);
 	[190526522]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости, д. 177, секция 4, 7 этаж.]
+	[пр_т Независимости, д. 177, секция 4, 7 этаж.]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

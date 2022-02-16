@@ -1,9 +1,9 @@
-company_onlayn-marshrutki <- concept_company;
+company_onlayn_marshrutki <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Онлайн Маршрутки]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (44) 741-02-02]
+	[+375 (44) 741_02_02]
 	(* <- concept_phone_number;;*);
 	[info@atlasbus.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_onlayn-marshrutki <- concept_company;
 	(* <- concept_website;;*);
 	[193125500]
 	(* <- concept_ucn;;*);
-	[ул. Ольшевского, д.24, оф. 403 п.16-49]
+	[ул. Ольшевского, д.24, оф. 403 п.16_49]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

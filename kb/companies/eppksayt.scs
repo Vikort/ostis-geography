@@ -11,7 +11,7 @@ company_eppksayt <- concept_company;
 	(* <- concept_website;;*);
 	[192817278]
 	(* <- concept_ucn;;*);
-	[ул. Ф. Скорины, д. 2, офис 6-3]
+	[ул. Ф. Скорины, д. 2, офис 6_3]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

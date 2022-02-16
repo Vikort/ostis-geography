@@ -1,9 +1,9 @@
-company_lyukssoft-plyus <- concept_company;
+company_lyukssoft_plyus <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЛюксСофт плюс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[8(017)-226-82-29, 8(017)-226-98-07, 8(017)-390-98-07]
+	[8(017)_226_82_29, 8(017)_226_98_07, 8(017)_390_98_07]
 	(* <- concept_phone_number;;*);
 	[luxsoftplus@tut.by]
 	(* <- concept_email;;*);

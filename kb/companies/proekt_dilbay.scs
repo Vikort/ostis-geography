@@ -1,4 +1,4 @@
-company_proekt-dilbay <- concept_company;
+company_proekt_dilbay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ООО "Проект Дилбай"]

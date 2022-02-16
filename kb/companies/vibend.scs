@@ -3,7 +3,7 @@ company_vibend <- concept_company;
 =>nrel_main_idtf:
 	[Вибэнд]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-586-64-18]
+	[+375_29_586_64_18]
 	(* <- concept_phone_number;;*);
 	[contact@weband.eu]
 	(* <- concept_email;;*);

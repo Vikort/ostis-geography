@@ -1,4 +1,4 @@
-company_ekson-ay-ti <- concept_company;
+company_ekson_ay_ti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Эксон Ай Ти]

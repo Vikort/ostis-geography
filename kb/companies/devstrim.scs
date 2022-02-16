@@ -3,7 +3,7 @@ company_devstrim <- concept_company;
 =>nrel_main_idtf:
 	[ДЕВСТРИМ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-355-50-07]
+	[+375_29_355_50_07]
 	(* <- concept_phone_number;;*);
 	[dmitry.rudenya@devstream.by]
 	(* <- concept_email;;*);

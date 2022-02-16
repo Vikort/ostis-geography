@@ -1,4 +1,4 @@
-company_tripldot-bay <- concept_company;
+company_tripldot_bay <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ООО "Триплдот бай"]

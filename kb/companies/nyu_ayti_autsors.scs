@@ -1,4 +1,4 @@
-company_nyu-ayti-autsors <- concept_company;
+company_nyu_ayti_autsors <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Нью Айти Аутсорс]

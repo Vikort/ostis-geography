@@ -11,7 +11,7 @@ company_artismedia <- concept_company;
 	(* <- concept_website;;*);
 	[190882394]
 	(* <- concept_ucn;;*);
-	[Мележа, 1-1217]
+	[Мележа, 1_1217]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

@@ -1,4 +1,4 @@
-company_bayleks-maltimedia <- concept_company;
+company_bayleks_maltimedia <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Байлекс Малтимедиа]

@@ -1,9 +1,9 @@
-company_ara-soft-grupp <- concept_company;
+company_ara_soft_grupp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Ара Софт Групп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 323-86-39]
+	[+375 29 323_86_39]
 	(* <- concept_phone_number;;*);
 	[a.volchek@arateg.com]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_navynos <- concept_company;
 =>nrel_main_idtf:
 	[Навынос]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-333-48-80]
+	[+375_29_333_48_80]
 	(* <- concept_phone_number;;*);
 	[mv@thepick.app]
 	(* <- concept_email;;*);

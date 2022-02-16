@@ -3,7 +3,7 @@ company_tangomi <- concept_company;
 =>nrel_main_idtf:
 	[ТангоМи]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-158-72-42]
+	[+375_29_158_72_42]
 	(* <- concept_phone_number;;*);
 	[esorokina@tango.me]
 	(* <- concept_email;;*);

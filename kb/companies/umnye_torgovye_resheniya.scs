@@ -1,11 +1,11 @@
-company_umnye-torgovye-resheniya <- concept_company;
+company_umnye_torgovye_resheniya <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Умные Торговые Решения]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 2840211]
 	(* <- concept_phone_number;;*);
-	[sss-mail@lbr.ru]
+	[sss_mail@lbr.ru]
 	(* <- concept_email;;*);
 	[193243165]
 	(* <- concept_ucn;;*);

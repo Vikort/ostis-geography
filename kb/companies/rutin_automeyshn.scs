@@ -1,13 +1,13 @@
-company_rutin-automeyshn <- concept_company;
+company_rutin_automeyshn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Рутин Аутомэйшн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 447537536]
 	(* <- concept_phone_number;;*);
-	[info@routine-automation.com]
+	[info@routine_automation.com]
 	(* <- concept_email;;*);
-	[http://routine-automation.com]
+	[http://routine_automation.com]
 	(* <- concept_website;;*);
 	[193314105]
 	(* <- concept_ucn;;*);

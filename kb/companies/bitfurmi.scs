@@ -3,7 +3,7 @@ company_bitfurmi <- concept_company;
 =>nrel_main_idtf:
 	[Битфурми]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-141-08-00]
+	[+375_29_141_08_00]
 	(* <- concept_phone_number;;*);
 	[193325052]
 	(* <- concept_ucn;;*);

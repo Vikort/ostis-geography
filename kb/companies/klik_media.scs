@@ -1,4 +1,4 @@
-company_klik-media <- concept_company;
+company_klik_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Клик Медиа]

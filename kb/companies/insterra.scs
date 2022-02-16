@@ -9,7 +9,7 @@ company_insterra <- concept_company;
 	(* <- concept_email;;*);
 	[193274075]
 	(* <- concept_ucn;;*);
-	[Пинская 28А-809]
+	[Пинская 28А_809]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

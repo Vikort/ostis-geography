@@ -3,7 +3,7 @@ company_vellabs <- concept_company;
 =>nrel_main_idtf:
 	[ВелЛабс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-33-654-40-00]
+	[+375_33_654_40_00]
 	(* <- concept_phone_number;;*);
 	[ratiopro@mail.ru]
 	(* <- concept_email;;*);

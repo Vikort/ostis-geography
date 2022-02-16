@@ -1,11 +1,11 @@
-company_itechart-group <- concept_company;
+company_itechart_group <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Техартгруп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+ 375 17 240 99 02]
 	(* <- concept_phone_number;;*);
-	[hello@itechart-group.com]
+	[hello@itechart_group.com]
 	(* <- concept_email;;*);
 	[http://www.itechart.com/]
 	(* <- concept_website;;*);

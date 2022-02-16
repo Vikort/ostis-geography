@@ -1,9 +1,9 @@
-company_veb-pey <- concept_company;
+company_veb_pey <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ВЕБ ПЭЙ]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-269-04-30]
+	[+375_17_269_04_30]
 	(* <- concept_phone_number;;*);
 	[info@webpay.by]
 	(* <- concept_email;;*);

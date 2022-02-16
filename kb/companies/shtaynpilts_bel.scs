@@ -1,13 +1,13 @@
-company_shtaynpilts-bel <- concept_company;
+company_shtaynpilts_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Штайнпильц Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-388-13-22]
+	[+375_29_388_13_22]
 	(* <- concept_phone_number;;*);
-	[minsk.contact@stein-pilz.com]
+	[minsk.contact@stein_pilz.com]
 	(* <- concept_email;;*);
-	[https://stein-pilz.com/]
+	[https://stein_pilz.com/]
 	(* <- concept_website;;*);
 	[193279263]
 	(* <- concept_ucn;;*);

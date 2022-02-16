@@ -1,4 +1,4 @@
-company_kakadu-development <- concept_company;
+company_kakadu_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Какаду Девелопмент]

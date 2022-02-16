@@ -3,11 +3,11 @@ company_samsolyushns <- concept_company;
 =>nrel_main_idtf:
 	[САМСОЛЮШНС]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 309-17-09]
+	[+375 17 309_17_09]
 	(* <- concept_phone_number;;*);
-	[info@sam-solutions.com]
+	[info@sam_solutions.com]
 	(* <- concept_email;;*);
-	[http://www.sam-solutions.com/]
+	[http://www.sam_solutions.com/]
 	(* <- concept_website;;*);
 	[800008653]
 	(* <- concept_ucn;;*);

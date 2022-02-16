@@ -1,9 +1,9 @@
-company_biviar-partners <- concept_company;
+company_biviar_partners <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[БИВИАР Партнерс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-44 7332861]
+	[+375_44 7332861]
 	(* <- concept_phone_number;;*);
 	[info@biviar.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_biviar-partners <- concept_company;
 	(* <- concept_website;;*);
 	[192301255]
 	(* <- concept_ucn;;*);
-	[пер.Загородный 1-й, дом 20, офис 1001]
+	[пер.Загородный 1_й, дом 20, офис 1001]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

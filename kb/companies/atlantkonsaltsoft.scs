@@ -3,7 +3,7 @@ company_atlantkonsaltsoft <- concept_company;
 =>nrel_main_idtf:
 	[Атлантконсалтсофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-3963538]
+	[+375_17_3963538]
 	(* <- concept_phone_number;;*);
 	[info@atlantconsult.com]
 	(* <- concept_email;;*);

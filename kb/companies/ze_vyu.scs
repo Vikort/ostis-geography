@@ -1,4 +1,4 @@
-company_ze-vyu <- concept_company;
+company_ze_vyu <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Зе Вью]

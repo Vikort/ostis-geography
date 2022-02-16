@@ -1,4 +1,4 @@
-company_empi-solyushns <- concept_company;
+company_empi_solyushns <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭМПИ СОЛЮШНС]

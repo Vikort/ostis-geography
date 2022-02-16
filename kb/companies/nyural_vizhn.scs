@@ -1,4 +1,4 @@
-company_nyural-vizhn <- concept_company;
+company_nyural_vizhn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Нюрал Вижн ]

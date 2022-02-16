@@ -1,9 +1,9 @@
-company_lodjik-development <- concept_company;
+company_lodjik_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Лоджик Девелопмент]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-610-03-09]
+	[+375_29_610_03_09]
 	(* <- concept_phone_number;;*);
 	[arkady@logicsoftware.net]
 	(* <- concept_email;;*);

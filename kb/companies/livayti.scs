@@ -3,13 +3,13 @@ company_livayti <- concept_company;
 =>nrel_main_idtf:
 	[ЛивАйти]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-509-93-02]
+	[+375_29_509_93_02]
 	(* <- concept_phone_number;;*);
 	[https://magicchecker.com/]
 	(* <- concept_website;;*);
 	[193465254]
 	(* <- concept_ucn;;*);
-	[пр-т Независимости, д. 39, пом. 2Н, (комната 45А)]
+	[пр_т Независимости, д. 39, пом. 2Н, (комната 45А)]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

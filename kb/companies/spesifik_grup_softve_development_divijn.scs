@@ -1,17 +1,17 @@
-company_spesifik-grup-softve-development-divijn <- concept_company;
+company_spesifik_grup_softve_development_divijn <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Спесифик-Груп Софтвэ Девелопмент Дивижн]
+	[Спесифик_Груп Софтвэ Девелопмент Дивижн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+37517 2725599]
 	(* <- concept_phone_number;;*);
-	[office@specific-group.by]
+	[office@specific_group.by]
 	(* <- concept_email;;*);
-	[http://www.specific-group.by/]
+	[http://www.specific_group.by/]
 	(* <- concept_website;;*);
 	[192009196]
 	(* <- concept_ucn;;*);
-	[ул. Толбухина 2а-1]
+	[ул. Толбухина 2а_1]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

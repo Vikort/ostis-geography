@@ -3,7 +3,7 @@ company_mbaysikl <- concept_company;
 =>nrel_main_idtf:
 	[МБайсикл]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-338-27-73]
+	[+375_29_338_27_73]
 	(* <- concept_phone_number;;*);
 	[mbicycle.admin@mbicycle.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_mbaysikl <- concept_company;
 	(* <- concept_website;;*);
 	[491325164]
 	(* <- concept_ucn;;*);
-	[ул. Федюнинского, д. 17, каб.10-8]
+	[ул. Федюнинского, д. 17, каб.10_8]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

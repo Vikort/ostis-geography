@@ -1,9 +1,9 @@
-company_hyumen-sistem <- concept_company;
+company_hyumen_sistem <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Хьюмен Систем]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 388-15-20]
+	[+375 17 388_15_20]
 	(* <- concept_phone_number;;*);
 	[1c@hs.by]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_hyumen-sistem <- concept_company;
 	(* <- concept_website;;*);
 	[101325312]
 	(* <- concept_ucn;;*);
-	[ул. 3-я Щорса, д.9 оф. 401]
+	[ул. 3_я Щорса, д.9 оф. 401]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

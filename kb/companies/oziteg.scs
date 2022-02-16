@@ -3,7 +3,7 @@ company_oziteg <- concept_company;
 =>nrel_main_idtf:
 	[Озитэг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 29 308-65-71]
+	[+375 29 308_65_71]
 	(* <- concept_phone_number;;*);
 	[hello@ozitag.com]
 	(* <- concept_email;;*);

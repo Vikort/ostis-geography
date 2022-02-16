@@ -1,9 +1,9 @@
-company_godel-teknolodjis-yurop <- concept_company;
+company_godel_teknolodjis_yurop <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Годел Текнолоджис Юроп]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 328-17-34]
+	[+375 17 328_17_34]
 	(* <- concept_phone_number;;*);
 	[info@godeltech.com]
 	(* <- concept_email;;*);

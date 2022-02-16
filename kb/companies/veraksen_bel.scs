@@ -1,15 +1,15 @@
-company_veraksen-bel <- concept_company;
+company_veraksen_bel <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Вераксен Бел]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-372-61-04]
+	[+375_17_372_61_04]
 	(* <- concept_phone_number;;*);
 	[https://veraxen.com]
 	(* <- concept_website;;*);
 	[192699511]
 	(* <- concept_ucn;;*);
-	[пр. Дзержинского, д. 57, офис 44-1, 10 этаж,]
+	[пр. Дзержинского, д. 57, офис 44_1, 10 этаж,]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

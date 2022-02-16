@@ -1,4 +1,4 @@
-company_gloss-bel-sistems <- concept_company;
+company_gloss_bel_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ГЛОСС Бел Системс]

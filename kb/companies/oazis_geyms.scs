@@ -1,4 +1,4 @@
-company_oazis-geyms <- concept_company;
+company_oazis_geyms <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Оазис Геймс]

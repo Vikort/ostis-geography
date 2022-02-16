@@ -1,9 +1,9 @@
-company_viavora-konsalting <- concept_company;
+company_viavora_konsalting <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Виавора Консалтинг]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-275-05-78]
+	[+375_17_275_05_78]
 	(* <- concept_phone_number;;*);
 	[hello@weavora.com]
 	(* <- concept_email;;*);

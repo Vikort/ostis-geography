@@ -5,13 +5,13 @@ company_gudsoft <- concept_company;
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 717 09 24]
 	(* <- concept_phone_number;;*);
-	[sales@good-soft.com]
+	[sales@good_soft.com]
 	(* <- concept_email;;*);
-	[http://good-soft.com/]
+	[http://good_soft.com/]
 	(* <- concept_website;;*);
 	[391678147]
 	(* <- concept_ucn;;*);
-	[пр-т Московский 31а, помещение 12 офис 2]
+	[пр_т Московский 31а, помещение 12 офис 2]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

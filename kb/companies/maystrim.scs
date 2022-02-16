@@ -3,7 +3,7 @@ company_maystrim <- concept_company;
 =>nrel_main_idtf:
 	[МайСтрим]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-888-80-39]
+	[+375_29_888_80_39]
 	(* <- concept_phone_number;;*);
 	[https://mystream.by/]
 	(* <- concept_website;;*);

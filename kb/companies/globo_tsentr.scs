@@ -1,7 +1,7 @@
-company_globo-tsentr <- concept_company;
+company_globo_tsentr <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Глобо-Центр]
+	[Глобо_Центр]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375(29)7510193]
 	(* <- concept_phone_number;;*);
@@ -11,7 +11,7 @@ company_globo-tsentr <- concept_company;
 	(* <- concept_website;;*);
 	[100056045]
 	(* <- concept_ucn;;*);
-	[220073 г.Минск, 4-Й Загородный переулок, д.58 б, офис 15]
+	[220073 г.Минск, 4_Й Загородный переулок, д.58 б, офис 15]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

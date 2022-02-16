@@ -1,9 +1,9 @@
-company_duh-innovaciy <- concept_company;
+company_duh_innovaciy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Дух Инноваций]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-306-53-11]
+	[+375_29_306_53_11]
 	(* <- concept_phone_number;;*);
 	[is@duh.by]
 	(* <- concept_email;;*);

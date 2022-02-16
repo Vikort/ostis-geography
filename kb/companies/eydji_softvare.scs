@@ -1,9 +1,9 @@
-company_eydji-softvare <- concept_company;
+company_eydji_softvare <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ЭйДжи Софтваре]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29 8008220]
+	[+375_29 8008220]
 	(* <- concept_phone_number;;*);
 	[info@agsoftware.by]
 	(* <- concept_email;;*);

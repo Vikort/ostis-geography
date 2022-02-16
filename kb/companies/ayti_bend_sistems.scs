@@ -1,13 +1,13 @@
-company_ayti-bend-sistems <- concept_company;
+company_ayti_bend_sistems <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Айти Бэнд Системс]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375(17)2431417]
 	(* <- concept_phone_number;;*);
-	[info@it-band.by]
+	[info@it_band.by]
 	(* <- concept_email;;*);
-	[http://it-band.by/]
+	[http://it_band.by/]
 	(* <- concept_website;;*);
 	[193062598]
 	(* <- concept_ucn;;*);

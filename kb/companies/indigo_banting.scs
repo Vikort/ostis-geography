@@ -1,4 +1,4 @@
-company_indigo-banting <- concept_company;
+company_indigo_banting <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Индиго Бантинг]

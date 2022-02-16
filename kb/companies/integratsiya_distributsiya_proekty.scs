@@ -1,9 +1,9 @@
-company_integratsiya-distributsiya-proekty <- concept_company;
+company_integratsiya_distributsiya_proekty <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Интеграция Дистрибуция Проекты]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-794-49-33]
+	[+375_29_794_49_33]
 	(* <- concept_phone_number;;*);
 	[info@ais4life.com]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_sedon-blr <- concept_company;
+company_sedon_blr <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Седон БЛР]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 17 328-64-56]
+	[+375 17 328_64_56]
 	(* <- concept_phone_number;;*);
 	[https://cedon.by/]
 	(* <- concept_website;;*);

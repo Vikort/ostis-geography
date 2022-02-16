@@ -1,7 +1,7 @@
-company_kino-mo-teknolodjis <- concept_company;
+company_kino_mo_teknolodjis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[Кино-мо Текнолоджис]
+	[Кино_мо Текнолоджис]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 17 336 50 17]
 	(* <- concept_phone_number;;*);

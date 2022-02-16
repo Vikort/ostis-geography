@@ -3,7 +3,7 @@ company_triinkom <- concept_company;
 =>nrel_main_idtf:
 	[ТриИнком]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (17) 552-00-77]
+	[+375 (17) 552_00_77]
 	(* <- concept_phone_number;;*);
 	[info@hb.by]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_partnerskaya-programma <- concept_company;
+company_partnerskaya_programma <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Партнерская программа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-617-17-20]
+	[+375_29_617_17_20]
 	(* <- concept_phone_number;;*);
 	[info@affilka.com]
 	(* <- concept_email;;*);

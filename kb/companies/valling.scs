@@ -3,7 +3,7 @@ company_valling <- concept_company;
 =>nrel_main_idtf:
 	[Bamper.by]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-695-95-88]
+	[+375_29_695_95_88]
 	(* <- concept_phone_number;;*);
 	[info@bamper.by]
 	(* <- concept_email;;*);

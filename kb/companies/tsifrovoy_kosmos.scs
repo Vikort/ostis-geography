@@ -1,9 +1,9 @@
-company_tsifrovoy-kosmos <- concept_company;
+company_tsifrovoy_kosmos <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Цифровой космос]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-29-767-51-34]
+	[+375_29_767_51_34]
 	(* <- concept_phone_number;;*);
 	[v.d.drozd1@gmail.com]
 	(* <- concept_email;;*);

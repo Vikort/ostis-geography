@@ -1,4 +1,4 @@
-company_tepston-development <- concept_company;
+company_tepston_development <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Тэпстон Девелопмент]
@@ -11,7 +11,7 @@ company_tepston-development <- concept_company;
 	(* <- concept_website;;*);
 	[192994544]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского, 3Б]
+	[пр_т Дзержинского, 3Б]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

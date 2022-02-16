@@ -1,9 +1,9 @@
-company_apps-ti <- concept_company;
+company_apps_ti <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[ООО "Аппс Ти"]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-297232508]
+	[+375_297232508]
 	(* <- concept_phone_number;;*);
 	[i@appstea.com]
 	(* <- concept_email;;*);

@@ -3,7 +3,7 @@ company_labmap <- concept_company;
 =>nrel_main_idtf:
 	[ЛабМап]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 836-10-00]
+	[+375 (29) 836_10_00]
 	(* <- concept_phone_number;;*);
 	[kazhyna@gmail.com]
 	(* <- concept_email;;*);

@@ -1,9 +1,9 @@
-company_laboratoriya-izobreteniy <- concept_company;
+company_laboratoriya_izobreteniy <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Лаборатория изобретений]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375(17)247-0973]
+	[+375(17)247_0973]
 	(* <- concept_phone_number;;*);
 	[info@labinvent.com]
 	(* <- concept_email;;*);

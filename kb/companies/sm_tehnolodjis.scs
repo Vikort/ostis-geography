@@ -1,4 +1,4 @@
-company_sm-tehnolodjis <- concept_company;
+company_sm_tehnolodjis <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[СМ Технолоджис]

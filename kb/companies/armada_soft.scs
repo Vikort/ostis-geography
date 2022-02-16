@@ -1,9 +1,9 @@
-company_armada-soft <- concept_company;
+company_armada_soft <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Армада Софт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-277-13-89]
+	[+375_17_277_13_89]
 	(* <- concept_phone_number;;*);
 	[info@armadalabs.com]
 	(* <- concept_email;;*);
@@ -11,7 +11,7 @@ company_armada-soft <- concept_company;
 	(* <- concept_website;;*);
 	[192292265]
 	(* <- concept_ucn;;*);
-	[пр-т Дзержинского 104 оф. 1301]
+	[пр_т Дзержинского 104 оф. 1301]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

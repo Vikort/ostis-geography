@@ -1,4 +1,4 @@
-company_prodaktiv-edj <- concept_company;
+company_prodaktiv_edj <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Продактив Эдж]

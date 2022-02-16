@@ -3,7 +3,7 @@ company_ayoleyn <- concept_company;
 =>nrel_main_idtf:
 	[Айолэйн]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375 (29) 143-45-50]
+	[+375 (29) 143_45_50]
 	(* <- concept_phone_number;;*);
 	[info@aiolane.com]
 	(* <- concept_email;;*);

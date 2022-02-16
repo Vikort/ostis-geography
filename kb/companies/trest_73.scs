@@ -1,9 +1,9 @@
-company_trest-73 <- concept_company;
+company_trest_73 <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Трест № 73]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17-290-13-25]
+	[+375_17_290_13_25]
 	(* <- concept_phone_number;;*);
 	[info@trest73.by]
 	(* <- concept_email;;*);

@@ -1,4 +1,4 @@
-company_akdev-grupp <- concept_company;
+company_akdev_grupp <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[АКДев Групп]

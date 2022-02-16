@@ -1,4 +1,4 @@
-company_onlayn-media <- concept_company;
+company_onlayn_media <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
 	[Онлайн Медиа]
@@ -11,7 +11,7 @@ company_onlayn-media <- concept_company;
 	(* <- concept_website;;*);
 	[191688692]
 	(* <- concept_ucn;;*);
-	[ул. Водолажского, д.15-21]
+	[ул. Водолажского, д.15_21]
 	(* <- lang_ru;; <- name_ru;; <- concept_address;;*);
 =>nrel_country:
 	belarus;

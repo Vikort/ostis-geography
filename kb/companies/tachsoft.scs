@@ -3,7 +3,7 @@ company_tachsoft <- concept_company;
 =>nrel_main_idtf:
 	[ТачСофт]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
-	[+375-17 275-05-60]
+	[+375_17 275_05_60]
 	(* <- concept_phone_number;;*);
 	[info@touchsoft.by]
 	(* <- concept_email;;*);
