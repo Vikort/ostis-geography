@@ -2,10 +2,10 @@
 SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/vitebsk
 */
 
-// 1
+// 1 +
 vitebsk_vegetarian_college=>nrel_main_idtf:[Витебская Государственная Академия ветеринарной медицины]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Agrarian College of Educational Establishment "Vitebsk State Academy of Veterinary Medicine"]
         (*
@@ -26,11 +26,12 @@ vitebsk_vegetarian_college=>nrel_site:[www.agrokoledj.vitebsk.by];;
 
 vitebsk_vegetarian_college=>nrel_search_area:vitebsk;;
 vitebsk_vegetarian_college <- concept_secondary_schools;;
+vitebsk_vegetarian_college=>nrel_open_year:1909;;
 
-// 2
+// 2 +
 vitebsk_connection_college=>nrel_main_idtf:[Витебский филиал Беларуской государственной академии связи]
-        (*
-                <-lang_ru;;
+        (* 
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [Vitebsk branch of EE "Belarusian State Academy of Telecommunications"]
         (*
@@ -51,11 +52,12 @@ vitebsk_connection_college=>nrel_site:[vfbsac.by];;
 
 vitebsk_connection_college=>nrel_search_area:vitebsk;;
 vitebsk_connection_college <- concept_secondary_schools;;
+vitebsk_connection_college=>nrel_open_year:1945;;
 
-// 3
+// 3 +
 vitebsk_ind_ped_college=>nrel_main_idtf:[Индустриально-педагогический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;;<- name_ru;; <- name;;
         *);
         [Industrial-Pedagogical College of EE "Vitebsk State Technological University"]
         (*
@@ -76,11 +78,12 @@ vitebsk_ind_ped_college=>nrel_site:[vgipk.by];;
 
 vitebsk_ind_ped_college=>nrel_search_area:vitebsk;;
 vitebsk_ind_ped_college <- concept_secondary_schools;;
+vitebsk_ind_ped_college=>nrel_open_year:1960;;
 
-// 4
+// 4 +
 orsha_masherovs_college=>nrel_main_idtf:[Оршанский колледж УО «ВГУ имени П.М. Машерова»]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Orsha College of Educational Establishment "Vitebsk State University named after P. M. Masherov"]
         (*
@@ -101,11 +104,12 @@ orsha_masherovs_college=>nrel_site:[okvgu.vsu.by];;
 
 orsha_masherovs_college=>nrel_search_area:orsha;;
 orsha_masherovs_college <- concept_secondary_schools;;
+orsha_masherovs_college=>nrel_open_year:1911;;
 
-// 5
+// 5 +
 orsha_transport_college=>nrel_main_idtf:[Оршанский колледж - филиал УО "Белорусский государственный университет транспорта"]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Orsha College - branch of the EE "Belarusian State University of Transport"]
         (*
@@ -127,11 +131,12 @@ orsha_transport_college=>nrel_site:[ogkjt.by];;
 
 orsha_transport_college=>nrel_search_area:orsha;;
 orsha_transport_college <- concept_secondary_schools;;
+orsha_transport_college=>nrel_open_year:1929;;
 
-// 6
+// 6 +
 polotsk_medical_college=>nrel_main_idtf:[Полоцкий государственный медицинский колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;;  <- name_ru;; <- name;;
         *);
         [Polotsk State Medical College. Hero of the Soviet Union Z.M. Tusnolobova-Marchenko]
         (*
@@ -152,11 +157,12 @@ polotsk_medical_college=>nrel_site:[www.psec.by];;
 
 polotsk_medical_college=>nrel_search_area:polatsk;;
 polotsk_medical_college <- concept_secondary_schools;;
+polotsk_medical_college=>nrel_open_year:1937;;
 
 // 7 - не омечено на карте, поэтому оставляю такое название
 polotsk_masherov_college=>nrel_main_idtf:[Полоцкий колледж УО "Витебский государственный университет им. П.М. Машерова"]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Polotsk College of Educational Establishment "Vitebsk State University named after P.M. Masherov"]
         (*
@@ -177,11 +183,12 @@ polotsk_masherov_college=>nrel_site:[pedcol.vsu.by];;
 
 polotsk_masherov_college=>nrel_search_area:polatsk;;
 polotsk_masherov_college <- concept_secondary_schools;;
+polotsk_masherov_college=>nrel_open_year:1872;;
 
-// 8
+// 8 +
 vitebsk_culture_college=>nrel_main_idtf:[Витебский государственный колледж культуры и искусств]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [EE "Vitebsk State College of Culture and Arts"]
         (*
@@ -202,11 +209,12 @@ vitebsk_culture_college=>nrel_site:[www.vgkki.by];;
 
 vitebsk_culture_college=>nrel_search_area:vitebsk;;
 vitebsk_culture_college <- concept_secondary_schools;;
+vitebsk_culture_college=>nrel_open_year:1971;;
 
-// 9
+// 9 +
 vitebsk_electical_college=>nrel_main_idtf:[Политехнический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [EE "Vitebsk State College of Electrical Engineering"]
         (*
@@ -228,10 +236,10 @@ vitebsk_electical_college=>nrel_site:[vgke.by];;
 vitebsk_electical_college=>nrel_search_area:vitebsk;;
 vitebsk_electical_college <- concept_secondary_schools;;
 
-// 10
+// 10 +
 vitebsk_medician_antonov_college=>nrel_main_idtf:[Витебский государственный медицинский колледж имени академика И. П. Антонова]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;;  <- name;;
         *);
         [Educational Establishment "Vitebsk State Medical College named after academician I.P. Antonov"]
         (*
@@ -252,11 +260,12 @@ vitebsk_medician_antonov_college=>nrel_site:[vitgmk.by];;
 
 vitebsk_medician_antonov_college=>nrel_search_area:vitebsk;;
 vitebsk_medician_antonov_college <- concept_secondary_schools;;
+vitebsk_medician_antonov_college=>nrel_open_year:1871;;
 
-// 11
+// 11 +
 vitebsk_musican_sollertinskogo_college=>nrel_main_idtf:[Музыкальный колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [Educational Establishment "Vitebsk State Music College named after I.I. Sollertinsky"]
         (*
@@ -278,11 +287,12 @@ vitebsk_musican_sollertinskogo_college=>nrel_site:[vgmk.by];;
 
 vitebsk_musican_sollertinskogo_college=>nrel_search_area:vitebsk;;
 vitebsk_musican_sollertinskogo_college <- concept_secondary_schools;;
+vitebsk_musican_sollertinskogo_college=>nrel_open_year:1918;;
 
-// 12
+// 12 +
 vitebsk_technical_college=>nrel_main_idtf:[Витебский государственный технический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [EE "Vitebsk State Technical College"]
         (*
@@ -303,11 +313,12 @@ vitebsk_technical_college=>nrel_site:[www.vgtk.by];;
 
 vitebsk_technical_college=>nrel_search_area:vitebsk;;
 vitebsk_technical_college <- concept_secondary_schools;;
+vitebsk_technical_college=>nrel_open_year:1955;;
 
-// 13
+// 13 +
 vitebsk_olimpic_college=>nrel_main_idtf:[Училище олимпийского резерва]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Vitebsk State School of Olympic Reserve"]
         (*
@@ -329,11 +340,12 @@ vitebsk_olimpic_college=>nrel_site:[vguor.by];;
 
 vitebsk_olimpic_college=>nrel_search_area:vitebsk;;
 vitebsk_olimpic_college <- concept_secondary_schools;;
+vitebsk_olimpic_college=>nrel_open_year:1964;;
 
-// 14
+// 14 +
 vitebsk_industrial_technological_college=>nrel_main_idtf:[Индустриально-технологический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [Educational Establishment "Vitebsk State Industrial and Technological College"]
         (*
@@ -355,10 +367,10 @@ vitebsk_industrial_technological_college=>nrel_site:[vgitk.by];;
 vitebsk_industrial_technological_college=>nrel_search_area:vitebsk;;
 vitebsk_industrial_technological_college <- concept_secondary_schools;;
 
-// 15
+// 15 +
 gorodok_agarian_technical_college=>nrel_main_idtf:[Городокский государственный аграрно-технический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [Educational Establishment "Gorodok State Agrarian and Technical College"]
         (*
@@ -379,11 +391,12 @@ gorodok_agarian_technical_college=>nrel_site:[ggatk.by];;
 
 gorodok_agarian_technical_college=>nrel_search_area:haradok;;
 gorodok_agarian_technical_college <- concept_secondary_schools;;
+gorodok_agarian_technical_college=>nrel_open_year:1930;;
 
-// 16
+// 16 + 
 lepel_agarian_technical_college=>nrel_main_idtf:[Лепельский государственный аграрно-технический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Lepel State Agrarian and Technical College"]
         (*
@@ -404,11 +417,12 @@ lepel_agarian_technical_college=>nrel_site:[lgatk.edu.by/];;
 
 lepel_agarian_technical_college=>nrel_search_area:lyepyel;;
 lepel_agarian_technical_college <- concept_secondary_schools;;
+lepel_agarian_technical_college=>nrel_open_year:1974;;
 
-// 17
+// 17 +
 navapolatsk_musical_college=>nrel_main_idtf:[Новополоцкий государственный музыкальный колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Novopolotsk State Musical College"]
         (*
@@ -429,11 +443,12 @@ navapolatsk_musical_college=>nrel_site:[ngmk.by];;
 
 navapolatsk_musical_college=>nrel_search_area:navapolatsk;;
 navapolatsk_musical_college <- concept_secondary_schools;;
+navapolatsk_musical_college=>nrel_open_year:1968;;
 
-// 18
+// 18 +
 navapolatsk_olimpic_college=>nrel_main_idtf:[Училище олимпийского резерва]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Novopolotsk State School of Olympic Reserve"]
         (*
@@ -455,10 +470,10 @@ navapolatsk_olimpic_college=>nrel_site:[nguor.jimdo.com];;
 navapolatsk_olimpic_college=>nrel_search_area:navapolatsk;;
 navapolatsk_olimpic_college <- concept_secondary_schools;;
 
-// 19
+// 19 +
 orshanskiy_agarian_college=>nrel_main_idtf:[Оршанский государственный колледж продовольствия]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [EE "Orsha State College of Food"]
         (*
@@ -480,10 +495,10 @@ orshanskiy_agarian_college=>nrel_site:[ogak.by];;
 orshanskiy_agarian_college=>nrel_search_area:orsha_district;;
 orshanskiy_agarian_college <- concept_secondary_schools;;
 
-// 20
+// 20 +
 orsha_medical_college=>nrel_main_idtf:[Оршанский государственный медицинский колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [EE "Orsha State Medical College"]
         (*
@@ -504,11 +519,12 @@ orsha_medical_college=>nrel_site:[www.ogmk.by];;
 
 orsha_medical_college=>nrel_search_area:orsha;;
 orsha_medical_college <- concept_secondary_schools;;
+orsha_medical_college=>nrel_open_year:1925;;
 
-// 21
+// 21 +
 orsha_mechanics_econimics_college=>nrel_main_idtf:[ОГМЭК]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Orsha State Mechanics and Economics College"]
         (*
@@ -529,11 +545,12 @@ orsha_mechanics_econimics_college=>nrel_site:[www.osmec.by];;
 
 orsha_mechanics_econimics_college=>nrel_search_area:orsha;;
 orsha_mechanics_econimics_college <- concept_secondary_schools;;
+orsha_mechanics_econimics_college=>nrel_open_year:1954;;
 
-// 22
+// 22 +
 polatsk_chemical_technological_college=>nrel_main_idtf:[Полоцкий государственный химико-технологический колледж]
-        (*
-                <-lang_ru;;
+        (* 
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Polotsk State Chemical-Technological College"]
         (*
@@ -554,11 +571,12 @@ polatsk_chemical_technological_college=>nrel_site:[pghtk.vitebsk.by];;
 
 polatsk_chemical_technological_college=>nrel_search_area:polatsk;;
 polatsk_chemical_technological_college <- concept_secondary_schools;;
+polatsk_chemical_technological_college=>nrel_open_year:1914;;
 
-// 23
+// 23 +
 polatsk_economical_college=>nrel_main_idtf:[Полоцкий государственный аграрно-экономический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [EE "Polotsk State Economic College"]
         (*
@@ -579,11 +597,12 @@ polatsk_economical_college=>nrel_site:[pgaek.by];;
 
 polatsk_economical_college=>nrel_search_area:polatsk;;
 polatsk_economical_college <- concept_secondary_schools;;
+polatsk_economical_college=>nrel_open_year:1951;;
 
-// 24
+// 24 + 
 polatsk_trade_technological_college=>nrel_main_idtf:[Полоцкий торгово-технологический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <-name_ru;; <- name;;
         *);
         [Educational Establishment "Polotsk Trade and Technological College" Belcoopsoyuz]
         (*
@@ -605,10 +624,10 @@ polatsk_trade_technological_college=>nrel_site:[www.pttc.bks.by];;
 polatsk_trade_technological_college=>nrel_search_area:polatsk;;
 polatsk_trade_technological_college <- concept_secondary_schools;;
 
-// 25
+// 25 +
 postavy_state_college=>nrel_main_idtf:[Поставский государственный колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Postavy State College"]
         (*
@@ -629,11 +648,12 @@ postavy_state_college=>nrel_site:[пгк.бел];;
 
 postavy_state_college=>nrel_search_area:pastavy;;
 postavy_state_college <- concept_secondary_schools;;
+postavy_state_college=>nrel_open_year:1937;;
 
-// 26
+// 26 +
 vitebsk_state_technological_college=>nrel_main_idtf:[Технологический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <-name_ru ;;<- name;;
         *);
         [Branch of BSTU "Vitebsk State Technological College"]
         (*
@@ -654,11 +674,12 @@ vitebsk_state_technological_college=>nrel_site:[vitgtk.belstu.by];;
 
 vitebsk_state_technological_college=>nrel_search_area:vitebsk;;
 vitebsk_state_technological_college <- concept_secondary_schools;;
+vitebsk_state_technological_college=>nrel_open_year:1983;;
 
-// 27
+// 27 + 
 polatsk_state_forest_college=>nrel_main_idtf:[Полоцкий государственный лесной колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <-name_ru ;; <- name;;
         *);
         [Branch of BSTU "Polotsk State Forest College"]
         (*
@@ -679,4 +700,5 @@ polatsk_state_forest_college=>nrel_site:[pglk.belstu.by];;
 
 polatsk_state_forest_college=>nrel_search_area:polatsk;;
 polatsk_state_forest_college <- concept_secondary_schools;;
+polatsk_state_forest_college=>nrel_open_year:1921;;
 

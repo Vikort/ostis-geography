@@ -3,19 +3,17 @@ SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/bres
 */
 
 
-// 1
-brest_transport_college=>nrel_main_idtf:[Колледж ЖД транспорта]
-        (*
-                <-lang_ru;;
-        *);
-        [Brest College - branch of the Belarusian State University of Transport]
-        (*
-                <-lang_en;;
-        *);;
-brest_transport_college=>nrel_idtf:[Брестский колледж – филиал УО "Белорусский государственный университет транспорта"]
-        (*
-                <-lang_ru;;
-        *);;
+// 1 +
+brest_transport_college
+=>nrel_main_idtf:
+[Колледж ЖД транспорта]
+        (*<-lang_ru;; <- name;;*);
+[Brest College - branch of the Belarusian State University of Transport]
+        (*<-lang_en;;*);;
+brest_transport_college=>
+nrel_idtf:
+[Брестский колледж – филиал УО "Белорусский государственный университет транспорта"]
+        (*<-lang_ru;;*);;
 
 brest_transport_college=>nrel_region:brest_region;;
 brest_transport_college=>nrel_city:brest;;
@@ -25,49 +23,45 @@ brest_transport_college=>nrel_phone_number:[8 (0162) 26 21 70 (приемная 
 brest_transport_college=>nrel_address:[г. Брест, ул. Пушкинская, 65];;
 brest_transport_college=>nrel_email:[rwcollege@brest.by];;
 brest_transport_college=>nrel_site:[brest.bsut.by/index1.html];;
-
+brest_transport_college=>nrel_open_year:1922;;
 
 brest_transport_college <- concept_secondary_schools;;
 
-// 2 
-brest_bisness_and_prav_college=>nrel_main_idtf:[Колледж бизнеса и права]
-        (*
-                <-lang_ru;;
-        *);
-        [Brest branch of the Private Educational Institution "College of Business and Law"]
-        (*
-                <-lang_en;;
-        *);;
-brest_bisness_and_prav_college=>nrel_idtf:[Брестский филиал ЧУО "Колледж бизнеса и права"]
-        (*
-                <-lang_ru;;
-        *);;
+// 2 +
+brest_bisness_and_prav_college
+=>nrel_main_idtf:
+[Колледж бизнеса и права]
+        (*<-lang_ru;; <- name_ru;; <- name;;*);
+[Brest branch of the Private Educational Institution "College of Business and Law"]
+        (*<-lang_en;;*);;
+brest_bisness_and_prav_college=>
+nrel_idtf:
+[Брестский филиал ЧУО "Колледж бизнеса и права"]
+        (*<-lang_ru;;*);;
 
 brest_bisness_and_prav_college=>nrel_region:brest_region;;
 brest_bisness_and_prav_college=>nrel_city:brest;;
 brest_bisness_and_prav_college=>nrel_search_area:brest;;
 
-
 brest_bisness_and_prav_college=>nrel_phone_number:[+375 33 622 67 27, 8 0162 53 67 27; +375-162-23-86-92];;
 brest_bisness_and_prav_college=>nrel_address:[г. Брест, пл. Свободы 13];;
 brest_bisness_and_prav_college=>nrel_email:[kbip@tut.by];;
 brest_bisness_and_prav_college=>nrel_site:[brest.kbp.by];;
+brest_bisness_and_prav_college=>nrel_open_year:1996;;
 
 brest_bisness_and_prav_college <- concept_secondary_schools;;
 
-// 3 
-liaxovichevskiy_college=>nrel_main_idtf:[Ляховичский государственный аграрный колледж]
-        (*
-                <-lang_ru;;
-        *);
+// 3 +
+liaxovichevskiy_college
+=>nrel_main_idtf:
+[Ляховичский государственный аграрный колледж]
+        (*<-lang_ru;; <- name_ru;; <- name;;*);
         [EP "Lyakhovichi Agrarian College" Educational Establishment "Baranovichi State University"]
-        (*
-                <-lang_en;;
-        *);;
-liaxovichevskiy_college=>nrel_idtf:[ОП «Ляховичский аграрный колледж» УО «Барановичский государственный университет»]
-        (*
-                <-lang_ru;;
-        *);;
+        (*<-lang_en;;*);;
+liaxovichevskiy_college
+=>nrel_idtf:
+[ОП «Ляховичский аграрный колледж» УО «Барановичский государственный университет»]
+        (*<-lang_ru;;*);;
 
 liaxovichevskiy_college=>nrel_region:brest_region;;
 liaxovichevskiy_college=>nrel_city:lyakhavichy;;
@@ -77,39 +71,38 @@ liaxovichevskiy_college=>nrel_phone_number:[8-01633-2-17-40];;
 liaxovichevskiy_college=>nrel_address:[г. Ляховичи, ул. Ленина, 64];;
 liaxovichevskiy_college=>nrel_email:[agrocollege@brest.by];;
 liaxovichevskiy_college=>nrel_site:[agrocollege.brest.by];;
+liaxovichevskiy_college=>nrel_open_year:1957;;
 
 liaxovichevskiy_college <- concept_secondary_schools;;
 
-// 4 
-pinskiy_college=>nrel_main_idtf:[Педагагічны каледж]
-        (*
-                <-lang_be;;
-        *);
+// 4 +
+pinskiy_college
+=>nrel_main_idtf:
+[Педагагічны каледж]
+        (*<-lang_be;; <- name;;*);
         [Pinsk College of Educational Establishment "Brest State University named after A.S. Pushkin"]
-        (*
-                <-lang_ru;;
-        *);;
-pinskiy_college=>nrel_idtf:[Пинский колледж УО "Брестский государственный университет имени А.С.Пушкина"]
-        (*
-                <-lang_ru;;
-        *);;
+        (*<-lang_ru;;*);;
+pinskiy_college
+=>nrel_idtf:
+[Пинский колледж УО "Брестский государственный университет имени А.С.Пушкина"]
+        (*<-lang_ru;;*);;
 
 pinskiy_college=>nrel_region:brest_region;;
 pinskiy_college=>nrel_city:pinsk;;
 pinskiy_college=>nrel_search_area:pinsk;;
 
-
 pinskiy_college=>nrel_phone_number:[Т. (8-0165) 61-37-02 (приемная директора), 63-17-91 (приемная комиссия )];;
 pinskiy_college=>nrel_address:[г. Пинск, ул. Центральная, 5];;
 pinskiy_college=>nrel_email:[pk-brsu@edu.by];;
 pinskiy_college=>nrel_site:[pinskcol.brsu.by];;
+pinskiy_college=>nrel_open_year:1940;;
 
 pinskiy_college <- concept_secondary_schools;;
 
-// 5
+// 5 +
 baranovichevsky_college=>nrel_main_idtf:[Барановичский государственный колледж легкой промышленности имени В.Е. Чернышова]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Baranovichi State College of Light Industry named after V.E. Chernyshev"]
         (*
@@ -128,13 +121,14 @@ baranovichevsky_college=>nrel_phone_number:[8(0163) 41-30-16 (приемная �
 baranovichevsky_college=>nrel_address:[г. Барановичи, ул. Советская, 67 ];;
 baranovichevsky_college=>nrel_email:[bgklp-new@tut.by];;
 baranovichevsky_college=>nrel_site:[bgklp.by];;
+baranovichevsky_college=>nrel_open_year:1960;;
 
 baranovichevsky_college <- concept_secondary_schools;;
 
-// 6
+// 6 +
 baranovichevsky_technological_college=>nrel_main_idtf:[Барановичский технологический колледж Белкоопсоюза]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [EE "Baranovichi Technological College" Belcoopsoyuz]
         (*
@@ -153,13 +147,14 @@ baranovichevsky_technological_college=>nrel_phone_number:[8 (016)-367-35-06 (п�
 baranovichevsky_technological_college=>nrel_address:[г. Барановичи, ул. Ленина, 5];;
 baranovichevsky_technological_college=>nrel_email:[btk@bks.by];;
 baranovichevsky_technological_college=>nrel_site:[www.bartc.by];;
+baranovichevsky_technological_college=>nrel_open_year:1959;;
 
 baranovichevsky_technological_college <- concept_secondary_schools;;
 
-// 7 
+// 7 +
 baranovichevsky_musical_college=>nrel_main_idtf:[Барановичский государственный музыкальный колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Baranovichi State Musical College"]
         (*
@@ -178,13 +173,14 @@ baranovichevsky_musical_college=>nrel_phone_number:[Т. (8-0163)41-69-04 (при
 baranovichevsky_musical_college=>nrel_address:[г. Барановичи, ул. Горького, 91];;
 baranovichevsky_musical_college=>nrel_email:[bgmuz@tut.by];;
 baranovichevsky_musical_college=>nrel_site:[bgmuz.by];;
+baranovichevsky_musical_college=>nrel_open_year:1969;;
 
 baranovichevsky_musical_college <- concept_secondary_schools;;
 
-// 8
+// 8 +
 brest_communication_college=>nrel_main_idtf:[Брестский государственный колледж связи]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru ;; <- name;;
         *);
         [EE "Brest State College of Communications"]
         (*
@@ -203,13 +199,14 @@ brest_communication_college=>nrel_phone_number:[8(0162) 21 16 20 (приемна
 brest_communication_college=>nrel_address:[г. Брест, Кирова, 82];;
 brest_communication_college=>nrel_email:[ptksviazi@brest.by];;
 brest_communication_college=>nrel_site:[bgks.by];;
+brest_communication_college=>nrel_open_year:1944;;
 
 brest_communication_college <- concept_secondary_schools;;
 
-// 9
+// 9 +
 brestkiy_service_college=>nrel_main_idtf:[Брестский ПТК сферы обслуживания]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru ;; <- name;;
         *);
         [Educational Establishment "Brest State College of Service Sector"]
         (*
@@ -228,13 +225,14 @@ brestkiy_service_college=>nrel_phone_number:[8 0162) 24 63 84 (приемная 
 brestkiy_service_college=>nrel_address:[г. Брест, Пригородная, 23];;
 brestkiy_service_college=>nrel_email:[vpubo@brest.by];;
 brestkiy_service_college=>nrel_site:[bgkso.brest.by];;
+brestkiy_service_college=>nrel_open_year:1986;;
 
 brestkiy_service_college <- concept_secondary_schools;;
 
-// 10
+// 10 +
 brestkiy_medician_college=>nrel_main_idtf:[Брестский государственный медицинский колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [EE "Brest State Medical College"]
         (*
@@ -253,13 +251,14 @@ brestkiy_medician_college=>nrel_phone_number:[8 (0162) 53 74 17, 53 08 64; (0162
 brestkiy_medician_college=>nrel_address:[г. Брест, Медицинская, 15];;
 brestkiy_medician_college=>nrel_email:[info@medicalbrest.by];;
 brestkiy_medician_college=>nrel_site:[medicalbrest.by];;
+brestkiy_medician_college=>nrel_open_year:1944;;
 
 brestkiy_medician_college <- concept_secondary_schools;;
 
-// 11
+// 11 +
 brest_trade_college=>nrel_main_idtf:[Колледж торговли]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Brest State Trade and Technology College"]
         (*
@@ -278,13 +277,14 @@ brest_trade_college=>nrel_phone_number:[+375 162 21 31 83, +375 162 53 68 13];;
 brest_trade_college=>nrel_address:[г. Брест, Героев обороны Брестской крепости, 78];;
 brest_trade_college=>nrel_email:[ttk@brest.by];;
 brest_trade_college=>nrel_site:[ptktorg.brest.by];;
+brest_trade_college=>nrel_open_year:1950;;
 
 brest_trade_college <- concept_secondary_schools;;
 
-// 12
+// 12 +
 brest_misician_shirma_college=>nrel_main_idtf:[Брестский государственный музыкальный колледж имени Григория Ширмы]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Brest State Musical College named after G. Shirma"]
         (*
@@ -303,13 +303,14 @@ brest_misician_shirma_college=>nrel_phone_number:[+375 (16) 234-08-55; 21-62-89;
 brest_misician_shirma_college=>nrel_address:[г. Брест, ул. Гоголя, 7];;
 brest_misician_shirma_college=>nrel_email:[muscollege@brest.by];;
 brest_misician_shirma_college=>nrel_site:[mus.brest.by];;
+brest_misician_shirma_college=>nrel_open_year:1941;;
 
 brest_misician_shirma_college <- concept_secondary_schools;;
 
-// 13
+// 13 +
 brest_olimpic_college=>nrel_main_idtf:[Брестское областное УОР]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [Educational Establishment "Brest State Regional School of Olympic Reserve"]
         (*
@@ -328,13 +329,14 @@ brest_olimpic_college=>nrel_phone_number:[(8016) 24-42-75 - приемная к�
 brest_olimpic_college=>nrel_address:[г. Брест, ул. Пригородная, 25];;
 brest_olimpic_college=>nrel_email:[bruor@yandex.ru];;
 brest_olimpic_college=>nrel_site:[bruor.by];;
+brest_olimpic_college=>nrel_open_year:1995;;
 
 brest_olimpic_college <- concept_secondary_schools;;
 
-// 14
+// 14 +
 kobrinskiy_politec_college=>nrel_main_idtf:[Кобринский государственный политехнический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Kobrin State Polytechnic College"]
         (*
@@ -353,13 +355,14 @@ kobrinskiy_politec_college=>nrel_phone_number:[(01642) 2-28-77 (приемная
 kobrinskiy_politec_college=>nrel_address:[г. Кобрин, ул. Дзержинского, 54];;
 kobrinskiy_politec_college=>nrel_email:[kgpk@brest.by];;
 kobrinskiy_politec_college=>nrel_site:[kgptks.brest.by];;
+kobrinskiy_politec_college=>nrel_open_year:1968;;
 
 kobrinskiy_politec_college <- concept_secondary_schools;;
 
-// 15 - названия нет поэтому оставил так
+// 15 - названия нет поэтому оставил так +
 pinskiy_art_college=>nrel_main_idtf:[Пинский государственный колледж искусств]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [EE "Pinsk State College of Arts"]
         (*
@@ -378,13 +381,14 @@ pinskiy_art_college=>nrel_phone_number:[8(0165) 65 06 08 (приемная ди�
 pinskiy_art_college=>nrel_address:[г. Пинск, ул. В.Хоружей, 12];;
 pinskiy_art_college=>nrel_email:[artpinsk@tut.by];;
 pinskiy_art_college=>nrel_site:[artpinsk.by];;
+pinskiy_art_college=>nrel_open_year:1990;;
 
 pinskiy_art_college <- concept_secondary_schools;;
 
-// 16
+// 16 +
 pinskiy_medician_college=>nrel_main_idtf:[Медыцынскі каледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [EE "Pinsk State Medical College"]
         (*
@@ -403,13 +407,14 @@ pinskiy_medician_college=>nrel_phone_number:[(0165) 63-62-35; (0165) 66-72-84 (�
 pinskiy_medician_college=>nrel_address:[г. Пинск, ул. Рокоссовского, 6];;
 pinskiy_medician_college=>nrel_email:[pinskmedkol@tut.by];;
 pinskiy_medician_college=>nrel_site:[pinskmed.by];;
+pinskiy_medician_college=>nrel_open_year:1940;;
 
 pinskiy_medician_college <- concept_secondary_schools;;
 
-// 17
+// 17 +
 pryzanskiy_agarian_college=>nrel_main_idtf:[Пружанский государственный аграрно-технический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Pruzhany State Agrarian and Technical College"]
         (*
@@ -428,13 +433,14 @@ pryzanskiy_agarian_college=>nrel_phone_number:[9-16-08(приемная дире
 pryzanskiy_agarian_college=>nrel_address:[г. Пружаны, ул. Красноармейская, 11];;
 pryzanskiy_agarian_college=>nrel_email:[college@brest.by];;
 pryzanskiy_agarian_college=>nrel_site:[www.college.brest.by];;
+pryzanskiy_agarian_college=>nrel_open_year:1953;;
 
 pryzanskiy_agarian_college <- concept_secondary_schools;;
 
-// 18
+// 18 + 
 stolinskiy_agarniy_econ_college=>nrel_main_idtf:[Столінскі дзяржаўны аграрна-эканамічны каледж]
         (*
-                <-lang_ru;;
+                <-lang_be;; <- name;;
         *);
         [Educational Establishment "Stolin State Agrarian and Economic College"]
         (*
@@ -453,13 +459,14 @@ stolinskiy_agarniy_econ_college=>nrel_phone_number:[(8-01655) 6-22-69 (прие�
 stolinskiy_agarniy_econ_college=>nrel_address:[г. Столин, ул. Советская, 133];;
 stolinskiy_agarniy_econ_college=>nrel_email:[saec@tut.by];;
 stolinskiy_agarniy_econ_college=>nrel_site:[saec.by];;
+stolinskiy_agarniy_econ_college=>nrel_open_year:1940;;
 
 stolinskiy_agarniy_econ_college <- concept_secondary_schools;;
 
-// 19
+// 19 +
 pinskiy_ind_ped_college=>nrel_main_idtf:[Пинский государственный индустриально-педагогический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [Branch of EE "Brest State Technical University" Pinsk Industrial Pedagogical College]
         (*
@@ -478,13 +485,14 @@ pinskiy_ind_ped_college=>nrel_phone_number:[8(0165) 65-40-45 (приемная �
 pinskiy_ind_ped_college=>nrel_address:[г. Пинск, ул. Иркутско-Пинской Дивизии, 27];;
 pinskiy_ind_ped_college=>nrel_email:[pnsipk@brest.by];;
 pinskiy_ind_ped_college=>nrel_site:[uo-pgipk.bstu.by];;
+pinskiy_ind_ped_college=>nrel_open_year:1955;;
 
 pinskiy_ind_ped_college <- concept_secondary_schools;;
 
-// 20
+// 20 +
 brest_politecnic_college=>nrel_main_idtf:[УО "Брестский государственный политехнический колледж"]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [Branch of EE "Brest State Technical University" Polytechnic College]
         (*
@@ -503,13 +511,14 @@ brest_politecnic_college=>nrel_phone_number:[+375 (0162) 51 33 54 (приемн�
 brest_politecnic_college=>nrel_address:[г. Брест, ул. К. Маркса, 49];;
 brest_politecnic_college=>nrel_email:[bspc@bstu.by];;
 brest_politecnic_college=>nrel_site:[bspc.bstu.by/ru/home];;
+brest_politecnic_college=>nrel_open_year:1966;;
 
 brest_politecnic_college <- concept_secondary_schools;;
 
-// 21
+// 21 +
 baranovichskiy_econimical_college=>nrel_main_idtf:[Экономико-юридический колледж]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name;;
         *);
         [PIU "Baranovichi College of Economics and Law"]
         (*
@@ -528,15 +537,15 @@ baranovichskiy_econimical_college=>nrel_phone_number:[8 (0163) 65-85-52 (при�
 baranovichskiy_econimical_college=>nrel_address:[г. Барановичи, ул. Тельмана, 110];;
 baranovichskiy_econimical_college=>nrel_email:[college@tut.by, contact@eurocollege.by];;
 baranovichskiy_econimical_college=>nrel_site:[www.eurocollege.by];;
+baranovichskiy_econimical_college=>nrel_open_year:1992;;
 
 baranovichskiy_econimical_college <- concept_secondary_schools;;
 
-// 22
-brest_transport_college=>nrel_search_area:brest;;
+// 22 +
 
 pisnskiy_agarno_tecn_college=>nrel_main_idtf:[Пинский государственный аграрно-технический колледж им. А. Е. Клещёва]
         (*
-                <-lang_ru;;
+                <-lang_ru;; <- name_ru;; <- name;;
         *);
         [EE "Pinsk State Agrarian and Technical College named after A.E. Kleshchev"]
         (*
@@ -555,6 +564,7 @@ pisnskiy_agarno_tecn_college=>nrel_phone_number:[8(0165) 31-62-39 (приемн�
 pisnskiy_agarno_tecn_college=>nrel_address:[г. Пинск, ул. Иркутско-Пинской дивизии, 25];;
 pisnskiy_agarno_tecn_college=>nrel_email:[pgatkk@yandex.by];;
 pisnskiy_agarno_tecn_college=>nrel_site:[www.pgatkk.by];;
+pisnskiy_agarno_tecn_college=>nrel_open_year:1946;;
 
 pisnskiy_agarno_tecn_college <- concept_secondary_schools;;
 
