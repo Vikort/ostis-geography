@@ -146,9 +146,7 @@ rcor_handball  <- concept_sport_construction;
 =>nrel_district:
     minsk_district;
 =>nrel_construction_year:
-    1968;
-=>nrel_sport_direction:
-    concept_handball;;
+    1968;;
     
 
 
@@ -167,7 +165,7 @@ sdushorfigureskating  <- concept_sport_construction;
 =>nrel_construction_year:
     1997;
 =>nrel_sport_direction:
-    figure_scating;;
+    concept_figure_skating;;
     
 
 

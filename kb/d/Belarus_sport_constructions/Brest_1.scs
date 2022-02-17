@@ -13,7 +13,7 @@ sdushorbike  <- concept_sport_construction;
 =>nrel_construction_year:
     2009;
 =>nrel_sport_direction:
-    cycling;;    
+    concept_cycling;;    
 
 
 //2
@@ -131,32 +131,10 @@ winter_sport_kobrin  <- concept_sport_construction;
 =>nrel_district:
     brest_district;
 =>nrel_construction_year:
-    2003;
-=>nrel_sport_direction:
-    winter_sport;;
+    2003;;
     
 
 //9
-sdushorbike  <- concept_sport_construction;
-<- concept_sport_construction_of_the_Brest_region;
-=>nrel_main_idtf:
-    [Государственное учебно-спортивное учреждение ”Барановичская специализированная детско-юношеская школа олимпийского резерва единоборств и велоспорта“]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    brest_region;
-=>nrel_district:
-    brest_district;
-=>nrel_construction_year:
-    2009;
-=>nrel_sport_direction:
-    cycling;
-=>nrel_capacity:
-    2000;;
-    
-
-//10
 dushor_brest  <- concept_sport_construction;
 <- concept_sport_construction_of_the_Brest_region;
 =>nrel_main_idtf:

@@ -77,7 +77,7 @@ sdushor_cycling_vit  <- concept_sport_construction;
 =>nrel_construction_year:
     1992;
 =>nrel_sport_direction:
-    cycling;;
+    concept_cycling;;
     
 //6
 comsomolec_vit  <- concept_sport_construction;

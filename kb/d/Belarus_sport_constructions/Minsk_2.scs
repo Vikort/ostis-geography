@@ -51,7 +51,7 @@ led_palace  <- concept_sport_construction;
 =>nrel_construction_year:
     1983;
 =>nrel_sport_direction:
-    figure_scating;
+    concept_figure_skating;
 =>nrel_capacity:
     3000;;
     
@@ -108,7 +108,7 @@ mapid  <- concept_sport_construction;
 =>nrel_construction_year:
     1990;
 =>nrel_sport_direction:
-    body_building;;
+    concept_body_building;;
     
 
 
@@ -127,7 +127,7 @@ mmsc  <- concept_sport_construction;
 =>nrel_construction_year:
     2003;
 =>nrel_sport_direction:
-    concept_big_tennis;;
+    concept_tennis;;
     
 
 
@@ -182,7 +182,7 @@ jym_suharevo  <- concept_sport_construction;
 =>nrel_construction_year:
     2001;
 =>nrel_sport_direction:
-    body_building;;
+    concept_body_building;;
     
 
 

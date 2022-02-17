@@ -56,9 +56,7 @@ cor_edinob_vit  <- concept_sport_construction;
 =>nrel_district:
     vitebsk_district;
 =>nrel_construction_year:
-    2000;
-=>nrel_sport_direction:
-    karate;;
+    2000;;
     
 //5
 dush_ushachskaya  <- concept_sport_construction;

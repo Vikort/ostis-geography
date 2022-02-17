@@ -43,9 +43,7 @@ winter_sport_lununets  <- concept_sport_construction;
 =>nrel_district:
     brest_district;
 =>nrel_construction_year:
-    2005;
-=>nrel_sport_direction:
-    winter_sport;;
+    2005;;
     
 //4
 dushor_lununets  <- concept_sport_construction;
@@ -75,9 +73,7 @@ dushor_athlet_lununets  <- concept_sport_construction;
 =>nrel_district:
     brest_district;
 =>nrel_construction_year:
-    2004;
-=>nrel_sport_direction:
-    concept_athletics;;
+    2004;;
     
 //6
 dush_ivacevichi  <- concept_sport_construction;

@@ -80,8 +80,7 @@ gymnastic_school  <- concept_sport_construction;
     vitebsk_district;
 =>nrel_construction_year:
     1996;
-=>nrel_sport_direction:
-    concept_gymnastics;;
+    ;
     
 //6
 hockey_club_vitebsk  <- concept_sport_construction;

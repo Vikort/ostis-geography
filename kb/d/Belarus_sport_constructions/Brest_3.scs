@@ -64,7 +64,7 @@ led_arena_brest  <- concept_sport_construction;
 =>nrel_construction_year:
     2004;
 =>nrel_sport_direction:
-    figure_scating;
+    concept_figure_skating;
 =>nrel_capacity:
     3000;;
     
