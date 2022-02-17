@@ -1,0 +1,11 @@
+industrialnaja_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Industrialnaja street]
+                (* <- lang_en;; <- name_en;;*);
+                [улица Индустриальная]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2800;
+                =>nrel_number_of_house:14;
+                =>nrel_search_area:
+                moghilev;;
+                

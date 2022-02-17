@@ -1,0 +1,11 @@
+babushkina_ulitsa_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Babushkina ulitsa street]
+                (* <- lang_en;; <- name_en;;*);
+                [улица Бабушкина улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3300;
+                =>nrel_number_of_house:41;
+                =>nrel_search_area:
+                moghilev;;
+                

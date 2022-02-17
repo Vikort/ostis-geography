@@ -1,0 +1,11 @@
+vokzalnyj_rynok_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Vokzalnyj rynok street]
+                (* <- lang_en;; <- name_en;;*);
+                [ Вокзальный рынок]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3100;
+                =>nrel_number_of_house:78;
+                =>nrel_search_area:
+                moghilev;;
+                

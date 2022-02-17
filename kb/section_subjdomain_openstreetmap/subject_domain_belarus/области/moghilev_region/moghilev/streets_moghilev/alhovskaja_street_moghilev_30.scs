@@ -1,0 +1,11 @@
+alhovskaja_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Alhovskaja street]
+                (* <- lang_en;; <- name_en;;*);
+                [улица Альховская]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:500;
+                =>nrel_number_of_house:10;
+                =>nrel_search_area:
+                moghilev;;
+                

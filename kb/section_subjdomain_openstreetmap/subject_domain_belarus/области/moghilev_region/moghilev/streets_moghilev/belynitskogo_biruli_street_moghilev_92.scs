@@ -1,0 +1,11 @@
+belynitskogo_biruli_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Belynitskogo-Biruli street]
+                (* <- lang_en;; <- name_en;;*);
+                [улица Белыницкого-Бирули]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:400;
+                =>nrel_number_of_house:72;
+                =>nrel_search_area:
+                moghilev;;
+                

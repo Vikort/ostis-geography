@@ -1,0 +1,11 @@
+kalinovskogo_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Kalinovskogo street]
+                (* <- lang_en;; <- name_en;;*);
+                [улица Калиновского]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3000;
+                =>nrel_number_of_house:68;
+                =>nrel_search_area:
+                moghilev;;
+                

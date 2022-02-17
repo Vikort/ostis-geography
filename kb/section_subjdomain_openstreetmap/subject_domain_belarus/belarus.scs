@@ -447,6 +447,22 @@ chervyen_district <- concept_district;
 
 //cities
 
+moghilev <- concept_city;
+=>nrel_main_idtf:
+    [Mahilyow]
+    (* <- lang_en;; <- name_en;;*);
+    [Могилёв]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_admin_level:
+    [6]
+    (*<-concept_admin_level;;*);
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    mogilev_region;
+=>nrel_country:
+    belarus;;
+
 minsk <- concept_city; concept_capital;
 =>nrel_main_idtf:
     [Minsk]

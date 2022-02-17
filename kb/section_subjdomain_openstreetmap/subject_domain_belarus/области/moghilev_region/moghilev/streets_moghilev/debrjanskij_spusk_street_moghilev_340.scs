@@ -1,0 +1,11 @@
+debrjanskij_spusk_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Debrjanskij spusk street]
+                (* <- lang_en;; <- name_en;;*);
+                [ Дебрянский спуск]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:1100;
+                =>nrel_number_of_house:39;
+                =>nrel_search_area:
+                moghilev;;
+                

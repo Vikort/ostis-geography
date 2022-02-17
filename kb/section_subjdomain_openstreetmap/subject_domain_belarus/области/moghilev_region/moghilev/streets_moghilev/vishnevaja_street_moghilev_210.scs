@@ -1,0 +1,11 @@
+vishnevaja_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Vishnevaja street]
+                (* <- lang_en;; <- name_en;;*);
+                [улица Вишневая]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2200;
+                =>nrel_number_of_house:55;
+                =>nrel_search_area:
+                moghilev;;
+                
