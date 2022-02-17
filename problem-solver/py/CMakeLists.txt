@@ -1,1 +1,7 @@
+add_subdirectory(HelloAgent)
+add_subdirectory(HelloScript)
 add_subdirectory(OpenStreetMapAgent)
+add_subdirectory(DistanceAgent)
+add_subdirectory(VillagesPopulationAgent)
+add_subdirectory(PopulationComparisonAgent)
+add_subdirectory(ExampleModule)

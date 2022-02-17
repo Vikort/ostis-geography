@@ -1,6 +1,6 @@
 malozhinskii_selsoviet <- concept_selsoviet;
 =>nrel_main_idtf:
-    [Маложенский сельский Совет]
+    [Маложинский сельский Совет]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [8]
