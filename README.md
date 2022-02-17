@@ -152,7 +152,7 @@
 	
 На выход:
 	
-![](https://github.com/VAny6661/ostis-geography/blob/Gomel-region-villages/Distance.png)
+![](https://github.com/VAny6661/ostis-geography/blob/villages/Distance.png)
 	
 2. Поиск количество людей в дереввне
 	
@@ -160,7 +160,7 @@
 	
 На выход:
 	
-![](https://github.com/VAny6661/ostis-geography/blob/Gomel-region-villages/populationDiff.png)
+![](https://github.com/VAny6661/ostis-geography/blob/villages/populationDiff.png)
 	
 3. Сравнение количество человек в деревнях
 	
@@ -168,5 +168,5 @@
 	
 На выход:
 	
-![](https://github.com/VAny6661/ostis-geography/blob/Gomel-region-villages/Population%20korma.png)
+![](https://github.com/VAny6661/ostis-geography/blob/villages/Population%20korma.png)
 
