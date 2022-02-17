@@ -1,0 +1,19 @@
+kopeechka_shop_5789600102<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[52.4531894]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[31.0206235]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Мазурова]
+(* <- lang_ru;; <- street;;*);
+=>nrel_search_area:
+gomel;;

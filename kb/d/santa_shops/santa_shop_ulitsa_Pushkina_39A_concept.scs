@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Pushkina_39A <- concept_santa_shop;
-=> nrel_street: ulitsa_Pushkina(* => nrel_main_idtf: [улица Пушкина] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-grodno;;

@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Gavrilova_15 <- concept_santa_shop;
-=> nrel_street: ulitsa_Gavrilova(* => nrel_main_idtf: [улица Гаврилова] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

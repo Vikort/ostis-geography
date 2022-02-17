@@ -1,0 +1,16 @@
+santa_shop_199531703<-concept_santa_shop;
+=>nrel_main_idtf:
+[Санта]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Santa]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Героев Обороны Брестской Крепости]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[68]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+brest;;

@@ -1,5 +1,0 @@
-santa_shop_Sovetskaya_ulitsa_107 <- concept_santa_shop;
-=> nrel_street: Sovetskaya_ulitsa(* => nrel_main_idtf: [Советская улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

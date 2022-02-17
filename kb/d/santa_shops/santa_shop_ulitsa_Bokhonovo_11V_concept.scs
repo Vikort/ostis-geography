@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Bokhonovo_11V <- concept_santa_shop;
-=> nrel_street: ulitsa_Bokhonovo(* => nrel_main_idtf: [улица Бохоново] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

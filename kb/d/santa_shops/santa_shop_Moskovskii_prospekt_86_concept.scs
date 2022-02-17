@@ -1,5 +1,0 @@
-santa_shop_Moskovskii_prospekt_86 <- concept_santa_shop;
-=> nrel_street: Moskovskii_prospekt(* => nrel_main_idtf: [Московский проспект] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

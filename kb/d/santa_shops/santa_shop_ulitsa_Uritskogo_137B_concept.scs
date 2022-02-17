@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Uritskogo_137B <- concept_santa_shop;
-=> nrel_street: ulitsa_Uritskogo(* => nrel_main_idtf: [улица Урицкого] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

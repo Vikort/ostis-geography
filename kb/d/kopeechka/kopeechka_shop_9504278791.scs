@@ -1,0 +1,16 @@
+kopeechka_shop_9504278791<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[52.1264409]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[23.6545435]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_search_area:
+brest;;

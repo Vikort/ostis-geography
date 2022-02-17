@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Velikii_Gostinets_139B <- concept_santa_shop;
-=> nrel_street: ulitsa_Velikii_Gostinets(* => nrel_main_idtf: [улица Великий Гостинец] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

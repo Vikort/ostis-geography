@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Stroitelei_2A <- concept_santa_shop;
-=> nrel_street: ulitsa_Stroitelei(* => nrel_main_idtf: [улица Строителей] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

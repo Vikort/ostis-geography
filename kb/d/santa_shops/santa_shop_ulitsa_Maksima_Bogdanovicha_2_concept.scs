@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Maksima_Bogdanovicha_2 <- concept_santa_shop;
-=> nrel_street: ulitsa_Maksima_Bogdanovicha(* => nrel_main_idtf: [улица Максима Богдановича] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

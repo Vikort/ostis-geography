@@ -1,5 +1,0 @@
-santa_shop_bulvar_Leninskogo_Komsomola_44 <- concept_santa_shop;
-=> nrel_street: bulvar_Leninskogo_Komsomola(* => nrel_main_idtf: [бульвар Ленинского Комсомола] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-grodno;;

@@ -1,0 +1,16 @@
+kopeechka_shop_476241416<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Поповича]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[3]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+grodno;;

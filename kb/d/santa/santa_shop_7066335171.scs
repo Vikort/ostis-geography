@@ -1,0 +1,22 @@
+santa_shop_7066335171<-concept_santa_shop;
+=>nrel_main_idtf:
+[Санта]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Santa]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[53.6154261]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[23.8197313]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Огинского]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[2]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+grodno;;

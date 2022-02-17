@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Zoi_Kosmodemyanskoi_49 <- concept_santa_shop;
-=> nrel_street: ulitsa_Zoi_Kosmodemyanskoi(* => nrel_main_idtf: [улица Зои Космодемьянской] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

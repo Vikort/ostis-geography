@@ -1,5 +1,0 @@
-santa_shop_ulitsa_60_let_Oktyabrya_36A <- concept_santa_shop;
-=> nrel_street: ulitsa_60_let_Oktyabrya(* => nrel_main_idtf: [улица 60 лет Октября] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-pinsk;;

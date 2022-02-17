@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Bogatiryova_139A <- concept_santa_shop;
-=> nrel_street: ulitsa_Bogatiryova(* => nrel_main_idtf: [улица Богатырёва] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

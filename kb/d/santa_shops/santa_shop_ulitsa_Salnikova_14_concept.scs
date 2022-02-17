@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Salnikova_14 <- concept_santa_shop;
-=> nrel_street: ulitsa_Salnikova(* => nrel_main_idtf: [улица Сальникова] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

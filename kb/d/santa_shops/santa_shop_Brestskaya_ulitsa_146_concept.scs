@@ -1,5 +1,0 @@
-santa_shop_Brestskaya_ulitsa_146 <- concept_santa_shop;
-=> nrel_street: Brestskaya_ulitsa(* => nrel_main_idtf: [Брестская улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-pinsk;;

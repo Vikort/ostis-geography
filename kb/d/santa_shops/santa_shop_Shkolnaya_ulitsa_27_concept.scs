@@ -1,5 +1,0 @@
-santa_shop_Shkolnaya_ulitsa_27 <- concept_santa_shop;
-=> nrel_street: Shkolnaya_ulitsa(* => nrel_main_idtf: [Школьная улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

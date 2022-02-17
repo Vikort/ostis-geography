@@ -1,0 +1,16 @@
+kopeechka_shop_9504278622<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[55.169282]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[30.122272]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_search_area:
+vitebsk;;

@@ -1,5 +1,0 @@
-santa_shop_ulitsa_Lenina_17_19 <- concept_santa_shop;
-=> nrel_street: ulitsa_Lenina(* => nrel_main_idtf: [улица Ленина] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;

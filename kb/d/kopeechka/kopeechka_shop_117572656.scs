@@ -1,0 +1,16 @@
+kopeechka_shop_117572656<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Ольги Соломовой]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[118А]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+grodno;;

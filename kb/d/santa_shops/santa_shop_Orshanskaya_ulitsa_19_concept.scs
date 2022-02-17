@@ -1,5 +1,0 @@
-santa_shop_Orshanskaya_ulitsa_19 <- concept_santa_shop;
-=> nrel_street: Orshanskaya_ulitsa(* => nrel_main_idtf: [Оршанская улица] (* <-lang_ru;; <- name;; *);;*); => nrel_main_idtf:[Санта]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area:
-belarus;;
