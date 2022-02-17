@@ -1,0 +1,19 @@
+Belorusneft_36_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_36]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №36]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.808333]
+    (* <- rrel_latitude;; *);
+    [27.994444]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_36_3
+<= nrel_address:
+[Минская обл, г.Любань,ул Боровика,54]
+(*<-lang_ru;;*);;

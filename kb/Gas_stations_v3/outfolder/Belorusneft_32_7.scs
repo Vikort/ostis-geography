@@ -1,0 +1,20 @@
+Belorusneft_32_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.29795]
+    (* <- rrel_latitude;; *);
+    [26.869412]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_32_7
+<= nrel_address:
+[г. Молодечно, ул. Городокская 113а]
+(*<-lang_ru;;*);;

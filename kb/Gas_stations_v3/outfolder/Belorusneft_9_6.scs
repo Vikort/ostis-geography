@@ -1,0 +1,20 @@
+Belorusneft_9_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_9]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №9]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.882611]
+    (* <- rrel_latitude;; *);
+    [27.45377]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_9_6
+<= nrel_address:
+[г. Минск, ул. Горецкого, 10]
+(*<-lang_ru;;*);;

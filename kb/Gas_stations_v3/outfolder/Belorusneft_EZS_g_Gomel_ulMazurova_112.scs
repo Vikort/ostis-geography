@@ -1,0 +1,15 @@
+Belorusneft_EZS_g_Gomel_ulMazurova_112<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_EZS_g_Gomel_ulMazurova_112]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть ЭЗС, г. Гомель, ул.Мазурова, 112]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.456015]
+    (* <- rrel_latitude;; *);
+    [31.024505]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_EZS_g_Gomel_ulMazurova_112
+<= nrel_address:
+[г.Гомель, ул.Мазурова, 112]
+(*<-lang_ru;;*);;

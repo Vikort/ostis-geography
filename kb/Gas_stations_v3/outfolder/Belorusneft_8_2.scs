@@ -1,0 +1,20 @@
+Belorusneft_8_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.107633]
+    (* <- rrel_latitude;; *);
+    [28.341417]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_8_2
+<= nrel_address:
+[г. Жодино, ул. Богуславо Поле,1Б]
+(*<-lang_ru;;*);;

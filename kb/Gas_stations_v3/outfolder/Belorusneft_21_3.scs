@@ -1,0 +1,21 @@
+Belorusneft_21_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_21]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №21]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.979633]
+    (* <- rrel_latitude;; *);
+    [27.536563]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_21_3
+<= nrel_address:
+[Минский р-н, а/д Минск-Мядель Р-58, 10-й км (право)]
+(*<-lang_ru;;*);;

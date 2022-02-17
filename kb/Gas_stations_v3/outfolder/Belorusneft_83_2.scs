@@ -1,0 +1,20 @@
+Belorusneft_83_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_83]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №83]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.3676]
+    (* <- rrel_latitude;; *);
+    [31.003]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_83_2
+<= nrel_address:
+[Гомельский р-н., Р-150, 4-км, 1]
+(*<-lang_ru;;*);;

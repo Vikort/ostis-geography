@@ -1,9 +1,0 @@
-
-AZSR28_sprava <- concept_way;
-=>nrel_main_idtf:
-    [AZSR28_sprava]
-    (* <- lang_en;; <- name_en;;*);
-    ["АЗСР28, справа"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

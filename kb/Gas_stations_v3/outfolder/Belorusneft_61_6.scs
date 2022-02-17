@@ -1,0 +1,21 @@
+Belorusneft_61_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_61]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №61]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.432233]
+    (* <- rrel_latitude;; *);
+    [30.970282]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_61_6
+<= nrel_address:
+[Славгородский р-н, Р-43, 101-й км,1]
+(*<-lang_ru;;*);;

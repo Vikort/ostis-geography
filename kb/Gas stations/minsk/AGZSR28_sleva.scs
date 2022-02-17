@@ -1,9 +1,0 @@
-
-AGZSR28_sleva <- concept_way;
-=>nrel_main_idtf:
-    [AGZSR28_sleva]
-    (* <- lang_en;; <- name_en;;*);
-    ["АГЗСР28, слева"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

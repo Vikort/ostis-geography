@@ -1,0 +1,20 @@
+Belorusneft_51_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.544722]
+    (* <- rrel_latitude;; *);
+    [24.487222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_51_2
+<= nrel_address:
+[Брестская обл., Пружанский р-н, г. Пружаны, ул. Лазо, 11]
+(*<-lang_ru;;*);;

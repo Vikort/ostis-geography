@@ -1,9 +1,0 @@
-
-Belorusneft_№58R23_12y_km_sleva <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№58R23_12y_km_sleva]
-    (* <- lang_en;; <- name_en;;*);
-    ["Белоруснефть №58Р23, 12-й км, слева"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

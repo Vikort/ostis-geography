@@ -1,0 +1,19 @@
+Belorusneft_22_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_22]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №22]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.144853]
+    (* <- rrel_latitude;; *);
+    [29.188294]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_22_2
+<= nrel_address:
+[г. Бобруйск. ул.Чапаева 65]
+(*<-lang_ru;;*);;

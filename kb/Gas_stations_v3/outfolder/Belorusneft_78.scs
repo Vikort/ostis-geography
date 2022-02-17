@@ -1,0 +1,20 @@
+Belorusneft_78<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_78]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №78]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.80534]
+    (* <- rrel_latitude;; *);
+    [27.798022]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_78
+<= nrel_address:
+[Минская обл., Минская район, М4 19 км, 3]
+(*<-lang_ru;;*);;

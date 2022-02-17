@@ -1,0 +1,11 @@
+Belorusneft_Pionerskaja52<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_Pionerskaja52]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть Пионерская,52]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.097122]
+    (* <- rrel_latitude;; *);
+    [23.731063]
+    (* <- rrel_longtitude;; *);;

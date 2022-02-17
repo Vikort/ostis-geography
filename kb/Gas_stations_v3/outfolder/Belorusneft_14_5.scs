@@ -1,0 +1,21 @@
+Belorusneft_14_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.723726]
+    (* <- rrel_latitude;; *);
+    [27.504024]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_14_5
+<= nrel_address:
+[а/д Брест - граница РФ, 346-й км (лево)]
+(*<-lang_ru;;*);;

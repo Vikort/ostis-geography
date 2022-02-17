@@ -1,0 +1,19 @@
+Belorusneft_53_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.822286]
+    (* <- rrel_latitude;; *);
+    [23.873757]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_53_7
+<= nrel_address:
+[а/г Гожа,Р-42,17-й км,4]
+(*<-lang_ru;;*);;

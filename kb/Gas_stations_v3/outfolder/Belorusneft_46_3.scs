@@ -1,0 +1,20 @@
+Belorusneft_46_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.730206]
+    (* <- rrel_latitude;; *);
+    [27.444553]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_46_3
+<= nrel_address:
+[Минская обл., Солигорский р-н, гп Старобин, ул. Радужная, 10, на 140 км. автодороги Р-23 Минск-Микашевичи]
+(*<-lang_ru;;*);;

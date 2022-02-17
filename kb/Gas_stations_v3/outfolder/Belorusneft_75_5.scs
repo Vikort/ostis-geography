@@ -1,0 +1,20 @@
+Belorusneft_75_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_75]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №75]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.97054]
+    (* <- rrel_latitude;; *);
+    [27.599722]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_75_5
+<= nrel_address:
+[Боровлянский с/с, 53, район 51-го км МКАД]
+(*<-lang_ru;;*);;

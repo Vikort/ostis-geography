@@ -1,0 +1,21 @@
+Belorusneft_67_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_67]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №67]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.613434]
+    (* <- rrel_latitude;; *);
+    [26.014564]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_67_4
+<= nrel_address:
+[Островецкий сельсовет, 2, 231219, Островецкий район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;

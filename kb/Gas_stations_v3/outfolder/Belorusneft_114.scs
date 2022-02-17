@@ -1,0 +1,15 @@
+Belorusneft_114<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_114]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №114]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.940592]
+    (* <- rrel_latitude;; *);
+    [27.468498]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_114
+<= nrel_address:
+[г.Минск, пр.Победителей, 127]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_10<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_10]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №10]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.016815]
+    (* <- rrel_latitude;; *);
+    [29.439538]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_10
+<= nrel_address:
+[Бешенковичский район, М-3, 211 км,1]
+(*<-lang_ru;;*);;

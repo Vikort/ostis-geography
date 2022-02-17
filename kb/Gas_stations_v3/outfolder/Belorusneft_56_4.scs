@@ -1,0 +1,21 @@
+Belorusneft_56_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.24557]
+    (* <- rrel_latitude;; *);
+    [27.84385]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_56_4
+<= nrel_address:
+[Гайненский с/с, 3 (44 км а/д М-3 Минск-Витебск)]
+(*<-lang_ru;;*);;

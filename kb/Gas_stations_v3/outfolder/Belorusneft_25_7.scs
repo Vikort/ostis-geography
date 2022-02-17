@@ -1,0 +1,19 @@
+Belorusneft_25_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_25]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №25]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.353888]
+    (* <- rrel_latitude;; *);
+    [27.485555]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;;
+Belorusneft_25_7
+<= nrel_address:
+[г. Шарковщина, ул. Полевая, 2А]
+(*<-lang_ru;;*);;

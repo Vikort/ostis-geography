@@ -1,0 +1,19 @@
+Belorusneft_89<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_89]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №89]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.461641]
+    (* <- rrel_latitude;; *);
+    [23.366808]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_89
+<= nrel_address:
+[Брестская обл., Каменецкий р-н, Рясненский с/с, 11, в 0,35 км севернее д. Пограничная]
+(*<-lang_ru;;*);;

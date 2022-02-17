@@ -1,0 +1,18 @@
+Belorusneft_44<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.405807]
+    (* <- rrel_latitude;; *);
+    [28.457387]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_44
+<= nrel_address:
+[г.п. Ветрино, ул. Ленина, 1Б]
+(*<-lang_ru;;*);;

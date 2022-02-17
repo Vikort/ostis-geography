@@ -1,0 +1,19 @@
+Belorusneft_57_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_57]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №57]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.02245]
+    (* <- rrel_latitude;; *);
+    [27.93065]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_57_4
+<= nrel_address:
+[Смолевичский р-н, Р-53, 3 км ,2]
+(*<-lang_ru;;*);;

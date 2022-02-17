@@ -1,0 +1,19 @@
+Belorusneft_47<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_47]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №47]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.51488]
+    (* <- rrel_latitude;; *);
+    [28.684998]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;;
+Belorusneft_47
+<= nrel_address:
+[г. Новополоцк, проезд измерительский]
+(*<-lang_ru;;*);;

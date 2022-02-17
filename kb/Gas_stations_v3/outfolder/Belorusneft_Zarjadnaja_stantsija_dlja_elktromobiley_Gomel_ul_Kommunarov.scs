@@ -1,0 +1,15 @@
+Belorusneft_Zarjadnaja_stantsija_dlja_elktromobiley_Gomel_ul_Kommunarov<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_Zarjadnaja_stantsija_dlja_elktromobiley_Gomel_ul_Kommunarov]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть Зарядная станция для элктромобилей Гомель ул. Коммунаров]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.426581]
+    (* <- rrel_latitude;; *);
+    [31.012008]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_Zarjadnaja_stantsija_dlja_elktromobiley_Gomel_ul_Kommunarov
+<= nrel_address:
+[Гомель, ул Коммунаров]
+(*<-lang_ru;;*);;

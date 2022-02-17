@@ -1,0 +1,19 @@
+Belorusneft_73_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.664071]
+    (* <- rrel_latitude;; *);
+    [23.859148]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_73_2
+<= nrel_address:
+[г.Гродно, ул.Совхозная, 39]
+(*<-lang_ru;;*);;

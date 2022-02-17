@@ -1,0 +1,15 @@
+Belorusneft_06<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_06]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №06]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.846685]
+    (* <- rrel_latitude;; *);
+    [27.470298]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_06
+<= nrel_address:
+[г. Минск, пр. Дзержинского, 126]
+(*<-lang_ru;;*);;

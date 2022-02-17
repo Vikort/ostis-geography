@@ -1,0 +1,20 @@
+Belorusneft_1<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_1]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №1]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.87312]
+    (* <- rrel_latitude;; *);
+    [30.37225]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_1
+<= nrel_address:
+[г.Могилев, пр-кт Димитрова 60]
+(*<-lang_ru;;*);;

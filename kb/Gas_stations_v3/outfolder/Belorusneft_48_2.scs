@@ -1,0 +1,20 @@
+Belorusneft_48_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_48]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №48]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.148888]
+    (* <- rrel_latitude;; *);
+    [27.073888]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_48_2
+<= nrel_address:
+[Минская обл.,Копыльский р-н, г. Копыль, ул. Полевая,1А]
+(*<-lang_ru;;*);;

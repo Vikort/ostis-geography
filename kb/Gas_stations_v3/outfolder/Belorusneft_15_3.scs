@@ -1,0 +1,19 @@
+Belorusneft_15_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.465883]
+    (* <- rrel_latitude;; *);
+    [25.580444]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_15_3
+<= nrel_address:
+[г.п. Новоельня, ул.Дятловская, д. 2/1]
+(*<-lang_ru;;*);;

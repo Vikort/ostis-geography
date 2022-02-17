@@ -1,0 +1,11 @@
+Belorusneft_01<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_01]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №01]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.154996]
+    (* <- rrel_latitude;; *);
+    [27.834638]
+    (* <- rrel_longtitude;; *);;

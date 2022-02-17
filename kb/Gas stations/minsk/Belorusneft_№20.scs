@@ -1,9 +1,0 @@
-
-Belorusneft_№20 <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№20]
-    (* <- lang_en;; <- name_en;;*);
-    [Белоруснефть №20]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

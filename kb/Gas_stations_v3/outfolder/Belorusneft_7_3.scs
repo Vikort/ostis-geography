@@ -1,0 +1,19 @@
+Belorusneft_7_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_7]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №7]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.0963]
+    (* <- rrel_latitude;; *);
+    [23.678]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_7_3
+<= nrel_address:
+[г. Брест, ул. Героев обороны Брестской крепости, 3В]
+(*<-lang_ru;;*);;

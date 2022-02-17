@@ -1,0 +1,20 @@
+Belorusneft_14_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.662544]
+    (* <- rrel_latitude;; *);
+    [29.625556]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_14_7
+<= nrel_address:
+[Чирковичский с-с., 8]
+(*<-lang_ru;;*);;

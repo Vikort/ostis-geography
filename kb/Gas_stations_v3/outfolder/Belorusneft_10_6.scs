@@ -1,0 +1,20 @@
+Belorusneft_10_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_10]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №10]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.348889]
+    (* <- rrel_latitude;; *);
+    [31.030833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_10_6
+<= nrel_address:
+[г. Гомель, Ильича, 292]
+(*<-lang_ru;;*);;

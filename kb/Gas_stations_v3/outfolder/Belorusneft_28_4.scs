@@ -1,0 +1,19 @@
+Belorusneft_28_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.345777]
+    (* <- rrel_latitude;; *);
+    [23.945371]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_28_4
+<= nrel_address:
+[а.г. Олекшицы Р99 2 км]
+(*<-lang_ru;;*);;

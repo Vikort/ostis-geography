@@ -1,0 +1,20 @@
+Belorusneft_63_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_63]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №63]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.27065]
+    (* <- rrel_latitude;; *);
+    [26.82952]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_63_4
+<= nrel_address:
+[Брестская обл., Лунинецкий р-н, Лунинецкий с/с, 22]
+(*<-lang_ru;;*);;

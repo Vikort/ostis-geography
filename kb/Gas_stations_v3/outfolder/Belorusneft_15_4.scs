@@ -1,0 +1,20 @@
+Belorusneft_15_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_15]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №15]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.875748]
+    (* <- rrel_latitude;; *);
+    [27.506173]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_15_4
+<= nrel_address:
+[г. Минск, ул. Железнодорожная, 21]
+(*<-lang_ru;;*);;

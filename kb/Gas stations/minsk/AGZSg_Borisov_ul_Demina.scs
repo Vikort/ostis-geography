@@ -1,9 +1,0 @@
-
-AGZSg_Borisov_ul_Demina <- concept_way;
-=>nrel_main_idtf:
-    [AGZSg_Borisov_ul_Demina]
-    (* <- lang_en;; <- name_en;;*);
-    ["АГЗСг. Борисов, ул. Демина"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

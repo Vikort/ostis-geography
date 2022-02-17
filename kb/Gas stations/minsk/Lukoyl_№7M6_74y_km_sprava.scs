@@ -1,9 +1,0 @@
-
-Lukoyl_№7M6_74y_km_sprava <- concept_way;
-=>nrel_main_idtf:
-    [Lukoyl_№7M6_74y_km_sprava]
-    (* <- lang_en;; <- name_en;;*);
-    ["Лукойл №7М6, 74-й км, справа"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

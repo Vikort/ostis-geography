@@ -1,0 +1,19 @@
+Belorusneft_41_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.684222]
+    (* <- rrel_latitude;; *);
+    [31.687111]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_41_5
+<= nrel_address:
+[Кричевский р-н, Р-43, 42-й км,1]
+(*<-lang_ru;;*);;

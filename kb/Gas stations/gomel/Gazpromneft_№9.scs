@@ -1,9 +1,0 @@
-
-Gazpromneft_№9 <- concept_way;
-=>nrel_main_idtf:
-    [Gazpromneft_№9]
-    (* <- lang_en;; <- name_en;;*);
-    [Газпромнефть №9]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    gomel;;

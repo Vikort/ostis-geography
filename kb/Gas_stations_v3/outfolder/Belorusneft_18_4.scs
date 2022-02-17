@@ -1,0 +1,19 @@
+Belorusneft_18_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_18]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №18]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.5544]
+    (* <- rrel_latitude;; *);
+    [23.7951]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_18_4
+<= nrel_address:
+[Брестская обл., Каменецкий р-н, Каменюкский с/с, аг. Каменюки, ул. Пущанская, д. 2А]
+(*<-lang_ru;;*);;

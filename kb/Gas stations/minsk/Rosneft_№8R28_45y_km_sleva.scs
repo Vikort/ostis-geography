@@ -1,9 +1,0 @@
-
-Rosneft_№8R28_45y_km_sleva <- concept_way;
-=>nrel_main_idtf:
-    [Rosneft_№8R28_45y_km_sleva]
-    (* <- lang_en;; <- name_en;;*);
-    ["Роснефть №8Р28, 45-й км, слева"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

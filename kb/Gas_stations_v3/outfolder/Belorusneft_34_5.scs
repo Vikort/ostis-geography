@@ -1,0 +1,18 @@
+Belorusneft_34_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_34]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №34]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.386674]
+    (* <- rrel_latitude;; *);
+    [29.009708]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_34_5
+<= nrel_address:
+[г.п. Елизово ул.Ромашко, 113]
+(*<-lang_ru;;*);;

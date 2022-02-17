@@ -1,0 +1,21 @@
+Belorusneft_53_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.624752]
+    (* <- rrel_latitude;; *);
+    [30.453122]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_ai98;;
+Belorusneft_53_2
+<= nrel_address:
+[а/д Брест-Минск-граница РФ, 575 км]
+(*<-lang_ru;;*);;

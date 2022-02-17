@@ -1,0 +1,21 @@
+Belorusneft_59_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_59]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №59]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.9348]
+    (* <- rrel_latitude;; *);
+    [30.3673]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_59_2
+<= nrel_address:
+[г. Могилев, ул. 30 лет Победы 24б]
+(*<-lang_ru;;*);;

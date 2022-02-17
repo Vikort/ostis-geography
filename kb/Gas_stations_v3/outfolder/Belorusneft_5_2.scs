@@ -1,0 +1,21 @@
+Belorusneft_5_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_5]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №5]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.492142]
+    (* <- rrel_latitude;; *);
+    [30.02249]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_5_2
+<= nrel_address:
+[Витебскоблнефтепродукт, Республика Беларусь, Витебская область, Городокский район, Первомайский сельский совет,15, восточнее деревни Хомяково, индекс 211573]
+(*<-lang_ru;;*);;

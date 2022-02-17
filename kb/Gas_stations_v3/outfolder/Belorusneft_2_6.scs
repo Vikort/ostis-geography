@@ -1,0 +1,21 @@
+Belorusneft_2_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_2]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №2]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.949694]
+    (* <- rrel_latitude;; *);
+    [27.331355]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_2_6
+<= nrel_address:
+[а/д Минск-Молодечно, 17км, лево]
+(*<-lang_ru;;*);;

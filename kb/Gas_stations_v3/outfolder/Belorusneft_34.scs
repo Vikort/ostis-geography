@@ -1,0 +1,19 @@
+Belorusneft_34<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_34]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №34]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.571666]
+    (* <- rrel_latitude;; *);
+    [31.161666]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_34
+<= nrel_address:
+[г. Ветка, ул. Луначарского, 46]
+(*<-lang_ru;;*);;

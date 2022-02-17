@@ -1,0 +1,20 @@
+Belorusneft_16_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_16]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №16]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.862029]
+    (* <- rrel_latitude;; *);
+    [27.9032]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_16_5
+<= nrel_address:
+[РБ, Минская обл., Смолевичский р-н, М-1, 376-й км,1]
+(*<-lang_ru;;*);;

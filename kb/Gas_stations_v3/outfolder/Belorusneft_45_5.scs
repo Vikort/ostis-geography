@@ -1,0 +1,20 @@
+Belorusneft_45_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.51044]
+    (* <- rrel_latitude;; *);
+    [27.22033]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_45_5
+<= nrel_address:
+[Минская область, Вилейский район, д. Сосенка, ул. Васильковая, 1"Б]
+(*<-lang_ru;;*);;

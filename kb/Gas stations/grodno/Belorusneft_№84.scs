@@ -1,9 +1,0 @@
-
-Belorusneft_№84 <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№84]
-    (* <- lang_en;; <- name_en;;*);
-    [Белоруснефть №84]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    grodno;;

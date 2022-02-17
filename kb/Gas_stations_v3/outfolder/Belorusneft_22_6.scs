@@ -1,0 +1,20 @@
+Belorusneft_22_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_22]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №22]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.411932]
+    (* <- rrel_latitude;; *);
+    [24.524997]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_22_6
+<= nrel_address:
+[г. Мосты, ул. Волковича, 8а]
+(*<-lang_ru;;*);;

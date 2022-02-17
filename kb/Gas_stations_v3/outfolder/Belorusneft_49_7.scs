@@ -1,0 +1,22 @@
+Belorusneft_49_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_49]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №49]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.999676]
+    (* <- rrel_latitude;; *);
+    [29.255232]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_49_7
+<= nrel_address:
+[Гомельская обл., Мозырский р-н., Р-31, 161-й км, 1А]
+(*<-lang_ru;;*);;

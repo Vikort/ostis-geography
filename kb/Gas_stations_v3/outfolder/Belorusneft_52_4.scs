@@ -1,0 +1,22 @@
+Belorusneft_52_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_52]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №52]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.62716]
+    (* <- rrel_latitude;; *);
+    [30.43605]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;
+concept_ai98;;
+Belorusneft_52_4
+<= nrel_address:
+[Оршанский р-н, Высоковский с/с,20]
+(*<-lang_ru;;*);;

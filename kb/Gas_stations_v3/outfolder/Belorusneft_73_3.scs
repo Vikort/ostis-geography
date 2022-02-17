@@ -1,0 +1,18 @@
+Belorusneft_73_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.5151]
+    (* <- rrel_latitude;; *);
+    [25.8351]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_73_3
+<= nrel_address:
+[Брестская обл., Ивацевичский р-н, г.п. Телеханы]
+(*<-lang_ru;;*);;

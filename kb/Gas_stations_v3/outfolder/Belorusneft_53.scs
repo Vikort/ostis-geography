@@ -1,0 +1,19 @@
+Belorusneft_53<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.037222]
+    (* <- rrel_latitude;; *);
+    [29.231944]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_53
+<= nrel_address:
+[г. Мозырь, ул. Рыжкова, 41]
+(*<-lang_ru;;*);;

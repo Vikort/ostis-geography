@@ -1,0 +1,21 @@
+Belorusneft_17<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_17]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №17]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.034419]
+    (* <- rrel_latitude;; *);
+    [30.779843]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_17
+<= nrel_address:
+[г.п. Лиозно, Р-21, 40 км, 1]
+(*<-lang_ru;;*);;

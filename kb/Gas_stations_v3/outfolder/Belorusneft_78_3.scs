@@ -1,0 +1,19 @@
+Belorusneft_78_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_78]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №78]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.8926]
+    (* <- rrel_latitude;; *);
+    [26.8317]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_78_3
+<= nrel_address:
+[Брестская обл., Столинский р-н, г. Столин, ул. Пинская, 72]
+(*<-lang_ru;;*);;

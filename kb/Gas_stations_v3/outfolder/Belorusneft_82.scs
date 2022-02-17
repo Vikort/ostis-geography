@@ -1,0 +1,19 @@
+Belorusneft_82<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_82]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №82]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.84918]
+    (* <- rrel_latitude;; *);
+    [27.4366]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_82
+<= nrel_address:
+[Щомыслицкий с/с, район «Проспект-Известия»-МКАД 28 км]
+(*<-lang_ru;;*);;

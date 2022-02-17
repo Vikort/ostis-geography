@@ -1,9 +1,0 @@
-
-Gazpromneft_№75g_Berezino_ul_Honinova_31 <- concept_way;
-=>nrel_main_idtf:
-    [Gazpromneft_№75g_Berezino_ul_Honinova_31]
-    (* <- lang_en;; <- name_en;;*);
-    ["Газпромнефть №75г. Березино, ул. Хонинова, 31"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

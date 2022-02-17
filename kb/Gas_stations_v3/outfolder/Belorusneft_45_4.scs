@@ -1,0 +1,20 @@
+Belorusneft_45_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.168364]
+    (* <- rrel_latitude;; *);
+    [24.429308]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_45_4
+<= nrel_address:
+[г. Волковыск, ул. С. Панковой 59]
+(*<-lang_ru;;*);;

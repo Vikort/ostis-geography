@@ -1,0 +1,21 @@
+Belorusneft_81_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_81]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №81]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.119265]
+    (* <- rrel_latitude;; *);
+    [30.070647]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_81_3
+<= nrel_address:
+[г. Рогачев, ул. Богатырева, 181]
+(*<-lang_ru;;*);;

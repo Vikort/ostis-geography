@@ -1,0 +1,22 @@
+Belorusneft_51_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_51]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №51]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.040138]
+    (* <- rrel_latitude;; *);
+    [28.08821]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_51_3
+<= nrel_address:
+[г. Смолевичи, ул. Комсомольская 50]
+(*<-lang_ru;;*);;

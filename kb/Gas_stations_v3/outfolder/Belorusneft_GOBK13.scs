@@ -1,0 +1,11 @@
+Belorusneft_GOBK13<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_GOBK13]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть ГОБК,13]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.092992]
+    (* <- rrel_latitude;; *);
+    [23.667049]
+    (* <- rrel_longtitude;; *);;

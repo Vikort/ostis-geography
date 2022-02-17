@@ -1,0 +1,19 @@
+Belorusneft_89_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_89]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №89]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.830964]
+    (* <- rrel_latitude;; *);
+    [27.607243]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_89_2
+<= nrel_address:
+[Республика Беларусь, Минская обл., Минский р-н, Новодворский с/с, 79, район 16-го км МКАД]
+(*<-lang_ru;;*);;

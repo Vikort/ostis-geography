@@ -1,0 +1,18 @@
+Belorusneft_35<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.868538]
+    (* <- rrel_latitude;; *);
+    [28.704262]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_35
+<= nrel_address:
+[г. Лепель, Оршанское шоссе]
+(*<-lang_ru;;*);;

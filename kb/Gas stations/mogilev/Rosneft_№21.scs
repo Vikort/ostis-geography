@@ -1,9 +1,0 @@
-
-Rosneft_№21 <- concept_way;
-=>nrel_main_idtf:
-    [Rosneft_№21]
-    (* <- lang_en;; <- name_en;;*);
-    [Роснефть №21]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    mogilev;;

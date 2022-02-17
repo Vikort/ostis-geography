@@ -1,0 +1,20 @@
+Belorusneft_40_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_40]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №40]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.07]
+    (* <- rrel_latitude;; *);
+    [29.99]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_40_2
+<= nrel_address:
+[г. Рогачев, ул.Кирова, 59]
+(*<-lang_ru;;*);;

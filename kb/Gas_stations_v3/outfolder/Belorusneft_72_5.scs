@@ -1,0 +1,20 @@
+Belorusneft_72_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_72]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №72]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.911944]
+    (* <- rrel_latitude;; *);
+    [30.043333]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_72_5
+<= nrel_address:
+[г. Жлобин, ул. К. Маркса, 1Д]
+(*<-lang_ru;;*);;

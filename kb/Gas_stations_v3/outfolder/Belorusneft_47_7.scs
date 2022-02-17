@@ -1,0 +1,20 @@
+Belorusneft_47_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_47]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №47]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.035277]
+    (* <- rrel_latitude;; *);
+    [28.285555]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_47_7
+<= nrel_address:
+[Минская обл.,Стародорожский р-н,г. Старые Дороги, ул. Московская,1В]
+(*<-lang_ru;;*);;

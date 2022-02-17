@@ -1,0 +1,20 @@
+Belorusneft_87_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_87]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №87]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.400476]
+    (* <- rrel_latitude;; *);
+    [30.897745]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_87_3
+<= nrel_address:
+[а/д М-10, 28 км, 1 (гр РФ(Селище) Гомель-Кобрин)]
+(*<-lang_ru;;*);;

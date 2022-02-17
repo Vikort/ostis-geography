@@ -1,0 +1,21 @@
+Belorusneft_35_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_35]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №35]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.189333]
+    (* <- rrel_latitude;; *);
+    [29.355278]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_35_6
+<= nrel_address:
+[Бобруйский р-н, М-5, 155-й км,3]
+(*<-lang_ru;;*);;

@@ -1,0 +1,19 @@
+Belorusneft_86_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_86]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №86]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.467906]
+    (* <- rrel_latitude;; *);
+    [27.199568]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;;
+Belorusneft_86_2
+<= nrel_address:
+[Республика Беларусь, Минская область, Узденский р-н, г.Узда, ул.К.Маркса, 91]
+(*<-lang_ru;;*);;

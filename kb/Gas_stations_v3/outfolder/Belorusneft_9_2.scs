@@ -1,0 +1,20 @@
+Belorusneft_9_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_9]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №9]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.7892]
+    (* <- rrel_latitude;; *);
+    [23.6544]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_9_2
+<= nrel_address:
+[Брестская обл., Брестский р-н, Р-94, 31-й км, 5]
+(*<-lang_ru;;*);;

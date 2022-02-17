@@ -1,0 +1,19 @@
+Belorusneft_87_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_87]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №87]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1223]
+    (* <- rrel_latitude;; *);
+    [23.6554]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_87_2
+<= nrel_address:
+[г. Брест, ул. Белорусская, 67]
+(*<-lang_ru;;*);;

@@ -1,0 +1,15 @@
+Belorusneft_097<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_097]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №097]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.848656]
+    (* <- rrel_latitude;; *);
+    [27.637881]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_097
+<= nrel_address:
+[г.Минск, ул.Уборевича, 19]
+(*<-lang_ru;;*);;

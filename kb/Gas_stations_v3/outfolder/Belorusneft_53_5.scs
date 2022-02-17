@@ -1,0 +1,19 @@
+Belorusneft_53_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.758882]
+    (* <- rrel_latitude;; *);
+    [32.242202]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_53_5
+<= nrel_address:
+[Климовичский р-н Киселево-Будский с/с, 2,4 км Р-43]
+(*<-lang_ru;;*);;

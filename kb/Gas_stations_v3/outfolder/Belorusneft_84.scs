@@ -1,0 +1,19 @@
+Belorusneft_84<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_84]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №84]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.470024]
+    (* <- rrel_latitude;; *);
+    [31.042278]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_84
+<= nrel_address:
+[г.Гомель, ул.Чечерская]
+(*<-lang_ru;;*);;

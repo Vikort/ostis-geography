@@ -1,9 +1,0 @@
-
-Belorusneft_№7952_R58_20y_km_sleva <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№7952_R58_20y_km_sleva]
-    (* <- lang_en;; <- name_en;;*);
-    ["Белоруснефть №7952, Р58, 20-й км, слева"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

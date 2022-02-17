@@ -1,9 +1,0 @@
-
-Lukoyl_№28 <- concept_way;
-=>nrel_main_idtf:
-    [Lukoyl_№28]
-    (* <- lang_en;; <- name_en;;*);
-    [Лукойл №28]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    mogilev;;

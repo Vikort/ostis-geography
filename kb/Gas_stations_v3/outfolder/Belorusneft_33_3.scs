@@ -1,0 +1,21 @@
+Belorusneft_33_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_33]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №33]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.884338]
+    (* <- rrel_latitude;; *);
+    [28.728319]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_33_3
+<= nrel_address:
+[г. Лепель, ул.Чуйкова, 199]
+(*<-lang_ru;;*);;

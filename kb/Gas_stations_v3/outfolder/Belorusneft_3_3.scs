@@ -1,0 +1,22 @@
+Belorusneft_3_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_3]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №3]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.842586]
+    (* <- rrel_latitude;; *);
+    [27.535554]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_3_3
+<= nrel_address:
+[г. Минск, ул. Серова, 2]
+(*<-lang_ru;;*);;

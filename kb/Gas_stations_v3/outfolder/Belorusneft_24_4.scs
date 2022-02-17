@@ -1,0 +1,19 @@
+Belorusneft_24_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_24]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №24]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.694722]
+    (* <- rrel_latitude;; *);
+    [25.352222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_24_4
+<= nrel_address:
+[Брестская обл., Ивацевичский р-н, М-1, 149-й км, 1]
+(*<-lang_ru;;*);;

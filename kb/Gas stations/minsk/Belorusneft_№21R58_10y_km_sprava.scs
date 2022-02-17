@@ -1,9 +1,0 @@
-
-Belorusneft_№21R58_10y_km_sprava <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№21R58_10y_km_sprava]
-    (* <- lang_en;; <- name_en;;*);
-    ["Белоруснефть №21Р58, 10-й км, справа"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

@@ -1,0 +1,20 @@
+Belorusneft_55_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_55]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №55]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.516111]
+    (* <- rrel_latitude;; *);
+    [24.966111]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_55_3
+<= nrel_address:
+[Брестская обл., Березовский р-н, г. Береза, ул. Комсомольская]
+(*<-lang_ru;;*);;

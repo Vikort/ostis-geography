@@ -1,0 +1,20 @@
+Belorusneft_25_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_25]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №25]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.143442]
+    (* <- rrel_latitude;; *);
+    [24.480913]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_25_5
+<= nrel_address:
+[Гродненская обл.,г. Волковыск, ул. Рокоссовского, 142]
+(*<-lang_ru;;*);;

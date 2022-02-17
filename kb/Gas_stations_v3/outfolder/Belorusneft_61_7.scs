@@ -1,0 +1,21 @@
+Belorusneft_61_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_61]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №61]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.116891]
+    (* <- rrel_latitude;; *);
+    [24.003725]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_61_7
+<= nrel_address:
+[Гродненская обл., Берестовицкий р-н, г.п. Пограничный, 1 трасса Р99 12 км]
+(*<-lang_ru;;*);;

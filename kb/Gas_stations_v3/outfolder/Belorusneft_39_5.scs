@@ -1,0 +1,19 @@
+Belorusneft_39_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_39]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №39]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.811065]
+    (* <- rrel_latitude;; *);
+    [26.150197]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_39_5
+<= nrel_address:
+[Ул. Победы, 2, 231230, Михалишковский сельсовет, Островецкий район, Гродненская область, а/г Михалишки, Беларусь]
+(*<-lang_ru;;*);;

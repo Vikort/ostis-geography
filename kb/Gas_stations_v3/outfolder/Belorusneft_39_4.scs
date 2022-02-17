@@ -1,0 +1,20 @@
+Belorusneft_39_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_39]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №39]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.914457]
+    (* <- rrel_latitude;; *);
+    [28.817991]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;;
+Belorusneft_39_4
+<= nrel_address:
+[г.п. Россоны, ул. Машерово, 60]
+(*<-lang_ru;;*);;

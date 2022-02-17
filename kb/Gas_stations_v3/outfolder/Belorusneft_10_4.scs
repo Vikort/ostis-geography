@@ -1,0 +1,19 @@
+Belorusneft_10_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_10]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №10]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.12092]
+    (* <- rrel_latitude;; *);
+    [23.63305]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_10_4
+<= nrel_address:
+[г. Брест, ул. Писателя Смирнова, д. 155А]
+(*<-lang_ru;;*);;

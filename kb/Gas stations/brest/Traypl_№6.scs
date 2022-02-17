@@ -1,9 +1,0 @@
-
-Traypl_№6 <- concept_way;
-=>nrel_main_idtf:
-    [Traypl_№6]
-    (* <- lang_en;; <- name_en;;*);
-    [Трайпл №6]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    brest;;

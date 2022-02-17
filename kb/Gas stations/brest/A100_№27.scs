@@ -1,9 +1,0 @@
-
-A100_№27 <- concept_way;
-=>nrel_main_idtf:
-    [A100_№27]
-    (* <- lang_en;; <- name_en;;*);
-    [А-100 №27]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    brest;;

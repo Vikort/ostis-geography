@@ -1,0 +1,21 @@
+Belorusneft_10_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_10]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №10]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.578803]
+    (* <- rrel_latitude;; *);
+    [24.238076]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_10_7
+<= nrel_address:
+[г. Скидель ул.Ленина , 76 В]
+(*<-lang_ru;;*);;

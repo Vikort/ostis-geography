@@ -1,0 +1,11 @@
+Belorusneft_EZS_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_EZS_3]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть ЭЗС №3]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.901467]
+    (* <- rrel_latitude;; *);
+    [30.341966]
+    (* <- rrel_longtitude;; *);;

@@ -1,0 +1,19 @@
+Belorusneft_11_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_11]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №11]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.887367]
+    (* <- rrel_latitude;; *);
+    [27.564025]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_11_2
+<= nrel_address:
+[г. Минск, ул. Маяковского, 2а]
+(*<-lang_ru;;*);;

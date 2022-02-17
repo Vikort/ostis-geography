@@ -1,9 +1,0 @@
-
-Belorusneft_№54g_Borisov_ul_Gospitalnaja_d_15 <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№54g_Borisov_ul_Gospitalnaja_d_15]
-    (* <- lang_en;; <- name_en;;*);
-    ["Белоруснефть №54г. Борисов, ул. Госпитальная, д. 15"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

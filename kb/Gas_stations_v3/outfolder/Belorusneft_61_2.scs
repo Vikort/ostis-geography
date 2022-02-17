@@ -1,0 +1,18 @@
+Belorusneft_61_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_61]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №61]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.431388]
+    (* <- rrel_latitude;; *);
+    [30.558888]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_61_2
+<= nrel_address:
+[Комаринский с/с, гп Комарин, ул. Карла Маркса, 37]
+(*<-lang_ru;;*);;

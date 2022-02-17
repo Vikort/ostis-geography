@@ -1,9 +1,0 @@
-
-Belorusneft_№88 <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№88]
-    (* <- lang_en;; <- name_en;;*);
-    [Белоруснефть №88]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    brest;;

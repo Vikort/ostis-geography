@@ -1,0 +1,20 @@
+Belorusneft_54_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_54]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №54]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.834166]
+    (* <- rrel_latitude;; *);
+    [30.333333]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_54_6
+<= nrel_address:
+[Могилевский р-н, Вейнянский с/с, 25]
+(*<-lang_ru;;*);;

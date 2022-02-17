@@ -1,0 +1,19 @@
+Belorusneft_33_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_33]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №33]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.16634]
+    (* <- rrel_latitude;; *);
+    [29.16002]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_33_2
+<= nrel_address:
+[г.Бобруйск,  ул. Гагарина, 70]
+(*<-lang_ru;;*);;

@@ -1,0 +1,19 @@
+Belorusneft_18_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_18]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №18]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.721396]
+    (* <- rrel_latitude;; *);
+    [24.195204]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_18_2
+<= nrel_address:
+[д. Озеры]
+(*<-lang_ru;;*);;

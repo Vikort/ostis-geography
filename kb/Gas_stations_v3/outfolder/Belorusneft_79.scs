@@ -1,0 +1,19 @@
+Belorusneft_79<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_79]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №79]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.45451]
+    (* <- rrel_latitude;; *);
+    [29.27222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_79
+<= nrel_address:
+[Озаричский Сельский Совет, 10, 0,6 км. восточнее г/п.Озаричи]
+(*<-lang_ru;;*);;

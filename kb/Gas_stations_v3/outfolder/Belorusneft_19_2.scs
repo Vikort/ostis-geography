@@ -1,0 +1,20 @@
+Belorusneft_19_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_19]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №19]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.006819]
+    (* <- rrel_latitude;; *);
+    [31.662928]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_19_2
+<= nrel_address:
+[Мстиславский р-н, Р-73,49-й км, 1]
+(*<-lang_ru;;*);;

@@ -1,0 +1,18 @@
+Belorusneft_54_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_54]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №54]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.411667]
+    (* <- rrel_latitude;; *);
+    [29.852222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_54_5
+<= nrel_address:
+[Осташковичский с-с., 8]
+(*<-lang_ru;;*);;

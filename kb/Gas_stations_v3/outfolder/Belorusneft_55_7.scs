@@ -1,0 +1,21 @@
+Belorusneft_55_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_55]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №55]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.856902]
+    (* <- rrel_latitude;; *);
+    [27.684736]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_55_7
+<= nrel_address:
+[г. Минск, пр. Партизанский, 166а]
+(*<-lang_ru;;*);;

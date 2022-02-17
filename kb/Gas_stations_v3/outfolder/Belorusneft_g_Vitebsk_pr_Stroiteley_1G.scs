@@ -1,0 +1,11 @@
+Belorusneft_g_Vitebsk_pr_Stroiteley_1G<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_g_Vitebsk_pr_Stroiteley_1G]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть г. Витебск, пр. Строителей, 1Г]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.171805]
+    (* <- rrel_latitude;; *);
+    [30.202559]
+    (* <- rrel_longtitude;; *);;

@@ -1,0 +1,21 @@
+Belorusneft_40_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_40]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №40]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.609847]
+    (* <- rrel_latitude;; *);
+    [25.932337]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;
+concept_ai98;;
+Belorusneft_40_5
+<= nrel_address:
+[21-й км дороги Р-48, 1, 231210, Островецкий район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;

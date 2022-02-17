@@ -1,0 +1,20 @@
+Belorusneft_70_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_70]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №70]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.663408]
+    (* <- rrel_latitude;; *);
+    [27.084123]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_70_4
+<= nrel_address:
+[юго-восточнее д.Дягильно на 810 м.]
+(*<-lang_ru;;*);;

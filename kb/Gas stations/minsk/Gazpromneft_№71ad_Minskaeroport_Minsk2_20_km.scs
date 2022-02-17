@@ -1,9 +1,0 @@
-
-Gazpromneft_№71ad_Minskaeroport_Minsk2_20_km <- concept_way;
-=>nrel_main_idtf:
-    [Gazpromneft_№71ad_Minskaeroport_Minsk2_20_km]
-    (* <- lang_en;; <- name_en;;*);
-    ["Газпромнефть №71а/д Минск-аэропорт Минск-2, 20 км"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

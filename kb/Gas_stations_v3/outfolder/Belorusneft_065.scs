@@ -1,0 +1,15 @@
+Belorusneft_065<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_065]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №065]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.915569]
+    (* <- rrel_latitude;; *);
+    [27.566375]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_065
+<= nrel_address:
+[г. Минск, ул. Чичерина, 21]
+(*<-lang_ru;;*);;

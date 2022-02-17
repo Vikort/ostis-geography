@@ -1,9 +1,0 @@
-
-Rosneft_№3M6_26y_km_sprava <- concept_way;
-=>nrel_main_idtf:
-    [Rosneft_№3M6_26y_km_sprava]
-    (* <- lang_en;; <- name_en;;*);
-    ["Роснефть №3М6, 26-й км, справа"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

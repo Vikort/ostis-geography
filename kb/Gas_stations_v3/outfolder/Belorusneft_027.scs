@@ -1,0 +1,15 @@
+Belorusneft_027<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_027]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №027]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.890385]
+    (* <- rrel_latitude;; *);
+    [28.032155]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_027
+<= nrel_address:
+[г. Минск, территория Национального аэропорта "Минск]
+(*<-lang_ru;;*);;

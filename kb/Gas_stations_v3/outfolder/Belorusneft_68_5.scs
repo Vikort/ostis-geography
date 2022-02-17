@@ -1,0 +1,19 @@
+Belorusneft_68_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_68]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №68]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.181326]
+    (* <- rrel_latitude;; *);
+    [29.865517]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_68_5
+<= nrel_address:
+[Защебьевский с/с., аг. Защебье, ул. Юбилейная, 1]
+(*<-lang_ru;;*);;

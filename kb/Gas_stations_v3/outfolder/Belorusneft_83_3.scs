@@ -1,0 +1,19 @@
+Belorusneft_83_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_83]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №83]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.686649]
+    (* <- rrel_latitude;; *);
+    [27.165069]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;;
+Belorusneft_83_3
+<= nrel_address:
+[г.Дзержинск, ул.Фоминых, 3]
+(*<-lang_ru;;*);;

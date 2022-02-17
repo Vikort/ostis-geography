@@ -1,0 +1,20 @@
+Belorusneft_2_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_2]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №2]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.198683]
+    (* <- rrel_latitude;; *);
+    [28.472533]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_2_4
+<= nrel_address:
+[г. Борисов, ул. Гагарина, 72]
+(*<-lang_ru;;*);;

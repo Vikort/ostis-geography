@@ -1,0 +1,15 @@
+Belorusneft_078<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_078]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №078]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.907011]
+    (* <- rrel_latitude;; *);
+    [27.573342]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_078
+<= nrel_address:
+[г. Минск, пр. Независимости, 34]
+(*<-lang_ru;;*);;

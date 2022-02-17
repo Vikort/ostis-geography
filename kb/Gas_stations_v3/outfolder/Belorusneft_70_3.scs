@@ -1,0 +1,19 @@
+Belorusneft_70_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_70]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №70]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.153637]
+    (* <- rrel_latitude;; *);
+    [26.021507]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_70_3
+<= nrel_address:
+[Брестская обл. г. Пинск ул. Достоевского 82]
+(*<-lang_ru;;*);;

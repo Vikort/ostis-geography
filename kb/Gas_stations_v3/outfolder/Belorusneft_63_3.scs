@@ -1,0 +1,18 @@
+Belorusneft_63_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_63]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №63]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.3075]
+    (* <- rrel_latitude;; *);
+    [28.8025]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_63_3
+<= nrel_address:
+[г.п. Копаткевичи, ул. Ленинская, 78]
+(*<-lang_ru;;*);;

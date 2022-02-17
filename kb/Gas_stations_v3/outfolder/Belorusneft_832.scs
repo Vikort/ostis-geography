@@ -1,0 +1,18 @@
+Belorusneft_832<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_832]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №83(2)]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.244641]
+    (* <- rrel_latitude;; *);
+    [24.930983]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_832
+<= nrel_address:
+[Гродненская обл., Зельвенский р-н, Деречинский с/с, аг. Деречин]
+(*<-lang_ru;;*);;

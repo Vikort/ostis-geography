@@ -1,0 +1,21 @@
+Belorusneft_58_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_58]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №58]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.812041]
+    (* <- rrel_latitude;; *);
+    [27.53155]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_58_7
+<= nrel_address:
+[Минская обл., Минский р-н, Сеницкий с/с, Р-23, 12-й км, 1]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_22_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_22]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №22]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.884392]
+    (* <- rrel_latitude;; *);
+    [27.562536]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_22_3
+<= nrel_address:
+[г. Минск, ул. Володько, 3]
+(*<-lang_ru;;*);;

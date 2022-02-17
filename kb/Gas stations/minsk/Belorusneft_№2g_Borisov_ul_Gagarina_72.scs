@@ -1,9 +1,0 @@
-
-Belorusneft_№2g_Borisov_ul_Gagarina_72 <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№2g_Borisov_ul_Gagarina_72]
-    (* <- lang_en;; <- name_en;;*);
-    ["Белоруснефть №2г. Борисов, ул. Гагарина, 72"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

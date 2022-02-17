@@ -1,9 +1,0 @@
-
-Druzhba <- concept_way;
-=>nrel_main_idtf:
-    [Druzhba]
-    (* <- lang_en;; <- name_en;;*);
-    [Дружба]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    gomel;;

@@ -1,0 +1,19 @@
+Belorusneft_34_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_34]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №34]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.902573]
+    (* <- rrel_latitude;; *);
+    [26.756546]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_34_3
+<= nrel_address:
+[г.п. Ивенец, ул. 17-го Сентября]
+(*<-lang_ru;;*);;

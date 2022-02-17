@@ -1,0 +1,21 @@
+Belorusneft_4_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_4]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №4]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.200683]
+    (* <- rrel_latitude;; *);
+    [28.480333]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_4_2
+<= nrel_address:
+[г. Борисов, ул. Гагарина, 101]
+(*<-lang_ru;;*);;

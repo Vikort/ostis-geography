@@ -1,0 +1,19 @@
+Belorusneft_70_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_70]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №70]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.478834]
+    (* <- rrel_latitude;; *);
+    [31.027343]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_70_6
+<= nrel_address:
+[г. Гомель, ул. Олимпийская, 17]
+(*<-lang_ru;;*);;

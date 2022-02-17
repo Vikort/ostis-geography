@@ -1,0 +1,21 @@
+Belorusneft_40_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_40]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №40]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.189167]
+    (* <- rrel_latitude;; *);
+    [24.336667]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_40_4
+<= nrel_address:
+[Брестская обл., Кобринский р-н, г. Кобрин, ул. Дзержинского, 133]
+(*<-lang_ru;;*);;

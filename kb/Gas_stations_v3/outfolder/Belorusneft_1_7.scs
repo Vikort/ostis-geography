@@ -1,0 +1,19 @@
+Belorusneft_1_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_1]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №1]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.874321]
+    (* <- rrel_latitude;; *);
+    [27.555946]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_1_7
+<= nrel_address:
+[г. Минск, ул. Левкова, 37а]
+(*<-lang_ru;;*);;

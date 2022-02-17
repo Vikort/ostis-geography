@@ -1,9 +1,0 @@
-
-Belorusneft_№4g_Borisov_ul_Gagarina_101 <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№4g_Borisov_ul_Gagarina_101]
-    (* <- lang_en;; <- name_en;;*);
-    ["Белоруснефть №4г. Борисов, ул. Гагарина, 101"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

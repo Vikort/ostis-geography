@@ -1,0 +1,19 @@
+Belorusneft_45_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_45]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №45]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.548333]
+    (* <- rrel_latitude;; *);
+    [25.060833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_45_7
+<= nrel_address:
+[Брестская обл., Березовский р-н, М-1, 123-й км, 1]
+(*<-lang_ru;;*);;

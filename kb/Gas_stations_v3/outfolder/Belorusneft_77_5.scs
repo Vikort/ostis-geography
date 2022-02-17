@@ -1,0 +1,21 @@
+Belorusneft_77_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_77]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №77]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.836388]
+    (* <- rrel_latitude;; *);
+    [27.513333]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_77_5
+<= nrel_address:
+[Сеницкий с/с, 50, район 22-го км МКАД]
+(*<-lang_ru;;*);;

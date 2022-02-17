@@ -1,0 +1,22 @@
+Belorusneft_53_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_53]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №53]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.932066]
+    (* <- rrel_latitude;; *);
+    [27.473686]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai95;
+concept_gas;
+concept_ai98;;
+Belorusneft_53_4
+<= nrel_address:
+[г. Минск, ул. Тимирязева, 106]
+(*<-lang_ru;;*);;

@@ -1,0 +1,20 @@
+Belorusneft_69_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_69]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №69]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.610868]
+    (* <- rrel_latitude;; *);
+    [27.909917]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;;
+Belorusneft_69_3
+<= nrel_address:
+[Бегомльский с/с, М3, 88-й км, 2]
+(*<-lang_ru;;*);;

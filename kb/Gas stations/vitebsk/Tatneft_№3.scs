@@ -1,9 +1,0 @@
-
-Tatneft_№3 <- concept_way;
-=>nrel_main_idtf:
-    [Tatneft_№3]
-    (* <- lang_en;; <- name_en;;*);
-    [Татнефть №3]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    vitebsk;;

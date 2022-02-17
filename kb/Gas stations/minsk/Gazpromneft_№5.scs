@@ -1,9 +1,0 @@
-
-Gazpromneft_№5 <- concept_way;
-=>nrel_main_idtf:
-    [Gazpromneft_№5]
-    (* <- lang_en;; <- name_en;;*);
-    [Газпромнефть №5]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

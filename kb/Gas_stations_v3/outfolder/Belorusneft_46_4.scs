@@ -1,0 +1,20 @@
+Belorusneft_46_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.664925]
+    (* <- rrel_latitude;; *);
+    [23.784226]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_46_4
+<= nrel_address:
+[г. Гродно ул.О.Соломовой 109]
+(*<-lang_ru;;*);;

@@ -1,0 +1,18 @@
+Belorusneft_16_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_16]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №16]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.540793]
+    (* <- rrel_latitude;; *);
+    [23.695182]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_ai92;
+concept_ai95;;
+Belorusneft_16_6
+<= nrel_address:
+[М-6, 289км, 2]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_77_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_77]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №77]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.203964]
+    (* <- rrel_latitude;; *);
+    [30.269865]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_ai98;;
+Belorusneft_77_2
+<= nrel_address:
+[г. Витебск,  ул. Лазо, 139]
+(*<-lang_ru;;*);;

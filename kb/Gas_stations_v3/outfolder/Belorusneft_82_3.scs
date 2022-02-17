@@ -1,0 +1,20 @@
+Belorusneft_82_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_82]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №82]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.775322]
+    (* <- rrel_latitude;; *);
+    [30.249258]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_82_3
+<= nrel_address:
+[Брагинский р-н., Р-35, 81-й. км., 2]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_44_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_44]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №44]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.585889]
+    (* <- rrel_latitude;; *);
+    [31.352083]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_44_6
+<= nrel_address:
+[Чериковский р-н, Сормовский с/с, 2, Р43,68-й км]
+(*<-lang_ru;;*);;

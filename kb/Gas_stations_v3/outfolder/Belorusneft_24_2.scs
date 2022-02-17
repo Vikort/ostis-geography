@@ -1,0 +1,20 @@
+Belorusneft_24_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_24]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №24]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.119244]
+    (* <- rrel_latitude;; *);
+    [29.137191]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_24_2
+<= nrel_address:
+[Бобруйский р-н, Р-43, 241-й км,2]
+(*<-lang_ru;;*);;

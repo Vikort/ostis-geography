@@ -1,0 +1,19 @@
+Belorusneft_57_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_57]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №57]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.90536]
+    (* <- rrel_latitude;; *);
+    [30.009585]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_57_6
+<= nrel_address:
+[г. Хойники ул. Революционная, 10]
+(*<-lang_ru;;*);;

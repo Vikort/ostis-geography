@@ -1,9 +1,0 @@
-
-Belorusneft_№9M5_44y_km_sprava <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№9M5_44y_km_sprava]
-    (* <- lang_en;; <- name_en;;*);
-    ["Белоруснефть №9М5, 44-й км, справа"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;

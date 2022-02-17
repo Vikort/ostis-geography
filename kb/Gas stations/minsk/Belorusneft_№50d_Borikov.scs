@@ -1,9 +1,0 @@
-
-Belorusneft_№50d_Borikov <- concept_way;
-=>nrel_main_idtf:
-    [Belorusneft_№50d_Borikov]
-    (* <- lang_en;; <- name_en;;*);
-    [Белоруснефть №50д. Бориков]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    minsk;;
