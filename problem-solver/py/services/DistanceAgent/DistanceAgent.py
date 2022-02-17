@@ -57,13 +57,13 @@ class DistanceAgent(ScAgent):
                             tuple = self.ctx.CreateNode(ScType.NodeConstTuple)
                             query_edge = self.ctx.CreateEdge(
                                 ScType.EdgeAccessConstPosPerm,
-                                village1,
-                                tuple
+                                tuple,
+                                village1
                             )
                             query_edge_1 = self.ctx.CreateEdge(
                                 ScType.EdgeAccessConstPosPerm,
-                                village2,
-                                tuple
+                                tuple,
+                                village2
                             )
                             query_edge_11 = self.ctx.CreateEdge(
                                 ScType.EdgeDCommonConst,
