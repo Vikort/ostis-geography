@@ -11,7 +11,7 @@ concept_chain_store
 	=> nrel_main_idtf:
 		[Опр. (сетевой магазин)]
 		(* <- lang_ru;; *);
-		[Def. (chain store])]
+		[Def. (chain store)]
 		(* <- lang_en;; *);;
 	<- definition;;
 	<= nrel_sc_text_translation:
@@ -24,7 +24,7 @@ concept_chain_store
 		...
 		(*
 		-> rrel_example:
-			[chain store] - a shop that is one of a series of similar shops owned by the same company]
+			[chain store - a shop that is one of a series of similar shops owned by the same company]
 			(* <- lang_en;; *);;
 		*);;
 	<= nrel_using_constants:
