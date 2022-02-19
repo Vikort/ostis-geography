@@ -1,0 +1,4 @@
+rajonnaja_veterinarnaja_klinika <- concept_veterinary;
+=> nrel_main_idtf:
+[Районная Ветеринарная Клиника]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

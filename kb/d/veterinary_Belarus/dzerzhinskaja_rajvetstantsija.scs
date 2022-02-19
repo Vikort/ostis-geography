@@ -1,5 +1,0 @@
-dzerzhinskaja_rajvetstantsija <- concept_veterinary;
-=> nrel_main_idtf:
-[Дзержинская райветстанция]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;

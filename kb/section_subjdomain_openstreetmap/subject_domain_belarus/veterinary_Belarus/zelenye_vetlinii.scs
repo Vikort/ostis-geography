@@ -1,0 +1,4 @@
+zelenye_vetlinii <- concept_veterinary;
+=> nrel_main_idtf:
+[Зеленые Вет-линии]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

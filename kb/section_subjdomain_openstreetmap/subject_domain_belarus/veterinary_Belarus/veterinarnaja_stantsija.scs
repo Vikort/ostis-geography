@@ -1,0 +1,4 @@
+veterinarnaja_stantsija <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная станция]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,4 @@
+veterinarnyj_magazin_oskar <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарный магазин «Оскар»]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,4 @@
+vetkabinet <- concept_veterinary;
+=> nrel_main_idtf:
+[Веткабинет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

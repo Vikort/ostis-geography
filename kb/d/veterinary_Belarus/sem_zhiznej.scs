@@ -1,5 +1,0 @@
-sem_zhiznej <- concept_veterinary;
-=> nrel_main_idtf:
-[Семь жизней]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;

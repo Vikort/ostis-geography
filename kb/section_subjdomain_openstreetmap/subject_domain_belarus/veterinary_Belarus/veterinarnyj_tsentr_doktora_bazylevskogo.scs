@@ -1,0 +1,4 @@
+veterinarnyj_tsentr_doktora_bazylevskogo <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарный центр доктора Базылевского]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

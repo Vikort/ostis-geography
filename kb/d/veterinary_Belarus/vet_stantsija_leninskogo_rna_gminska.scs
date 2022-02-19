@@ -1,5 +1,0 @@
-vet_stantsija_leninskogo_rna_gminska <- concept_veterinary;
-=> nrel_main_idtf:
-[Вет. станция Ленинского р-на г.Минска]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;

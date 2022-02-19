@@ -1,0 +1,4 @@
+nju_jork <- concept_veterinary;
+=> nrel_main_idtf:
+[Нью Йорк]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

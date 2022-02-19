@@ -1,0 +1,4 @@
+azbukavet <- concept_veterinary;
+=> nrel_main_idtf:
+[Азбукавет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

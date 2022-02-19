@@ -1,5 +1,0 @@
-novopolotskaja_gorodskaja_veterinarnaja_stantsija <- concept_veterinary;
-=> nrel_main_idtf:
-[Новополоцкая городская ветеринарная станция]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;

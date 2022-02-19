@@ -1,5 +1,0 @@
-veterinarnyj_magazin_«oskar» <- concept_veterinary;
-=> nrel_main_idtf:
-[Ветеринарный магазин «Оскар»]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;

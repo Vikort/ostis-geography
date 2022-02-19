@@ -1,0 +1,4 @@
+vetapteka <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветаптека]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

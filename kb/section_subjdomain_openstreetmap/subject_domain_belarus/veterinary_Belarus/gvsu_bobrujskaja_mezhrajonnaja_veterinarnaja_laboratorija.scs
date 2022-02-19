@@ -1,0 +1,4 @@
+gvsu_bobrujskaja_mezhrajonnaja_veterinarnaja_laboratorija <- concept_veterinary;
+=> nrel_main_idtf:
+[ГВСУ "Бобруйская межрайонная ветеринарная лаборатория"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

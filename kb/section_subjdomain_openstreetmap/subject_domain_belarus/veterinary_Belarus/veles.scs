@@ -1,0 +1,4 @@
+veles <- concept_veterinary;
+=> nrel_main_idtf:
+[Велес]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,6 @@
+veterinarnaja_stantsija_frunzenskogo_rajona <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветэрынарная станцыя Фрунзенскага раёна]
+(* <- lang_by;; <- name_by;;*);
+[Ветеринарная станция Фрунзенского района]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

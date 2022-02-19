@@ -1,5 +1,0 @@
-sema <- concept_veterinary;
-=> nrel_main_idtf:
-[Сёма]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;

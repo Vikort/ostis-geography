@@ -1,5 +1,0 @@
-veterinarnyj_magazin <- concept_veterinary;
-=> nrel_main_idtf:
-[Ветеринарный магазин]
-(* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area: Belarus;;
