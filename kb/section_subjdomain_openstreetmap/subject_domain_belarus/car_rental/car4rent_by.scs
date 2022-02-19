@@ -1,0 +1,6 @@
+car4rent_by <- concept_car_rental;
+=> nrel_main_idtf:
+[car4rent.by]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[car4rent.by]
+(* <- lang_en;; <- name_en;;*);;

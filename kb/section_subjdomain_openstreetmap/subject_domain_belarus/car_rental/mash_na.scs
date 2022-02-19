@@ -1,0 +1,6 @@
+mash_na <- concept_car_rental;
+=> nrel_main_idtf:
+[Маш на]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Mash na]
+(* <- lang_en;; <- name_en;;*);;

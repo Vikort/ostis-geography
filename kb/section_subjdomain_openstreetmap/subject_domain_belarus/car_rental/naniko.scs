@@ -1,0 +1,6 @@
+naniko <- concept_car_rental;
+=> nrel_main_idtf:
+[Нанико]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Naniko]
+(* <- lang_en;; <- name_en;;*);;

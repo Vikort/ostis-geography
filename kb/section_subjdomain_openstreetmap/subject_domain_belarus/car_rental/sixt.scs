@@ -1,0 +1,6 @@
+sixt <- concept_car_rental;
+=> nrel_main_idtf:
+[Sixt]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Sixt]
+(* <- lang_en;; <- name_en;;*);;

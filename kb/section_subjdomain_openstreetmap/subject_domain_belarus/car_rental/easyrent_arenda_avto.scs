@@ -1,0 +1,6 @@
+easyrent_arenda_avto <- concept_car_rental;
+=> nrel_main_idtf:
+[EasyRent Аренда авто]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[EasyRent Arenda avto]
+(* <- lang_en;; <- name_en;;*);;

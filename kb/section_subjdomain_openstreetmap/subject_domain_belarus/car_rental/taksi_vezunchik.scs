@@ -1,0 +1,6 @@
+taksi_vezunchik <- concept_car_rental;
+=> nrel_main_idtf:
+[ТАКСИ Везунчик]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[TAKSI Vezunchik]
+(* <- lang_en;; <- name_en;;*);;

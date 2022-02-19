@@ -1,0 +1,6 @@
+prokat_avto_glayd <- concept_car_rental;
+=> nrel_main_idtf:
+[Прокат авто "Глайд"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Rent a car "Glide" in Brest, Pinsk]
+(* <- lang_en;; <- name_en;;*);;

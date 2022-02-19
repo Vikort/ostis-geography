@@ -1,0 +1,6 @@
+ooo_rentakran_bel <- concept_car_rental;
+=> nrel_main_idtf:
+[ООО РЕНТАКРАН БЕЛ]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[OOO RENTAKRAN BEL]
+(* <- lang_en;; <- name_en;;*);;

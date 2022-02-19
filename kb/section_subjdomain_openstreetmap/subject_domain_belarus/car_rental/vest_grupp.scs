@@ -1,0 +1,6 @@
+vest_grupp <- concept_car_rental;
+=> nrel_main_idtf:
+[Вест Групп]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[WestGroup]
+(* <- lang_en;; <- name_en;;*);;

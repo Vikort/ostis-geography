@@ -1,0 +1,6 @@
+bi_bi_cars <- concept_car_rental;
+=> nrel_main_idtf:
+[Bi-Bi cars]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Bi-Bi cars]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+rentday_by <- concept_car_rental;
+=> nrel_main_idtf:
+[RentDay.by]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[RentDay.by]
+(* <- lang_en;; <- name_en;;*);;

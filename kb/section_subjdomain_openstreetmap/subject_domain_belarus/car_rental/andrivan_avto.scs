@@ -1,0 +1,6 @@
+andrivan_avto <- concept_car_rental;
+=> nrel_main_idtf:
+[Андриван-Авто]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Andrivan-Avto]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+avtorenta <- concept_car_rental;
+=> nrel_main_idtf:
+[Авторента]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtorenta]
+(* <- lang_en;; <- name_en;;*);;

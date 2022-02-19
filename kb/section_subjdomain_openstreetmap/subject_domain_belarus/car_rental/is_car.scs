@@ -1,0 +1,6 @@
+is_car <- concept_car_rental;
+=> nrel_main_idtf:
+[Is car]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Is car]
+(* <- lang_en;; <- name_en;;*);;
