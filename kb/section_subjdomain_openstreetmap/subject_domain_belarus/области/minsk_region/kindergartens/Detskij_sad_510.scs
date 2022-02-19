@@ -4,11 +4,12 @@ Detskij_sad_510
 =>nrel_country:Belarus;
 =>nrel_region:minsk;
 =>nrel_district:Frunzenskij_rajon;
+=>nrel_city:minsk;
 =>nrel_street:ulica_Leszinskogo;
 =>nrel_location_house_number:9;
 =>nrel_open_time:7;
 =>nrel_close_time:19;
-=>nrel_amount_of_children:260;
+=>nrel_amount_of_children:[240];
 =>nrel_phone_number:[+375 (17) 369-49-69, +375 (17) 205-71-13];
 =>nrel_search_area: minsk;
 <-concept_general_developmental;

@@ -4,11 +4,12 @@ Detskij_sad_244
 =>nrel_country:Belarus;
 =>nrel_region:minsk;
 =>nrel_district:Leninskij_rajon;
+=>nrel_city:minsk;
 =>nrel_street:Kozyrevskaja_ulica;
 =>nrel_location_house_number:29;
 =>nrel_open_time:7;
 =>nrel_close_time:19;
-=>nrel_amount_of_children:200;
+=>nrel_amount_of_children:[210];
 =>nrel_phone_number:[+375 (17) 223-15-12];
 =>nrel_search_area: minsk;
 <-concept_general_developmental;

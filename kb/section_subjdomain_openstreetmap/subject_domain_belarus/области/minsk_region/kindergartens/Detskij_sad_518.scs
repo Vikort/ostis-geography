@@ -4,11 +4,12 @@ Detskij_sad_518
 =>nrel_country:Belarus;
 =>nrel_region:minsk;
 =>nrel_district:Oktjabrskij_rajon;
+=>nrel_city:minsk;
 =>nrel_street:ulica_Kireeva;
 =>nrel_location_house_number:13;
 =>nrel_open_time:7;
 =>nrel_close_time:19;
-=>nrel_amount_of_children:230;
+=>nrel_amount_of_children:[210];
 =>nrel_phone_number:[+375 (17) 279-69-31, +375 (17) 279-69-22];
 =>nrel_search_area: minsk;
 <-concept_general_developmental;

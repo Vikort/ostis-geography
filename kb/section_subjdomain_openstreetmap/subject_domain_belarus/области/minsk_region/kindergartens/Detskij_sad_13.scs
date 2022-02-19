@@ -4,11 +4,12 @@ Detskij_sad_13
 =>nrel_country:Belarus;
 =>nrel_region:minsk;
 =>nrel_district:Zavodskoj_rajon;
+=>nrel_city:minsk;
 =>nrel_street:Partizanskij_prospekt;
 =>nrel_location_house_number:69b;
 =>nrel_open_time:7;
 =>nrel_close_time:19;
-=>nrel_amount_of_children:290;
+=>nrel_amount_of_children:[280];
 =>nrel_phone_number:[+375 (17) 295-04-04, +375 (17) 295-05-22];
 =>nrel_search_area: minsk;
 <-concept_general_developmental;

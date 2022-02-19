@@ -4,11 +4,12 @@ Detskij_sad_250
 =>nrel_country:Belarus;
 =>nrel_region:minsk;
 =>nrel_district:Frunzenskij_rajon;
+=>nrel_city:minsk;
 =>nrel_street:Nemanskaja_ulica;
 =>nrel_location_house_number:70;
 =>nrel_open_time:7;
 =>nrel_close_time:19;
-=>nrel_amount_of_children:200;
+=>nrel_amount_of_children:[280];
 =>nrel_phone_number:[+375 (17) 315-02-63, +375 (17) 205-75-63];
 =>nrel_search_area: minsk;
 <-concept_general_developmental;

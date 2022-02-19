@@ -4,11 +4,12 @@ Detskij_sad_25
 =>nrel_country:Belarus;
 =>nrel_region:minsk;
 =>nrel_district:Frunzenskij_rajon;
+=>nrel_city:minsk;
 =>nrel_street:Suharevskaja_ulica;
 =>nrel_location_house_number:66;
 =>nrel_open_time:7;
 =>nrel_close_time:19;
-=>nrel_amount_of_children:220;
+=>nrel_amount_of_children:[220];
 =>nrel_phone_number:[+375 (17) 201-69-63];
 =>nrel_search_area: minsk;
 <-concept_general_developmental;
