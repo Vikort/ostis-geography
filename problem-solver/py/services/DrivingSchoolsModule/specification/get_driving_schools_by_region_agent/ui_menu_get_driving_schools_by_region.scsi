@@ -1,0 +1,29 @@
+ui_menu_get_driving_schools_by_region <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_get_driving_schools_by_region
+=> nrel_main_idtf: 
+	[Найти автошколы]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска автошкол для указанной области]
+	(* <- lang_ru;; *);;
+
+ui_menu_get_driving_schools_by_region
+=> nrel_main_idtf: 
+	[Get driving schools]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request searches for driving schools of the specified region]
+	(* <- lang_en;; *);;
+
+ui_menu_get_driving_schools_by_region => ui_nrel_command_template:
+	[*
+		action_get_driving_schools_by_region _-> ._question_get_driving_schools_by_region
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_get_driving_schools_by_region _<- question;;
+	*];;
+
+ui_menu_get_driving_schools_by_region => ui_nrel_command_lang_template: [Найти автошколы для $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_get_driving_schools_by_region => ui_nrel_command_lang_template: [Get driving schools for $ui_arg_1] (* <- lang_en;; *);;
