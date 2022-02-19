@@ -1,0 +1,29 @@
+ui_menu_find_secondary_special_schools_po_oblasti <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_find_secondary_special_schools_po_oblasti
+=> nrel_main_idtf: 
+	[Поиск ССУЗ находящееся в опр.области]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Поиск опр. ССУЗ которые находятся в конкр. области]
+	(* <- lang_ru;; *);;
+
+ui_menu_find_secondary_special_schools_po_oblasti
+=> nrel_main_idtf: 
+	[Search for a secondary school located in a defined city]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Search defenition SSUZ which are in defined city]
+	(* <- lang_en;; *);;
+
+ui_menu_find_secondary_special_schools_po_oblasti => ui_nrel_command_template:
+	[*
+		action_find_secondary_special_schools_po_oblasti _-> ._question_find_secondary_special_schools_po_oblasti
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_find_secondary_special_schools_po_oblasti _<- question;;
+	*];;
+
+ui_menu_find_secondary_special_schools_po_oblasti => ui_nrel_command_lang_template: [Сгенерировать ответ для $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_find_secondary_special_schools_po_oblasti => ui_nrel_command_lang_template: [Generate answer for $ui_arg_1] (* <- lang_en;; *);;
