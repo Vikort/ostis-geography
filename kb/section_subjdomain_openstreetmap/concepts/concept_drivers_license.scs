@@ -31,6 +31,6 @@ concept_drivers_license
 {
 concept_driving_school;
 concept_vehicle;
-concept_driver;
+concept_driver
 };;
 *);;

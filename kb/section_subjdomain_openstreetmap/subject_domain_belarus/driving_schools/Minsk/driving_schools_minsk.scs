@@ -24,7 +24,7 @@ driving_school_va_rb <- concept_driving_school;
 =>nrel_house:
     [24]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 1;
 =>nrel_failure_rate: 46;;
 
@@ -55,7 +55,7 @@ driving_school_jokey <- concept_driving_school;
 =>nrel_house:
     [20]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 2;
 =>nrel_failure_rate: 48;;
 
@@ -86,7 +86,7 @@ driving_school_bntu <- concept_driving_school;
 =>nrel_house:
     [54]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 3;
 =>nrel_failure_rate: 60;;
 
@@ -117,7 +117,7 @@ driving_school_avtovoditel <- concept_driving_school;
 =>nrel_house:
     [20]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 4;
 =>nrel_failure_rate: 64;;
 
@@ -148,7 +148,7 @@ driving_school_specavtomaster <- concept_driving_school;
 =>nrel_house:
     [275А]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 5;
 =>nrel_failure_rate: 66;;
 
@@ -179,7 +179,7 @@ driving_school_viraj_plus <- concept_driving_school;
 =>nrel_house:
     [12А]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 6;
 =>nrel_failure_rate: 66;;
 
@@ -210,7 +210,7 @@ driving_school_cpkrr_dosaaf <- concept_driving_school;
 =>nrel_house:
     [11]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 7;
 =>nrel_failure_rate: 66;;
 
@@ -242,7 +242,7 @@ driving_school_rusc_dosaaf <- concept_driving_school;
 =>nrel_house:
     [70]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 8;
 =>nrel_failure_rate: 67;;
 
@@ -274,7 +274,7 @@ driving_school_frunz_ros_dosaaf <- concept_driving_school;
 =>nrel_house:
     [47]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 9;
 =>nrel_failure_rate: 69;;
 
@@ -305,7 +305,7 @@ driving_school_minsksanavtotrans <- concept_driving_school;
 =>nrel_house:
     [40]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 10;
 =>nrel_failure_rate: 70;;
 
@@ -336,7 +336,7 @@ driving_school_moscv_ros_dosaaf <- concept_driving_school;
 =>nrel_house:
     [27]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 11;
 =>nrel_failure_rate: 71;;
 
@@ -367,7 +367,7 @@ driving_school_beltransspecavto <- concept_driving_school;
 =>nrel_house:
     [1]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 12;
 =>nrel_failure_rate: 71;;
 
@@ -398,7 +398,7 @@ driving_school_sov_ros_dosaaf <- concept_driving_school;
 =>nrel_house:
     [47]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 13;
 =>nrel_failure_rate: 71;;
 
@@ -429,7 +429,7 @@ driving_school_lenin_ros_dosaaf <- concept_driving_school;
 =>nrel_house:
     [34]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 14;
 =>nrel_failure_rate: 72;;
 
@@ -460,7 +460,7 @@ driving_school_kii_mchs_rb <- concept_driving_school;
 =>nrel_house:
     [43]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 15;
 =>nrel_failure_rate: 73;;
 
@@ -491,7 +491,7 @@ driving_school_avtopromtoragroservice <- concept_driving_school;
 =>nrel_house:
     [76]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 16;
 =>nrel_failure_rate: 73;;
 
@@ -522,7 +522,7 @@ driving_school_mgak <- concept_driving_school;
 =>nrel_house:
     [86]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 17;
 =>nrel_failure_rate: 73;;
 
@@ -552,7 +552,7 @@ driving_school_mosht_dosaaf <- concept_driving_school;
 =>nrel_house:
     [175А]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 18;
 =>nrel_failure_rate: 73;;
 
@@ -583,7 +583,7 @@ driving_school_zavod_ros_dosaaf <- concept_driving_school;
 =>nrel_house:
     [48]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 19;
 =>nrel_failure_rate: 76;;
 
@@ -614,7 +614,7 @@ driving_school_formula_skorosti <- concept_driving_school;
 =>nrel_house:
     [23]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 20;
 =>nrel_failure_rate: 77;;
 
@@ -645,7 +645,7 @@ driving_school_avtocenter_atlant_m <- concept_driving_school;
 =>nrel_house:
     [11]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 21;
 =>nrel_failure_rate: 77;;
 
@@ -676,7 +676,7 @@ driving_school_cauk <- concept_driving_school;
 =>nrel_house:
     [43]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 22;
 =>nrel_failure_rate: 77;;
 
@@ -707,7 +707,7 @@ driving_school_centr_ros_dosaaf <- concept_driving_school;
 =>nrel_house:
     [93]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 23;
 =>nrel_failure_rate: 77;;
 
@@ -738,7 +738,7 @@ driving_school_avtodelo_plus <- concept_driving_school;
 =>nrel_house:
     [194]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 24;
 =>nrel_failure_rate: 77;;
 
@@ -769,7 +769,7 @@ driving_school_blizkoe_rasstoyanie <- concept_driving_school;
 =>nrel_house:
     [3]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 25;
 =>nrel_failure_rate: 77;;
 
@@ -800,7 +800,7 @@ driving_school_avtostrim <- concept_driving_school;
 =>nrel_house:
     [0]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 26;
 =>nrel_failure_rate: 77;;
 
@@ -831,7 +831,7 @@ driving_school_avto_ritet <- concept_driving_school;
 =>nrel_house:
     [65]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 27;
 =>nrel_failure_rate: 78;;
 
@@ -861,7 +861,7 @@ driving_school_mgptk <- concept_driving_school;
 =>nrel_house:
     [64]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 28;
 =>nrel_failure_rate: 79;;
 
@@ -892,7 +892,7 @@ driving_school_signal_plus <- concept_driving_school;
 =>nrel_house:
     [40]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 29;
 =>nrel_failure_rate: 80;;
 
@@ -922,7 +922,7 @@ driving_school_ripo <- concept_driving_school;
 =>nrel_house:
     [57]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 30;
 =>nrel_failure_rate: 80;;
 
@@ -953,7 +953,7 @@ driving_school_avtoshkola_bkr <- concept_driving_school;
 =>nrel_house:
     [64]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 31;
 =>nrel_failure_rate: 81;;
 
@@ -984,7 +984,7 @@ driving_school_avtoshkola_as <- concept_driving_school;
 =>nrel_house:
     [55]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 32;
 =>nrel_failure_rate: 81;;
 
@@ -1015,7 +1015,7 @@ driving_school_ash_dalyaglyad <- concept_driving_school;
 =>nrel_house:
     [74]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 33;
 =>nrel_failure_rate: 81;;
 
@@ -1046,7 +1046,7 @@ driving_school_nujni_shag <- concept_driving_school;
 =>nrel_house:
     [43]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 34;
 =>nrel_failure_rate: 81;;
 
@@ -1077,7 +1077,7 @@ driving_school_dorojnaya_azbuka <- concept_driving_school;
 =>nrel_house:
     [94]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 35;
 =>nrel_failure_rate: 81;;
 
@@ -1108,7 +1108,7 @@ driving_school_mgpl_14 <- concept_driving_school;
 =>nrel_house:
     [49]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 36;
 =>nrel_failure_rate: 82;;
 
@@ -1139,7 +1139,7 @@ driving_school_transavtoservice <- concept_driving_school;
 =>nrel_house:
     [66]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 37;
 =>nrel_failure_rate: 82;;
 
@@ -1170,7 +1170,7 @@ driving_school_cpkrr_beldorstroi <- concept_driving_school;
 =>nrel_house:
     [53]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 38;
 =>nrel_failure_rate: 82;;
 
@@ -1201,7 +1201,7 @@ driving_school_vse_kategorii <- concept_driving_school;
 =>nrel_house:
     [42]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 39;
 =>nrel_failure_rate: 84;;
 
@@ -1232,7 +1232,7 @@ driving_school_avtoshkola_magistral <- concept_driving_school;
 =>nrel_house:
     [55]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 40;
 =>nrel_failure_rate: 84;;
 
@@ -1263,7 +1263,7 @@ driving_school_oktyabr_ros_dosaaf <- concept_driving_school;
 =>nrel_house:
     [43]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 41;
 =>nrel_failure_rate: 84;;
 
@@ -1294,7 +1294,7 @@ driving_school_stellar_plus <- concept_driving_school;
 =>nrel_house:
     [82]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 42;
 =>nrel_failure_rate: 84;;
 
@@ -1325,7 +1325,7 @@ driving_school_bgatu <- concept_driving_school;
 =>nrel_house:
     [4]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 43;
 =>nrel_failure_rate: 85;;
 
@@ -1356,7 +1356,7 @@ driving_school_gorod_iks <- concept_driving_school;
 =>nrel_house:
     [47]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 44;
 =>nrel_failure_rate: 85;;
 
@@ -1387,7 +1387,7 @@ driving_school_avtopravo <- concept_driving_school;
 =>nrel_house:
     [98А]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 45;
 =>nrel_failure_rate: 85;;
 
@@ -1418,7 +1418,7 @@ driving_school_avtovojdenie <- concept_driving_school;
 =>nrel_house:
     [36]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 46;
 =>nrel_failure_rate: 86;;
 
@@ -1450,7 +1450,7 @@ driving_school_avtoshkola_strela <- concept_driving_school;
 =>nrel_house:
     [56]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 47;
 =>nrel_failure_rate: 86;;
 
@@ -1481,7 +1481,7 @@ driving_school_avtoshkola_dlya_vas <- concept_driving_school;
 =>nrel_house:
     [275А]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 48;
 =>nrel_failure_rate: 86;;
 
@@ -1512,7 +1512,7 @@ driving_school_stroivertikalinvest <- concept_driving_school;
 =>nrel_house:
     [85]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 49;
 =>nrel_failure_rate: 86;;
 
@@ -1543,7 +1543,7 @@ driving_school_mgmk <- concept_driving_school;
 =>nrel_house:
     [33]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 50;
 =>nrel_failure_rate: 86;;
 
@@ -1575,7 +1575,7 @@ driving_school_cppk_pr_metrostroitel <- concept_driving_school;
 =>nrel_house:
     [43]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 51;
 =>nrel_failure_rate: 86;;
 
@@ -1607,7 +1607,7 @@ driving_school_avtoshkola_elegiya <- concept_driving_school;
 =>nrel_house:
     [24]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 52;
 =>nrel_failure_rate: 87;;
 
@@ -1638,7 +1638,7 @@ driving_school_pora_za_rul <- concept_driving_school;
 =>nrel_house:
     [65]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 53;
 =>nrel_failure_rate: 88;;
 
@@ -1668,7 +1668,7 @@ driving_school_as_intellekt <- concept_driving_school;
 =>nrel_house:
     [48]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 54;
 =>nrel_failure_rate: 88;;
 
@@ -1698,7 +1698,7 @@ driving_school_avtoshkola_pilot <- concept_driving_school;
 =>nrel_house:
     [86]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 55;
 =>nrel_failure_rate: 88;;
 
@@ -1729,7 +1729,7 @@ driving_school_sunny_soul <- concept_driving_school;
 =>nrel_house:
     [53]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 56;
 =>nrel_failure_rate: 90;;
 
@@ -1759,7 +1759,7 @@ driving_school_avtoperekrestok <- concept_driving_school;
 =>nrel_house:
     [36]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 57;
 =>nrel_failure_rate: 91;;
 
@@ -1789,7 +1789,7 @@ driving_school_avtoaviant <- concept_driving_school;
 =>nrel_house:
     [153]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 58;
 =>nrel_failure_rate: 91;;
 
@@ -1820,7 +1820,7 @@ driving_school_avtoklems <- concept_driving_school;
 =>nrel_house:
     [45]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 59;
 =>nrel_failure_rate: 91;;
 
@@ -1851,7 +1851,7 @@ driving_school_avtoshturman <- concept_driving_school;
 =>nrel_house:
     [54]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 60;
 =>nrel_failure_rate: 91;;
 
@@ -1882,7 +1882,7 @@ driving_school_draiv_class <- concept_driving_school;
 =>nrel_house:
     [3]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 61;
 =>nrel_failure_rate: 92;;
 
@@ -1913,7 +1913,7 @@ driving_school_avtogalaktika <- concept_driving_school;
 =>nrel_house:
     [49]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 62;
 =>nrel_failure_rate: 92;;
 
@@ -1944,7 +1944,7 @@ driving_school_tvoe_dvijenie <- concept_driving_school;
 =>nrel_house:
     [45В]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 63;
 =>nrel_failure_rate: 94;;
 
@@ -1975,7 +1975,7 @@ driving_school_mchucppk_pk_bsltyf <- concept_driving_school;
 =>nrel_house:
     [42]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 64;
 =>nrel_failure_rate: 96;;
 
@@ -2006,7 +2006,7 @@ driving_school_azbuka_vojdeniya <- concept_driving_school;
 =>nrel_house:
     [275А]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 65;
 =>nrel_failure_rate: 98;;
 
@@ -2036,7 +2036,7 @@ driving_school_avtoshkola_bitu <- concept_driving_school;
 =>nrel_house:
     [6]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 66;
 =>nrel_failure_rate: 100;;
 
@@ -2066,7 +2066,7 @@ driving_school_uo_bgaa <- concept_driving_school;
 =>nrel_house:
     [84]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 67;
 =>nrel_failure_rate: 100;;
 
@@ -2097,7 +2097,7 @@ driving_school_avtonastavnik <- concept_driving_school;
 =>nrel_house:
     [26]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 68;
 =>nrel_failure_rate: 88;;
 
@@ -2128,7 +2128,7 @@ driving_school_alirta <- concept_driving_school;
 =>nrel_house:
     [166]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 69;
 =>nrel_failure_rate: 89;;
 
@@ -2159,7 +2159,7 @@ driving_school_avtokrona <- concept_driving_school;
 =>nrel_house:
     [116]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 70;
 =>nrel_failure_rate: 90;;
 
@@ -2190,7 +2190,7 @@ driving_school_motorsport_bvd <- concept_driving_school;
 =>nrel_house:
     [42]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 71;
 =>nrel_failure_rate: 90;;
 
@@ -2221,7 +2221,7 @@ driving_school_vnevedom_ohrana <- concept_driving_school;
 =>nrel_house:
     [46]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 72;
 =>nrel_failure_rate: 91;;
 
@@ -2252,7 +2252,7 @@ driving_school_belavtorally <- concept_driving_school;
 =>nrel_house:
     [82]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 73;
 =>nrel_failure_rate: 92;;
 
@@ -2282,7 +2282,7 @@ driving_school_virtuoz <- concept_driving_school;
 =>nrel_house:
     [31]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 74;
 =>nrel_failure_rate: 92;;
 
@@ -2312,7 +2312,7 @@ driving_school_novi_povorot <- concept_driving_school;
 =>nrel_house:
     [56]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 75;
 =>nrel_failure_rate: 93;;
 
@@ -2343,7 +2343,7 @@ driving_school_novie_horizonti <- concept_driving_school;
 =>nrel_house:
     [34]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 76;
 =>nrel_failure_rate: 93;;
 
@@ -2373,7 +2373,7 @@ driving_school_avto_otlichnik <- concept_driving_school;
 =>nrel_house:
     [39]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 77;
 =>nrel_failure_rate: 94;;
 
@@ -2403,7 +2403,7 @@ driving_school_2000 <- concept_driving_school;
 =>nrel_house:
     [40]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 78;
 =>nrel_failure_rate: 95;;
 
@@ -2434,7 +2434,7 @@ driving_school_debut <- concept_driving_school;
 =>nrel_house:
     [68]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 79;
 =>nrel_failure_rate: 96;;
 
@@ -2464,7 +2464,7 @@ driving_school_formulacity <- concept_driving_school;
 =>nrel_house:
     [43]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 80;
 =>nrel_failure_rate: 96;;
 
@@ -2494,7 +2494,7 @@ driving_school_lider <- concept_driving_school;
 =>nrel_house:
     [26]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 81;
 =>nrel_failure_rate: 98;;
 
@@ -2524,10 +2524,7 @@ driving_school_mnsk_city <- concept_driving_school;
 =>nrel_house:
     [78]
     (* <- house;;*);
-=>nrel_search_area: Belarus;
+=>nrel_search_area: minsk;
 =>nrel_rating_in_tp: 82;
 =>nrel_failure_rate: 98;;
-
-nrel_rating_in_tp
-nrel_failure_rate
 
