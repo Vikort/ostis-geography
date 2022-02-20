@@ -1,16 +1,9 @@
-bus_station_vistavochny_zal <- concept_bus_station;
+bus_station_vistavochny_zal 
+<- concept_bus_station;
 <- concept_bus_station_of_the_baranavichy;
 =>nrel_main_idtf:
     [автостанция "Выстовочный зал"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    brest_region;
-=>nrel_district:
-    baranavichy_district;
-=>nrel_city:
-    baranavichy_brest_region;
 =>nrel_search_area:
     baranavichy_brest_region;;
 
@@ -18,55 +11,21 @@ bus_station_vistavochny_zal <- concept_bus_station;
 bus_station_gagarina <- concept_bus_station;
 <- concept_bus_station_of_the_baranavichy;
 =>nrel_main_idtf:
-    [автостанция "Улица Гагарина"]
+    [Улица Гагарина]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    brest_region;
-=>nrel_district:
-    baranavichy_district;
-=>nrel_city:
-    baranavichy_brest_region;
 =>nrel_search_area:
     baranavichy_brest_region;;
-
 
 bus_station_tsets <- concept_bus_station;
 <- concept_bus_station_of_the_baranavichy;
 =>nrel_main_idtf:
-    [автостанция "ЦЭЦ"]
+    [автобусная остановка ТЭЦ]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    brest_region;
-=>nrel_district:
-    baranavichy_district;
-=>nrel_city:
-    baranavichy_brest_region;
 =>nrel_search_area:
     baranavichy_brest_region;;
 
 
-bus_station_baranavichy <- concept_bus_station;
-<- concept_bus_station_of_the_baranavichy;
-=>nrel_main_idtf:
-    [автовокзал "Барановичи"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    brest_region;
-=>nrel_district:
-    baranavichy_district;
-=>nrel_city:
-    baranavichy_brest_region;
-=>nrel_search_area:
-    baranavichy_brest_region;;
-
-
-bus_station_baranavichy <- concept_bus_station;
+bus_station_baranavichy <- concept_bus_station; <- concept_map_object;
 <- concept_bus_station_of_the_baranavichy;
 =>nrel_main_idtf:
     [автовокзал "Барановичи"]

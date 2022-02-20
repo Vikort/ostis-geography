@@ -1,84 +1,50 @@
-bus_station_Centralny <- concept_bus_station;
+bus_station_Centralny 
+<- concept_bus_station;
 <- concept_bus_station_of_the_Minsk;
+<- concept_way;
 =>nrel_main_idtf:
-    [автовокзал "Центральный"]
+    [Минск-Пассажирский]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    minsk_region;
-=>nrel_district:
-    minsk_district;
-=>nrel_city:
-    minsk;
 =>nrel_search_area:
     minsk;;
 
  	
-bus_station_Vostochny <- concept_bus_station;
+bus_station_Vostochny 
+<- concept_bus_station;
 <- concept_bus_station_of_the_Minsk;
 =>nrel_main_idtf:
-    [автовокзал "Восточный"]
+    [ДС Восточная]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    minsk_region;
-=>nrel_district:
-    minsk_district;
-=>nrel_city:
-    minsk;
 =>nrel_search_area:
     minsk;;
 
 
-bus_station_Dryjnaya <- concept_bus_station;
+bus_station_Dryjnaya 
+<- concept_bus_station;
 <- concept_bus_station_of_the_Minsk;
 =>nrel_main_idtf:
-    [автостанция "Дружная"]
+    [ДС Дружная]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    minsk_region;
-=>nrel_district:
-    minsk_district;
-=>nrel_city:
-    minsk;
 =>nrel_search_area:
     minsk;;
 
 
-bus_station_Avtozavodskaya <- concept_bus_station;
+bus_station_Avtozavodskaya 
+<- concept_bus_station;
 <- concept_bus_station_of_the_Minsk;
 =>nrel_main_idtf:
-    [автостанция "Автозаводская"]
+    [Автозаводская]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    minsk_region;
-=>nrel_district:
-    minsk_district;
-=>nrel_city:
-    minsk;
 =>nrel_search_area:
     minsk;;
 
 
-bus_station_Karastoianovoy <- concept_bus_station;
+bus_station_Karastoianovoy 
+<- concept_bus_station;
 <- concept_bus_station_of_the_Minsk;
 =>nrel_main_idtf:
     [автостанция Карастояновой]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    minsk_region;
-=>nrel_district:
-    minsk_district;
-=>nrel_city:
-    minsk;
 =>nrel_search_area:
     minsk;;
 
@@ -86,15 +52,7 @@ bus_station_Karastoianovoy <- concept_bus_station;
 bus_station_Yugo_Zapadnaya <- concept_bus_station;
 <- concept_bus_station_of_the_Minsk;
 =>nrel_main_idtf:
-    [автостанция "Юго-Западная"]
+    [Автостанция Юго-Западная]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    minsk_region;
-=>nrel_district:
-    minsk_district;
-=>nrel_city:
-    minsk;
 =>nrel_search_area:
     minsk;;

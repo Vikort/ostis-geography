@@ -1,16 +1,8 @@
 bus_station_maladzyechna <- concept_bus_station;
 <- concept_bus_station_of_the_maladzyechna;
 =>nrel_main_idtf:
-    [автостанция "Молодечно"]
+    [Остановка улица Волынца]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    minsk_region;
-=>nrel_district:
-    maladzyechna_district;
-=>nrel_city:
-    maladzyechna;
 =>nrel_search_area:
     maladzyechna;;
 
