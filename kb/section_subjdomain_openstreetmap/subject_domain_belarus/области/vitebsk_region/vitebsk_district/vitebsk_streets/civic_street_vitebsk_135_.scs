@@ -4,8 +4,9 @@ civic_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Гражданская]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1100;
-                =>nrel_number_of_house:19;
+                =>nrel_street_length:700;
+                =>nrel_number_of_house:69;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,9 @@ azina_3rd_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Азина 3-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1600;
-                =>nrel_number_of_house:6;
+                =>nrel_street_length:900;
+                =>nrel_number_of_house:11;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

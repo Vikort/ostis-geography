@@ -4,8 +4,9 @@ general_lyudnikova_pr_t_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Генерала Людникова пр-т]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1000;
-                =>nrel_number_of_house:62;
+                =>nrel_street_length:500;
+                =>nrel_number_of_house:60;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

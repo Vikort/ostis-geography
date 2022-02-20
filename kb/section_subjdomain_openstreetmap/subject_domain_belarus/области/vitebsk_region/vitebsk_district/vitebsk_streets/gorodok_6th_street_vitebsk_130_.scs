@@ -4,8 +4,9 @@ gorodok_6th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Городокская 6-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1700;
-                =>nrel_number_of_house:42;
+                =>nrel_street_length:200;
+                =>nrel_number_of_house:74;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -5,7 +5,8 @@ veligaya_street_vitebsk <- concept_way;
                 [улица Велижская]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:3300;
-                =>nrel_number_of_house:29;
+                =>nrel_number_of_house:79;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

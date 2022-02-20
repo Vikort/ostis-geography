@@ -4,8 +4,9 @@ heather_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Вересковая]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2500;
-                =>nrel_number_of_house:57;
+                =>nrel_street_length:300;
+                =>nrel_number_of_house:45;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

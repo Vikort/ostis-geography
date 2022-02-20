@@ -4,8 +4,9 @@ bebel_11th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Бебеля 11-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3200;
+                =>nrel_street_length:400;
                 =>nrel_number_of_house:22;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,9 @@ pottery_street_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Гончарная улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:400;
-                =>nrel_number_of_house:83;
+                =>nrel_street_length:1500;
+                =>nrel_number_of_house:42;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

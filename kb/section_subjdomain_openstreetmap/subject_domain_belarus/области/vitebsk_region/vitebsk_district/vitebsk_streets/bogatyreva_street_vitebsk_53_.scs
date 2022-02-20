@@ -4,8 +4,9 @@ bogatyreva_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Богатырева]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2200;
-                =>nrel_number_of_house:72;
+                =>nrel_street_length:1500;
+                =>nrel_number_of_house:20;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

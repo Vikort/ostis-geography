@@ -5,7 +5,8 @@ gorodokaya_23rd_street_vitebsk <- concept_way;
                 [улица Городокская 23-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:3200;
-                =>nrel_number_of_house:28;
+                =>nrel_number_of_house:46;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,9 @@ bebel_10th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Бебеля 10-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3300;
-                =>nrel_number_of_house:81;
+                =>nrel_street_length:1200;
+                =>nrel_number_of_house:34;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,9 @@ byleskaya_1st_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Билевская 1-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1500;
-                =>nrel_number_of_house:20;
+                =>nrel_street_length:600;
+                =>nrel_number_of_house:40;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

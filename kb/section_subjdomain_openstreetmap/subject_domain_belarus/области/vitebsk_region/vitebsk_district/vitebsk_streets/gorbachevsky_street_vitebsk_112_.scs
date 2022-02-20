@@ -4,8 +4,9 @@ gorbachevsky_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Горбачевского]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3000;
-                =>nrel_number_of_house:48;
+                =>nrel_street_length:900;
+                =>nrel_number_of_house:12;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

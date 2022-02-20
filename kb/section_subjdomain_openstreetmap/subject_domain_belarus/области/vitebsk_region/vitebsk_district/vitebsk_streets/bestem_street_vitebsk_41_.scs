@@ -4,8 +4,9 @@ bestem_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Берестеня]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:300;
-                =>nrel_number_of_house:13;
+                =>nrel_street_length:2400;
+                =>nrel_number_of_house:7;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

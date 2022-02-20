@@ -4,8 +4,9 @@ gorodok_20th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Городокская 20-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2900;
-                =>nrel_number_of_house:39;
+                =>nrel_street_length:100;
+                =>nrel_number_of_house:7;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

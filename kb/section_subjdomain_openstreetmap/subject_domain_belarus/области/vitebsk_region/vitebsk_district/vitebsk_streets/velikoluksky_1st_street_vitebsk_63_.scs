@@ -4,8 +4,9 @@ velikoluksky_1st_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Великолукская 1-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2300;
-                =>nrel_number_of_house:37;
+                =>nrel_street_length:2500;
+                =>nrel_number_of_house:40;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

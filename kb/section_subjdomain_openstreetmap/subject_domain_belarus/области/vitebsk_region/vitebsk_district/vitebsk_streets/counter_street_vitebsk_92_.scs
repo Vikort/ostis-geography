@@ -4,8 +4,9 @@ counter_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Встречная]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:100;
-                =>nrel_number_of_house:72;
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:58;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,9 @@ azina_2nd_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Азина 2-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2700;
-                =>nrel_number_of_house:11;
+                =>nrel_street_length:3100;
+                =>nrel_number_of_house:19;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

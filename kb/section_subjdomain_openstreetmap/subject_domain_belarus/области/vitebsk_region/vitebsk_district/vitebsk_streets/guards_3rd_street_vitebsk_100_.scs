@@ -4,8 +4,9 @@ guards_3rd_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Гвардейская 3-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1100;
-                =>nrel_number_of_house:36;
+                =>nrel_street_length:2100;
+                =>nrel_number_of_house:20;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

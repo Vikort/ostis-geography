@@ -4,8 +4,9 @@ vurecharov_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Вострецова]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:1300;
-                =>nrel_number_of_house:30;
+                =>nrel_street_length:1400;
+                =>nrel_number_of_house:32;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

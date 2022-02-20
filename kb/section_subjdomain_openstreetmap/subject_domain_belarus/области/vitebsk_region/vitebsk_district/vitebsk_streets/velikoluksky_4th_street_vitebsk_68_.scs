@@ -4,8 +4,9 @@ velikoluksky_4th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Великолукский 4-й]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:700;
-                =>nrel_number_of_house:41;
+                =>nrel_street_length:1300;
+                =>nrel_number_of_house:5;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

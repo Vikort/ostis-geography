@@ -4,8 +4,9 @@ bebel_8th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Бебеля 8-я]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:900;
-                =>nrel_number_of_house:78;
+                =>nrel_street_length:500;
+                =>nrel_number_of_house:18;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

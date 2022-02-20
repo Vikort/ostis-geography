@@ -4,8 +4,9 @@ baghramian_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Баграмяна]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2900;
-                =>nrel_number_of_house:41;
+                =>nrel_street_length:400;
+                =>nrel_number_of_house:59;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

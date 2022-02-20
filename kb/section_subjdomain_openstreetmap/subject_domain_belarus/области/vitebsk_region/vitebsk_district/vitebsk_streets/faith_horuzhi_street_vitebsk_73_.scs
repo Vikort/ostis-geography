@@ -4,8 +4,9 @@ faith_horuzhi_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Веры Хоружей]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:3100;
-                =>nrel_number_of_house:12;
+                =>nrel_street_length:1500;
+                =>nrel_number_of_house:69;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

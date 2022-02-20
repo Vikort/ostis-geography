@@ -4,8 +4,9 @@ gapeev_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Гапеева]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2800;
-                =>nrel_number_of_house:61;
+                =>nrel_street_length:2100;
+                =>nrel_number_of_house:19;
+                =>oktyabrsky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,9 @@ vorovsky_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Воровского]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:2200;
-                =>nrel_number_of_house:71;
+                =>nrel_street_length:2600;
+                =>nrel_number_of_house:72;
+                =>pervomausky_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 

@@ -4,8 +4,9 @@ velikoluksky_5th_street_vitebsk <- concept_way;
                 (* <- lang_en;; <- name_en;;*);
                 [улица Великолукский 5-й]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_street_length:200;
-                =>nrel_number_of_house:83;
+                =>nrel_street_length:1800;
+                =>nrel_number_of_house:73;
+                =>zhelezny_city_district;
                 =>nrel_search_area:
                 vitebsk;;
                 
