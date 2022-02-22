@@ -41,6 +41,8 @@ belarus <- concept_country;
     (* <- lang_en;; <- name_en;;*);
     [Беларусь]
     (* <- lang_ru;; <- name_ru;;*);
+	[BY]
+	(* <- name;; *);
 =>nrel_admin_level:
     [2]
     (*<-concept_admin_level;;*);

@@ -1,4 +1,39 @@
-concept_estate_of_the_Gomel_region
+concept_estate_of_the_gomel_region
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[усадьба Гомельской области]
+	(* <- lang_ru;; *);
+	[estate of the Gomel region]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (усадьба Гомельской области)]
+		(* <- lang_ru;; *);
+		[Def. (estate of the Gomel region)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Усадьба Гомельской области — усадьба, которое располагается в Гомельской области.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Estate of the Gomel region is a estate, which is located in the Gomel region.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_estate;
+			gomel_region;
+            belarus
+		};;
+	*);;concept_estate_of_the_gomel_region
 <-sc_node_not_relation;
 =>nrel_main_idtf:
 	[усадьба Гомельской области]

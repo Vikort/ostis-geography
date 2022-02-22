@@ -1,4 +1,39 @@
-concept_estate_of_the_Minsk_region
+concept_estate_of_the_minsk_region
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[усадьба Минской области]
+	(* <- lang_ru;; *);
+	[estate of the Minsk region]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (усадьба Минской области)]
+		(* <- lang_ru;; *);
+		[Def. (estate of the Minsk region)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Усадьба Минской области — усадьба, которое располагается в Минской области.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Estate of the Minsk region is a estate, which is located in the Minsk region.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_estate;
+			minsk_region;
+            belarus
+		};;
+	*);;concept_estate_of_the_minsk_region
 <-sc_node_not_relation;
 =>nrel_main_idtf:
 	[усадьба Минской области]

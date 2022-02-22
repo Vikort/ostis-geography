@@ -1,312 +1,8 @@
-        
+
 //1
-estates_dubrovshina
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Дубровщина]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Slonimsky_district;
-=>nrel_city:
-	Volcons;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//2
-estates_aist
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Белый аист]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Omnevichi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//3
-estates_domgrafatyshkevicha
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Дом графа Тышкевича]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Svislochesky_district;
-=>nrel_city:
-	Zharkovskaya;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//4
-estates_lesnojedem
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Лесной Эдем]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Likhachi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//5
-estates_zlatyteren
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Zlaty Teren]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Guns;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//6
-estates_dertnica
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Дертница]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Duttern;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//7
-estates_akrasila
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [АкРасила]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Puddle;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//8
-estates_utsishy
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [В хуторской тиши]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Volkovysky_district;
-=>nrel_city:
-	Vishnevichi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//9
-estates_krevskaya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Кревская]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Smorgon_district;
-=>nrel_city:
-	Krevo;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//10
-estates_stavy
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Ставы]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ostrovsky_district;
-=>nrel_city:
-	Ostrovsky;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//11
-estates_bubliki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Бублики]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Sheluti;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//12
-estates_tartak
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Тартак]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Tartak;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//13
-estates_palnica
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Пальница]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Finger;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//14
-estates_lebedkaby
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Лебедка]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Schuchinsky_district;
-=>nrel_city:
-	Degtyara;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//15
-estates_bbgrodno
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Балтийский берег]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Shore;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//16
-estates_boroviki12
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Боровики]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Dyatlovsky_district;
-=>nrel_city:
-	Boroviki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//17
 estates_vajciushki
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Войтюшки]
@@ -314,18 +10,18 @@ estates_vajciushki
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Novogrudsky_district;
+    novogrudsky_district;
 =>nrel_city:
-	Vasilevichi;
+	vasilevichi;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//18
+//2
 estates_novoselki
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Новоселки над Неманом]
@@ -333,132 +29,18 @@ estates_novoselki
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Mostovsky_district;
+    mostovsky_district;
 =>nrel_city:
-	Newslines;
+	newslines;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//19
-estates_belavezskikut
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Белавежскi кут]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Svislochesky_district;
-=>nrel_city:
-	New_yard;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//20
-estates_dom4luga
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Дом №4 в деревне Белые луга]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Tinevichi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//21
-estates_novysad
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Новый сад]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Novogrudsky_district;
-=>nrel_city:
-	Novosada;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//22
-estates_kutoklakotru
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Куток ля Котры]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Golovachi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//23
-estates_sonichi
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Соничи]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Sonychi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//24
-estates_kamenistoe
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Каменистое]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Kamenka;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//25
+//3
 estates_adpaczynak
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Хата у Стаха]
@@ -466,18 +48,18 @@ estates_adpaczynak
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Grodno_district;
+    grodno_district;
 =>nrel_city:
-	Sopozkin;
+	sopozkin;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//26
+//4
 estates_mirnaya
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Мирная]
@@ -485,151 +67,18 @@ estates_mirnaya
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Korean_district;
+    korean_district;
 =>nrel_city:
-	Ozersko;
+	ozersko;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//27
-estates_domochag
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Домашний очаг]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Zhukevichi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//28
-estates_nemansky
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Неманский очаг]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Biscief;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//29
-estates_agroskidel
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [С легким паром]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Skidel;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//30
-estates_pogostim
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Погостим в заказнике]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Dubinka;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//31
-estates_chernyekamni
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Черные камни]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Students;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//32
-estates_krinichnoe
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Криничное]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Crop;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//33
-estates_prudcy
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Прудцы]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Schuchinsky_district;
-=>nrel_city:
-	Prudnikov;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//34
+    the_grodno_region;;
+       
+//5
 estates_maentaktrichi
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Трычоўскi маентак]
@@ -637,284 +86,18 @@ estates_maentaktrichi
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Grodno_district;
+    grodno_district;
 =>nrel_city:
-	Trabutishi;
+	trabutishi;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//35
-estates_molodaja
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Молодая]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Grodno;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//36
-estates_marchukova
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Марчукова хата]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Schuchinsky_district;
-=>nrel_city:
-	Stomach;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//37
-estates_unikolaicha
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [У Николаича]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Plebans;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//38
-estates_vyalikaezapruddze
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Вялiкае запруддзе]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Rasolishi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//39
-estates_piekla
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Пекла]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ostrovsky_district;
-=>nrel_city:
-	Ostrovsky;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//40
-estates_backova
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Бацькова Хата]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Smorgon_district;
-=>nrel_city:
-	Sutkovo;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//41
-estates_bavaria
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Бавария]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Starina;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//42
-estates_zvezdnaya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Звездная]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Volkovysky_district;
-=>nrel_city:
-	Star;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//43
-estates_nemanskievasilki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Неманские васильки]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Barovo;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//44
-estates_adamant
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [АдамантЪ]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Dyatlovsky_district;
-=>nrel_city:
-	Gezga;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//45
-estates_bush
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Бушевских]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Oshmyany_district;
-=>nrel_city:
-	Markynyat;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//46
-estates_priozernaja
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Приозёрная]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Ogorodniki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//47
-estates_dvoryanskoegnezdo
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Дворянское гнездо]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Berezovitsky_district;
-=>nrel_city:
-	White_courtyard;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//48
-estates_melniki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Мельники]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Volkovysky_district;
-=>nrel_city:
-	Ros;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//49
+//6
 estates_tarusichi
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Тарусичи]
@@ -922,170 +105,75 @@ estates_tarusichi
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Grodno_district;
+    grodno_district;
 =>nrel_city:
-	Tarusii;
+	tarusii;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//50
+//7
 estates_karuselhouse
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Карусель House]
+    [Карусель]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Ivsevsky_district;
+    ivsevsky_district;
 =>nrel_city:
-	White_coast;
+	white_coast;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//51
-estates_podorogenavilnyu
+//8
+estates_beliaist
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Маентак по дороге на Вильню]
+    [Белый Аист]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Oshmyany_district;
+    korean_district;
 =>nrel_city:
-	Oshmyany;
+	omnevichi;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//52
-estates_morinskoe
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Моринское]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Morino;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//53
-estates_omnevichi
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Омневичи]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Omnevichi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//54
-estates_svayakgrodno
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Сваяк]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Silver;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//55
-estates_polezhino
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Полежино]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Berezovitsky_district;
-=>nrel_city:
-	Polezhino;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//56
-estates_agrohome
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Папараць-кветка]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Novogrudsky_district;
-=>nrel_city:
-	Zhdanovichi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//57
+//9
 estates_komarishki
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Агроусадьба "Хутор Комаришки"]
+    [Хутор Комаришки]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Ostrovsky_district;
+    ostrovsky_district;
 =>nrel_city:
-	Big_Strat;
+	big_strat;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//58
+//10
 estates_veres
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Верес]
@@ -1093,94 +181,18 @@ estates_veres
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Zelvensky_district;
+    zelvensky_district;
 =>nrel_city:
-	Kozlovichi;
+	kozlovichi;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//59
-estates_gascinydvorgrodno
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Гасцiнны двор]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Dinova_1;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//60
-estates_levada
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Левада]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Slonimsky_district;
-=>nrel_city:
-	Somino;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//61
-estates_nikolaevo
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Николаево]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Nikolaevo;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//62
-estates_anneta
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Аннета]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Unmann;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//63
+//11
 estates_augustowskizakutok
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Августовский закуток]
@@ -1188,246 +200,37 @@ estates_augustowskizakutok
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Grodno_district;
+    grodno_district;
 =>nrel_city:
-	Sopozkin;
+	sopozkin;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//64
+//12
 estates_domiknovoselki
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Семейный экодомик в усадьбе «Новоселки над Неманом»]
+    [Новоселки над Неманом]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Mostovsky_district;
+    mostovsky_district;
 =>nrel_city:
-	Newslines;
+	newslines;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//65
-estates_novayaruda
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Новая Руда]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	New_Ruda;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//66
-estates_karina
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Карина]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Oshmyany_district;
-=>nrel_city:
-	Onshers;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//67
-estates_hatamagnata
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Хата Магната]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Ozers;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//68
-estates_nachernoyganche
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [На Черной Ганче]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Guns;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//69
-estates_sarochozera
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Сорочанские озера]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ostrovsky_district;
-=>nrel_city:
-	Podlipier;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//70
-estates_ulukomoryagrodno
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [У Лукоморья]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Pubbury;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//71
+//13
 estates_dvabysla
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Два бусла]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Discusso;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//72
-estates_bankauanki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Банька у Аньки]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Ozers;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//73
-estates_mirzamok
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Замковое предместье]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Peace;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//74
-estates_usadbauslada
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Услада]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	IVE;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//75
-estates_laradona
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Мястэчка ля Радона]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Dyatlovsky_district;
-=>nrel_city:
-	Kurpeishi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//76
-estates_ynarvu
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [У Нарвы]
@@ -1435,56 +238,37 @@ estates_ynarvu
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Lidsky_district;
+    lidsky_district;
 =>nrel_city:
-	Discusso;
+	discusso;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//77
-estates_selyahi
+    the_grodno_region;;
+       
+//14
+estates_mirzamok
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Селяхи]
+    [Замковое предместье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Volkovysky_district;
+    korean_district;
 =>nrel_city:
-	Selya;
+	peace;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//78
-estates_grebubliki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Гребублики]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Reserve;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//79
+    the_grodno_region;;
+       
+//15
 estates_olhovo
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Ольхово]
@@ -1492,512 +276,113 @@ estates_olhovo
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Volkovysky_district;
+    volkovysky_district;
 =>nrel_city:
-	Olkhovo;
+	olkhovo;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//80
-estates_kazanmangal
+//16
+estates_dubi
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Казан-мангал]
+    [Дубы]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Grodno_district;
+    grodno_district;
 =>nrel_city:
-	Small_Olshanka;
+	carolino;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//81
-estates_romanovci
+    the_grodno_region;;
+
+//17
+estates_shestigrannik
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Романовцы 12]
+    [Шестигранник]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Svislochesky_district;
+    grodno_district;
 =>nrel_city:
-	Romanovtsy;
+	carolino;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//82
-estates_bobrovadolina
+    the_grodno_region;;
+
+//18
+estates_zeleniydomik
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Бобровая долина]
+    [Зелёный домик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Schuchinsky_district;
+    grodno_district;
 =>nrel_city:
-	Kulbachino;
+	carolino;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//83
-estates_kolonaya
+    the_grodno_region;;
+
+//19
+estates_rodovoegnezdo
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Колоная]
+    [Родовое гнездо]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Svislochesky_district;
+    grodno_district;
 =>nrel_city:
-	Well;
+	carolino;
 =>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
         
-//84
-estates_kalilaska
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Кали Ласка]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Koreani;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//85
-estates_zakaduchnaya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Закадычная]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Isle;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//86
-estates_medpanaceya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [МёдПанацея]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Dyatlovsky_district;
-=>nrel_city:
-	Stroelnya;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//87
-estates_bookashkindom
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Букашкин Дом]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	LETUSKA;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//88
-estates_krajozer
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Край озер]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Pyru;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//89
-estates_zelenydom
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [«Каралінскі фальварак Тызенгауза», зеленый домик]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Carolino;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//90
-estates_ranchorodeo
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Ранчо-Родео]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Novogrudsky_district;
-=>nrel_city:
-	Leshechenka;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//91
-estates_xytorok
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Лидский хуторок]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Lida;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//92
-estates_grodnodomohotnika
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Дом охотника]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Svislochesky_district;
-=>nrel_city:
-	Stoki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//93
-estates_tribobra
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Три бобра]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Salatier;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//94
-estates_boroviki34
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Боровики]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Dyatlovsky_district;
-=>nrel_city:
-	Boroviki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//95
-estates_udonamirona
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [У Дона Мирона]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Zelvensky_district;
-=>nrel_city:
-	Berezhki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//96
-estates_snigyany
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Снигяны]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Smorgon_district;
-=>nrel_city:
-	Sniganians;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//97
-estates_emelyanovo
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Емельяново]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Volkovysky_district;
-=>nrel_city:
-	Emelyanovo;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//98
-estates_pozharki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Пожарки]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Volkovysky_district;
-=>nrel_city:
-	Pierce;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//99
-estates_wjachkojni
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Вячкойни]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Oshmyany_district;
-=>nrel_city:
-	Night;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//100
-estates_kamenskoe
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Охотничье-рыболовное хозяйство "Каменское"]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Schuchinsky_district;
-=>nrel_city:
-	Pike;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//101
-estates_vita
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Вита]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Smorgon_district;
-=>nrel_city:
-	War_Names;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//102
-estates_domik
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Домик в деревне]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Selets;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//103
-estates_hatkalyapruda
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Хатка ля пруда]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Biscief;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//104
+//20
 estates_ostrovles
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
-    [Дом охотника «Панская усадьба»]
+    [Панская усадьба]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Ostrovsky_district;
+    ostrovsky_district;
 =>nrel_city:
-	Women;
+	women;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//105
-estates_dainova1
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Dainova-1]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Dinova_1;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//106
+    the_grodno_region;;
+       
+//21
 estates_kalyaduba
 <- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
+<- concept_estates_of_the_the_grodno_region;
 <- concept_way;
 =>nrel_main_idtf:
     [Каля Дуба]
@@ -2005,675 +390,10 @@ estates_kalyaduba
 =>nrel_country:
     belarus;
 =>nrel_region:
-    The_Grodno_region;
+    the_grodno_region;
 =>nrel_district:
-    Dyatlovsky_district;
+    dyatlovsky_district;
 =>nrel_city:
-	Ameks;
+	ameks;
 =>nrel_search_area:
-    The_Grodno_region;;
-        
-//107
-estates_breadsalt
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Хлеб Соль]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Koroboxy;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//108
-estates_nadunaevke
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Хуторок на Дунаевке]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Pyru;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//109
-estates_solovinayapesnya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Соловьиная песня]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Voronovsky_district;
-=>nrel_city:
-	Voronovo;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//110
-estates_nadgavei
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Над Гавьей]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Pulley;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//111
-estates_milva
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Мильва]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Millva_Berezina;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//112
-estates_selets
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Селец]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Selets;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//113
-estates_guesthousemirsriyakrinicy
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [«Мирския Крыницы», верхний домик]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Higher;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//114
-estates_usadbanaozere
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [На озере]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Ozers;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//115
-estates_feradki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Ферадки]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Slonimsky_district;
-=>nrel_city:
-	Feradia;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//116
-estates_arkada
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Аркада]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Berezovitsky_district;
-=>nrel_city:
-	Large_eysmonts;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//117
-estates_lapenkax
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [В Лапенках]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Grodno;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//118
-estates_nemans
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Домик у реки Neman]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Morino;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//119
-estates_dom2luga
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Дом №2 в деревне Белые луга]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Tinevichi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//120
-estates_chereshlya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Черешля]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Novogrudsky_district;
-=>nrel_city:
-	Cherry;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//121
-estates_svetlazara
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Светлазара]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Peace;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//122
-estates_ladeniki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Озеро Ладеники]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Novogrudsky_district;
-=>nrel_city:
-	Ladnes;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//123
-estates_moyrodnykut
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Мой родны кут]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Dry_mountain;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//124
-estates_shchodryneman
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Шчодры Неман]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Ogorodniki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//125
-estates_zhirovichpred
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Жировичское предместье]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Slonimsky_district;
-=>nrel_city:
-	Zhirovachi;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//126
-estates_boyary
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Бояры]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Boyars;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//127
-estates_maryanka
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Марьянка]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Rybnitsa;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//128
-estates_liavonaukhutorok
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Лявонау хутарок]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Svislochesky_district;
-=>nrel_city:
-	Sidorki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//129
-estates_agrousadbalesnaya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Лесная]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	New_Ruda;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//130
-estates_mechtagrodno
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Мечта]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Porechye;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//131
-estates_lesnica
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Лесничувка]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Lesnash;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//132
-estates_vjales
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Вялес]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Smorgon_district;
-=>nrel_city:
-	Zhodiska;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//133
-estates_karalino
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [«Каралінскі фальварак Тызенгауза», дом «Дубы»]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Carolino;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//134
-estates_uparoma
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [У парома]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Lidsky_district;
-=>nrel_city:
-	Discusso;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//135
-estates_yantarnaya
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Янтарная]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Grodno;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//136
-estates_gostinnaya7
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Гостинная 7]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Grodno_district;
-=>nrel_city:
-	Koroboxy;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//137
-estates_shimki
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Шимки]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Mostovsky_district;
-=>nrel_city:
-	Shimki;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//138
-estates_naneman
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Каля Нёмана]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Morino;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//139
-estates_hatkadostatka
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Хатка Достатка]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Schuchinsky_district;
-=>nrel_city:
-	Fishermen;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//140
-estates_mirsriyakrinicy
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Мирския Крыницы]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Korean_district;
-=>nrel_city:
-	Higher;
-=>nrel_search_area:
-    The_Grodno_region;;
-        
-//141
-estates_nemanskoye
-<- concept_estates;
-<- concept_estates_of_the_The_Grodno_region;
-<- concept_way;
-=>nrel_main_idtf:
-    [Неманское]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    The_Grodno_region;
-=>nrel_district:
-    Ivsevsky_district;
-=>nrel_city:
-	Lelyuki;
-=>nrel_search_area:
-    The_Grodno_region;;
+    the_grodno_region;;
