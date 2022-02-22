@@ -269,10 +269,11 @@ class PopulationComparisonAgent(ScAgent):
         soup = BeautifulSoup(page.text, 'html.parser')
         dom = etree.HTML(str(soup))
         village = dom.xpath('(//div[@class="mw-search-result-heading"]/a/@href)[1]')
-        url = "https://ru.wikipedia.org" + village[0]
-        page = requests.get(url)
-        soup = BeautifulSoup(page.text, 'html.parser')
-        dom = etree.HTML(str(soup))
+        if len(village) > 0:
+            url = "https://ru.wikipedia.org" + village[0]
+            page = requests.get(url)
+            soup = BeautifulSoup(page.text, 'html.parser')
+            dom = etree.HTML(str(soup))
         population = dom.xpath('//span[@data-wikidata-property-id="P1082"]/span/text()')
         if len(population) == 0:
             return "0"

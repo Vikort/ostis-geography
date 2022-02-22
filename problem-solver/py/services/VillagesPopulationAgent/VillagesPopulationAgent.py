@@ -167,10 +167,11 @@ class VillagesPopulationAgent(ScAgent):
         soup = BeautifulSoup(page.text, 'html.parser')
         dom = etree.HTML(str(soup))
         part = dom.xpath('(//div[@class="mw-search-result-heading"]/a/@href)[1]')
-        url = "https://ru.wikipedia.org" + part[0]
-        page = requests.get(url)
-        soup = BeautifulSoup(page.text, 'html.parser')
-        dom = etree.HTML(str(soup))
+        if len(part) > 0:
+            url = "https://ru.wikipedia.org" + part[0]
+            page = requests.get(url)
+            soup = BeautifulSoup(page.text, 'html.parser')
+            dom = etree.HTML(str(soup))
         village = dom.xpath('//div[@class="columns"]/ul/li/a[text()[contains(., "{}")]]/@href'.format(village1[0]))
         if len(village) == 0:
             village = dom.xpath('//div[@class="mw-parser-output"]/ul/li/a[text()[contains(., "{}")]]/@href'.format(village1[0]))
