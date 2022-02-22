@@ -8,7 +8,6 @@ ui_menu_na_example_commands
 	{
 		ui_menu_generate_osm_query;
 		ui_menu_find_distance;
-		ui_menu_get_definition;
 		ui_menu_compare_population;
 		ui_menu_find_population
 	};;

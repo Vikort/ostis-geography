@@ -17,7 +17,7 @@ village_alekseevka <- concept_village;
 
 village_Beresnevka <- concept_village;
 =>nrel_main_idtf:
-    [Бересневка]
+    [Береснёвка]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_admin_level:
     [10]
