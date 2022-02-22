@@ -1,0 +1,18 @@
+concept_petrol_station <- sc_node_not_relation;
+=> nrel_main_idtf:
+[petrol station]
+(* <- lang_en;; <- name_en;; *);
+[АЗС]
+(* <- lang_ru;; <- name_ru;; <- name;; *);
+
+<- rrel_key_sc_element:...(*
+<- definition;;
+=> nrel_main_idtf:
+[Опр. АЗС]
+(* <- lang_ru;; *);;
+<= nrel_sc_text_translation:...(*
+-> rrel_example:
+[Автомоби́льная заправочная станция (АЗС, заправка) — комплекс оборудования на придорожной территории, предназначенный для заправкитопливом транспортных средств.]
+(*<-lang_ru;;=> nrel_format: format_html;;*);;
+*);;
+*);;
