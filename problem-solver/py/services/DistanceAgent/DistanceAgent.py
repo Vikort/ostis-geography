@@ -159,15 +159,19 @@ class DistanceAgent(ScAgent):
         elements_lst = []
         soup = BeautifulSoup(page.text, 'html.parser')
         dom = etree.HTML(str(soup))
-        lat = dom.xpath('(//a[@class="set_position"]/@data-lat)[1]')[0]
-        lon = dom.xpath('(//a[@class="set_position"]/@data-lon)[1]')[0]
-        return (float(lat), float(lon))
+        lat = dom.xpath('(//a[@class="set_position"]/@data-lat)[1]')
+        lon = dom.xpath('(//a[@class="set_position"]/@data-lon)[1]')
+        if len(lat) == 0 | len(lon) == 0:
+            return (1.11, 1.11)
+        return (float(lat[0]), float(lon[0]))
 
     def getDistance(self, village1, village2):
         url = "https://www.openstreetmap.org/geocoder/search_osm_nominatim?query=" + village1[0] + "%2C" + village1[1]
         coord1 = self.getLatLon(url)
         url_n = "https://www.openstreetmap.org/geocoder/search_osm_nominatim?query=" + village2[0] + "%2C" + village2[1]
         coord2 = self.getLatLon(url_n)
+        if coord1 == (1.11, 1.11) | coord2 == (1.11, 1.11):
+            return 0
         return round((geopy.distance.distance(coord1, coord2).m), 2)
 
     def get_main_idtf(self, node):
