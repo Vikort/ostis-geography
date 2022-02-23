@@ -2,7 +2,7 @@ ui_menu_get_driving_schools_by_region <- ui_user_command_class_atom; ui_user_com
 
 ui_menu_get_driving_schools_by_region
 => nrel_main_idtf: 
-	[Найти автошколы]
+	[Найти автошколы по области]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
 	[Запрос поиска автошкол для указанной области]

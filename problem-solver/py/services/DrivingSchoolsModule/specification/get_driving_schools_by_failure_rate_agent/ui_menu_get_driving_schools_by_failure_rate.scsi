@@ -2,7 +2,7 @@ ui_menu_get_driving_schools_by_failure_rate <- ui_user_command_class_atom; ui_us
 
 ui_menu_get_driving_schools_by_failure_rate
 => nrel_main_idtf: 
-	[Найти автошколы]
+	[Найти автошколы по проценту несдачи]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
 	[Запрос поиска автошкол по проценту несдачи]

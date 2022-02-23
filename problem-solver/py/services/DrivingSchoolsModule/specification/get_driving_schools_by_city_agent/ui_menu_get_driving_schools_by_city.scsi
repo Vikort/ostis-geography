@@ -2,7 +2,7 @@ ui_menu_get_driving_schools_by_city <- ui_user_command_class_atom; ui_user_comma
 
 ui_menu_get_driving_schools_by_city
 => nrel_main_idtf: 
-	[Найти автошколы]
+	[Найти автошколы по городу]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
 	[Запрос поиска автошкол для указанного города]

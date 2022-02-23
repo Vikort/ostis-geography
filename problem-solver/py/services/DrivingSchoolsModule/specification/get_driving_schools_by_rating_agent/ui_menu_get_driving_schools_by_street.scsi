@@ -2,7 +2,7 @@ ui_menu_get_driving_schools_by_rating <- ui_user_command_class_atom; ui_user_com
 
 ui_menu_get_driving_schools_by_rating
 => nrel_main_idtf: 
-	[Найти автошколы]
+	[Найти автошколы по рейтингу]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
 	[Запрос поиска автошкол по рейтингу]
