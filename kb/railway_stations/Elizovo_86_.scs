@@ -6,7 +6,7 @@ Elizovo <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:3200;
-                =>nrel_number_of_employees: 13;
-                =>nrel_number_of_trains:7;
+                =>nrel_number_of_employees: 20;
+                =>nrel_number_of_trains:3;
                 =>nrel_rajon:Osipovichskij;;
                 

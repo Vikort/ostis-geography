@@ -5,8 +5,8 @@ Kalij-1 <- concept_way;
                 [Калий-1]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2000;
+                =>nrel_number_of_passengers:1500;
                 =>nrel_number_of_employees: 11;
-                =>nrel_number_of_trains:7;
+                =>nrel_number_of_trains:8;
                 =>nrel_gorod:Soligorsk;;
                 

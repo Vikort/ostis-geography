@@ -5,8 +5,8 @@ Lukskoe <- concept_way;
                 [Лукское]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:300;
-                =>nrel_number_of_employees: 19;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_passengers:700;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:8;
                 =>nrel_rajon:Rogachevskij;;
                 

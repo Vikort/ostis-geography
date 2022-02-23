@@ -5,8 +5,8 @@ Kojdanovo <- concept_way;
                 [Койданово]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:700;
-                =>nrel_number_of_employees: 10;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_passengers:400;
+                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_trains:4;
                 =>nrel_gorod:Dzerzhinsk;;
                 

@@ -1,12 +1,12 @@
-Belarus' <- concept_way;
+Zelva <- concept_way;
                 =>nrel_main_idtf:
-                [Belarus']
+                [Zelva]
                 (* <- lang_en;; <- name_en;;*);
-                [Беларусь]
+                [Зельва]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1000;
-                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_passengers:2100;
+                =>nrel_number_of_employees: 15;
                 =>nrel_number_of_trains:6;
-                =>nrel_rajon:Volozhinskij;;
+                =>nrel_gorod:Zelva;;
                 

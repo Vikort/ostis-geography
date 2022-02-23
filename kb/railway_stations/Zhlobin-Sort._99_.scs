@@ -6,7 +6,7 @@ Zhlobin-Sort. <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:2500;
-                =>nrel_number_of_employees: 18;
-                =>nrel_number_of_trains:8;
+                =>nrel_number_of_employees: 19;
+                =>nrel_number_of_trains:3;
                 =>nrel_gorod:Zhlobin;;
                 

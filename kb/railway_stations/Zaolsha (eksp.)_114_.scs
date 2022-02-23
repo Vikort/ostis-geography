@@ -1,12 +1,12 @@
-Gudy <- concept_way;
+Zaolsha (eksp.) <- concept_way;
                 =>nrel_main_idtf:
-                [Gudy]
+                [Zaolsha (eksp.)]
                 (* <- lang_en;; <- name_en;;*);
-                [Гуды]
+                [Заольша (эксп.)]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1700;
-                =>nrel_number_of_employees: 11;
-                =>nrel_number_of_trains:7;
-                =>nrel_gorod:Lida;;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:6;
+                =>nrel_oblast:Vitebskaja;;
                 

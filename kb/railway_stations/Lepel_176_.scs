@@ -1,12 +1,12 @@
-Zaluch'e <- concept_way;
+Lepel <- concept_way;
                 =>nrel_main_idtf:
-                [Zaluch'e]
+                [Lepel]
                 (* <- lang_en;; <- name_en;;*);
-                [Залучье]
+                [Лепель]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1400;
-                =>nrel_number_of_employees: 13;
-                =>nrel_number_of_trains:8;
-                =>nrel_rajon:Gorodokskij;;
+                =>nrel_number_of_employees: 12;
+                =>nrel_number_of_trains:5;
+                =>nrel_gorod:Lepel;;
                 

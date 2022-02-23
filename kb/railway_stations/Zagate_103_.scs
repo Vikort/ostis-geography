@@ -1,12 +1,12 @@
-Zadvin'e <- concept_way;
+Zagate <- concept_way;
                 =>nrel_main_idtf:
-                [Zadvin'e]
+                [Zagate]
                 (* <- lang_en;; <- name_en;;*);
-                [Задвинье]
+                [Загатье]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:900;
-                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_passengers:2900;
+                =>nrel_number_of_employees: 14;
                 =>nrel_number_of_trains:5;
-                =>nrel_gorod:Vitebsk;;
+                =>nrel_rajon:Glubokskij;;
                 

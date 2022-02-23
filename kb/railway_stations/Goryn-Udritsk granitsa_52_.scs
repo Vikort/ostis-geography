@@ -1,12 +1,12 @@
-Brest-Tsentral'nyj (Pol'sha eksp.) <- concept_way;
+Goryn-Udritsk granitsa <- concept_way;
                 =>nrel_main_idtf:
-                [Brest-Tsentral'nyj (Pol'sha eksp.)]
+                [Goryn-Udritsk granitsa]
                 (* <- lang_en;; <- name_en;;*);
-                [Брест-Центральный (Польша эксп.)]
+                [Горынь-Удрицк граница]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:200;
+                =>nrel_number_of_passengers:1700;
                 =>nrel_number_of_employees: 10;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_trains:3;
                 =>nrel_oblast:Brestskaja;;
                 

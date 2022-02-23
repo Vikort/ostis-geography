@@ -5,8 +5,8 @@ Domanovo <- concept_way;
                 [Доманово]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1100;
-                =>nrel_number_of_employees: 18;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_passengers:1200;
+                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_trains:5;
                 =>nrel_rajon:Ivatsevichskij;;
                 

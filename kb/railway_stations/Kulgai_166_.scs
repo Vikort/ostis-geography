@@ -1,12 +1,12 @@
-Zel'va <- concept_way;
+Kulgai <- concept_way;
                 =>nrel_main_idtf:
-                [Zel'va]
+                [Kulgai]
                 (* <- lang_en;; <- name_en;;*);
-                [Зельва]
+                [Кульгаи]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:100;
-                =>nrel_number_of_employees: 16;
-                =>nrel_number_of_trains:8;
-                =>nrel_gorod:Zel'va;;
+                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_trains:2;
+                =>nrel_oblast:Vitebskaja;;
                 

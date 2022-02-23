@@ -5,8 +5,8 @@ Alescha <- concept_way;
                 [Алёща]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3300;
+                =>nrel_number_of_passengers:400;
                 =>nrel_number_of_employees: 15;
-                =>nrel_number_of_trains:5;
+                =>nrel_number_of_trains:7;
                 =>nrel_rajon:Polotskij;;
                 

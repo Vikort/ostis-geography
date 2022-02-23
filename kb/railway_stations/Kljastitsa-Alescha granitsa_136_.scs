@@ -5,8 +5,8 @@ Kljastitsa-Alescha granitsa <- concept_way;
                 [Клястица-Алеща граница]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:700;
-                =>nrel_number_of_employees: 20;
-                =>nrel_number_of_trains:3;
+                =>nrel_number_of_passengers:3000;
+                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_trains:4;
                 =>nrel_oblast:Vitebskaja;;
                 

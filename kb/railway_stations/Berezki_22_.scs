@@ -5,8 +5,8 @@ Berezki <- concept_way;
                 [Берёзки]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1200;
-                =>nrel_number_of_employees: 20;
+                =>nrel_number_of_passengers:3000;
+                =>nrel_number_of_employees: 11;
                 =>nrel_number_of_trains:3;
-                =>nrel_oblast:Gomel'skaja;;
+                =>nrel_oblast:Gomelskaja;;
                 

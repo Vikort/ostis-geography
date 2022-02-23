@@ -1,12 +1,12 @@
-Zagat'e <- concept_way;
+Dretun <- concept_way;
                 =>nrel_main_idtf:
-                [Zagat'e]
+                [Dretun]
                 (* <- lang_en;; <- name_en;;*);
-                [Загатье]
+                [Дретунь]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:100;
-                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_passengers:3000;
+                =>nrel_number_of_employees: 14;
                 =>nrel_number_of_trains:7;
-                =>nrel_rajon:Glubokskij;;
+                =>nrel_oblast:Vitebskaja;;
                 

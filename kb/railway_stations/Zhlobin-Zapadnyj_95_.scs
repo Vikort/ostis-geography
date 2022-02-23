@@ -5,8 +5,8 @@ Zhlobin-Zapadnyj <- concept_way;
                 [Жлобин-Западный]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1700;
-                =>nrel_number_of_employees: 13;
-                =>nrel_number_of_trains:4;
+                =>nrel_number_of_passengers:3400;
+                =>nrel_number_of_employees: 14;
+                =>nrel_number_of_trains:6;
                 =>nrel_gorod:Zhlobin;;
                 

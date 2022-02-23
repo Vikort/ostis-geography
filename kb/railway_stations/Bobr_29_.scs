@@ -5,8 +5,8 @@ Bobr <- concept_way;
                 [Бобр]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1500;
-                =>nrel_number_of_employees: 12;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_passengers:1000;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:6;
                 =>nrel_rajon:Krupskij;;
                 

@@ -5,8 +5,8 @@ Korenevka <- concept_way;
                 [Кореневка]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:900;
-                =>nrel_number_of_employees: 14;
-                =>nrel_number_of_trains:4;
-                =>nrel_oblast:Gomel'skaja;;
+                =>nrel_number_of_passengers:2200;
+                =>nrel_number_of_employees: 16;
+                =>nrel_number_of_trains:7;
+                =>nrel_oblast:Gomelskaja;;
                 

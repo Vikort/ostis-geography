@@ -1,12 +1,12 @@
-GORYN'-STYK <- concept_way;
+Iput <- concept_way;
                 =>nrel_main_idtf:
-                [GORYN'-STYK]
+                [Iput]
                 (* <- lang_en;; <- name_en;;*);
-                [ГОРЫНЬ-СТЫК]
+                [Ипуть]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1800;
+                =>nrel_number_of_passengers:500;
                 =>nrel_number_of_employees: 16;
                 =>nrel_number_of_trains:8;
-                =>nrel_oblast:Brestskaja;;
+                =>nrel_gorod:Gomel;;
                 

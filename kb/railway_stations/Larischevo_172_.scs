@@ -5,8 +5,8 @@ Larischevo <- concept_way;
                 [Ларищево]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:200;
+                =>nrel_number_of_passengers:3100;
                 =>nrel_number_of_employees: 18;
-                =>nrel_number_of_trains:4;
-                =>nrel_rajon:Gomel'skij;;
+                =>nrel_number_of_trains:2;
+                =>nrel_rajon:Gomelskij;;
                 

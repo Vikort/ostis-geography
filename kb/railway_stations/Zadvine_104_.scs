@@ -1,12 +1,12 @@
-Zamostoch'e <- concept_way;
+Zadvine <- concept_way;
                 =>nrel_main_idtf:
-                [Zamostoch'e]
+                [Zadvine]
                 (* <- lang_en;; <- name_en;;*);
-                [Замосточье]
+                [Задвинье]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1900;
-                =>nrel_number_of_employees: 13;
-                =>nrel_number_of_trains:8;
-                =>nrel_rajon:Vitebskij;;
+                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_trains:7;
+                =>nrel_gorod:Vitebsk;;
                 

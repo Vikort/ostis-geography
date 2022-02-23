@@ -5,8 +5,8 @@ Dereviny <- concept_way;
                 [Деревины]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1000;
-                =>nrel_number_of_employees: 10;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_passengers:3100;
+                =>nrel_number_of_employees: 20;
+                =>nrel_number_of_trains:7;
                 =>nrel_rajon:Dobrushskij;;
                 

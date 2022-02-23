@@ -1,12 +1,12 @@
-Zakopyt'e (eksp.) <- concept_way;
+Brest-Tsentr. (Brest Tsentralny) <- concept_way;
                 =>nrel_main_idtf:
-                [Zakopyt'e (eksp.)]
+                [Brest-Tsentr. (Brest Tsentralny)]
                 (* <- lang_en;; <- name_en;;*);
-                [Закопытье (эксп.)]
+                [Брест-Центр. (Брэст Цэнтральны)]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1200;
+                =>nrel_number_of_passengers:2000;
                 =>nrel_number_of_employees: 18;
                 =>nrel_number_of_trains:3;
-                =>nrel_oblast:Gomel'skaja;;
+                =>nrel_gorod:Brest;;
                 

@@ -5,8 +5,8 @@ Bobrujsk <- concept_way;
                 [Бобруйск]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2000;
-                =>nrel_number_of_employees: 13;
-                =>nrel_number_of_trains:3;
+                =>nrel_number_of_passengers:1500;
+                =>nrel_number_of_employees: 18;
+                =>nrel_number_of_trains:2;
                 =>nrel_rajon:Bobrujskij;;
                 

@@ -5,8 +5,8 @@ Lovcha <- concept_way;
                 [Ловча]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:400;
-                =>nrel_number_of_employees: 12;
-                =>nrel_number_of_trains:8;
+                =>nrel_number_of_passengers:1300;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:2;
                 =>nrel_oblast:Brestskaja;;
                 
