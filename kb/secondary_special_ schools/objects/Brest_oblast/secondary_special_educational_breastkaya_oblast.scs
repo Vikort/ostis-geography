@@ -79,9 +79,9 @@ liaxovichevskiy_college <- concept_secondary_schools;;
 pinskiy_college
 =>nrel_main_idtf:
 [Педагагічны каледж]
-        (*<-lang_be;; <- name;;*);
+        (*<-lang_ru;; <- name;;*);
         [Pinsk College of Educational Establishment "Brest State University named after A.S. Pushkin"]
-        (*<-lang_ru;;*);;
+        (*<-lang_en;;*);;
 pinskiy_college
 =>nrel_idtf:
 [Пинский колледж УО "Брестский государственный университет имени А.С.Пушкина"]
@@ -440,7 +440,7 @@ pryzanskiy_agarian_college <- concept_secondary_schools;;
 // 18 + 
 stolinskiy_agarniy_econ_college=>nrel_main_idtf:[Столінскі дзяржаўны аграрна-эканамічны каледж]
         (*
-                <-lang_be;; <- name;;
+                <-lang_ru;; <- name;;
         *);
         [Educational Establishment "Stolin State Agrarian and Economic College"]
         (*
