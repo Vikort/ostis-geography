@@ -96,7 +96,7 @@ driving_school_bntu <- concept_driving_school;
     [Якуба Коласа]
     (* <- lang_ru;; <- street;;*);
 =>nrel_house:
-    [12
+    [12]
     (* <- house;;*);
 => nrel_latitude:
 	[53,9172391]
