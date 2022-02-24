@@ -169,9 +169,7 @@ class DistanceAgent(ScAgent):
         coord1 = self.getLatLon(url)
         url_n = "https://www.openstreetmap.org/geocoder/search_osm_nominatim?query=" + village2[0] + "%2C" + village2[1]
         coord2 = self.getLatLon(url_n)
-        if coord1 == (1.11, 1.11) | coord2 == (1.11, 1.11):
-            return 0
-        return round((geopy.distance.distance(coord1, coord2).m), 2)
+        return round(geopy.distance.distance(coord1, coord2).m, 2)
 
     def get_main_idtf(self, node):
         template = ScTemplate()
