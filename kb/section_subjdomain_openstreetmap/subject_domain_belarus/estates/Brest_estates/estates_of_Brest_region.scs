@@ -432,7 +432,7 @@ estates_tribogatyrya
 =>nrel_district:
     kobrinsky_district;
 =>nrel_city:
-	sands-1;
+	sands_1;
 =>nrel_search_area:
     brest_region;;
       
