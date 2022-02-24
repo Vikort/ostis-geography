@@ -76,8 +76,8 @@ class DistanceAgent(ScAgent):
                                 query_edge_11
                             )
                             self.add_nodes_to_answer(answerNode, [answer, village1, village2, self.keynodes['nrel_distance'], tuple, query_edge, query_edge_1, query_edge_11, query_edge2])
-                        else:
-                            raise Exception("Invalid content: " + village1)
+                else:
+                    raise Exception("Invalid content: " + village1 + " or " + village2 + "cannot find selsoviet")
                 self.finish_agent(self.main_node, answerNode)  # завершаем работу агента
             except Exception as ex:
                 print(colored(str(ex), color='red'))

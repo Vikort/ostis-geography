@@ -84,6 +84,8 @@ class VillagesPopulationAgent(ScAgent):
                         self.add_nodes_to_answer(answerNode,
                                              [answer, village1, self.keynodes['nrel_population'], query_edge_1,
                                               query_edge2])
+                    else:
+                        raise Exception("Invalid content: " + village1 + " cannot find selsoviet or region")
                 self.finish_agent(self.main_node, answerNode)  # завершаем работу агента
             except Exception as ex:
                 print(colored(str(ex), color='red'))
@@ -175,6 +177,8 @@ class VillagesPopulationAgent(ScAgent):
         village = dom.xpath('//div[@class="columns"]/ul/li/a[text()[contains(., "{}")]]/@href'.format(village1[0]))
         if len(village) == 0:
             village = dom.xpath('//div[@class="mw-parser-output"]/ul/li/a[text()[contains(., "{}")]]/@href'.format(village1[0]))
+        if len(village) == 0:
+            return "0"
         url = "https://ru.wikipedia.org" + village[0]
         page = requests.get(url)
         soup = BeautifulSoup(page.text, 'html.parser')

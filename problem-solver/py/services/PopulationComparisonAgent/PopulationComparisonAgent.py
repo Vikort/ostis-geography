@@ -52,8 +52,20 @@ class PopulationComparisonAgent(ScAgent):
                         values = self.compareVillages([self.get_main_idtf(village1), self.get_main_idtf(distinct1)],
                                                       [self.get_main_idtf(village2), self.get_main_idtf(distinct2)])
                         self.createAnswer(values, answerNode, village1, village2)
-
-                else:
+                    else:
+                        defIter = self.ctx.Iterator5(
+                            village2,
+                            ScType.EdgeDCommon,
+                            ScType.Unknown,
+                            ScType.EdgeAccessConstPosPerm,
+                            self.keynodes['nrel_region']
+                        )
+                        if defIter.Next():
+                            region2 = defIter.Get(2)
+                            values = self.compareVillages([self.get_main_idtf(village1), self.get_main_idtf(distinct1)],
+                                                          [self.get_main_idtf(village2), self.get_main_idtf(region2)])
+                            self.createAnswer(values, answerNode, village1, village2)
+                elif not defIter.Next():
                     defIter = self.ctx.Iterator5(
                         village1,
                         ScType.EdgeDCommon,
@@ -77,6 +89,8 @@ class PopulationComparisonAgent(ScAgent):
                                                                     [self.get_main_idtf(village2),
                                                                      self.get_main_idtf(region2)])
                             self.createAnswer(values, answerNode, village1, village2)
+                    else:
+                        raise Exception("Invalid content: " + village1 + " or " + village2 + "cannot find selsoviet or region")
                 self.finish_agent(self.main_node, answerNode)  # завершаем работу агента
             except Exception as ex:
                 print(colored(str(ex), color='red'))
@@ -252,6 +266,8 @@ class PopulationComparisonAgent(ScAgent):
         if (len(village) == 0):
             village = dom.xpath(
                 '//div[@class="mw-parser-output"]/ul/li/a[text()[contains(., "{}")]]/@href'.format(village1[0]))
+        if len(village) == 0:
+            return "0"
         url = "https://ru.wikipedia.org" + village[0]
         page = requests.get(url)
         soup = BeautifulSoup(page.text, 'html.parser')
@@ -274,6 +290,8 @@ class PopulationComparisonAgent(ScAgent):
             page = requests.get(url)
             soup = BeautifulSoup(page.text, 'html.parser')
             dom = etree.HTML(str(soup))
+        if len(village) == 0:
+            return "0"
         population = dom.xpath('//span[@data-wikidata-property-id="P1082"]/span/text()')
         if len(population) == 0:
             return "0"
