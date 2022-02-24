@@ -164,7 +164,7 @@ estates_ozernayaklenovica
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    buda-koshelevsky_district;
+    buda_koshelevsky_district;
 =>nrel_city:
 	klenovitsa;
 =>nrel_search_area:
