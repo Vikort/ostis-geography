@@ -34,7 +34,7 @@ public class TranslatorToSCS {
         if ("".equals(company.getName()) || Objects.isNull(company.getName())) {
             return;
         }
-        file.append("company_").append(company.getNameEnglish().replaceAll(" ", "_")).append(" <- concept_company;\n");
+        file.append("company_").append(company.getNameEnglish().replaceAll(" ", "_").replaceAll("-", "_")).append(" <- concept_company;\n");
     }
 
     private void setBelarusianCompany() {
@@ -91,7 +91,7 @@ public class TranslatorToSCS {
         }
         file.append("\t")
                 .append("[")
-                .append(company.getEmail().trim())
+                .append(company.getEmail().trim().replaceAll("-", "_"))
                 .append("]\n")
                 .append("\t(* <- concept_email;;*);\n");
     }
@@ -102,7 +102,7 @@ public class TranslatorToSCS {
         }
         file.append("\t")
                 .append("[")
-                .append(company.getWebsite().trim())
+                .append(company.getWebsite().trim().replaceAll("-", "_"))
                 .append("]\n")
                 .append("\t(* <- concept_website;;*);\n");
     }
@@ -113,7 +113,7 @@ public class TranslatorToSCS {
         }
         file.append("\t")
                 .append("[")
-                .append(company.getUcn().trim())
+                .append(company.getUcn().trim().replaceAll("-", "_"))
                 .append("]\n")
                 .append("\t(* <- concept_ucn;;*);\n");
     }
@@ -124,7 +124,7 @@ public class TranslatorToSCS {
         }
         file.append("\t")
                 .append("[")
-                .append(company.getAddress().trim())
+                .append(company.getAddress().trim().replaceAll("-", "_"))
                 .append("]\n")
                 .append("\t(* <- lang_ru;; <- name_ru;; <- concept_address;;*);\n");
     }
@@ -152,7 +152,7 @@ public class TranslatorToSCS {
             return;
         }
         file.append("=>nrel_year_registration:\n\t")
-                .append(company.getYearRegistration().trim())
+                .append(company.getYearRegistration().trim().replaceAll("-", "_"))
                 .append(";\n");
     }
 

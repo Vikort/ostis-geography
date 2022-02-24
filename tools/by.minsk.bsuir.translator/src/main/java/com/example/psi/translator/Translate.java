@@ -10,7 +10,6 @@ import java.net.URLEncoder;
 public class Translate {
 
     static String translate(String text) throws IOException {
-//        return text;
         String langFrom = "ru";
         String langTo = "en";
         String urlStr = "https://script.google.com/macros/s/AKfycbzXQ0UVoORYDgNoURu-cCRFlH-HHsAdSDlZNjUE9H1Co54jb3U/exec" +

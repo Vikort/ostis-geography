@@ -27,14 +27,7 @@ public class Parser {
 
 
     public String parse() throws Exception {
-//        Verse verse = new Verse(title, author);
         return setInfoFromFirstResource();
-//        try {
-//            setInfoFromSecondResource(verse);
-//        } catch (Exception e) {
-//            System.out.println(e.getMessage());
-//        }
-//        return verse;
     }
 
     private String setInfoFromFirstResource() throws Exception {
@@ -44,7 +37,8 @@ public class Parser {
         TranslatorToSCS translatorToSCS = new TranslatorToSCS();
         StringBuilder result = new StringBuilder();
         for (int i = 1; i <= 1; i++) {
-            String source = "https://www.park.by/residents/?q=&UNP=&save=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&search=Y&STAFF=&EXPER=&CITY%5B0%5D=608&CITY%5B1%5D=609&CITY%5B2%5D=610&CITY%5B3%5D=611&CITY%5B4%5D=612&CITY%5B5%5D=613&PAGEN_1=" + i;            document = Jsoup.connect(source).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
+            String source = "https://www.park.by/residents/?q=&UNP=&save=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8&search=Y&STAFF=&EXPER=&CITY%5B0%5D=608&CITY%5B1%5D=609&CITY%5B2%5D=610&CITY%5B3%5D=611&CITY%5B4%5D=612&CITY%5B5%5D=613&PAGEN_1=" + i;
+            document = Jsoup.connect(source).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
             Elements listCompany = document.select("div.news-item");
             for (Element element : listCompany) {
                 String redirect = element.select("a[href]").first().attr("href");
@@ -52,7 +46,7 @@ public class Parser {
                 Company company = new Company();
                 String nameCompany = element.select("a[href]").first().child(0).toString();
                 company.setName(nameCompany.substring(3, nameCompany.length() - 4));
-                company.setNameEnglish(redirect.substring(11, redirect.length() -1));
+                company.setNameEnglish(redirect.substring(11, redirect.length() - 1));
                 company.setCountry(COUNTRY);
                 setFullInfo(company, redirect);
                 companies.add(company);
@@ -70,7 +64,6 @@ public class Parser {
             }
         }
         return result.toString();
-//        throw new Exception("entity.Verse not found!");
 
     }
 
@@ -147,63 +140,5 @@ public class Parser {
         }
         return substring;
     }
-
-//    private String searchVerseInFirstSource(Verse verse) throws Exception {
-//        String source = "https://www.culture.ru/literature/poems?query=" + verse.getTitle().replace(' ', '+').toLowerCase(Locale.ROOT);
-//        document = Jsoup.connect(source).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
-//        Elements listVerses = document.select("div.card-heading_head");
-//        for (Element element : listVerses.select("div.card-heading_head")) {
-//            if (element.select("a.card-heading_subtitle").text().toLowerCase(Locale.ROOT).contains(verse.getAuthor().toLowerCase(Locale.ROOT))
-//                    && element.select("a.card-heading_title-link").text().toLowerCase(Locale.ROOT).contains(verse.getTitle().toLowerCase(Locale.ROOT))) {
-//                return element.select("a.card-heading_title-link").attr("href");
-//            }
-//        }
-//        throw new Exception("entity.Verse not found!");
-//    }
-//
-//    private void setVerse(String source, Verse verse) throws IOException {
-//        document = Jsoup.connect(source).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
-//        Elements listVerses = document.select("div.content-columns_block");
-//        StringBuilder builder = new StringBuilder();
-//        for (Element element : listVerses.select("p")) {
-//            builder.append(element);
-//        }
-//        verse.setVerse(builder.toString());
-//    }
-//
-//    private void setDate(String source, Verse verse) throws IOException {
-//        document = Jsoup.connect(source).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
-//        Elements listVerses = document.select("div.content-columns_footer");
-//        String date = listVerses.text();
-//        if (!"".equals(date)) {
-//            verse.setDate(Integer.parseInt(date.substring(0, date.length() - 3)));
-//        }
-//    }
-//
-//    private void setCentury(String source, Verse verse) throws IOException {
-//        document = Jsoup.connect(source).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
-//        Elements listVerses = document.select("aside.js-tags.tags.tags__entity.tags__offset-bottom");
-//        for (Element element : listVerses.select("span.button_text")) {
-//            if (element.text().equals("Золотой век")) {
-//                verse.setCentury(element.text());
-//                return;
-//            }
-//            if (element.text().equals("Серебряный век")) {
-//                verse.setCentury(element.text());
-//                return;
-//            }
-//        }
-//    }
-//
-//
-//    private void setInfoFromSecondResource(Verse verse) throws Exception {
-//        String source = "https://obrazovaka.ru/analiz-stihotvoreniya";
-//        document = Jsoup.connect(source).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
-//        String linkVerse = searchVerseInSecondSource(verse);
-//        document = Jsoup.connect(linkVerse).userAgent("Chrome/4.0.249.0 Safari/532.5").referrer("http://www.google.com").get();
-//        elements = document.select("div.kratkiy-analiz");
-//        setFoot(verse);
-//        setTropes(verse);
-//    }
 
 }

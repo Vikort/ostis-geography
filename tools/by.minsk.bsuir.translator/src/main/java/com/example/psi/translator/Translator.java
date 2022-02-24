@@ -1,5 +1,6 @@
 package com.example.psi.translator;
 
+import com.example.psi.config.Config;
 import com.example.psi.entity.Company;
 
 import java.io.File;
@@ -8,8 +9,6 @@ import java.io.IOException;
 
 public class Translator {
     private final TranslatorToSCS translatorToSCS;
-    private final String GOLDEN_AGE = "Золотой век";
-    private final String SILVER_AGE = "Серебряный век";
 
     public Translator() {
         translatorToSCS = new TranslatorToSCS();
@@ -25,7 +24,7 @@ public class Translator {
     }
 
     private void writeCSCInFile(Company company) throws IOException {
-        String path = "C:\\Users\\KliautsevichA\\IdeaProjects\\translator\\hui\\";
+        String path = Config.DEFAULT_PATH;
         new File(path).mkdir();
         File file = new File(String.format("%s/%s.scs", path, company.getNameEnglish().replaceAll("-", "_")));
         try (FileWriter writer = new FileWriter(file)) {
