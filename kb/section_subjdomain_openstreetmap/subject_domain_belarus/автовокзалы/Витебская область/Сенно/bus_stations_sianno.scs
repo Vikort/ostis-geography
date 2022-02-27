@@ -1,15 +1,7 @@
 bus_station_sianno <- concept_bus_station;
 <- concept_bus_station_of_the_sianno;
 =>nrel_main_idtf:
-    [автовокзал "Сенно"]
+    [Автостанция Сенно]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    vitebsk_region;
-=>nrel_district:
-    syanno_district;
-=>nrel_city:
-    sianno;
 =>nrel_search_area:
     sianno;;

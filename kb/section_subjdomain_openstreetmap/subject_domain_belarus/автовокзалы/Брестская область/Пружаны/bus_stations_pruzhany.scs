@@ -1,15 +1,7 @@
 bus_station_pruzhany <- concept_bus_station;
 <- concept_bus_station_of_the_pruzhany;
 =>nrel_main_idtf:
-    [автовокзал "Пружаны"]
+    [Автостанция Пружаны]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    brest_region;
-=>nrel_district:
-    pruzhany_district;
-=>nrel_city:
-    pruzhany;
 =>nrel_search_area:
     pruzhany;;

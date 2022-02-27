@@ -1,16 +1,8 @@
 bus_station_talachyn <- concept_bus_station;
 <- concept_bus_station_of_the_talachyn;
 =>nrel_main_idtf:
-    [автостанция "Толочин"]
+    [Автостанция Толочин]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    vitebsk_region;
-=>nrel_district:
-    talachyn_district;
-=>nrel_city:
-    talachyn;
 =>nrel_search_area:
     talachyn;;
 

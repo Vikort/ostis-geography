@@ -1,16 +1,8 @@
 bus_station_vitebsk <- concept_bus_station;
 <- concept_bus_station_of_the_vitebsk;
 =>nrel_main_idtf:
-    [автовокзал "Витебск"]
+    [Автовокзал Витебск]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    vitebsk_region;
-=>nrel_district:
-    vitebsk_district;
-=>nrel_city:
-    vitebsk;
 =>nrel_search_area:
     vitebsk;;
 
@@ -20,14 +12,6 @@ bus_station_moskovsky <- concept_bus_station;
 =>nrel_main_idtf:
     [автостанция "Московский"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    vitebsk_region;
-=>nrel_district:
-    vitebsk_district;
-=>nrel_city:
-    vitebsk;
 =>nrel_search_area:
     vitebsk;;
 
@@ -37,14 +21,6 @@ bus_station_tehnologichesky_univer <- concept_bus_station;
 =>nrel_main_idtf:
     [автостанция "Технологический университет"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    vitebsk_region;
-=>nrel_district:
-    vitebsk_district;
-=>nrel_city:
-    vitebsk;
 =>nrel_search_area:
     vitebsk;;
 
@@ -54,13 +30,5 @@ bus_station_yug_6 <- concept_bus_station;
 =>nrel_main_idtf:
     [автовокзал "Юг-6"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    vitebsk_region;
-=>nrel_district:
-    vitebsk_district;
-=>nrel_city:
-    vitebsk;
 =>nrel_search_area:
     vitebsk;;

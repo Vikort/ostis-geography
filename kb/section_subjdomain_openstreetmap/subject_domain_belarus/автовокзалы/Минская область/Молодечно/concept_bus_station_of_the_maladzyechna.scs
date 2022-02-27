@@ -1,6 +1,5 @@
 concept_bus_station_of_the_maladzyechna
 <-sc_node_not_relation;
-=>nrel_city: maladzyechna;
 <-concept_bus_station;
 =>nrel_main_idtf:
 	[автовокзал города Молодечно]

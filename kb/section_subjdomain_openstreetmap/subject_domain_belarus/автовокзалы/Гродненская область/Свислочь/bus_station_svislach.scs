@@ -3,13 +3,5 @@ bus_station_svislach <- concept_bus_station;
 =>nrel_main_idtf:
     [автовокзал "Свислочь"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    hrodna_region;
-=>nrel_district:
-    malaryta_district;
-=>nrel_city:
-    svislach_svislach_district;
 =>nrel_search_area:
     svislach_svislach_district;;

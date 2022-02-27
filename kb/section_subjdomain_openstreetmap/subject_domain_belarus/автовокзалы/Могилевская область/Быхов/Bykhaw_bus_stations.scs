@@ -1,15 +1,7 @@
 bus_station_Bykhaw <- concept_bus_station;
 <- concept_bus_station_of_the_Bykhaw;
 =>nrel_main_idtf:
-    [автостанция "Быхов"]
+    [Автостанция Быхов]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_country:
-    belarus;
-=>nrel_region:
-    mogilev_region;
-=>nrel_district:
-    Bychauski_district;
-=>nrel_city:
-    Bykhaw;
 =>nrel_search_area:
     Bykhaw;;
