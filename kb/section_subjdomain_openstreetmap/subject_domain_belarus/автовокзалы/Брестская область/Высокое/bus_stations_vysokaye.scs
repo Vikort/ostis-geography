@@ -1,7 +1,7 @@
 bus_station_vysokaye <- concept_bus_station;
 <- concept_bus_station_of_the_vysokaye;
 =>nrel_main_idtf:
-    [автостанция Высокое]
+    [Автостанция Высокое]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;

@@ -1,7 +1,7 @@
 bus_station_slutsk <- concept_bus_station;
 <- concept_bus_station_of_the_slutsk;
 =>nrel_main_idtf:
-    [автостанция Слуцк]
+    [Автостанция Слуцк]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;

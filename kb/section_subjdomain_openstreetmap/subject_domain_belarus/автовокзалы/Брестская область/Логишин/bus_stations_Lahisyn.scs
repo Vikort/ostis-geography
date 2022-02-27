@@ -1,15 +1,15 @@
-bus_station_stolin <- concept_bus_station;
-<- concept_bus_station_of_the_zhabinka;
+bus_station_lahisyn <- concept_bus_station;
+<- concept_bus_station_of_the_lahisyn;
 =>nrel_main_idtf:
-    [Автостанция Столин]
+    [Автостанция Логишин]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    stolin_district;
+    pinsk_district;
 =>nrel_city:
-    stolin;
+    lahisyn;
 =>nrel_search_area:
-    stolin;;
+    lahisyn;;

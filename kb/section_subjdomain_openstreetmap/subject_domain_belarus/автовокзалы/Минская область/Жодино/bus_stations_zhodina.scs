@@ -1,7 +1,7 @@
 bus_station_zhodina <- concept_bus_station;
 <- concept_bus_station_of_the_zhodina;
 =>nrel_main_idtf:
-    [автостанция Жодино]
+    [Автостанция Жодино]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;

@@ -1,37 +1,37 @@
-concept_bus_station_of_the_vysokaye
+concept_bus_station_of_the_stolin
 <-sc_node_not_relation;
 <-concept_bus_station;
 =>nrel_main_idtf:
-	[Автостанция Высокое]
+	[автовокзал Логишин]
 	(* <- lang_ru;; *);
-	[bus station of the Vysokaye]
+	[bus station of the Lahisyn]
 	(* <- lang_en;; *);
 <- rrel_key_sc_element:
 	...
 	(*
 	=>nrel_main_idtf:
-		[Опр. (автовокзал города Высокое)]
+		[Опр. (автовокзал города Столин)]
 		(* <- lang_ru;; *);
-		[Def. (bus station of the Vysokaye)]
+		[Def. (bus station of the Lahisyn)]
 		(* <- lang_en;; *);;
 	<- definition;;
 	<= nrel_sc_text_translation:
 		...
 		(*
 		->rrel_example:
-			[Автовокзал города Высокое — автовокзал, который располагается в городе Высокое.]
+			[Автовокзал города Столин — автовокзал, который располагается в городе Столин.]
 			(* <- lang_ru;; *);;
 		*);
 		...
 		(*
 		-> rrel_example: 
-			[Vysokaye bus Station is a bus station located in the city of Vysokaye.]
+			[Lahisyn bus Station is a bus station located in the city of Lahisyn.]
 			(* <- lang_en;; *);;
 		*);;
 	<= nrel_using_constants:
 		{
 			concept_bus_station;
-			vysokaye;
+			Lahisyn;
            		belarus
 		};;
 	*);;

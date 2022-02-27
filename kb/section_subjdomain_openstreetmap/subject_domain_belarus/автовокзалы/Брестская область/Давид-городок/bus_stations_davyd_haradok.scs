@@ -1,7 +1,7 @@
 bus_station_davyd_haradok <- concept_bus_station;
 <- concept_bus_station_of_the_baranavichy;
 =>nrel_main_idtf:
-    [автостанция Давид-Городок]
+    [Автостанция Давид-Городок]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -10,6 +10,6 @@ bus_station_davyd_haradok <- concept_bus_station;
 =>nrel_district:
     stolin_district;
 =>nrel_city:
-    davyd_haradok_brest_region;
+    davyd_haradok;
 =>nrel_search_area:
-    davyd_haradok_brest_region;;
+    davyd_haradok;;
