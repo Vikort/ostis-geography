@@ -10,6 +10,6 @@ minsk;
 belarus;
 =>nrel_type:
 national;
-=>nrel_status;
+=>nrel_status:
 opened_status;;
 
