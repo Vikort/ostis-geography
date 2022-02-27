@@ -1,5 +1,0 @@
-school_Uchebnyy_tsentr <-concept_school;
-=> nrel_main_idtf:
-[Учебный центр]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

@@ -1,5 +1,0 @@
-school_Shkola_10 <-concept_school;
-=> nrel_main_idtf:
-[Школа № 10]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

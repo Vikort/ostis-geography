@@ -1,5 +1,0 @@
-school_Zhlobinskaya_DYUSSH <-concept_school;
-=> nrel_main_idtf:
-[Жлобинская ДЮСШ]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

@@ -1,6 +1,5 @@
 concept_school
 <- sc_node_not_relation;
-<= nrel_inclusion: concept_sup_concept;
 => nrel_main_idtf:
 	[школа]
 	(* <- lang_ru;; *);

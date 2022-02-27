@@ -1,5 +1,0 @@
-school_Tsentr_dopolnitel_nogo_obrazovaniya <-concept_school;
-=> nrel_main_idtf:
-[Центр дополнительного образования]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

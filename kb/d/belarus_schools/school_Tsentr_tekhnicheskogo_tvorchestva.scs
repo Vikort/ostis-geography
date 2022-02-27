@@ -1,5 +1,0 @@
-school_Tsentr_tekhnicheskogo_tvorchestva <-concept_school;
-=> nrel_main_idtf:
-[Центр технического творчества]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;

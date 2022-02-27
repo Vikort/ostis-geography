@@ -1,5 +1,0 @@
-school_Zhodinskaya_zhenskaya_gimnaziya <-concept_school;
-=> nrel_main_idtf:
-[Жодинская женская гимназия]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
-=>nrel_search_area: belarus;;
