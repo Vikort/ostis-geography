@@ -19,4 +19,4 @@ belarus;
 [312-103]
 (* <- lang_ru;; <- house_number;;*);
 =>nrel_search_area:
-grodno;;
+hrodna;;
