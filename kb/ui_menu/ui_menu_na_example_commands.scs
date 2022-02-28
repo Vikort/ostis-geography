@@ -6,5 +6,17 @@ ui_menu_na_example_commands
 
 <= nrel_ui_commands_decomposition:
 	{
-		ui_menu_generate_osm_query
+		ui_menu_generate_osm_query;
+		ui_menu_get_villages_by_district;
+		ui_menu_get_villages_by_region;
+		ui_menu_get_villages_by_selsoviet;
+		ui_menu_get_region_by_village;
+		ui_menu_get_district_by_village;
+		ui_menu_get_selsoviet_by_village;
+		ui_menu_get_villages_by_exclusive_regexp;
+		ui_menu_get_villages_by_first_character;
+		ui_menu_get_villages_by_num_of_words;
+		ui_menu_get_villages_by_postfix;
+		ui_menu_get_villages_by_regexp;
+		ui_menu_get_villages_by_substring
 	};;
