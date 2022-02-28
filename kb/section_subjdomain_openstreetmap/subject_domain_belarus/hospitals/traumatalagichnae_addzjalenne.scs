@@ -1,4 +1,4 @@
-traўmatalagіchnae_addzjalenne <- concept_hospital;
+traumatalagichnae_addzjalenne <- concept_hospital;
 => nrel_main_idtf:
 [Траўматалагічнае аддзяленне]
 (* <- lang_by;; <- name_by;;*);

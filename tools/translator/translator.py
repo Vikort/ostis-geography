@@ -1,6 +1,9 @@
+from os import replace
 from typing import Dict, List
 from transliterate import translit
+from datetime import datetime
 import requests
+import json
 import re
 
 def create_query_by_amenity(
@@ -53,7 +56,12 @@ def add_kb_data(elements: List[Dict]) -> List[Dict]:
                 ),
                 "ru",
                 reversed=True
-            ).lower().replace(" ", "_")
+            ).lower().replace(" ", "_").
+            replace("«", "").
+            replace("»", "").
+            replace(" ", "_").
+            replace("ў", "u").
+            replace("і", "i")  # shit
         ))) for element in elements
     ]
     return elements
@@ -90,11 +98,21 @@ def format_language_info(tags: Dict) -> str:
 
 def save_fragments(
     fragments: List[str], path: str
-) -> None:
+) -> List[str]:
+    paths = list()
     for fragment in fragments:
-        with open('{}{}.scs'.format(path,
-                fragment.get("name")), 'w') as file:
+        file_name = '{}{}.scs'.format(path,
+            fragment.get("name"))
+        paths.append(file_name)
+        with open(file_name, 'w') as file:
             file.write(fragment.get("body"))
+    return paths
+
+
+def add_history(fragments_paths: List[str]) -> None:
+    current_date = datetime.today().strftime("%Y-%m-%d-%H:%M:%S")
+    with open('./history/{}.json'.format(current_date), 'w') as log_file:
+        json.dump(fragments_paths, log_file)
 
 
 def process(
@@ -105,25 +123,27 @@ def process(
     save_path: str
 ) -> None:
     # try to read it =)))
-    save_fragments(
-        fragments=create_kb_fragments(
-            elements=add_kb_data(
-                filter_elements_by_requires(
-                    get_data(
-                        build_url(
-                            source=source,
-                            query=create_query_by_amenity(
-                                query_part=query_part,
-                                amenities=amenities
+    add_history(
+        fragments_paths=save_fragments(
+            fragments=create_kb_fragments(
+                elements=add_kb_data(
+                    filter_elements_by_requires(
+                        get_data(
+                            build_url(
+                                source=source,
+                                query=create_query_by_amenity(
+                                    query_part=query_part,
+                                    amenities=amenities
+                                )
                             )
-                        )
-                    ),
-                    requires=amenities
-                )
+                        ),
+                        requires=amenities
+                    )
+                ),
+                template=template
             ),
-            template=template
-        ),
-        path=save_path
+            path=save_path
+        )
     )
 
 
@@ -136,7 +156,7 @@ if __name__ == "__main__":
     amenities = ['hospital', 'clinic']
     query_part = "area[name='Беларусь'];node(area)[amenity={}];"
     source = "http://overpass-api.de/api/interpreter?data=[out:json];({});out;"
-    save_path = "../"
+    save_path = "../../kb/section_subjdomain_openstreetmap/subject_domain_belarus/hospitals/"
 
     process(
         template=template,

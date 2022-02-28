@@ -1,4 +1,4 @@
-meditsinskij_tsentr_«konfidens» <- concept_hospital;
+meditsinskij_tsentr_konfidens <- concept_hospital;
 => nrel_main_idtf:
 [Медычны цэнтр " Канфідэнс»]
 (* <- lang_by;; <- name_by;;*);
