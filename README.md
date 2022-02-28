@@ -170,3 +170,9 @@
 	
 ![](https://github.com/VAny6661/ostis-geography/blob/villages/Population%20korma.png)
 
+Добавлен интерфейс поска пути между двумя деревнями.
+На вход подаётся название двух деревени и районов в которых они находятся.
+
+На выходе:
+![](https://github.com/VAny6661/ostis-geography/blob/villages/Interface.png)
+
