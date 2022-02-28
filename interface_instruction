@@ -1,0 +1,9 @@
+Есть два пути построения агентов. Первый способ по этой ссылке:
+https://github.com/MikhailSadovsky/ostis-UI-component-sample/wiki/Component-integration
+Второй:
+https://github.com/ostis-apps/ostis-example-app/tree/0.5.0/interface/sc-web-extensions
+Сначала скачивайте весь интерфейс и перемещаете его в указанные папки (в первом случае указано куда, во втором в папку interface/sc-web-extensions/)
+Далее в папке interface/sc-web-extensions/ открываете консоль и пишете grunt ( можно писать grunt build, однако в случае с grunt можно будет просто перезагружать страницу остиса при изменении файлов).
+В случае получения ошибок на этом этапе в консоле пробуйте писать npm init, если не получится, то гуглите.
+Далее просто изменяете html файл, если он присутствует (в папке interface/sc-web-extensions/example/static css там же) и js файлы в папке interface/sc-web-extensions/example/src либо в папке ostis-web-platform/sc-web/components/example/src/
+Также для отображения не забываем закидывать scs файлы в папку kb
