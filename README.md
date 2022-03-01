@@ -1,112 +1,178 @@
-## OSTIS-geography
-OSTIS-geography is an open-source knowledge base for geographical system for Open Semantic Technology for Intelligent Systems. System includes OpenStreetMap support to display geographical objects. There is special agent that can display object on map according to their description.
+Коктышев И.Д. 821703, Деревни Гомельской области.
 
-## Install
+Добавил:
 
-Linux:
-```sh
-git clone https://github.com/Vikort/ostis-geography
-git checkout pis
-cd {project-name}/scripts
-./install_ostis.sh
-```
 
-## Build knowledge base
-Linux:
-```sh
-cd {project-name}/ostis-web-platform/scripts
-./build_kb.sh
-```
+    Боровской сельсовет
+        д. Боровое
+        д. Картыничи
+        д. Марковское
+        д. Осенское
+        д. Руднище
+        д. Слободка
+        д. Тартак
+	
+    Буйновичский сельсовет
+        д. Буда-Софиевка
+        д. Забережница
+        д. Зарубаное
+        д. Заходы
+        д. Крупка
+        д. Лисное
+        д. Первомайск
+        д. Синицкое Поле
+        д. Углы
+	
+    Букчанский сельсовет
+    
+        д. Букча
+        д. Корма
+	
+    Гребеневский сельсовет
+        д. Вязовая
+        д. Гребени
+        д. Жмурное
+        д. Запесочное
+        д. Ковыжев
+        д. Лохница
+        д. Мехач
+        д. Ольховая
+        д. Усов
+	
+    Дзержинский сельсовет
+        д. Дзержинск
+	
+    Дубровский сельсовет
+        д. Данилевичи
+        д. Дубницкое
+        д. Заболотье
+        д. Рубеж
+        д. Сологубов
+	
+    Лельчицкий сельсовет
+        д. Буда-Лельчицкая
+        д. Липляны
+        д. Победное
+        д. Чемерное
+        д. Чияне
+	
+    Милошевичский сельсовет
+        д. Приболовичи
+	
+    Острожанский сельсовет
+        д. Заполье
+        д. Конопелька
+        д. Мирное
+        д. Острожанка
+        д. Сом
+        д. Убортская Рудня
+	
+    Симоничский сельсовет
+        д. Дубровки
+        д. Осов
+        д. Симоничская Рудня
+        д. Средние Печи
+        д. Шугалеи
+	
+    Стодоличский сельсовет
+        д. Забродье
+        д. Ручное
+	
+    Тонежский сельсовет
+        д. Иванова Слобода
+        д. Люболь
+        д. Симоничский Млынок
+        д. Тонеж
+        д. Тонежская Рудня
+	
+    Ударненский сельсовет
+        д. Ветвица
+        д. Замошье
+        д. Краснобережье
+        д. Манчицы
+        д. Новое Полесье
+        д. Свидное   
+	
+    Бурковский сельсовет
+    	д. Бакуны
+    	д. Великий Лес
+    	д. Дубровное
+    	д. Ковали
+    	д. Кононовщина
+    	д. Красная Гора
+    	д. Маритон
+    	д. Рыжков
+    	д. Соболи
+	
+    Малейковский сельсовет
+    	д. Городище
+    	д. Заречье
+    	д. Котловица
+    	д. Малейки
+    	д. Новый Мокрец
+    	д. Петрицкое
+    	д. Селец
+    	д. Стежерное
+    	д. Тельман
+	
+    Угловский сельсовет
+    	д. Ковака
+    	д. Команов
+    	д. Лубеники
+    	д. Михновка
+    	д. Пожарки
+    	д. Рудня Журавлева
+    	д. Теклинов
+    	д. Шкураты
+	
+    Маложинский сельсовет
+    	д. Алексеевка
+    	д. Бересневка
+    	д. Волоховщина
+    	д. Дублин
+    	д. Жиличи
+    	д. Кривча
+    	д. Переносы
+    	д. Старые Юрковичи
+	
+    Чемересский сельсовет
+    	д. Грушное
+    	д. Двор-Савичи
+    	д. Новая Гребля
+    	д. Просмычи
+    	д. Савичи
+    	д. Старые Храковичи
+	
+    Лельчицкий район
 
-## Run
-### Option 1. Run sctp-server & sc-web
-Please note that JSON Websocket protocol will be available as well after start.
-Run on Linux:
-```sh
-#Terminal 1
-cd {project-name}/ostis-web-platform/scripts
-./run_sctp.sh
+Три агента:
+1. Поиск расстояния между деревнями
+	
+На вход подаётся название двух деревень.
+	
+На выход:
+	
+![](https://github.com/VAny6661/ostis-geography/blob/villages/Distance.png)
+	
+2. Поиск количество людей в дереввне
+	
+На вход подаётся название деревни
+	
+На выход:
+	
+![](https://github.com/VAny6661/ostis-geography/blob/villages/populationDiff.png)
+	
+3. Сравнение количество человек в деревнях
+	
+На вход подаётся название двух деревень.
+	
+На выход:
+	
+![](https://github.com/VAny6661/ostis-geography/blob/villages/Population%20korma.png)
 
-#Terminal 2
-cd {project-name}/ostis-web-platform/scripts
-./run_scweb.sh
-```
+Добавлен интерфейс поска пути между двумя деревнями.
+На вход подаётся название двух деревени и районов в которых они находятся.
 
-Then open localhost:8000 in your browser.
-![](https://i.imgur.com/6SehI5s.png)
+На выходе:
+![](https://github.com/VAny6661/ostis-geography/blob/villages/Interface.png)
 
-You can open localhost:8090 in your browser as well to see the new web interface version.
-
-## OpenStreetMap
-To check if everything is working run system, find minsk, switch to expert mode and change from scs view mode to OpenStreetMap.
-
-## Pull requests
-1. Add understandable title to the Pull Request which covers all changes in this Pull Request.
-
-Good Example:
-821701 Brunner KB schools
-
-2. Also you can write this information inside Pull request, like here https://github.com/Vikort/ostis-geography/pull/3 or here https://github.com/Vikort/ostis-geography/pull/4
-3. Dont forget about newline at the end of the file
-4. Not necessary, but we will appreciate if you clean your commit history
-
-## Project Structure
-
-### kb
-The place for the knowledge base of your app. Put your **.scs** files here.
-
-### problem-solver
-The place for the problem solver of your app. Put your agents here.
-
-*Use **scp_stable** branch for the development of agents on SCP.*  
-*Use **0.5.0** or **0.6.0** branch for the development of agents on C++.*  
-*Use **0.6.0** branch for the development of agents on Python.*  
-
-#### Agents on C++
-Some tips:
-- Store your modules with C++ agents in *problem-solver/cxx*;
-- After updating your C++ code you need to rebuild problem-solver. Just run:  
-```
-cd {project-name}/scripts
-./build_problem_solver.sh
-```
-For a full rebuild with the deleting of the *bin* and *build* folders run:
-```
-cd patient-care/scripts
-./build_problem_solver.sh -f
-```
-
-- To enable debug:
-    * add *SET(CMAKE_BUILD_TYPE Debug)* line 
-    to *{project-name}/CMakeLists.txt* file;
-    * rebuild problem-solver.
-- You can see an example module with a C++ agent [here](problem-solver/cxx/exampleModule/README.md).
-
-#### Agents on Python
-Some tips:
-- Store your modules with Python agents in *problem-solver/py*;
-- After updating your Python code you don't need to rebuild problem-solver;
-- You can see example modules using Python [here](problem-solver/py). 
-
-### interface
-
-The place for your interface modules.
-
-To learn more about creating web components for the new web interface version please follow this [link](https://github.com/MikhailSadovsky/sc-machine/tree/example/web/client)
-
-#### sc-web-extensions
-The place for your extensions using **IMS interface(sc-web)** standard. 
-
-*Your extensions are not applied to sc-web automatically for now, but you can do it by hand.*
-
-### scripts
-The place for scripts of your app.
-
-#### build_problem_solver.sh [-f, --full]
-Build the problem-solver of your app. Use an argument *-f* or *--full* for a complete rebuild of the problem-solver with the deleting of the *ostis-web-platform/sc-machine/bin* and *ostis-web-platform/sc-machine/build* folders.
-
-#### install_ostis.sh
-Install or update the OSTIS platform.
-
-#### install_subsystems.sh
-Building a problem solver and a knowledge base of subsystems.

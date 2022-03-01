@@ -1,1 +1,4 @@
 add_subdirectory(OpenStreetMapAgent)
+add_subdirectory(DistanceAgent)
+add_subdirectory(VillagesPopulationAgent)
+add_subdirectory(PopulationComparisonAgent)
