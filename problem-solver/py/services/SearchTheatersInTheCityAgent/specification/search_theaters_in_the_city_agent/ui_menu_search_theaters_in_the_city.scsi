@@ -2,7 +2,7 @@ ui_menu_search_theaters_in_the_city<- ui_user_command_class_atom; ui_user_comman
 
 ui_menu_search_theaters_in_the_city
 => nrel_main_idtf: 
-	[Найти театров в городе]
+	[Найти театры в городе]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
 	[Запрос поиска театров в определенном городе]
