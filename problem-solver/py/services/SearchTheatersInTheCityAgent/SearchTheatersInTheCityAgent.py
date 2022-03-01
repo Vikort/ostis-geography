@@ -36,10 +36,10 @@ class SearchTheatersInTheCityAgent(ScAgent):
                     raise Exception("The question node isn't valid.")
                 city =  self.get_action_argument(self.main_node, 'rrel_1')
 
-                concept_theater = self.module.ctx.HelperResolveSystemIdtf("concept_theater", ScType.NodeConstClass)
+                concept_theater = self.module.ctx.HelperResolveSystemIdtf("concept_theatre", ScType.NodeConstClass)
                 answer = self.module.ctx.HelperResolveSystemIdtf("find_theater", ScType.NodeConst)
                 nrel_city = self.module.ctx.HelperResolveSystemIdtf("nrel_city", ScType.NodeConstNoRole) 
-                theater = self.module.ctx.Iterator3( concept_theater, ScType.EdgeAccessConstPosPerm, ScType.NodeConst)
+                theater = self.module.ctx.Iterator3(concept_theater, ScType.EdgeAccessConstPosPerm, ScType.NodeConst)
                 while theater.Next():
                     print("sss")
                     find_theater = self.module.ctx.Iterator5(theater.Get(2), ScType.EdgeDCommonConst, city , ScType.EdgeAccessConstPosPerm, nrel_city)
