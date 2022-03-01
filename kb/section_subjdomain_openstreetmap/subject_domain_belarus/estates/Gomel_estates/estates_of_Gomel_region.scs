@@ -1,6 +1,9 @@
 
 //1
 estates_ulesanaopushke
+=>nrel_price: [255] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [318] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -12,7 +15,7 @@ estates_ulesanaopushke
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    gomel_district;
+    Homyel_district;
 =>nrel_city:
 	red;
 =>nrel_search_area:
@@ -20,6 +23,9 @@ estates_ulesanaopushke
         
 //2
 estates_alyaskanarancho
+=>nrel_price: [391] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [152] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -31,7 +37,7 @@ estates_alyaskanarancho
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    gomel_district;
+    Homyel_district;
 =>nrel_city:
 	student_guta;
 =>nrel_search_area:
@@ -39,6 +45,9 @@ estates_alyaskanarancho
         
 //3
 estates_village
+=>nrel_price: [289] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [117] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -50,7 +59,7 @@ estates_village
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    vetkovsky_district;
+    Vietka_district;
 =>nrel_city:
 	halch;
 =>nrel_search_area:
@@ -58,6 +67,9 @@ estates_village
         
 //4
 estates_milygrad
+=>nrel_price: [281] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [573] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -69,7 +81,7 @@ estates_milygrad
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    rechitsky_district;
+    Rechytsa_district;
 =>nrel_city:
 	milograd;
 =>nrel_search_area:
@@ -77,6 +89,9 @@ estates_milygrad
         
 //5
 estates_mira34
+=>nrel_price: [333] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [134] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -88,7 +103,7 @@ estates_mira34
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    rechitsky_district;
+    Rechytsa_district;
 =>nrel_city:
 	milograd;
 =>nrel_search_area:
@@ -96,6 +111,9 @@ estates_mira34
         
 //6
 estates_sergeyamilogradskogo
+=>nrel_price: [165] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [465] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -107,7 +125,7 @@ estates_sergeyamilogradskogo
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    rechitsky_district;
+    Rechytsa_district;
 =>nrel_city:
 	milograd;
 =>nrel_search_area:
@@ -115,6 +133,9 @@ estates_sergeyamilogradskogo
         
 //7
 estates_babushkinahata
+=>nrel_price: [360] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [384] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -126,7 +147,7 @@ estates_babushkinahata
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    zhlobinsky_district;
+    Zhlobin_district;
 =>nrel_city:
 	lesan;
 =>nrel_search_area:
@@ -134,6 +155,9 @@ estates_babushkinahata
         
 //8
 estates_agrousadbarelaks
+=>nrel_price: [362] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [358] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -145,7 +169,7 @@ estates_agrousadbarelaks
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    gomel_district;
+    Homyel_district;
 =>nrel_city:
 	polyana;
 =>nrel_search_area:
@@ -153,6 +177,9 @@ estates_agrousadbarelaks
         
 //9
 estates_ozernayaklenovica
+=>nrel_price: [320] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [298] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -164,7 +191,7 @@ estates_ozernayaklenovica
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    buda_koshelevsky_district;
+    Buda_Kashalyova_district;
 =>nrel_city:
 	klenovitsa;
 =>nrel_search_area:
@@ -172,6 +199,9 @@ estates_ozernayaklenovica
         
 //10
 estates_bannayaderevnya
+=>nrel_price: [275] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [151] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -183,7 +213,7 @@ estates_bannayaderevnya
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    rechitsky_district;
+    Rechytsa_district;
 =>nrel_city:
 	granovka;
 =>nrel_search_area:
@@ -191,6 +221,9 @@ estates_bannayaderevnya
         
 //11
 estates_kremno
+=>nrel_price: [217] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [111] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -202,7 +235,7 @@ estates_kremno
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    zhitkovichi_district;
+    Zhytkavichy_district;
 =>nrel_city:
 	silicon;
 =>nrel_search_area:
@@ -210,6 +243,9 @@ estates_kremno
         
 //12
 estates_npp
+=>nrel_price: [188] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [372] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
 <- concept_way;
@@ -221,7 +257,7 @@ estates_npp
 =>nrel_region:
     gomel_region;
 =>nrel_district:
-    petrikovsky_district;
+    Pyetrykaw_district;
 =>nrel_city:
 	lyaskovichi;
 =>nrel_search_area:
