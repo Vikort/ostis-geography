@@ -8,6 +8,6 @@ molodechno;
 belarus;
 =>nrel_type:
 puppet;
-=>nrel_status;
+=>nrel_status:
 opened_status;;
 
