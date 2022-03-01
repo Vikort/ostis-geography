@@ -2,10 +2,10 @@ ui_menu_search_theaters_in_the_city<- ui_user_command_class_atom; ui_user_comman
 
 ui_menu_search_theaters_in_the_city
 => nrel_main_idtf: 
-	[Найти кинотеатры в городе]
+	[Найти театров в городе]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
-	[Запрос поиска кинотеатров в определенном городе]
+	[Запрос поиска театров в определенном городе]
 	(* <- lang_ru;; *);;
 
 ui_menu_search_theaters_in_the_city
@@ -25,5 +25,5 @@ ui_menu_search_theaters_in_the_city=> ui_nrel_command_template:
 		._question_search_theaters_in_the_city _<- question;;
 	*];;
 
-ui_menu_search_theaters_in_the_city=> ui_nrel_command_lang_template: [Найти кинотеатры в городе  $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_search_theaters_in_the_city=> ui_nrel_command_lang_template: [Найти театры в городе  $ui_arg_1] (* <- lang_ru;; *);;
 ui_menu_search_theaters_in_the_city=> ui_nrel_command_lang_template: [Search for all theaters in $ui_arg_1] (* <- lang_en;; *);;

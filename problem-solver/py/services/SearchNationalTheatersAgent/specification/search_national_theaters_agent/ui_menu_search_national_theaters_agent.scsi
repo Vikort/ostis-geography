@@ -1,0 +1,29 @@
+ui_menu_search_national_theaters_agent<- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_search_national_theaters
+=> nrel_main_idtf: 
+	[Найти театры по типу]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска театров по типу]
+	(* <- lang_ru;; *);;
+
+ui_menu_search_national_theaters
+=> nrel_main_idtf: 
+	[Search for all theaters by type]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request searches for all theaters  by type]
+	(* <- lang_en;; *);;
+
+ui_menu_search_national_theaters=> ui_nrel_command_template:
+	[*
+		action_search_national_theaters _-> ._question_search_national_theaters
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_search_national_theaters _<- question;;
+	*];;
+
+ui_menu_search_national_theaters=> ui_nrel_command_lang_template: [Найти театры по типу  $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_search_national_theaters=> ui_nrel_command_lang_template: [Search for all theaters by type $ui_arg_1] (* <- lang_en;; *);;

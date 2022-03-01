@@ -13,7 +13,7 @@ osm_level_to_tag = {
     None: ['addr:country', 'addr:district', 'addr:region', 'addr:city']
 }
 
-class SearchTheatersInTheCityAgent(ScAgent):
+class SearchNationalTheatersAgent(ScAgent):
     def __init__(self, module):
         super().__init__(module)
         self.ctx = module.ctx
@@ -27,7 +27,7 @@ class SearchTheatersInTheCityAgent(ScAgent):
         status = ScResult.Ok
 
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['action_search_theaters_in_the_city'],
+                self.keynodes['action_search_national_theaters'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):
@@ -37,9 +37,9 @@ class SearchTheatersInTheCityAgent(ScAgent):
                 city =  self.get_action_argument(self.main_node, 'rrel_1')
 
                 concept_theater = self.module.ctx.HelperResolveSystemIdtf("concept_theatre", ScType.NodeConstClass)
-                answer = self.module.ctx.HelperResolveSystemIdtf("find_theater", ScType.NodeConst)
-                nrel_city = self.module.ctx.HelperResolveSystemIdtf("nrel_city", ScType.NodeConstNoRole) 
-                theater = self.module.ctx.Iterator3(concept_theater, ScType.EdgeAccessConstPosPerm, ScType.NodeConst)
+                answer = self.module.ctx.HelperResolveSystemIdtf("find_theater_by_type", ScType.NodeConst)
+                nrel_city = self.module.ctx.HelperResolveSystemIdtf("nrel_type", ScType.NodeConstNoRole)
+                theater = self.module.ctx.Iterator3( concept_theater, ScType.EdgeAccessConstPosPerm, ScType.NodeConst)
                 while theater.Next():
                     print("sss")
                     find_theater = self.module.ctx.Iterator5(theater.Get(2), ScType.EdgeDCommonConst, city , ScType.EdgeAccessConstPosPerm, nrel_city)
