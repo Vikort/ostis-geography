@@ -1,5 +1,7 @@
 concept_Grodno_City_Executive_Committee
-<-sc_node_not_relation;=>nrel_main_idtf:
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_main_idtf:
 	[Гродненский городской исполнительный комитет]
 	(* <- lang_ru;; <- name;;*);
 	[Grodno City Executive Committee]

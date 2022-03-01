@@ -1,4 +1,7 @@
 concept_Embassy_of_Ukraine_minsk
+->concept_embassy;
+->concept_admin_building;
+=>nrel_embassy:Ukraine;
 <-sc_node_not_relation;
 =>nrel_search_area:
     minsk;

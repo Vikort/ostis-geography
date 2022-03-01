@@ -1,5 +1,7 @@
 concept_Ivyevsky_regional_executive_committee
-<-sc_node_not_relation;=>nrel_search_area:iwye_district; <- concept_way;=>nrel_main_idtf:
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_search_area:iwye_district; <- concept_way;=>nrel_main_idtf:
 	[Ивьевский райисполком]
 	(* <- lang_ru;;<-name;; *);
 	[Ivyevsky regional executive committee]

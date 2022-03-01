@@ -1,5 +1,7 @@
 concept_Logoisk_District_Council_of_Deputies
-<-sc_node_not_relation;=>nrel_main_idtf:
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_main_idtf:
 	[Логойский районный Совет депутатов]
 	(* <- lang_ru;;<-name;; *);
 	[Logoisk District Council of Deputies]

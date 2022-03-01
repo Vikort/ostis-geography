@@ -1,5 +1,6 @@
 concept_Ministry_of_Foreign_Affairs_of_the_Republic_of_Belarus_minsk
 <-sc_node_not_relation;
+->concept_admin_building;
 =>nrel_search_area:
     minsk;
  <- concept_way;

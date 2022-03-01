@@ -1,0 +1,11 @@
+lib_component_ui_menu_get_admin_building_region
+=> nrel_main_idtf:
+	[Агент для поиска административных задний в областе]
+	(* <- lang_ru;; *);
+	[Agent for searching for administrative offices in the region]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;
+
+

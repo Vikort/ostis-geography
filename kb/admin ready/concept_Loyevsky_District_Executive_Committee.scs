@@ -1,5 +1,7 @@
 concept_Loyevsky_District_Executive_Committee
-<-sc_node_not_relation;=>nrel_main_idtf:
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_main_idtf:
 	[Лоевский районный исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);
 	[Loyevsky District Executive Committee]

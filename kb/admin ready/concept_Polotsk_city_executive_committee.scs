@@ -1,5 +1,7 @@
 concept_Polotsk_city_executive_committee
-<-sc_node_not_relation;=>nrel_search_area:polatsk_district;
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_search_area:polatsk_district;
  <- concept_way;=>nrel_main_idtf:
 	[Полоцкий горисполком]
 	(* <- lang_ru;;<-name;; *);

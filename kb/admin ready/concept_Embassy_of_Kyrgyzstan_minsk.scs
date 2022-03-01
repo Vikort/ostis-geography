@@ -1,4 +1,7 @@
 concept_Embassy_of_Kyrgyzstan_minsk
+->concept_embassy;
+->concept_admin_building;
+=>nrel_embassy:Kyrgyzstan;
 <-sc_node_not_relation;
 =>nrel_search_area:
     minsk;

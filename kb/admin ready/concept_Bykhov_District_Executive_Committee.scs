@@ -1,5 +1,6 @@
 concept_Bykhov_District_Executive_Committee
 <-sc_node_not_relation;
+->concept_admin_building;
 =>nrel_search_area:Bychauski_district;
  <- concept_way;
 =>nrel_main_idtf:

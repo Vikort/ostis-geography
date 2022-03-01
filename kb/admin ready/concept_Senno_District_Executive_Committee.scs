@@ -1,5 +1,7 @@
 concept_Senno_District_Executive_Committee
-<-sc_node_not_relation;=>nrel_search_area:syanno_district;
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_search_area:syanno_district;
  <- concept_way;=>nrel_main_idtf:
 	[ Сенненский Районный исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);

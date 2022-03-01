@@ -1,5 +1,7 @@
 concept_Grodno_Regional_Executive_Committee
-<-sc_node_not_relation;=>nrel_search_area:hrodna; <- concept_way;=>nrel_main_idtf:
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_search_area:hrodna; <- concept_way;=>nrel_main_idtf:
 	[Гродненский областной исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);
 	[Grodno Regional Executive Committee]

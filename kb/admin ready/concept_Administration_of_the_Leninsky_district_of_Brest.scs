@@ -1,5 +1,6 @@
 concept_Administration_of_the_Leninsky_district_of_Brest
 <-sc_node_not_relation;
+->concept_admin_building;
 =>nrel_search_area:leninsky_city_district_brest;
  <- concept_way;
 =>nrel_main_idtf:

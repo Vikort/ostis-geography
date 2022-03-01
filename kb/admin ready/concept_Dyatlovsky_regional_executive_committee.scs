@@ -1,5 +1,7 @@
 concept_Dyatlovsky_regional_executive_committee
-<-sc_node_not_relation;=>nrel_main_idtf:
+<-sc_node_not_relation;
+->concept_admin_building;
+=>nrel_main_idtf:
 	[Дятловский райисполком]
 	(* <- lang_ru;;<-name;; *);
 	[Dyatlovsky regional executive committee]
