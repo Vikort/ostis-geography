@@ -1,6 +1,9 @@
 
 //1
 estates_tomai
+=>nrel_price: [435] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [310] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -12,7 +15,7 @@ estates_tomai
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    baranovichi_district;
+    baranavichy_district;
 =>nrel_city:
 	berezovka;
 =>nrel_search_area:
@@ -20,6 +23,9 @@ estates_tomai
        
 //2
 estates_bb
+=>nrel_price: [239] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [232] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -31,7 +37,7 @@ estates_bb
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	kamenyuki;
 =>nrel_search_area:
@@ -39,6 +45,9 @@ estates_bb
                
 //3
 estates_monomah
+=>nrel_price: [373] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [175] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -50,7 +59,7 @@ estates_monomah
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	dmitrovichi;
 =>nrel_search_area:
@@ -58,6 +67,9 @@ estates_monomah
        
 //4
 estates_lesnaya
+=>nrel_price: [276] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [333] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -69,7 +81,7 @@ estates_lesnaya
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	forks;
 =>nrel_search_area:
@@ -77,6 +89,9 @@ estates_lesnaya
 
 //5
 estates_polskimayontak
+=>nrel_price: [273] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [148] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -88,7 +103,7 @@ estates_polskimayontak
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	forks;
 =>nrel_search_area:
@@ -96,6 +111,9 @@ estates_polskimayontak
       
 //6
 estates_zamkovayagora
+=>nrel_price: [176] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [332] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -107,7 +125,7 @@ estates_zamkovayagora
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    baranovichi_district;
+    baranavichy_district;
 =>nrel_city:
 	old_mouse;
 =>nrel_search_area:
@@ -115,6 +133,9 @@ estates_zamkovayagora
      
 //7
 estates_naprostor
+=>nrel_price: [215] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [260] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -126,7 +147,7 @@ estates_naprostor
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    luninetsky_district;
+    luninets_district;
 =>nrel_city:
 	lakhovka;
 =>nrel_search_area:
@@ -134,6 +155,9 @@ estates_naprostor
         
 //8
 estates_usadbanazarechnoy
+=>nrel_price: [413] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [266] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -145,7 +169,7 @@ estates_usadbanazarechnoy
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    baranovichi_district;
+    baranavichy_district;
 =>nrel_city:
 	large_purnevichi;
 =>nrel_search_area:
@@ -153,6 +177,9 @@ estates_usadbanazarechnoy
       
 //9
 estates_podsolnux
+=>nrel_price: [211] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [388] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -164,7 +191,7 @@ estates_podsolnux
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    pinsky_district;
+    pinsk_district;
 =>nrel_city:
 	gornovo;
 =>nrel_search_area:
@@ -172,6 +199,9 @@ estates_podsolnux
       
 //10
 estates_derevenskiyray
+=>nrel_price: [329] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [380] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -183,7 +213,7 @@ estates_derevenskiyray
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	makovische;
 =>nrel_search_area:
@@ -191,6 +221,9 @@ estates_derevenskiyray
         
 //11
 estates_vpusche
+=>nrel_price: [444] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [125] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -202,7 +235,7 @@ estates_vpusche
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	makovische;
 =>nrel_search_area:
@@ -210,6 +243,9 @@ estates_vpusche
       
 //12
 estates_gfamilyhome
+=>nrel_price: [337] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [552] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -221,7 +257,7 @@ estates_gfamilyhome
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    ivatsevichsky_district;
+    ivatsevichy_district;
 =>nrel_city:
 	ivatsevichi;
 =>nrel_search_area:
@@ -229,6 +265,9 @@ estates_gfamilyhome
      
 //13
 estates_dvorik
+=>nrel_price: [327] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [411] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -240,7 +279,7 @@ estates_dvorik
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    baranovichi_district;
+    baranavichy_district;
 =>nrel_city:
 	peaceful;
 =>nrel_search_area:
@@ -248,6 +287,9 @@ estates_dvorik
        
 //14
 estates_belovezhgost
+=>nrel_price: [355] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [369] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -259,7 +301,7 @@ estates_belovezhgost
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	novitkovichi;
 =>nrel_search_area:
@@ -267,6 +309,9 @@ estates_belovezhgost
 
 //15
 estates_valentinovichey
+=>nrel_price: [440] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [462] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -278,7 +323,7 @@ estates_valentinovichey
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	novitkovichi;
 =>nrel_search_area:
@@ -286,6 +331,9 @@ estates_valentinovichey
        
 //16
 estates_medzavala
+=>nrel_price: [224] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [369] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -297,7 +345,7 @@ estates_medzavala
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    baranovichi_district;
+    baranavichy_district;
 =>nrel_city:
 	enound;
 =>nrel_search_area:
@@ -305,6 +353,9 @@ estates_medzavala
        
 //17
 estates_babulinahatka
+=>nrel_price: [249] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [282] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -316,7 +367,7 @@ estates_babulinahatka
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    luninetsky_district;
+    luninets_district;
 =>nrel_city:
 	leather_town;
 =>nrel_search_area:
@@ -324,6 +375,9 @@ estates_babulinahatka
       
 //18
 estates_zvanca
+=>nrel_price: [440] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [185] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -335,7 +389,7 @@ estates_zvanca
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    drogichinsky_district;
+    drahichyn_district;
 =>nrel_city:
 	selische;
 =>nrel_search_area:
@@ -343,6 +397,9 @@ estates_zvanca
 
 //19
 estates_solo
+=>nrel_price: [440] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [483] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -354,7 +411,7 @@ estates_solo
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    drogichinsky_district;
+    drahichyn_district;
 =>nrel_city:
 	selische;
 =>nrel_search_area:
@@ -362,6 +419,9 @@ estates_solo
        
 //20
 estates_nadozerom
+=>nrel_price: [290] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [220] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -373,7 +433,7 @@ estates_nadozerom
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    lyakhovichsky_district;
+    lyakhavichy_district;
 =>nrel_city:
 	embankment;
 =>nrel_search_area:
@@ -381,6 +441,9 @@ estates_nadozerom
       
 //21
 estates_puschamechta
+=>nrel_price: [317] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [262] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -392,7 +455,7 @@ estates_puschamechta
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	selische;
 =>nrel_search_area:
@@ -400,6 +463,9 @@ estates_puschamechta
       
 //22
 estates_tihiy
+=>nrel_price: [301] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [192] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -411,7 +477,7 @@ estates_tihiy
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    ivanovsky_district;
+    ivanava_district;
 =>nrel_city:
 	druzhilovichi;
 =>nrel_search_area:
@@ -419,6 +485,9 @@ estates_tihiy
       
 //23
 estates_tribogatyrya
+=>nrel_price: [444] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [435] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -430,7 +499,7 @@ estates_tribogatyrya
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kobrinsky_district;
+    kobryn_district;
 =>nrel_city:
 	sands_1;
 =>nrel_search_area:
@@ -438,6 +507,9 @@ estates_tribogatyrya
       
 //24
 estates_ejonka
+=>nrel_price: [350] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [456] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -449,7 +521,7 @@ estates_ejonka
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    baranovichi_district;
+    baranavichy_district;
 =>nrel_city:
 	enound;
 =>nrel_search_area:
@@ -457,6 +529,9 @@ estates_ejonka
      
 //25
 estates_domribaka
+=>nrel_price: [353] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [208] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -468,7 +543,7 @@ estates_domribaka
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    kamenetsky_district;
+    kamenets_district;
 =>nrel_city:
 	kamenyuki;
 =>nrel_search_area:
@@ -476,6 +551,9 @@ estates_domribaka
        
 //26
 estates_stuly
+=>nrel_price: [351] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [129] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -487,7 +565,7 @@ estates_stuly
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    pruzhansky_district;
+    pruzhany_district;
 =>nrel_city:
 	stalls;
 =>nrel_search_area:
@@ -495,6 +573,9 @@ estates_stuly
       
 //27
 estates_rechnaya
+=>nrel_price: [295] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [230] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
 <- concept_way;
@@ -506,7 +587,7 @@ estates_rechnaya
 =>nrel_region:
     brest_region;
 =>nrel_district:
-    zhabinkovsky_district;
+    zhabinka_district;
 =>nrel_city:
 	ababye;
 =>nrel_search_area:

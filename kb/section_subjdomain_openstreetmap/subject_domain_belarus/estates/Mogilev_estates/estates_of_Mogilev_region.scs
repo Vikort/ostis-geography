@@ -1,6 +1,9 @@
 
 //1
 estates_klevoemestechko
+=>nrel_price: [222] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [145] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
 <- concept_way;
@@ -12,7 +15,7 @@ estates_klevoemestechko
 =>nrel_region:
     mogilev_region;
 =>nrel_district:
-    osipovichsky_district;
+    osipovichi_district;
 =>nrel_city:
 	smyk;
 =>nrel_search_area:
@@ -20,6 +23,9 @@ estates_klevoemestechko
         
 //2
 estates_dudik
+=>nrel_price: [289] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [127] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
 <- concept_way;
@@ -31,7 +37,7 @@ estates_dudik
 =>nrel_region:
     mogilev_region;
 =>nrel_district:
-    bykhovsky_district;
+    Bychauski_district;
 =>nrel_city:
 	seal;
 =>nrel_search_area:
@@ -39,6 +45,9 @@ estates_dudik
         
 //3
 estates_uvodyugrigor
+=>nrel_price: [184] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [258] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
 <- concept_way;
@@ -50,7 +59,7 @@ estates_uvodyugrigor
 =>nrel_region:
     mogilev_region;
 =>nrel_district:
-    osipovichsky_district;
+    osipovichi_district;
 =>nrel_city:
 	red;
 =>nrel_search_area:
@@ -58,6 +67,9 @@ estates_uvodyugrigor
         
 //4
 estates_1812
+=>nrel_price: [155] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [208] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
 <- concept_way;
@@ -69,7 +81,7 @@ estates_1812
 =>nrel_region:
     mogilev_region;
 =>nrel_district:
-    mogilev_district;
+    Mogilev_district;
 =>nrel_city:
 	saltanovka;
 =>nrel_search_area:
@@ -77,6 +89,9 @@ estates_1812
         
 //5
 estates_grydichinaozernaya13
+=>nrel_price: [326] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [155] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
 <- concept_way;
@@ -88,7 +103,7 @@ estates_grydichinaozernaya13
 =>nrel_region:
     mogilev_region;
 =>nrel_district:
-    bykhovsky_district;
+    Bychauski_district;
 =>nrel_city:
 	breastchino;
 =>nrel_search_area:

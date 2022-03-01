@@ -1,6 +1,9 @@
 
 //1
 estates_trisosny
+=>nrel_price: [414] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [177] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -12,7 +15,7 @@ estates_trisosny
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	braslav;
 =>nrel_search_area:
@@ -20,6 +23,9 @@ estates_trisosny
         
 //2
 estates_gribnoybabariki
+=>nrel_price: [204] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [155] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -31,7 +37,7 @@ estates_gribnoybabariki
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    gorodoksky_district;
+    haradok_district;
 =>nrel_city:
 	bobanyki;
 =>nrel_search_area:
@@ -39,6 +45,9 @@ estates_gribnoybabariki
         
 //3
 estates_plisskayagubernya
+=>nrel_price: [404] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [326] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -50,7 +59,7 @@ estates_plisskayagubernya
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	plisa;
 =>nrel_search_area:
@@ -58,6 +67,9 @@ estates_plisskayagubernya
         
 //4
 estates_sveta
+=>nrel_price: [290] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [122] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -69,7 +81,7 @@ estates_sveta
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	gavrilovtsy;
 =>nrel_search_area:
@@ -77,6 +89,9 @@ estates_sveta
         
 //5
 estates_krainamar
+=>nrel_price: [373] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [300] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -88,7 +103,7 @@ estates_krainamar
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	khroli;
 =>nrel_search_area:
@@ -96,6 +111,9 @@ estates_krainamar
 
 //6
 estates_radush
+=>nrel_price: [326] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [306] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -107,7 +125,7 @@ estates_radush
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	khroli;
 =>nrel_search_area:
@@ -115,6 +133,9 @@ estates_radush
         
 //7
 estates_braslavrest
+=>nrel_price: [238] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [108] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -126,7 +147,7 @@ estates_braslavrest
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	braslav;
 =>nrel_search_area:
@@ -134,6 +155,9 @@ estates_braslavrest
         
 //8
 estates_zvezdniydvor
+=>nrel_price: [361] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [345] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -145,7 +169,7 @@ estates_zvezdniydvor
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	braslav;
 =>nrel_search_area:
@@ -153,6 +177,9 @@ estates_zvezdniydvor
         
 //9
 estates_edishki
+=>nrel_price: [202] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [252] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -164,7 +191,7 @@ estates_edishki
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	deans;
 =>nrel_search_area:
@@ -172,6 +199,9 @@ estates_edishki
         
 //10
 estates_alesyabraslav
+=>nrel_price: [420] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [158] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -183,7 +213,7 @@ estates_alesyabraslav
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	braslav;
 =>nrel_search_area:
@@ -191,6 +221,9 @@ estates_alesyabraslav
         
 //11
 estates_naopyshke
+=>nrel_price: [439] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [480] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -202,7 +235,7 @@ estates_naopyshke
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	humna_fence;
 =>nrel_search_area:
@@ -210,6 +243,9 @@ estates_naopyshke
         
 //12
 estates_nomerbaykal
+=>nrel_price: [377] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [314] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -221,7 +257,7 @@ estates_nomerbaykal
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	zyabki;
 =>nrel_search_area:
@@ -229,6 +265,9 @@ estates_nomerbaykal
         
 //13
 estates_usadbadomikvderevne
+=>nrel_price: [354] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [300] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -240,7 +279,7 @@ estates_usadbadomikvderevne
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    ushachsky_district;
+    ushachy_district;
 =>nrel_city:
 	zawshye;
 =>nrel_search_area:
@@ -248,6 +287,9 @@ estates_usadbadomikvderevne
         
 //14
 estates_nalepelskih
+=>nrel_price: [450] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [576] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -259,7 +301,7 @@ estates_nalepelskih
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    lepelsky_district;
+    lepiel_district;
 =>nrel_city:
 	dammer;
 =>nrel_search_area:
@@ -267,6 +309,9 @@ estates_nalepelskih
         
 //15
 estates_uyasya
+=>nrel_price: [366] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [252] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -278,7 +323,7 @@ estates_uyasya
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    delivery_area;
+    pastavy_district;
 =>nrel_city:
 	cherven;
 =>nrel_search_area:
@@ -286,6 +331,9 @@ estates_uyasya
         
 //16
 estates_bannydvor
+=>nrel_price: [366] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [366] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -297,7 +345,7 @@ estates_bannydvor
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    sharkovshchinsky_district;
+    sharkawshchyna_district;
 =>nrel_city:
 	olkhovtsy;
 =>nrel_search_area:
@@ -305,6 +353,9 @@ estates_bannydvor
         
 //17
 estates_usadbanalesnoy
+=>nrel_price: [222] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [145] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -316,7 +367,7 @@ estates_usadbanalesnoy
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	orekhovo;
 =>nrel_search_area:
@@ -324,6 +375,9 @@ estates_usadbanalesnoy
         
 //18
 estates_abuzerie
+=>nrel_price: [228] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [222] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -335,7 +389,7 @@ estates_abuzerie
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    chesnik_district;
+    chashniki_district;
 =>nrel_city:
 	abasser;
 =>nrel_search_area:
@@ -343,6 +397,9 @@ estates_abuzerie
         
 //19
 estates_karteya
+=>nrel_price: [405] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [588] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -354,7 +411,7 @@ estates_karteya
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    sharkovshchinsky_district;
+    sharkawshchyna_district;
 =>nrel_city:
 	zaozerier;
 =>nrel_search_area:
@@ -362,6 +419,9 @@ estates_karteya
         
 //20
 estates_gavrilovich
+=>nrel_price: [259] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [121] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -373,7 +433,7 @@ estates_gavrilovich
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    lepelsky_district;
+    lepiel_district;
 =>nrel_city:
 	yard_porechye;
 =>nrel_search_area:
@@ -381,6 +441,9 @@ estates_gavrilovich
         
 //21
 estates_glushanin
+=>nrel_price: [245] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [191] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -392,7 +455,7 @@ estates_glushanin
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    lepelsky_district;
+    lepiel_district;
 =>nrel_city:
 	yard_porechye;
 =>nrel_search_area:
@@ -400,6 +463,9 @@ estates_glushanin
         
 //22
 estates_maentokgorbacheva
+=>nrel_price: [394] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [232] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -411,7 +477,7 @@ estates_maentokgorbacheva
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	druia;
 =>nrel_search_area:
@@ -419,6 +485,9 @@ estates_maentokgorbacheva
         
 //23
 estates_zapovedostrovdom5
+=>nrel_price: [324] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [169] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -430,7 +499,7 @@ estates_zapovedostrovdom5
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	sho;
 =>nrel_search_area:
@@ -438,6 +507,9 @@ estates_zapovedostrovdom5
         
 //24
 estates_murazhi21
+=>nrel_price: [216] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [399] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -449,7 +521,7 @@ estates_murazhi21
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	muragi;
 =>nrel_search_area:
@@ -457,6 +529,9 @@ estates_murazhi21
         
 //25
 estates_domuruchya
+=>nrel_price: [281] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [474] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -468,7 +543,7 @@ estates_domuruchya
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	posnudye;
 =>nrel_search_area:
@@ -476,6 +551,9 @@ estates_domuruchya
         
 //26
 estates_motorezervation
+=>nrel_price: [219] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [336] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -487,7 +565,7 @@ estates_motorezervation
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    sennensky_district;
+    syanno_district;
 =>nrel_city:
 	zaozerier;
 =>nrel_search_area:
@@ -495,6 +573,9 @@ estates_motorezervation
         
 //27
 estates_chudnybereg
+=>nrel_price: [401] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [336] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -506,7 +587,7 @@ estates_chudnybereg
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    delivery_area;
+    pastavy_district;
 =>nrel_city:
 	traits;
 =>nrel_search_area:
@@ -514,6 +595,9 @@ estates_chudnybereg
         
 //28
 estates_toptigin
+=>nrel_price: [213] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [191] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -525,7 +609,7 @@ estates_toptigin
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    dokshitsky_district;
+    dokshytsy_district;
 =>nrel_city:
 	klianniki;
 =>nrel_search_area:
@@ -533,6 +617,9 @@ estates_toptigin
 
 //29
 estates_nashahata
+=>nrel_price: [328] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [388] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -544,7 +631,7 @@ estates_nashahata
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    dokshitsky_district;
+    dokshytsy_district;
 =>nrel_city:
 	klianniki;
 =>nrel_search_area:
@@ -552,6 +639,9 @@ estates_nashahata
         
 //30
 estates_karchmadudara
+=>nrel_price: [390] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [124] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -563,7 +653,7 @@ estates_karchmadudara
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	plisa;
 =>nrel_search_area:
@@ -571,6 +661,9 @@ estates_karchmadudara
         
 //31
 estates_rodnikovykray
+=>nrel_price: [257] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [489] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -582,7 +675,7 @@ estates_rodnikovykray
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    delivery_area;
+    pastavy_district;
 =>nrel_city:
 	zhepherki;
 =>nrel_search_area:
@@ -590,6 +683,9 @@ estates_rodnikovykray
         
 //32
 estates_centreurope
+=>nrel_price: [176] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [162] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -601,7 +697,7 @@ estates_centreurope
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	jewness;
 =>nrel_search_area:
@@ -609,6 +705,9 @@ estates_centreurope
         
 //33
 estates_raiskoemestecko
+=>nrel_price: [318] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [236] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -620,7 +719,7 @@ estates_raiskoemestecko
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	strst;
 =>nrel_search_area:
@@ -628,6 +727,9 @@ estates_raiskoemestecko
         
 //34
 estates_zapovedostrovdom2
+=>nrel_price: [215] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [145] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -639,7 +741,7 @@ estates_zapovedostrovdom2
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	sho;
 =>nrel_search_area:
@@ -647,6 +749,9 @@ estates_zapovedostrovdom2
         
 //35
 estates_kanashiagro
+=>nrel_price: [185] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [234] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -658,7 +763,7 @@ estates_kanashiagro
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    polotsk_region;
+    polatsk_district;
 =>nrel_city:
 	konasha;
 =>nrel_search_area:
@@ -666,6 +771,9 @@ estates_kanashiagro
         
 //36
 estates_kaptaruny
+=>nrel_price: [176] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [206] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -677,7 +785,7 @@ estates_kaptaruny
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    delivery_area;
+    pastavy_district;
 =>nrel_city:
 	captaruna;
 =>nrel_search_area:
@@ -685,6 +793,9 @@ estates_kaptaruny
         
 //37
 estates_yakimovich
+=>nrel_price: [445] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [504] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -696,7 +807,7 @@ estates_yakimovich
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    deepskiy_district;
+    hlybokaye_district;
 =>nrel_city:
 	deep;
 =>nrel_search_area:
@@ -704,6 +815,9 @@ estates_yakimovich
         
 //38
 estates_braslavskoevzmore
+=>nrel_price: [208] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [519] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
 <- concept_way;
@@ -715,7 +829,7 @@ estates_braslavskoevzmore
 =>nrel_region:
     vitebsk_region;
 =>nrel_district:
-    braslavsky_district;
+    braslaw_district;
 =>nrel_city:
 	braslav;
 =>nrel_search_area:

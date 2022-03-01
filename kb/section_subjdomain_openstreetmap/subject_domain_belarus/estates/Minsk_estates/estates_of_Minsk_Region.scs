@@ -1,6 +1,9 @@
      
 //1
 estates_ravnovesie
+=>nrel_price: [306] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [149] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -12,7 +15,7 @@ estates_ravnovesie
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	small_dainovka;
 =>nrel_search_area:
@@ -20,6 +23,9 @@ estates_ravnovesie
         
 //2
 estates_otdyhplus
+=>nrel_price: [359] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [369] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -31,7 +37,7 @@ estates_otdyhplus
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    smolevichsky_district;
+    smalyavichy_district;
 =>nrel_city:
 	sloboda;
 =>nrel_search_area:
@@ -39,6 +45,9 @@ estates_otdyhplus
     
 //3
 estates_khutortroki
+=>nrel_price: [214] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [597] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -50,7 +59,7 @@ estates_khutortroki
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	sivitsa;
 =>nrel_search_area:
@@ -59,6 +68,9 @@ estates_khutortroki
   
 //4
 estates_narochanskibereg
+=>nrel_price: [162] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [370] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -70,7 +82,7 @@ estates_narochanskibereg
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	pasynki;
 =>nrel_search_area:
@@ -78,6 +90,9 @@ estates_narochanskibereg
         
 //5
 estates_nakvasy
+=>nrel_price: [310] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [181] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -89,7 +104,7 @@ estates_nakvasy
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    dzerzhinsky_district;
+    dzyarzhynsk_district;
 =>nrel_city:
 	nasty;
 =>nrel_search_area:
@@ -97,6 +112,9 @@ estates_nakvasy
         
 //6
 estates_gasceunya
+=>nrel_price: [276] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [549] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -116,6 +134,9 @@ estates_gasceunya
         
 //7
 estates_mashinhutor
+=>nrel_price: [368] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [278] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -127,7 +148,7 @@ estates_mashinhutor
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    column_area;
+    stowbtsy_district;
 =>nrel_city:
 	kruglitsa;
 =>nrel_search_area:
@@ -135,6 +156,9 @@ estates_mashinhutor
         
 //8
 estates_domiknaislochi
+=>nrel_price: [277] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [327] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -146,7 +170,7 @@ estates_domiknaislochi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	belokorets;
 =>nrel_search_area:
@@ -154,6 +178,9 @@ estates_domiknaislochi
   
 //9
 estates_iznachalnoe
+=>nrel_price: [268] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [368] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -165,7 +192,7 @@ estates_iznachalnoe
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    smolevichsky_district;
+    smalyavichy_district;
 =>nrel_city:
 	prileses;
 =>nrel_search_area:
@@ -173,6 +200,9 @@ estates_iznachalnoe
  
 //10
 estates_alekskolodishchi
+=>nrel_price: [298] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [191] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -192,6 +222,9 @@ estates_alekskolodishchi
         
 //11
 estates_familyholiday
+=>nrel_price: [162] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [444] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -211,6 +244,9 @@ estates_familyholiday
     
 //12
 estates_koniponi
+=>nrel_price: [159] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [268] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -222,7 +258,7 @@ estates_koniponi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	mikhalovo;
 =>nrel_search_area:
@@ -230,6 +266,9 @@ estates_koniponi
         
 //13
 estates_chistvozduh
+=>nrel_price: [310] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [159] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -241,7 +280,7 @@ estates_chistvozduh
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	small_cheese;
 =>nrel_search_area:
@@ -249,6 +288,9 @@ estates_chistvozduh
   
 //14
 estates_gusilebedi
+=>nrel_price: [232] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [228] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -260,7 +302,7 @@ estates_gusilebedi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    borisovsky_district;
+    barysaw_district;
 =>nrel_city:
 	zorichi;
 =>nrel_search_area:
@@ -268,6 +310,9 @@ estates_gusilebedi
    
 //15
 estates_usadbananarochi
+=>nrel_price: [187] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [370] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -279,7 +324,7 @@ estates_usadbananarochi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	gatovichi;
 =>nrel_search_area:
@@ -287,6 +332,9 @@ estates_usadbananarochi
 
 //16
 estates_bahushaus
+=>nrel_price: [389] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [498] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -298,7 +346,7 @@ estates_bahushaus
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	gatovichi;
 =>nrel_search_area:
@@ -306,6 +354,9 @@ estates_bahushaus
     
 //17
 estates_cheremushki
+=>nrel_price: [180] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [362] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -325,6 +376,9 @@ estates_cheremushki
       
 //18
 estates_royalhall
+=>nrel_price: [261] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [256] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -336,7 +390,7 @@ estates_royalhall
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	maudians;
 =>nrel_search_area:
@@ -344,6 +398,9 @@ estates_royalhall
         
 //19
 estates_lastgnezdo
+=>nrel_price: [212] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [396] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -355,7 +412,7 @@ estates_lastgnezdo
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	dry_mountain;
 =>nrel_search_area:
@@ -363,6 +420,9 @@ estates_lastgnezdo
       
 //20
 estates_domskazka
+=>nrel_price: [270] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [153] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -374,7 +434,7 @@ estates_domskazka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	green_garden;
 =>nrel_search_area:
@@ -382,6 +442,9 @@ estates_domskazka
        
 //21
 estates_zarachanskie
+=>nrel_price: [393] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [322] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -401,6 +464,9 @@ estates_zarachanskie
      
 //22
 estates_kuty
+=>nrel_price: [240] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [372] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -420,6 +486,9 @@ estates_kuty
         
 //23
 estates_tihayagavan
+=>nrel_price: [212] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [124] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -431,7 +500,7 @@ estates_tihayagavan
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    borisovsky_district;
+    barysaw_district;
 =>nrel_city:
 	glivin;
 =>nrel_search_area:
@@ -439,6 +508,9 @@ estates_tihayagavan
         
 //24
 estates_oleshki
+=>nrel_price: [331] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [352] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -450,7 +522,7 @@ estates_oleshki
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	zasvir;
 =>nrel_search_area:
@@ -458,6 +530,9 @@ estates_oleshki
    
 //25
 estates_gancevichi
+=>nrel_price: [223] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [212] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -469,7 +544,7 @@ estates_gancevichi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    vilesky_district;
+    vileyka_district;
 =>nrel_city:
 	vazynn;
 =>nrel_search_area:
@@ -477,6 +552,9 @@ estates_gancevichi
        
 //26
 estates_usadbamalinovka
+=>nrel_price: [339] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [402] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -488,7 +566,7 @@ estates_usadbamalinovka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    soligorsky_district;
+    salihorsk_district;
 =>nrel_city:
 	letenec;
 =>nrel_search_area:
@@ -496,6 +574,9 @@ estates_usadbamalinovka
 
 //27
 estates_razdole
+=>nrel_price: [441] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [513] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -507,7 +588,7 @@ estates_razdole
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    soligorsky_district;
+    salihorsk_district;
 =>nrel_city:
 	letenec;
 =>nrel_search_area:
@@ -515,6 +596,9 @@ estates_razdole
        
 //28
 estates_gainaistoki
+=>nrel_price: [253] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [314] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -526,7 +610,7 @@ estates_gainaistoki
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	gaina;
 =>nrel_search_area:
@@ -534,6 +618,9 @@ estates_gainaistoki
       
 //29
 estates_zolotayagorka
+=>nrel_price: [324] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [169] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -545,7 +632,7 @@ estates_zolotayagorka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	markovschina;
 =>nrel_search_area:
@@ -553,6 +640,9 @@ estates_zolotayagorka
      
 //30
 estates_semeinoeusadbantil
+=>nrel_price: [414] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [113] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -564,7 +654,7 @@ estates_semeinoeusadbantil
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    smolevichsky_district;
+    smalyavichy_district;
 =>nrel_city:
 	prustromy;
 =>nrel_search_area:
@@ -572,6 +662,9 @@ estates_semeinoeusadbantil
         
 //31
 estates_veragi
+=>nrel_price: [378] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [166] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -583,7 +676,7 @@ estates_veragi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	veragi;
 =>nrel_search_area:
@@ -591,6 +684,9 @@ estates_veragi
        
 //32
 estates_beliiruchiidom5
+=>nrel_price: [312] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [189] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -602,7 +698,7 @@ estates_beliiruchiidom5
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	belaruchi;
 =>nrel_search_area:
@@ -610,6 +706,9 @@ estates_beliiruchiidom5
 
 //33
 estates_fazenda
+=>nrel_price: [275] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [172] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -621,7 +720,7 @@ estates_fazenda
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	cherevki;
 =>nrel_search_area:
@@ -629,6 +728,9 @@ estates_fazenda
     
 //34
 estates_dom3berlogahall
+=>nrel_price: [371] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [498] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -640,7 +742,7 @@ estates_dom3berlogahall
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    berezinsky_district;
+    byerazino_district;
 =>nrel_city:
 	ostrovsky_pass;
 =>nrel_search_area:
@@ -648,6 +750,9 @@ estates_dom3berlogahall
       
 //35
 estates_mechtadetstva
+=>nrel_price: [356] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [120] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -659,7 +764,7 @@ estates_mechtadetstva
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    molodenensky_district;
+    maladzyechna_district;
 =>nrel_city:
 	tividovka;
 =>nrel_search_area:
@@ -667,6 +772,9 @@ estates_mechtadetstva
     
 //36
 estates_gtfohota
+=>nrel_price: [372] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [528] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -678,7 +786,7 @@ estates_gtfohota
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	crockva;
 =>nrel_search_area:
@@ -686,6 +794,9 @@ estates_gtfohota
         
 //37
 estates_nesvij
+=>nrel_price: [303] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [561] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -697,7 +808,7 @@ estates_nesvij
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    nesvizhsky_district;
+    nesvizh_district;
 =>nrel_city:
 	nesvizh;
 =>nrel_search_area:
@@ -705,6 +816,9 @@ estates_nesvij
       
 //38
 estates_zovpredkov
+=>nrel_price: [200] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [320] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -716,7 +830,7 @@ estates_zovpredkov
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    dzerzhinsky_district;
+    dzyarzhynsk_district;
 =>nrel_city:
 	may_day;
 =>nrel_search_area:
@@ -724,6 +838,9 @@ estates_zovpredkov
    
 //39
 estates_agrosilichi
+=>nrel_price: [311] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [165] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -735,7 +852,7 @@ estates_agrosilichi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	silichi;
 =>nrel_search_area:
@@ -743,6 +860,9 @@ estates_agrosilichi
          
 //40
 estates_umichalicha
+=>nrel_price: [438] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [164] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -762,6 +882,9 @@ estates_umichalicha
 	
 //41
 estates_uleonida
+=>nrel_price: [219] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [157] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -773,7 +896,7 @@ estates_uleonida
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    nesvizhsky_district;
+    nesvizh_district;
 =>nrel_city:
 	nesvizh;
 =>nrel_search_area:
@@ -781,6 +904,9 @@ estates_uleonida
       
 //42
 estates_titenkoff
+=>nrel_price: [206] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [274] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -792,7 +918,7 @@ estates_titenkoff
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    soligorsky_district;
+    salihorsk_district;
 =>nrel_city:
 	kulaki;
 =>nrel_search_area:
@@ -800,6 +926,9 @@ estates_titenkoff
      
 //43
 estates_akolica
+=>nrel_price: [271] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [133] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -819,6 +948,9 @@ estates_akolica
     
 //44
 estates_nich
+=>nrel_price: [244] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [380] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -830,7 +962,7 @@ estates_nich
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    uzdensky_district;
+    uzda_district;
 =>nrel_city:
 	mogly;
 =>nrel_search_area:
@@ -838,6 +970,9 @@ estates_nich
       
 //45
 estates_casablancacomfort
+=>nrel_price: [359] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [486] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -849,7 +984,7 @@ estates_casablancacomfort
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	naroch;
 =>nrel_search_area:
@@ -857,6 +992,9 @@ estates_casablancacomfort
       
 //46
 estates_usadbacentralnaja
+=>nrel_price: [212] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [170] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -868,7 +1006,7 @@ estates_usadbacentralnaja
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    borisovsky_district;
+    barysaw_district;
 =>nrel_city:
 	glivin;
 =>nrel_search_area:
@@ -876,6 +1014,9 @@ estates_usadbacentralnaja
       
 //47
 estates_antos
+=>nrel_price: [445] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [137] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -895,6 +1036,9 @@ estates_antos
      
 //48
 estates_beregovaya
+=>nrel_price: [183] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [328] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -906,7 +1050,7 @@ estates_beregovaya
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    borisovsky_district;
+    barysaw_district;
 =>nrel_city:
 	student;
 =>nrel_search_area:
@@ -914,6 +1058,9 @@ estates_beregovaya
   
 //49
 estates_umikoly
+=>nrel_price: [243] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [585] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -933,6 +1080,9 @@ estates_umikoly
              
 //50
 estates_selskiydom
+=>nrel_price: [422] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [534] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -944,7 +1094,7 @@ estates_selskiydom
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	padnevichi;
 =>nrel_search_area:
@@ -952,6 +1102,9 @@ estates_selskiydom
       
 //51
 estates_zarechany
+=>nrel_price: [230] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [232] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -963,7 +1116,7 @@ estates_zarechany
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    pukhovichi_district;
+    pukhavichy_district;
 =>nrel_city:
 	zarechan;
 =>nrel_search_area:
@@ -971,6 +1124,9 @@ estates_zarechany
   
 //52
 estates_alenka
+=>nrel_price: [186] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [384] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -990,6 +1146,9 @@ estates_alenka
       
 //53
 estates_krasnitza
+=>nrel_price: [407] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [357] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1001,7 +1160,7 @@ estates_krasnitza
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    vilesky_district;
+    vileyka_district;
 =>nrel_city:
 	krasnitsa;
 =>nrel_search_area:
@@ -1009,6 +1168,9 @@ estates_krasnitza
       
 //54
 estates_upetruhi
+=>nrel_price: [352] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [354] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1020,7 +1182,7 @@ estates_upetruhi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    soligorsky_district;
+    salihorsk_district;
 =>nrel_city:
 	krasnodorians;
 =>nrel_search_area:
@@ -1028,6 +1190,9 @@ estates_upetruhi
         
 //55
 estates_vedrusskayaskazka
+=>nrel_price: [319] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [362] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1039,7 +1204,7 @@ estates_vedrusskayaskazka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    soligorsky_district;
+    salihorsk_district;
 =>nrel_city:
 	starobin;
 =>nrel_search_area:
@@ -1047,6 +1212,9 @@ estates_vedrusskayaskazka
       
 //56
 estates_ukazyuka
+=>nrel_price: [337] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [352] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1058,7 +1226,7 @@ estates_ukazyuka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	olshevo;
 =>nrel_search_area:
@@ -1066,6 +1234,9 @@ estates_ukazyuka
     
 //57
 estates_guesthousevprostore
+=>nrel_price: [216] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [342] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1077,7 +1248,7 @@ estates_guesthousevprostore
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    vilesky_district;
+    vileyka_district;
 =>nrel_city:
 	yermolichi;
 =>nrel_search_area:
@@ -1085,6 +1256,9 @@ estates_guesthousevprostore
        
 //58
 estates_percy
+=>nrel_price: [416] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [495] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1104,6 +1278,9 @@ estates_percy
              
 //59
 estates_tatdvor
+=>nrel_price: [237] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [141] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1115,7 +1292,7 @@ estates_tatdvor
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    uzdensky_district;
+    uzda_district;
 =>nrel_city:
 	korma;
 =>nrel_search_area:
@@ -1123,6 +1300,9 @@ estates_tatdvor
       
 //60
 estates_vytoka
+=>nrel_price: [178] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [315] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1134,7 +1314,7 @@ estates_vytoka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    nesvizhsky_district;
+    nesvizh_district;
 =>nrel_city:
 	kachanovichi;
 =>nrel_search_area:
@@ -1142,6 +1322,9 @@ estates_vytoka
      
 //61
 estates_karytko
+=>nrel_price: [427] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [408] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1153,7 +1336,7 @@ estates_karytko
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    molodenensky_district;
+    maladzyechna_district;
 =>nrel_city:
 	nasilovo;
 =>nrel_search_area:
@@ -1161,6 +1344,9 @@ estates_karytko
  
 //62
 estates_varenik
+=>nrel_price: [185] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [103] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1172,7 +1358,7 @@ estates_varenik
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    column_area;
+    stowbtsy_district;
 =>nrel_city:
 	starina;
 =>nrel_search_area:
@@ -1180,6 +1366,9 @@ estates_varenik
        
 //63
 estates_rakovskaya
+=>nrel_price: [282] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [127] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1191,7 +1380,7 @@ estates_rakovskaya
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	rakov;
 =>nrel_search_area:
@@ -1199,6 +1388,9 @@ estates_rakovskaya
        
 //64
 estates_sova
+=>nrel_price: [242] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [284] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1210,7 +1402,7 @@ estates_sova
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    molodenensky_district;
+    maladzyechna_district;
 =>nrel_city:
 	putniki;
 =>nrel_search_area:
@@ -1218,6 +1410,9 @@ estates_sova
       
 //65
 estates_bluelakes
+=>nrel_price: [168] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [140] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1229,7 +1424,7 @@ estates_bluelakes
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	groom_bugs;
 =>nrel_search_area:
@@ -1237,6 +1432,9 @@ estates_bluelakes
        
 //66
 estates_ulyavonicha
+=>nrel_price: [442] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [579] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1248,7 +1446,7 @@ estates_ulyavonicha
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	gaina;
 =>nrel_search_area:
@@ -1256,6 +1454,9 @@ estates_ulyavonicha
    
 //67
 estates_lucynka
+=>nrel_price: [195] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [136] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1267,7 +1468,7 @@ estates_lucynka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	small_lutinka;
 =>nrel_search_area:
@@ -1275,6 +1476,9 @@ estates_lucynka
            
 //68
 estates_sabalinka
+=>nrel_price: [441] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [378] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1294,6 +1498,9 @@ estates_sabalinka
     
 //69
 estates_naprudah
+=>nrel_price: [209] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [248] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1305,7 +1512,7 @@ estates_naprudah
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    chervensky_district;
+    chervyen_district;
 =>nrel_city:
 	blade;
 =>nrel_search_area:
@@ -1313,6 +1520,9 @@ estates_naprudah
         
 //70
 estates_kgorka
+=>nrel_price: [313] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [561] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1332,6 +1542,9 @@ estates_kgorka
       
 //71
 estates_hutorokbaeva
+=>nrel_price: [426] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [136] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1343,7 +1556,7 @@ estates_hutorokbaeva
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    soligorsky_district;
+    salihorsk_district;
 =>nrel_city:
 	pogost_2;
 =>nrel_search_area:
@@ -1351,6 +1564,9 @@ estates_hutorokbaeva
       
 //72
 estates_dorfby
+=>nrel_price: [170] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [594] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1362,7 +1578,7 @@ estates_dorfby
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	rudniks;
 =>nrel_search_area:
@@ -1370,6 +1586,9 @@ estates_dorfby
         
 //73
 estates_restonriver
+=>nrel_price: [394] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [142] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1381,7 +1600,7 @@ estates_restonriver
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    volozhinsky_district;
+    valozhyn_district;
 =>nrel_city:
 	zamostyani;
 =>nrel_search_area:
@@ -1389,6 +1608,9 @@ estates_restonriver
   
 //74
 estates_priles
+=>nrel_price: [395] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [393] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1408,6 +1630,9 @@ estates_priles
       
 //75
 estates_koloda
+=>nrel_price: [211] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [370] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1427,6 +1652,9 @@ estates_koloda
        
 //76
 estates_radyushi
+=>nrel_price: [260] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [390] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1438,7 +1666,7 @@ estates_radyushi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	radyushi;
 =>nrel_search_area:
@@ -1446,6 +1674,9 @@ estates_radyushi
  
 //77
 estates_sventargeckih
+=>nrel_price: [248] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [147] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1457,7 +1688,7 @@ estates_sventargeckih
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    molodenensky_district;
+    maladzyechna_district;
 =>nrel_city:
 	malinovshchka;
 =>nrel_search_area:
@@ -1465,6 +1696,9 @@ estates_sventargeckih
     
 //78
 estates_stepenevo
+=>nrel_price: [222] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [306] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1476,7 +1710,7 @@ estates_stepenevo
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	naroch;
 =>nrel_search_area:
@@ -1484,6 +1718,9 @@ estates_stepenevo
 
 //79
 estates_agrnaozerenaroch
+=>nrel_price: [162] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [540] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1495,7 +1732,7 @@ estates_agrnaozerenaroch
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	naroch;
 =>nrel_search_area:
@@ -1503,6 +1740,9 @@ estates_agrnaozerenaroch
                 
 //80
 estates_naberejnaya
+=>nrel_price: [291] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [326] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1514,7 +1754,7 @@ estates_naberejnaya
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	svir;
 =>nrel_search_area:
@@ -1522,6 +1762,9 @@ estates_naberejnaya
        
 //81
 estates_dvabusla
+=>nrel_price: [406] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [298] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1533,7 +1776,7 @@ estates_dvabusla
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	malinovka;
 =>nrel_search_area:
@@ -1541,6 +1784,9 @@ estates_dvabusla
      
 //82
 estates_yanechkin
+=>nrel_price: [380] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [132] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1552,7 +1798,7 @@ estates_yanechkin
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	naroch;
 =>nrel_search_area:
@@ -1560,6 +1806,9 @@ estates_yanechkin
         
 //83
 estates_vashvibor
+=>nrel_price: [322] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [549] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1571,7 +1820,7 @@ estates_vashvibor
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	logoisk;
 =>nrel_search_area:
@@ -1579,6 +1828,9 @@ estates_vashvibor
    
 //84
 estates_tulenka
+=>nrel_price: [175] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [528] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1590,7 +1842,7 @@ estates_tulenka
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    column_area;
+    stowbtsy_district;
 =>nrel_city:
 	tulenka;
 =>nrel_search_area:
@@ -1598,6 +1850,9 @@ estates_tulenka
         
 //85
 estates_eshkinkot
+=>nrel_price: [304] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [206] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1609,7 +1864,7 @@ estates_eshkinkot
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	yurkovichi;
 =>nrel_search_area:
@@ -1617,6 +1872,9 @@ estates_eshkinkot
      
 //86
 estates_gostdom
+=>nrel_price: [385] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [290] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1628,7 +1886,7 @@ estates_gostdom
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	veragi;
 =>nrel_search_area:
@@ -1636,6 +1894,9 @@ estates_gostdom
      
 //87
 estates_dobrigust
+=>nrel_price: [413] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [579] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1647,7 +1908,7 @@ estates_dobrigust
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	veragi;
 =>nrel_search_area:
@@ -1655,6 +1916,9 @@ estates_dobrigust
      
 //88
 estates_ugorilogoisk
+=>nrel_price: [357] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [120] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1666,7 +1930,7 @@ estates_ugorilogoisk
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	veragi;
 =>nrel_search_area:
@@ -1674,6 +1938,9 @@ estates_ugorilogoisk
        
 //89
 estates_rodniki
+=>nrel_price: [353] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [101] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1693,6 +1960,9 @@ estates_rodniki
       
 //90
 estates_guesthousemolodi
+=>nrel_price: [344] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [222] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1704,7 +1974,7 @@ estates_guesthousemolodi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	molodi;
 =>nrel_search_area:
@@ -1712,6 +1982,9 @@ estates_guesthousemolodi
      
 //91
 estates_rodnya
+=>nrel_price: [272] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [230] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1723,7 +1996,7 @@ estates_rodnya
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    pukhovichi_district;
+    pukhavichy_district;
 =>nrel_city:
 	ulyani;
 =>nrel_search_area:
@@ -1731,6 +2004,9 @@ estates_rodnya
      
 //92
 estates_vhata
+=>nrel_price: [332] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [113] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1742,7 +2018,7 @@ estates_vhata
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    smolevichsky_district;
+    smalyavichy_district;
 =>nrel_city:
 	kalyuga;
 =>nrel_search_area:
@@ -1750,6 +2026,9 @@ estates_vhata
       
 //93
 estates_nastenka
+=>nrel_price: [437] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [513] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1769,6 +2048,9 @@ estates_nastenka
       
 //94
 estates_bungenov
+=>nrel_price: [353] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [154] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1788,6 +2070,9 @@ estates_bungenov
       
 //95
 estates_haminskih
+=>nrel_price: [386] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [156] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1799,7 +2084,7 @@ estates_haminskih
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	olshevo;
 =>nrel_search_area:
@@ -1807,6 +2092,9 @@ estates_haminskih
     
 //96
 estates_viktoriya
+=>nrel_price: [213] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [282] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1818,7 +2106,7 @@ estates_viktoriya
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    logoysky_district;
+    lahojsk_district;
 =>nrel_city:
 	pleshchenitsy;
 =>nrel_search_area:
@@ -1826,6 +2114,9 @@ estates_viktoriya
      
 //97
 estates_bogushi
+=>nrel_price: [447] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [315] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1837,7 +2128,7 @@ estates_bogushi
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    kopyl_district;
+    kapyl_district;
 =>nrel_city:
 	bogushi;
 =>nrel_search_area:
@@ -1845,6 +2136,9 @@ estates_bogushi
   
 //98
 estates_seljava
+=>nrel_price: [322] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [244] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1856,7 +2150,7 @@ estates_seljava
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    krusky_district;
+    krupki_district;
 =>nrel_city:
 	sturgeon;
 =>nrel_search_area:
@@ -1864,6 +2158,9 @@ estates_seljava
     
 //99
 estates_uozerapasynki
+=>nrel_price: [384] (* <- concept_ruble;; *);
+=>nrel_stares: [2] (* <- concept_stares;; *);
+=>nrel_area: [286] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1875,7 +2172,7 @@ estates_uozerapasynki
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    madelsky_district;
+    myadzel_district;
 =>nrel_city:
 	pasynki;
 =>nrel_search_area:
@@ -1883,6 +2180,9 @@ estates_uozerapasynki
       
 //100
 estates_malinniki
+=>nrel_price: [258] (* <- concept_ruble;; *);
+=>nrel_stares: [3] (* <- concept_stares;; *);
+=>nrel_area: [342] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;
@@ -1894,7 +2194,7 @@ estates_malinniki
 =>nrel_region:
     minsk_region;
 =>nrel_district:
-    pukhovichi_district;
+    pukhavichy_district;
 =>nrel_city:
 	malinniki;
 =>nrel_search_area:
@@ -1902,6 +2202,9 @@ estates_malinniki
        
 //101
 estates_kamelot
+=>nrel_price: [236] (* <- concept_ruble;; *);
+=>nrel_stares: [1] (* <- concept_stares;; *);
+=>nrel_area: [185] (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_minsk_region;
 <- concept_way;

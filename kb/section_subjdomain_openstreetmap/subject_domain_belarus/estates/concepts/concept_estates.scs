@@ -1,4 +1,4 @@
-concept_estate
+concept_estates
 <-sc_node_not_relation;
 =>nrel_main_idtf:
 	[усадьба]
@@ -29,6 +29,6 @@ concept_estate
 		*);;
 	<= nrel_using_constants:
 		{
-			concept_estate
+			concept_estates
 		};;
 	*);;
