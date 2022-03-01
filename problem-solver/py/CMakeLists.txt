@@ -1,3 +1,4 @@
 add_subdirectory(OpenStreetMapAgent)
 add_subdirectory(SearchOpenedCinemasAgent)
 add_subdirectory(SearchCinemasInTheCityAgent)
+add_subdirectory(SearchTheatersInTheCityAgent)
