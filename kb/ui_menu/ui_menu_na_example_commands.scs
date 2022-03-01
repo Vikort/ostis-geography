@@ -9,7 +9,6 @@ ui_menu_na_example_commands
 		ui_menu_generate_osm_query;
 		ui_menu_search_opened_cinemas;
 		ui_menu_search_cinemas_in_the_city;
-		ui_menu_search_cinemas_by_capacity;
 		ui_menu_search_cinemas_in_the_district;
 		ui_menu_search_theaters_in_the_city;
 		ui_menu_search_closed_theaters;
