@@ -1,0 +1,10 @@
+{
+    "sources": [
+        "src/secondary-special-schools-common.js",
+        "src/secondary-special-schools-paintPanel.js"
+    ],
+    "component": "src/secondary-special-schools-component.js",
+
+    "target": "static/components/js/secondary_special_schools_ui/secondary-special-schools.js"
+
+}
