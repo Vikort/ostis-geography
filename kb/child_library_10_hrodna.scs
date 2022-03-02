@@ -1,4 +1,4 @@
-child_library_hrodna_10 <- concept_map_object;
+child_library_hrodna_10 <- concept_map_object; <- concept_abstract_child_library; <- concept_abstract_library;
 =>nrel_main_idtf:
     [child library №10]
     (* <- lang_en;; <- name_en;;*);
@@ -6,5 +6,13 @@ child_library_hrodna_10 <- concept_map_object;
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=>nrel_books_amount:
+    1448;
+=>nrel_open_time:
+    9;
+=>nrel_close_time:
+    19;
+=>nrel_search_area:
+    hrodna;
 =>nrel_city:
     hrodna;;
