@@ -1,0 +1,6 @@
+avangard <- concept_car_wash;
+=> nrel_main_idtf:
+[Авангард]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avangard]
+(* <- lang_en;; <- name_en;;*);;

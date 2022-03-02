@@ -1,0 +1,6 @@
+vv_avto <- concept_car_wash;
+=> nrel_main_idtf:
+[ВВ Авто]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[VV Avto]
+(* <- lang_en;; <- name_en;;*);;

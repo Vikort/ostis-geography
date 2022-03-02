@@ -1,0 +1,6 @@
+sirena <- concept_car_wash;
+=> nrel_main_idtf:
+[Сирена]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Sirena]
+(* <- lang_en;; <- name_en;;*);;

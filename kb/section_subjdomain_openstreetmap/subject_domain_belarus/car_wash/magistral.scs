@@ -1,0 +1,6 @@
+magistral <- concept_car_wash;
+=> nrel_main_idtf:
+[Магистраль]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Magistral]
+(* <- lang_en;; <- name_en;;*);;

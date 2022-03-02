@@ -1,0 +1,6 @@
+karcher <- concept_car_wash;
+=> nrel_main_idtf:
+[Karcher]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Karcher]
+(* <- lang_en;; <- name_en;;*);;

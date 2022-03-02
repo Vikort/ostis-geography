@@ -1,0 +1,6 @@
+novaya_legenda <- concept_car_wash;
+=> nrel_main_idtf:
+[Новая легенда]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Novaya legenda]
+(* <- lang_en;; <- name_en;;*);;

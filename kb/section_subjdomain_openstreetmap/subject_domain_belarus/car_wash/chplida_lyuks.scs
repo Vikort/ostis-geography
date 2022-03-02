@@ -1,0 +1,6 @@
+chplida_lyuks <- concept_car_wash;
+=> nrel_main_idtf:
+[ЧП"Лида-Люкс"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[ChP"Lida-Lyuks"]
+(* <- lang_en;; <- name_en;;*);;

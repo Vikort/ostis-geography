@@ -1,0 +1,6 @@
+amite <- concept_car_wash;
+=> nrel_main_idtf:
+[Амитэ]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Amite]
+(* <- lang_en;; <- name_en;;*);;

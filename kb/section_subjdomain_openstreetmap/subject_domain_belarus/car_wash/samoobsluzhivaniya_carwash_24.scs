@@ -1,0 +1,6 @@
+samoobsluzhivaniya_carwash_24 <- concept_car_wash;
+=> nrel_main_idtf:
+[Самообслуживания CarWash 24]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[CarWash 24]
+(* <- lang_en;; <- name_en;;*);;

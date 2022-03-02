@@ -1,0 +1,6 @@
+bomi_plyus <- concept_car_wash;
+=> nrel_main_idtf:
+[Боми-плюс]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Bomi-plyus]
+(* <- lang_en;; <- name_en;;*);;

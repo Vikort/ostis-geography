@@ -1,0 +1,6 @@
+boks_4_avtomoyka_avtolyuks <- concept_car_wash;
+=> nrel_main_idtf:
+[Бокс 4 "Автомойка Автолюкс"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Boks 4 "Avtomoyka Avtolyuks"]
+(* <- lang_en;; <- name_en;;*);;

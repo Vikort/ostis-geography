@@ -1,0 +1,6 @@
+ruchnaya_avtomoyka_avtobistro <- concept_car_wash;
+=> nrel_main_idtf:
+[Ручная Автомойка «Автобистро»]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Ruchnaya Avtomoyka «Avtobistro»]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+avtositi <- concept_car_wash;
+=> nrel_main_idtf:
+[Автосити]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtositi]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+delfin <- concept_car_wash;
+=> nrel_main_idtf:
+[Дельфин]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Delfin]
+(* <- lang_en;; <- name_en;;*);;

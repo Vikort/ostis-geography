@@ -1,0 +1,6 @@
+ekspress_moyka <- concept_car_wash;
+=> nrel_main_idtf:
+[Экспресс мойка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Ekspress moyka]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+erhle <- concept_car_wash;
+=> nrel_main_idtf:
+[ERHLE]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[ERHLE]
+(* <- lang_en;; <- name_en;;*);;

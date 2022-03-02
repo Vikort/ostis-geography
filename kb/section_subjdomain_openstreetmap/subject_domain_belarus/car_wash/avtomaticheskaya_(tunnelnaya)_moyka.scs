@@ -1,0 +1,6 @@
+avtomaticheskaya_(tunnelnaya)_moyka <- concept_car_wash;
+=> nrel_main_idtf:
+[Автоматическая (туннельная) мойка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomaticheskaya (tunnelnaya) moyka]
+(* <- lang_en;; <- name_en;;*);;

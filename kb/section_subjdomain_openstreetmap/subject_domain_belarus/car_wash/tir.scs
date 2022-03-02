@@ -1,0 +1,6 @@
+tir <- concept_car_wash;
+=> nrel_main_idtf:
+[TIR]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[TIR]
+(* <- lang_en;; <- name_en;;*);;

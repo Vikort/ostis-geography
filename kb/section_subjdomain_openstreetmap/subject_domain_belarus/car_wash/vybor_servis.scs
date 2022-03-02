@@ -1,0 +1,6 @@
+vybor_servis <- concept_car_wash;
+=> nrel_main_idtf:
+[Выбор-Сервис]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Vybor-Servis]
+(* <- lang_en;; <- name_en;;*);;

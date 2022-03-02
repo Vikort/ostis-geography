@@ -1,0 +1,6 @@
+akvaboks <- concept_car_wash;
+=> nrel_main_idtf:
+[АкваБокс]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[AkvaBoks]
+(* <- lang_en;; <- name_en;;*);;

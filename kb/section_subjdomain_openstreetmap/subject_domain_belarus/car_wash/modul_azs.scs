@@ -1,0 +1,6 @@
+modul_azs <- concept_car_wash;
+=> nrel_main_idtf:
+["Модуль АЗС"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+["Modul AZS"]
+(* <- lang_en;; <- name_en;;*);;

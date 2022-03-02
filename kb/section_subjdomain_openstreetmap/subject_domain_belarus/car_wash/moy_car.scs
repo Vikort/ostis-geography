@@ -1,0 +1,6 @@
+moy_car <- concept_car_wash;
+=> nrel_main_idtf:
+[Мой Car]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Moy Car]
+(* <- lang_en;; <- name_en;;*);;

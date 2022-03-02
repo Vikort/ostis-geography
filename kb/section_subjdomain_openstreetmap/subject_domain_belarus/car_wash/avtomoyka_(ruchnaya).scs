@@ -1,0 +1,6 @@
+avtomoyka_(ruchnaya) <- concept_car_wash;
+=> nrel_main_idtf:
+[Автомойка (ручная)]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomoyka (ruchnaya)]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+aўtamyyka <- concept_car_wash;
+=> nrel_main_idtf:
+[Аўтамыйка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Car Wash]
+(* <- lang_en;; <- name_en;;*);;

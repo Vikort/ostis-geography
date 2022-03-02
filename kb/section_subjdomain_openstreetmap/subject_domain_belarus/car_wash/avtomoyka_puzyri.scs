@@ -1,0 +1,6 @@
+avtomoyka_puzyri <- concept_car_wash;
+=> nrel_main_idtf:
+[Автомойка Пузыри]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomoyka Puzyri]
+(* <- lang_en;; <- name_en;;*);;

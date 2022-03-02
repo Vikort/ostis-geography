@@ -1,0 +1,6 @@
+akvadrayv <- concept_car_wash;
+=> nrel_main_idtf:
+[Аквадрайв]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Akvadrayv]
+(* <- lang_en;; <- name_en;;*);;
