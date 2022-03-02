@@ -5,8 +5,8 @@ Zadneprovskaja <- concept_way;
                 [Заднепровская]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:600;
-                =>nrel_number_of_employees: 15;
-                =>nrel_number_of_trains:3;
+                =>nrel_number_of_passengers:3400;
+                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_trains:2;
                 =>nrel_oblast:Mogilevskaja;;
                 

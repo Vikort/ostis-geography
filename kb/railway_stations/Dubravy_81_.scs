@@ -5,8 +5,8 @@ Dubravy <- concept_way;
                 [Дубравы]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2300;
-                =>nrel_number_of_employees: 15;
-                =>nrel_number_of_trains:5;
+                =>nrel_number_of_passengers:700;
+                =>nrel_number_of_employees: 16;
+                =>nrel_number_of_trains:6;
                 =>nrel_rajon:Volozhinskij;;
                 

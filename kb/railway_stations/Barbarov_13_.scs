@@ -6,7 +6,7 @@ Barbarov <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1800;
-                =>nrel_number_of_employees: 16;
-                =>nrel_number_of_trains:5;
+                =>nrel_number_of_employees: 19;
+                =>nrel_number_of_trains:7;
                 =>nrel_rajon:Mozyrskij;;
                 

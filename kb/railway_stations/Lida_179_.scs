@@ -5,8 +5,8 @@ Lida <- concept_way;
                 [Лида]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3400;
-                =>nrel_number_of_employees: 11;
-                =>nrel_number_of_trains:4;
+                =>nrel_number_of_passengers:2400;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:7;
                 =>nrel_gorod:Lida;;
                 

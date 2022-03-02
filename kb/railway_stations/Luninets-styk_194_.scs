@@ -5,8 +5,8 @@ Luninets-styk <- concept_way;
                 [Лунинец-стык]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1600;
-                =>nrel_number_of_employees: 16;
+                =>nrel_number_of_passengers:1800;
+                =>nrel_number_of_employees: 12;
                 =>nrel_number_of_trains:2;
                 =>nrel_oblast:Brestskaja;;
                 

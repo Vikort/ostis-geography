@@ -5,8 +5,8 @@ BIGOSOVO-STYK <- concept_way;
                 [БИГОСОВО-СТЫК]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3100;
-                =>nrel_number_of_employees: 11;
-                =>nrel_number_of_trains:8;
+                =>nrel_number_of_passengers:700;
+                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_trains:2;
                 =>nrel_oblast:Vitebskaja;;
                 

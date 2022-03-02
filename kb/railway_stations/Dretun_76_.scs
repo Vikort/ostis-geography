@@ -5,8 +5,8 @@ Dretun <- concept_way;
                 [Дретунь]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1400;
-                =>nrel_number_of_employees: 17;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_passengers:2600;
+                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_trains:4;
                 =>nrel_oblast:Vitebskaja;;
                 

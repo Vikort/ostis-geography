@@ -5,8 +5,8 @@ Krichev 2 <- concept_way;
                 [Кричев 2]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3200;
-                =>nrel_number_of_employees: 14;
-                =>nrel_number_of_trains:4;
+                =>nrel_number_of_passengers:2100;
+                =>nrel_number_of_employees: 12;
+                =>nrel_number_of_trains:5;
                 =>nrel_oblast:Mogilevskaja;;
                 

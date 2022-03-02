@@ -5,8 +5,8 @@ KRASN BEREG-STYK <- concept_way;
                 [КРАСН БЕРЕГ-СТЫК]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1500;
-                =>nrel_number_of_employees: 18;
-                =>nrel_number_of_trains:7;
+                =>nrel_number_of_passengers:2400;
+                =>nrel_number_of_employees: 19;
+                =>nrel_number_of_trains:3;
                 =>nrel_oblast:Gomelskaja;;
                 

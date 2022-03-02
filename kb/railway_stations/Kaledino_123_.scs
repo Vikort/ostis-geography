@@ -5,8 +5,8 @@ Kaledino <- concept_way;
                 [Каледино]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2200;
-                =>nrel_number_of_employees: 13;
-                =>nrel_number_of_trains:4;
+                =>nrel_number_of_passengers:1900;
+                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_trains:5;
                 =>nrel_rajon:Molodechnenskij;;
                 

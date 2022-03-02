@@ -5,8 +5,8 @@ Gudy <- concept_way;
                 [Гуды]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1700;
-                =>nrel_number_of_employees: 11;
-                =>nrel_number_of_trains:7;
+                =>nrel_number_of_passengers:3100;
+                =>nrel_number_of_employees: 16;
+                =>nrel_number_of_trains:3;
                 =>nrel_gorod:Lida;;
                 

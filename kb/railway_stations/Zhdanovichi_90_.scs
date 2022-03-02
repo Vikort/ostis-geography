@@ -5,8 +5,8 @@ Zhdanovichi <- concept_way;
                 [Ждановичи]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2700;
+                =>nrel_number_of_passengers:700;
                 =>nrel_number_of_employees: 13;
-                =>nrel_number_of_trains:4;
+                =>nrel_number_of_trains:2;
                 =>nrel_rajon:Minskij;;
                 

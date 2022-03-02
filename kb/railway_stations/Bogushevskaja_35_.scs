@@ -5,8 +5,8 @@ Bogushevskaja <- concept_way;
                 [Богушевская]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2600;
-                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_passengers:1800;
+                =>nrel_number_of_employees: 15;
                 =>nrel_number_of_trains:3;
                 =>nrel_rajon:Sennenskij;;
                 

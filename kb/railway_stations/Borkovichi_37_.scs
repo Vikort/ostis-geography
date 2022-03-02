@@ -5,8 +5,8 @@ Borkovichi <- concept_way;
                 [Борковичи]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2100;
-                =>nrel_number_of_employees: 10;
-                =>nrel_number_of_trains:3;
+                =>nrel_number_of_passengers:1100;
+                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_trains:2;
                 =>nrel_rajon:Verhnedvinskij;;
                 

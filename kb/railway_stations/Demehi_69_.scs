@@ -5,8 +5,8 @@ Demehi <- concept_way;
                 [Демехи]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:100;
-                =>nrel_number_of_employees: 10;
-                =>nrel_number_of_trains:7;
+                =>nrel_number_of_passengers:2400;
+                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_trains:5;
                 =>nrel_oblast:Gomelskaja;;
                 

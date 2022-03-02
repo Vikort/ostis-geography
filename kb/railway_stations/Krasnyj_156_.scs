@@ -1,0 +1,12 @@
+Krasnyj <- concept_way;
+                =>nrel_main_idtf:
+                [Krasnyj]
+                (* <- lang_en;; <- name_en;;*);
+                [Красный]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:1700;
+                =>nrel_number_of_employees: 21;
+                =>nrel_number_of_trains:6;
+                =>nrel_rajon:Bobrujskij;;
+                

@@ -5,8 +5,8 @@ Bogdanov <- concept_way;
                 [Богданов]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2900;
-                =>nrel_number_of_employees: 16;
-                =>nrel_number_of_trains:8;
+                =>nrel_number_of_passengers:3300;
+                =>nrel_number_of_employees: 12;
+                =>nrel_number_of_trains:4;
                 =>nrel_rajon:Volozhinskij;;
                 

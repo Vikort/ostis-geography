@@ -5,8 +5,8 @@ Lahva <- concept_way;
                 [Лахва]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1400;
-                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_passengers:2000;
+                =>nrel_number_of_employees: 22;
                 =>nrel_number_of_trains:6;
                 =>nrel_rajon:Luninetskij;;
                 

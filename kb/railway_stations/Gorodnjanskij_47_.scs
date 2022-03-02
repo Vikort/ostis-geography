@@ -5,8 +5,8 @@ Gorodnjanskij <- concept_way;
                 [Городнянский]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2500;
-                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_passengers:2400;
+                =>nrel_number_of_employees: 12;
                 =>nrel_number_of_trains:6;
                 =>nrel_rajon:Orshanskij;;
                 

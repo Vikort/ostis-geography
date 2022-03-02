@@ -1,0 +1,12 @@
+Krasnoe <- concept_way;
+                =>nrel_main_idtf:
+                [Krasnoe]
+                (* <- lang_en;; <- name_en;;*);
+                [Красное]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_country:Belarus;
+                =>nrel_number_of_passengers:2400;
+                =>nrel_number_of_employees: 18;
+                =>nrel_number_of_trains:2;
+                =>nrel_gorod:Smolevichi;;
+                

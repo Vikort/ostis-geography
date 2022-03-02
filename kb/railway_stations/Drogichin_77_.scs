@@ -5,8 +5,8 @@ Drogichin <- concept_way;
                 [Дрогичин]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3100;
-                =>nrel_number_of_employees: 11;
-                =>nrel_number_of_trains:3;
+                =>nrel_number_of_passengers:300;
+                =>nrel_number_of_employees: 18;
+                =>nrel_number_of_trains:5;
                 =>nrel_gorod:Drogichin;;
                 

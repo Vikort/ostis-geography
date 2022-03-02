@@ -5,8 +5,8 @@ Kolodischi <- concept_way;
                 [Колодищи]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2500;
-                =>nrel_number_of_employees: 15;
-                =>nrel_number_of_trains:8;
+                =>nrel_number_of_passengers:1600;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:5;
                 =>nrel_gorod:Lesnoj;;
                 

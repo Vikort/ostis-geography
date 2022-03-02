@@ -5,8 +5,8 @@ Kolosovo <- concept_way;
                 [Колосово]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1900;
-                =>nrel_number_of_employees: 16;
-                =>nrel_number_of_trains:7;
+                =>nrel_number_of_passengers:2200;
+                =>nrel_number_of_employees: 12;
+                =>nrel_number_of_trains:3;
                 =>nrel_rajon:Stolbtsovskij;;
                 

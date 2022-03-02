@@ -5,8 +5,8 @@ Zhabinka (eksp.) <- concept_way;
                 [Жабинка (эксп.)]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2100;
-                =>nrel_number_of_employees: 18;
-                =>nrel_number_of_trains:2;
+                =>nrel_number_of_passengers:1000;
+                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_trains:6;
                 =>nrel_oblast:Brestskaja;;
                 

@@ -5,8 +5,8 @@ Krynki <- concept_way;
                 [Крынки]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:500;
-                =>nrel_number_of_employees: 12;
-                =>nrel_number_of_trains:8;
+                =>nrel_number_of_passengers:1000;
+                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_trains:7;
                 =>nrel_rajon:Vitebskij;;
                 

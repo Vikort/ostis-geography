@@ -5,8 +5,8 @@ Kalij-3 <- concept_way;
                 [Калий-3]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2200;
-                =>nrel_number_of_employees: 14;
-                =>nrel_number_of_trains:7;
+                =>nrel_number_of_passengers:2800;
+                =>nrel_number_of_employees: 24;
+                =>nrel_number_of_trains:3;
                 =>nrel_oblast:Minskaja;;
                 

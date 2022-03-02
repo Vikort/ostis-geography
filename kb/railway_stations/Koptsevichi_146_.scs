@@ -5,8 +5,8 @@ Koptsevichi <- concept_way;
                 [Копцевичи]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1500;
-                =>nrel_number_of_employees: 14;
-                =>nrel_number_of_trains:5;
+                =>nrel_number_of_passengers:1200;
+                =>nrel_number_of_employees: 23;
+                =>nrel_number_of_trains:3;
                 =>nrel_oblast:Gomelskaja;;
                 

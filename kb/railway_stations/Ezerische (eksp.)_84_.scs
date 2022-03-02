@@ -5,8 +5,8 @@ Ezerische (eksp.) <- concept_way;
                 [Езерище (эксп.)]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3300;
-                =>nrel_number_of_employees: 19;
-                =>nrel_number_of_trains:3;
+                =>nrel_number_of_passengers:2300;
+                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_trains:2;
                 =>nrel_oblast:Vitebskaja;;
                 
