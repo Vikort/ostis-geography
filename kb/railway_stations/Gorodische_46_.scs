@@ -1,4 +1,4 @@
-Gorodische <- concept_way;
+Gorodische<-concept_way;
                 =>nrel_main_idtf:
                 [Gorodische]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Gorodische <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:3400;
-                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_employees:13;
                 =>nrel_number_of_trains:2;
                 =>nrel_rajon:Minskij;;
                 

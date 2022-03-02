@@ -1,4 +1,4 @@
-Kalij-1 <- concept_way;
+Kalij-1<-concept_way;
                 =>nrel_main_idtf:
                 [Kalij-1]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Kalij-1 <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:900;
-                =>nrel_number_of_employees: 13;
+                =>nrel_number_of_employees:13;
                 =>nrel_number_of_trains:6;
                 =>nrel_gorod:Soligorsk;;
                 

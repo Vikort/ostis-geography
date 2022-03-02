@@ -1,4 +1,4 @@
-Bernady <- concept_way;
+Bernady<-concept_way;
                 =>nrel_main_idtf:
                 [Bernady]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Bernady <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:2500;
-                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_employees:10;
                 =>nrel_number_of_trains:3;
                 =>nrel_oblast:Brestskaja;;
                 

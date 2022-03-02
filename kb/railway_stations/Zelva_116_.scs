@@ -1,4 +1,4 @@
-Zelva <- concept_way;
+Zelva<-concept_way;
                 =>nrel_main_idtf:
                 [Zelva]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Zelva <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:2400;
-                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_employees:11;
                 =>nrel_number_of_trains:4;
                 =>nrel_gorod:Zelva;;
                 

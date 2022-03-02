@@ -1,4 +1,4 @@
-Benjakone <- concept_way;
+Benjakone<-concept_way;
                 =>nrel_main_idtf:
                 [Benjakone]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Benjakone <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1600;
-                =>nrel_number_of_employees: 16;
+                =>nrel_number_of_employees:16;
                 =>nrel_number_of_trains:3;
                 =>nrel_oblast:Grodnenskaja;;
                 

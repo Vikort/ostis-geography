@@ -1,4 +1,4 @@
-Kopys <- concept_way;
+Kopys<-concept_way;
                 =>nrel_main_idtf:
                 [Kopys]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Kopys <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:500;
-                =>nrel_number_of_employees: 15;
+                =>nrel_number_of_employees:15;
                 =>nrel_number_of_trains:4;
                 =>nrel_rajon:Shklovskij;;
                 

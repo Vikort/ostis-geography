@@ -1,4 +1,4 @@
-Gritsevets <- concept_way;
+Gritsevets<-concept_way;
                 =>nrel_main_idtf:
                 [Gritsevets]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Gritsevets <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1100;
-                =>nrel_number_of_employees: 21;
+                =>nrel_number_of_employees:21;
                 =>nrel_number_of_trains:5;
                 =>nrel_rajon:Baranovichskij;;
                 

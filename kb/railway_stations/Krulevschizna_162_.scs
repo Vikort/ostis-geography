@@ -1,4 +1,4 @@
-Krulevschizna <- concept_way;
+Krulevschizna<-concept_way;
                 =>nrel_main_idtf:
                 [Krulevschizna]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Krulevschizna <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1900;
-                =>nrel_number_of_employees: 12;
+                =>nrel_number_of_employees:12;
                 =>nrel_number_of_trains:4;
                 =>nrel_rajon:Dokshitskij;;
                 

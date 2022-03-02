@@ -1,4 +1,4 @@
-Kaledino <- concept_way;
+Kaledino<-concept_way;
                 =>nrel_main_idtf:
                 [Kaledino]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Kaledino <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1900;
-                =>nrel_number_of_employees: 11;
+                =>nrel_number_of_employees:11;
                 =>nrel_number_of_trains:5;
                 =>nrel_rajon:Molodechnenskij;;
                 

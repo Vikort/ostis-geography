@@ -1,4 +1,4 @@
-Daraganovo <- concept_way;
+Daraganovo<-concept_way;
                 =>nrel_main_idtf:
                 [Daraganovo]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Daraganovo <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:3000;
-                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_employees:22;
                 =>nrel_number_of_trains:5;
                 =>nrel_oblast:Minskaja;;
                 

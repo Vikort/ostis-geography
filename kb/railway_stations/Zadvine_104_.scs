@@ -1,4 +1,4 @@
-Zadvine <- concept_way;
+Zadvine<-concept_way;
                 =>nrel_main_idtf:
                 [Zadvine]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Zadvine <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:2200;
-                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_employees:22;
                 =>nrel_number_of_trains:4;
                 =>nrel_gorod:Vitebsk;;
                 

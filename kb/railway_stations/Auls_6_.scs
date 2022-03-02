@@ -1,4 +1,4 @@
-Auls <- concept_way;
+Auls<-concept_way;
                 =>nrel_main_idtf:
                 [Auls]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Auls <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:2700;
-                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_employees:10;
                 =>nrel_number_of_trains:4;
                 =>nrel_rajon:Grodnenskij;;
                 

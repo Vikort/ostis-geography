@@ -1,4 +1,4 @@
-Lazurnaja <- concept_way;
+Lazurnaja<-concept_way;
                 =>nrel_main_idtf:
                 [Lazurnaja]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Lazurnaja <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:200;
-                =>nrel_number_of_employees: 23;
+                =>nrel_number_of_employees:23;
                 =>nrel_number_of_trains:2;
                 =>nrel_rajon:Gomelskij;;
                 

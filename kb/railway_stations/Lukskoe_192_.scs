@@ -1,4 +1,4 @@
-Lukskoe <- concept_way;
+Lukskoe<-concept_way;
                 =>nrel_main_idtf:
                 [Lukskoe]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Lukskoe <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:800;
-                =>nrel_number_of_employees: 19;
+                =>nrel_number_of_employees:19;
                 =>nrel_number_of_trains:3;
                 =>nrel_rajon:Rogachevskij;;
                 

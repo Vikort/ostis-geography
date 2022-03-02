@@ -1,4 +1,4 @@
-Lososno <- concept_way;
+Lososno<-concept_way;
                 =>nrel_main_idtf:
                 [Lososno]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Lososno <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1200;
-                =>nrel_number_of_employees: 21;
+                =>nrel_number_of_employees:21;
                 =>nrel_number_of_trains:2;
                 =>nrel_oblast:Grodnenskaja;;
                 

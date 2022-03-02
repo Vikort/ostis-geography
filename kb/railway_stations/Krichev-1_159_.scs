@@ -1,4 +1,4 @@
-Krichev-1 <- concept_way;
+Krichev-1<-concept_way;
                 =>nrel_main_idtf:
                 [Krichev-1]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Krichev-1 <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:2700;
-                =>nrel_number_of_employees: 18;
+                =>nrel_number_of_employees:18;
                 =>nrel_number_of_trains:7;
                 =>nrel_gorod:Krichev;;
                 

@@ -1,4 +1,4 @@
-Baravuha <- concept_way;
+Baravuha<-concept_way;
                 =>nrel_main_idtf:
                 [Baravuha]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Baravuha <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:2900;
-                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_employees:22;
                 =>nrel_number_of_trains:4;
                 =>nrel_rajon:Polotskij;;
                 

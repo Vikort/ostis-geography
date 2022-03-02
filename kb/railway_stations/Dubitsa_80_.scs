@@ -1,4 +1,4 @@
-Dubitsa <- concept_way;
+Dubitsa<-concept_way;
                 =>nrel_main_idtf:
                 [Dubitsa]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Dubitsa <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1500;
-                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_employees:17;
                 =>nrel_number_of_trains:7;
                 =>nrel_oblast:Brestskaja;;
                 

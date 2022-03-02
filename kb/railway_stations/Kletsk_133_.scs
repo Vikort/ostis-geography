@@ -1,4 +1,4 @@
-Kletsk <- concept_way;
+Kletsk<-concept_way;
                 =>nrel_main_idtf:
                 [Kletsk]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Kletsk <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:200;
-                =>nrel_number_of_employees: 18;
+                =>nrel_number_of_employees:18;
                 =>nrel_number_of_trains:7;
                 =>nrel_gorod:Kletsk;;
                 

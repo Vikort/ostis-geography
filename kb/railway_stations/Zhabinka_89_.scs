@@ -1,4 +1,4 @@
-Zhabinka <- concept_way;
+Zhabinka<-concept_way;
                 =>nrel_main_idtf:
                 [Zhabinka]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Zhabinka <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:1000;
-                =>nrel_number_of_employees: 22;
+                =>nrel_number_of_employees:22;
                 =>nrel_number_of_trains:6;
                 =>nrel_oblast:Brestskaja;;
                 

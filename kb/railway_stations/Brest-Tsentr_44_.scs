@@ -1,4 +1,4 @@
-Brest-Tsentr <- concept_way;
+Brest-Tsentr<-concept_way;
                 =>nrel_main_idtf:
                 [Brest-Tsentr]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Brest-Tsentr <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:100;
-                =>nrel_number_of_employees: 21;
+                =>nrel_number_of_employees:21;
                 =>nrel_number_of_trains:7;
                 =>nrel_gorod:Brest;;
                 

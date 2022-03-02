@@ -1,4 +1,4 @@
-Kommunary <- concept_way;
+Kommunary<-concept_way;
                 =>nrel_main_idtf:
                 [Kommunary]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ Kommunary <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:300;
-                =>nrel_number_of_employees: 17;
+                =>nrel_number_of_employees:17;
                 =>nrel_number_of_trains:3;
                 =>nrel_gorod:Kostjukovichi;;
                 

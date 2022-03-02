@@ -1,4 +1,4 @@
-BIGOSOVO-STYK <- concept_way;
+BIGOSOVO-STYK<-concept_way;
                 =>nrel_main_idtf:
                 [BIGOSOVO-STYK]
                 (* <- lang_en;; <- name_en;;*);
@@ -6,7 +6,7 @@ BIGOSOVO-STYK <- concept_way;
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_country:Belarus;
                 =>nrel_number_of_passengers:700;
-                =>nrel_number_of_employees: 10;
+                =>nrel_number_of_employees:10;
                 =>nrel_number_of_trains:2;
                 =>nrel_oblast:Vitebskaja;;
                 
