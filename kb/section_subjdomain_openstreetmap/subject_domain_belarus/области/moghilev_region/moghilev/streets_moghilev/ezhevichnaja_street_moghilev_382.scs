@@ -2,7 +2,7 @@ ezhevichnaja_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Ezhevichnaja street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Ежевичная]
+                [Ежевичная улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:1800;
                 =>nrel_number_of_house:26;

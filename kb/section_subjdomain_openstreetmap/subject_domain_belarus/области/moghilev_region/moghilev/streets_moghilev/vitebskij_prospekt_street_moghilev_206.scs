@@ -2,7 +2,7 @@ vitebskij_prospekt_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Vitebskij prospekt street]
                 (* <- lang_en;; <- name_en;;*);
-                [ Витебский проспект]
+                [Витебский проспект]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2300;
                 =>nrel_number_of_house:45;

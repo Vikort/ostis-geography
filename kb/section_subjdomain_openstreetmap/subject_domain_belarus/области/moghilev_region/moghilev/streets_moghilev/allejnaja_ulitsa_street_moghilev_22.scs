@@ -1,8 +1,8 @@
 allejnaja_ulitsa_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
-                [Allejnaja ulitsa street]
+                [Allejnaja street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Аллейная улица]
+                [Аллейная улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2400;
                 =>nrel_number_of_house:40;

@@ -2,7 +2,7 @@ krasnogvardejskij_pereulok_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Krasnogvardejskij pereulok street]
                 (* <- lang_en;; <- name_en;;*);
-                [ Красногвардейский переулок]
+                [Красногвардейский переулок]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2700;
                 =>nrel_number_of_house:9;

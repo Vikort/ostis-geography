@@ -2,7 +2,7 @@ zalutskogo_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Zalutskogo street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Залуцкого]
+                [Залуцкого улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2000;
                 =>nrel_number_of_house:54;

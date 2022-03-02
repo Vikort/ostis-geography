@@ -1,8 +1,8 @@
 krasnogvardejskaja_ulitsa_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
-                [Krasnogvardejskaja ulitsa street]
+                [Krasnogvardejskaja street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Красногвардейская улица]
+                [Красногвардейская улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:900;
                 =>nrel_number_of_house:66;

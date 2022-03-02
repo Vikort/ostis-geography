@@ -1,8 +1,8 @@
 vejnjanskaja_ulitsa_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
-                [Vejnjanskaja ulitsa street]
+                [Vejnjanskaja street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Вейнянская улица]
+                [Вейнянская улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2200;
                 =>nrel_number_of_house:28;

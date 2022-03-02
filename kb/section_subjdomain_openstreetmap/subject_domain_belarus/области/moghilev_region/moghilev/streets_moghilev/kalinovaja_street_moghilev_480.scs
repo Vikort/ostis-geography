@@ -2,7 +2,7 @@ kalinovaja_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Kalinovaja street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Калиновая]
+                [Калиновая улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2500;
                 =>nrel_number_of_house:38;

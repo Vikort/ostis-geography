@@ -2,7 +2,7 @@ krasnaja_zorka_pereulok_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Krasnaja zorka pereulok street]
                 (* <- lang_en;; <- name_en;;*);
-                [ Красная зорька переулок]
+                [Красная зорька переулок]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:1300;
                 =>nrel_number_of_house:8;

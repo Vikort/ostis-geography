@@ -2,7 +2,7 @@ ivanovskogo_pereulok_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Ivanovskogo pereulok street]
                 (* <- lang_en;; <- name_en;;*);
-                [ Ивановского переулок]
+                [Ивановского переулок]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2300;
                 =>nrel_number_of_house:28;

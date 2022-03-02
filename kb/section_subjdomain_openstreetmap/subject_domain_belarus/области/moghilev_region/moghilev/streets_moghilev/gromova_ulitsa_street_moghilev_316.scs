@@ -1,8 +1,8 @@
 gromova_ulitsa_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
-                [Gromova ulitsa street]
+                [Gromova street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Громова улица]
+                [Громова улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:1100;
                 =>nrel_number_of_house:10;

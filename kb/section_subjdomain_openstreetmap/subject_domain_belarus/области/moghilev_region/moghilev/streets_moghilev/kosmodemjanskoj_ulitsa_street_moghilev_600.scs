@@ -1,8 +1,8 @@
 kosmodemjanskoj_ulitsa_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
-                [Kosmodemjanskoj ulitsa street]
+                [Kosmodemjanskoj street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Космодемьянской улица]
+                [Космодемьянской улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:1400;
                 =>nrel_number_of_house:31;

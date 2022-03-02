@@ -1,8 +1,8 @@
 volochaevskaja_ulitsa_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
-                [Volochaevskaja ulitsa street]
+                [Volochaevskaja street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Волочаевская улица]
+                [Волочаевская улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:1500;
                 =>nrel_number_of_house:45;

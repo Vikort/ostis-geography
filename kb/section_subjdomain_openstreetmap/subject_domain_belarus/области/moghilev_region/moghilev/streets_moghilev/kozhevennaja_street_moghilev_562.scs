@@ -2,7 +2,7 @@ kozhevennaja_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Kozhevennaja street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Кожевенная]
+                [Кожевенная улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2900;
                 =>nrel_number_of_house:59;

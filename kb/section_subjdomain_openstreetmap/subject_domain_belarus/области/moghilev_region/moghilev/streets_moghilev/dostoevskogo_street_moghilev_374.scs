@@ -2,7 +2,7 @@ dostoevskogo_street_moghilev <- concept_way;
                 =>nrel_main_idtf:
                 [Dostoevskogo street]
                 (* <- lang_en;; <- name_en;;*);
-                [улица Достоевского]
+                [Достоевского улица]
                 (* <- lang_ru;; <- name_ru;; <- name;;*);
                 =>nrel_street_length:2500;
                 =>nrel_number_of_house:81;
