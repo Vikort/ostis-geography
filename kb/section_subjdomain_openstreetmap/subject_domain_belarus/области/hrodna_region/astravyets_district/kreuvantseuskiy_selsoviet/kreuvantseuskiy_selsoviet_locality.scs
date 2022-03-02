@@ -286,7 +286,7 @@ scipiny <- concept_village;
 =>nrel_selsoviet:
     kreuvantseuskiy_selsoviet;;
 
-parcel_Paliany <- concept_village;
+parcel_paliany <- concept_village;
 => nrel_main_idtf:
    [Parcel]
    (* <- lang_en;; <- name_en;;*);
