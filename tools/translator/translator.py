@@ -1,4 +1,4 @@
-from os import replace
+import sys
 from typing import Dict, List
 from transliterate import translit
 from datetime import datetime
@@ -153,7 +153,7 @@ if __name__ == "__main__":
 => nrel_main_idtf:
 {language_info};;
 """
-    amenities = ['hospital', 'clinic']
+    amenities = sys.argv[1:]
     query_part = "area[name='Беларусь'];node(area)[amenity={}];"
     source = "http://overpass-api.de/api/interpreter?data=[out:json];({});out;"
     save_path = "../../kb/section_subjdomain_openstreetmap/subject_domain_belarus/hospitals/"
