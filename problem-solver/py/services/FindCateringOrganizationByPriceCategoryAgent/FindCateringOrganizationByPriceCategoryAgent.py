@@ -24,8 +24,8 @@ class FindCateringOrganizationByPriceCategoryAgent(ScAgent):
                     raise Exception("The question node isn't valid.")
 
                 node = self.get_action_argument(self.main_node, 'rrel_1')
-                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct) # создаем узел ответа
-                self.add_nodes_to_answer(answerNode, [node]) # добавляем входные аргументы в ответ
+                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct)
+                self.add_nodes_to_answer(answerNode, [node])
                 print("start")
 
                 cateting_organization_iterator = self.ctx.Iterator5(

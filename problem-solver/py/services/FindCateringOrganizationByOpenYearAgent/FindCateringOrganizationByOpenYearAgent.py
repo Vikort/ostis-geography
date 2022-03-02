@@ -24,8 +24,8 @@ class FindCateringOrganizationByOpenYearAgent(ScAgent):
                     raise Exception("The question node isn't valid.")
 
                 node = self.get_action_argument(self.main_node, 'rrel_1')
-                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct) # создаем узел ответа
-                self.add_nodes_to_answer(answerNode, [node]) # добавляем входные аргументы в ответ
+                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct)
+                self.add_nodes_to_answer(answerNode, [node])
                 print("start")
 
                 cateting_organization_iterator = self.ctx.Iterator5(
@@ -46,7 +46,7 @@ class FindCateringOrganizationByOpenYearAgent(ScAgent):
                         self.add_nodes_to_answer(answerNode, [catering_special_organization, cateting_organization_iterator.Get(1), cateting_organization_iterator.Get(2) , cateting_organization_iterator.Get(3), cateting_organization_iterator.Get(4)])
                     
 
-                self.finish_agent(self.main_node, answerNode) # завершаем работу агента
+                self.finish_agent(self.main_node, answerNode)
             except Exception as ex:
                 print(colored(str(ex), color='red'))
                 self.set_unsuccessful_status()
