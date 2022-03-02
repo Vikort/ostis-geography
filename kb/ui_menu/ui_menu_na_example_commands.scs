@@ -6,5 +6,11 @@ ui_menu_na_example_commands
 
 <= nrel_ui_commands_decomposition:
 	{
-		ui_menu_generate_osm_query
+		ui_menu_generate_osm_query;
+		ui_menu_find_catering_organization_by_day_of_week;
+		ui_menu_find_catering_organization_by_working_hours;
+		ui_menu_find_catering_organization_by_rate;
+		ui_menu_find_catering_organization_by_cuisine;
+		ui_menu_find_catering_organization_by_open_year;
+		ui_menu_find_catering_organization_by_price_category
 	};;

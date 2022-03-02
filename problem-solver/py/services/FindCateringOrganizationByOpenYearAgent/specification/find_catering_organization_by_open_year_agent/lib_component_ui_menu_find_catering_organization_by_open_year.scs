@@ -1,0 +1,9 @@
+lib_component_ui_menu_find_catering_organization_by_open_year
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса по нахождению организаций общественного питания по году открытия]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command for searching catering organizations by opening year]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;

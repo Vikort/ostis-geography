@@ -1,0 +1,9 @@
+lib_component_ui_menu_find_catering_organization_by_working_hours
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса по нахождению организаций общественного питания по часам работы]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command for searching catering organizations by working hours]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;

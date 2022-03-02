@@ -1,3 +1,8 @@
-add_subdirectory(HelloAgent)
-add_subdirectory(HelloScript)
 add_subdirectory(OpenStreetMapAgent)
+add_subdirectory(FindCateringOrganizationByDayOfWeekAgent)
+add_subdirectory(FindCateringOrganizationByWorkingHoursAgent)
+add_subdirectory(FindCateringOrganizationByRateAgent)
+add_subdirectory(FindCateringOrganizationByCuisineAgent)
+add_subdirectory(FindCateringOrganizationByOpenYearAgent)
+add_subdirectory(FindCateringOrganizationByPriceCategoryAgent)
+
