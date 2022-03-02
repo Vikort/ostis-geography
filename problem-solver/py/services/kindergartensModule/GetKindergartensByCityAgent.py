@@ -16,7 +16,7 @@ class GetKindergartensByCityAgent(ScAgent):
         status = ScResult.Ok
 
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['action_get_kindergarten_by_city'],
+                self.keynodes['action_get_kindergartens_by_city'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):

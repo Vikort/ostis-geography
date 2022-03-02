@@ -12,10 +12,9 @@ class GetKindergartensByTypeAgent(ScAgent):
         self.main_node = None
 
     def RunImpl(self, evt: ScEventParams) -> ScResult:
-        self.main_node = evt.other_addr # получаем узел который отвечает за вызов агента с определенными параметрами
+        self.main_node = evt.other_addr
         status = ScResult.Ok
 
-        # проверяем что был вызван действительно наш агент
         if self.module.ctx.HelperCheckEdge(
                 self.keynodes['action_get_kindergarten_by_type'],
                 self.main_node,
@@ -24,23 +23,16 @@ class GetKindergartensByTypeAgent(ScAgent):
             try:
                 if self.main_node is None or not self.main_node.IsValid():
                     raise Exception("The question node isn't valid.")
-                # получаем наши аргументы агента
                 node = self.get_action_argument(self.main_node, 'rrel_1') 
-                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct) # создаем узел ответа
-                self.add_nodes_to_answer(answerNode, [node]) # добавляем входные аргументы в ответ
-
-                # тут пишите свой агент
-                # в данном примере агент получает как аргумент узел и находит описание этого узла, т.е. конструкцию: node <- rrel_key_sc_element: ...(* <-definition;; <= nrel_sc_text_translation: ...(* ->rrel_example: [Определение];; *);; *);;
-                # ниже получение определения через итераторы
-                # пятиэлементный итератор для поиска конструкции firstParameter <- rrel_key_sc_element: ...;;
+                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct)
+                self.add_nodes_to_answer(answerNode, [node])
                 kindergartenIterator = self.ctx.Iterator3(
                     node,
                     ScType.EdgeAccessConstPosPerm,
                     ScType.Unknown,
                 )
                 while kindergartenIterator.Next():
-                    # получение содержимого из sc-ссылки
-                    # добавим все что хотим отобразить на странице остиса в контур ответа
+
                     for i in range(3):
                         self.add_nodes_to_answer(answerNode, [kindergartenIterator.Get(i)])
                 

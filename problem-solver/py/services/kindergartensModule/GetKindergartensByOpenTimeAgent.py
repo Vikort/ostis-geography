@@ -16,7 +16,7 @@ class GetKindergartensByOpenTimeAgent(ScAgent):
         status = ScResult.Ok
 
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['action_get_kindergarten_by_open_time'],
+                self.keynodes['action_get_kindergartens_by_open_time'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):

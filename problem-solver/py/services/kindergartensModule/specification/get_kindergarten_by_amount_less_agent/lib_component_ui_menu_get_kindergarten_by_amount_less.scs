@@ -1,8 +1,8 @@
-lib_component_ui_menu_kindergarden_by_amount_greater
+lib_component_ui_menu_kindergartens_by_amount_less
 => nrel_main_idtf:
 	[Компонент библиотеки. Команда пользовательского интерфейса поиска детских садов по количеству детей]
 	(* <- lang_ru;; *);
-	[Library component. User interfaces command of search kindergartens by amount greater]
+	[Library component. User interfaces command of search kindergartens by amount less]
 	(* <- lang_en;; *);
 
 <- library_of_platform_independent_reusable_components;

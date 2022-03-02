@@ -24,7 +24,7 @@ class ExampleModule(ScModule):
         self.keynodes = ScKeynodes(self.ctx)
 
     def OnInitialize(self, params):
-        print('Initialize Kindergarten module') # меняем название модуля для логов
+        print('Initialize Kindergartens module')
         question_initiated = self.keynodes['question_initiated']
 
         agent1 = GetKindergartensByTypeAgent(self)
@@ -52,7 +52,7 @@ class ExampleModule(ScModule):
 
 
     def OnShutdown(self):
-        print('Shutting down Example module') # меняем название модуля для логов
+        print('Shutting down Example module')
 
 
 service = ExampleModule()
