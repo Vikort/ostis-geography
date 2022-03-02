@@ -1,9 +1,0 @@
-dubrovnski_pottery_workshop <-sc_node_not_relation;
-=>nrel_main_idtf:
-    [Dubrovnski pottery workshop ]
-    (* <- lang_en;; <- name_en;;*);
-    [Дубровновская гончарная мастерская]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_city:
-    dubrovno;;
-

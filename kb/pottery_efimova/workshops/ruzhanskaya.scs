@@ -1,9 +1,0 @@
-ruzhanskaya_pottery_workshop <-concept_city;
-=>nrel_main_idtf:
-    [Ruzhanskaya pottery workshop ]
-    (* <- lang_en;; <- name_en;;*);
-    [Ружанская гончарная мастерская]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_city:
-    ryzhany;;
-

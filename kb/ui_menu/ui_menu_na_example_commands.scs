@@ -6,5 +6,12 @@ ui_menu_na_example_commands
 
 <= nrel_ui_commands_decomposition:
 	{
-		ui_menu_generate_osm_query
+		ui_menu_generate_osm_query;
+		ui_menu_trashByCount;
+		ui_menu_trashByRegion;
+		ui_menu_trashByPest;
+		ui_menu_potteryDate;
+		ui_menu_potteryTech;
+		ui_menu_potteryType
+
 	};;
