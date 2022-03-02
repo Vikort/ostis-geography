@@ -286,11 +286,11 @@ scipiny <- concept_village;
 =>nrel_selsoviet:
     kreuvantseuskiy_selsoviet;;
 
-parcel-Paliany <- concept_village;
+parcel_Paliany <- concept_village;
 => nrel_main_idtf:
    [Parcel]
    (* <- lang_en;; <- name_en;;*);
-    [Парцель-Поляны]
+    [Парцель Поляны]
    (* <- lang_ru;; <-name_ru;; <- name;;*);
 => nrel_admin_level:
    [10]

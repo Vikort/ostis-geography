@@ -1,4 +1,4 @@
-kiemielishkauskiy_selsoviet <- concept_selsoviet;
+kreuvantseuskiy_selsoviet <- concept_selsoviet;
 =>nrel_main_idtf:
     [Крейванцевский сельский Совет]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
