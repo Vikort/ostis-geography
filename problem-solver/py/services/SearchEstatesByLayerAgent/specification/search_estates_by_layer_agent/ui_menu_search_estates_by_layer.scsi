@@ -1,0 +1,29 @@
+ui_menu_search_estates_by_layer <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_search_estates_by_layer
+=> nrel_main_idtf: 
+	[Найти усадьбу с указаным количеством этажей]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска усадьб с указаным количеством этажей]
+	(* <- lang_ru;; *);;
+
+ui_menu_search_estates_by_layer
+=> nrel_main_idtf: 
+	[Find estates with specified layer count]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Search for estate with specified layer count]
+	(* <- lang_en;; *);;
+
+ui_menu_search_estates_by_layer => ui_nrel_command_template:
+	[*
+		action_search_estates_by_layer _-> ._question_search_estates_by_layer
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_search_estates_by_layer _<- question;;
+	*];;
+
+ui_menu_search_estates_by_layer => ui_nrel_command_lang_template: [Найти усадьбы с количеством этажей $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_search_estates_by_layer => ui_nrel_command_lang_template: [Find estates with $ui_arg_1 layers] (* <- lang_en;; *);;

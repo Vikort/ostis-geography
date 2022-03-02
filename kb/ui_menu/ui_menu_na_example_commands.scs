@@ -7,5 +7,10 @@ ui_menu_na_example_commands
 <= nrel_ui_commands_decomposition:
 	{
 		ui_menu_generate_osm_query;
-		ui_menu_search_estates_by_city
+		ui_menu_search_estates_by_city;
+		ui_menu_search_estates_by_region;
+		ui_menu_search_estates_by_district;
+		ui_menu_search_estates_by_price;
+		ui_menu_search_estates_by_layer;
+		ui_menu_search_estates_by_area
 	};;

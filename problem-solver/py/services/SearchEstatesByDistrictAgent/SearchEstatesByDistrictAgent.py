@@ -4,7 +4,7 @@ from common import ScAgent, ScEventParams, ScKeynodes
 from sc import *
 
 
-class SearchEstatesByCityAgent(ScAgent):
+class SearchEstatesByDistrictAgent(ScAgent):
     def __init__(self, module):
         super().__init__(module)
         self.ctx = module.ctx
@@ -17,7 +17,7 @@ class SearchEstatesByCityAgent(ScAgent):
 
         # проверяем что был вызван действительно наш агент
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['action_search_estates_by_city'],
+                self.keynodes['action_search_estates_by_district'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):
@@ -35,7 +35,7 @@ class SearchEstatesByCityAgent(ScAgent):
                     ScType.EdgeDCommon,
                     node,
                     ScType.EdgeAccessConstPosPerm,
-                    self.keynodes['nrel_city']
+                    self.keynodes['nrel_district']
                 )
                 while estatesIterator.Next():
                     estate = estatesIterator.Get(0)

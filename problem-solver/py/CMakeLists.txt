@@ -1,2 +1,7 @@
 add_subdirectory(OpenStreetMapAgent)
 add_subdirectory(SearchEstatesByCityAgent)
+add_subdirectory(SearchEstatesByRegionAgent)
+add_subdirectory(SearchEstatesByDistrictAgent)
+add_subdirectory(SearchEstatesByPriceAgent)
+add_subdirectory(SearchEstatesByLayerAgent)
+add_subdirectory(SearchEstatesByAreaAgent)
