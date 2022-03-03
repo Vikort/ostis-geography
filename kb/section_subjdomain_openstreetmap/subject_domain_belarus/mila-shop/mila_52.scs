@@ -7,5 +7,9 @@ mila_52 <- concept_shop;
 (* <- lang_ru;; <- latitude;;*);
 [27.569690]
 (* <- lang_ru;; <- longitude;;*);
+=>nrel_address: 
+[ул. Максима Богдановича 66];
+=>nrel_open_time:9;
+=>nrel_close_time:21;
 =>nrel_search_area: 
 minsk;; 

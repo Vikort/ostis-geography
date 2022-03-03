@@ -6,5 +6,8 @@ ui_menu_na_example_commands
 
 <= nrel_ui_commands_decomposition:
 	{
-		ui_menu_generate_osm_query
+		ui_menu_generate_osm_query;
+		ui_menu_get_milas_by_address;
+		ui_menu_get_milas_by_coordinates;
+		ui_menu_get_milas_by_time
 	};;

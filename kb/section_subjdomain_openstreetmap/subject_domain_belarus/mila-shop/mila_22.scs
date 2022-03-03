@@ -7,5 +7,9 @@ mila_22 <- concept_shop;
 (* <- lang_ru;; <- latitude;;*);
 [27.685243]
 (* <- lang_ru;; <- longitude;;*);
+=>nrel_address: 
+[ул. Ангарская 36];
+=>nrel_open_time:9;
+=>nrel_close_time:21;
 =>nrel_search_area: 
 minsk;; 

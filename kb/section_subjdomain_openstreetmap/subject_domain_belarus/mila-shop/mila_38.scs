@@ -7,5 +7,9 @@ mila_38 <- concept_shop;
 (* <- lang_ru;; <- latitude;;*);
 [27.598495]
 (* <- lang_ru;; <- longitude;;*);
+=>nrel_address: 
+[пр. Рокоссовского 17к1];
+=>nrel_open_time:10;
+=>nrel_close_time:21;
 =>nrel_search_area: 
 minsk;; 
