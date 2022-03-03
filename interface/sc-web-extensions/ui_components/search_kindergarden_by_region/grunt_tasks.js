@@ -40,7 +40,7 @@ module.exports = function() {
             kb: {
                 cwd: kb,
                 src: ['*'],
-                dest: '../../kb/ui_components/search_kindergardens_by_region_component/',
+                dest: '../../../../kb/ui_components/search_kindergardens_by_region_component/',
                 expand: true,
                 flatten: true
             }
