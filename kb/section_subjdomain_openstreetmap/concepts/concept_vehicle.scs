@@ -1,0 +1,30 @@
+concept_vehicle
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+[транспортное средство]
+(* <- lang_ru;; *);
+[vehicle]
+(* <- lang_en;; *);
+<- rrel_key_sc_element:
+...
+(*
+=>nrel_main_idtf:
+[Опр. (транспортное средство)]
+(* <- lang_ru;; *);
+[Def. (vehicle)]
+(* <- lang_en;; *);;
+<- definition;;
+<= nrel_sc_text_translation:
+...
+(*
+->rrel_example:
+[Транспортное средство — техническое устройство для перевозки людей и/или грузов.]
+(* <- lang_ru;; *);;
+*);
+...
+(*
+-> rrel_example:
+[Vehicle  is a machine that transports people or cargo.]
+(* <- lang_en;; *);;
+*);;
+*);;

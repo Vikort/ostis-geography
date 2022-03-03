@@ -1,0 +1,29 @@
+﻿driving_school_chauses_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Chauses DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Чаусская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    chauses_district;
+=>nrel_city:
+    chauses;
+=>nrel_postcode:
+    [213206]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213206, г.Чаусы, ул.Фрунзе, 54]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Фрунзе]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [54]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

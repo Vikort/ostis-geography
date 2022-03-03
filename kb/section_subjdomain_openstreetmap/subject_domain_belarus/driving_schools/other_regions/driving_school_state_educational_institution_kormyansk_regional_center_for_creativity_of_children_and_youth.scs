@@ -1,0 +1,29 @@
+﻿driving_school_state_educational_institution_kormyansk_regional_center_for_creativity_of_children_and_youth <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School State Educational Institution Kormyansk Regional Center for Creativity of Children and Youth]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ГУО Кормянский районный центр творчества детей и молодежи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    kormyanski_district;
+=>nrel_city:
+    korma;
+=>nrel_postcode:
+    [247170]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247170, г.п.Корма,  ул.Ильющенко, 34]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ильющенко]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [34]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

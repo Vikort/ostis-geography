@@ -1,0 +1,29 @@
+﻿driving_school_kalinkovichi_regional_department_of_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Kalinkovichi Regional Department of DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Калинковичская РОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    kalinkovichi_district;
+=>nrel_city:
+    kalinkovichi;
+=>nrel_postcode:
+    [247710]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247710,  г.Калинковичи, ул.Суворова, 14]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Суворова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [14]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

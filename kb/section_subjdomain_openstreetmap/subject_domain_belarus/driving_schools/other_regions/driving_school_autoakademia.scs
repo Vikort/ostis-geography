@@ -1,0 +1,29 @@
+﻿driving_school_autoakademia <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AutoAkademia]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АвтоАкадемия]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    vitebsk_region;
+=>nrel_district:
+    vitebsk_district;
+=>nrel_city:
+    vitebsk;
+=>nrel_postcode:
+    [210036]
+    (* <- postcode;;*);
+=>nrel_address:
+    [210036, г.Витебск, ул.Генерала Ивановского, 24]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Генерала Ивановского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [24]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_zhitkovichi_state_professional_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Zhitkovichi State Professional Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Житковичский государственный профессиональный лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    zhitkovichi_district;
+=>nrel_city:
+    zhitkovichi;
+=>nrel_postcode:
+    [247960]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247960, г.Житковичи, Учебный городок, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Учебный городок]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

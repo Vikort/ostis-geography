@@ -1,0 +1,29 @@
+﻿driving_school_narovlya_state_professional_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Narovlya State Professional Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Наровлянский государственный профессиональный лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    narovlya_district;
+=>nrel_city:
+    narovlya;
+=>nrel_postcode:
+    [247802]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247802, г.Наровля, ул.Макаренко, 2]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Макаренко]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [2]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

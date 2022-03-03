@@ -1,0 +1,29 @@
+﻿driving_school_autouchservice <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AutoUchService]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АвтоУчСервис]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    zhlobin_district;
+=>nrel_city:
+    zhlobin;
+=>nrel_postcode:
+    [247200]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247200, г.Жлобин, 16 микрорайон, 35-136]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [16 микрорайон]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [35-136]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

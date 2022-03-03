@@ -1,0 +1,29 @@
+﻿driving_school_mogilev_auk_osipovichi <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Mogilev AUK Osipovichi]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Могилёвский АУК г.Осиповичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    osipovichi_district;
+=>nrel_city:
+    osipovichi;
+=>nrel_postcode:
+    [213763]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213763, г.Осиповичи, пер.Заводской, 2]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Заводской]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [2]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

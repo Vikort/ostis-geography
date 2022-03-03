@@ -1,0 +1,29 @@
+﻿driving_school_kirovsk_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Kirov DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Кировская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    kirovsk_district;
+=>nrel_city:
+    kirovsk;
+=>nrel_postcode:
+    [213931]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213931, г.Кировск, ул.Володарского, 71A]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Володарского]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [71A]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

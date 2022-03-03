@@ -1,0 +1,29 @@
+﻿driving_school_center_for_training_advanced_training_and_retraining_of_workers_of_the_department_of_agriculture_and_food_of_the_loyevsky_district_executive_committee <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Center for Training, Advanced Training and Retraining of Workers of the Department of Agriculture and Food of the Loyevsky District Executive Committee]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Центр подготовки, повышения квалификации и переподготовки рабочих управления с/х и продовольствия Лоевского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    loyev_district;
+=>nrel_city:
+    loyev;
+=>nrel_postcode:
+    [247095]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247095, г.Лоев, ул.Пролетарская, 4]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Пролетарская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [4]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

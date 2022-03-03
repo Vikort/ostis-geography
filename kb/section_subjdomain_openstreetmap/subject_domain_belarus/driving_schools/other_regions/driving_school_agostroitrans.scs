@@ -1,0 +1,29 @@
+﻿driving_school_agostroitrans <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AGOStroiTrans]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АГОСтройТранс]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    lida_district;
+=>nrel_city:
+    lida;
+=>nrel_postcode:
+    [231281]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231281, г.Лида,  ул.Советская, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Советская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

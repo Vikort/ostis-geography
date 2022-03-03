@@ -1,0 +1,29 @@
+﻿driving_school_gomel_state_automobile_training_plant_rogachev_branch <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gomel State Automobile Training Plant Rogachev Branch]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Гомельский государственный автомобильный учебный комбинат Рогачевский филиал]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    buda_koshelev_district;
+=>nrel_city:
+    buda_koshelev;
+=>nrel_postcode:
+    [247350]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247350, г.Буда-Кошелёво, ул.Ленина, 61]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ленина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [61]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

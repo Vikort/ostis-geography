@@ -1,0 +1,29 @@
+﻿driving_school_rogachev_state_vocational_college_of_builders <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Rogachev State Vocational College of Builders]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Рогачевский государственный профессионально-технический колледж строителей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    rogachev_district;
+=>nrel_city:
+    rogachev;
+=>nrel_postcode:
+    [247673]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247673, г.Рогачев, ул.Ленина, 27]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ленина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [27]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

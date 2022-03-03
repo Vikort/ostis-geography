@@ -1,0 +1,29 @@
+﻿driving_school_slonim_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Slonim DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Слонимская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    slonim_district;
+=>nrel_city:
+    slonim;
+=>nrel_postcode:
+    [231799]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231799, г.Слоним, ул.Янки Купалы, 27]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [ул. Янки Купалы]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [27]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

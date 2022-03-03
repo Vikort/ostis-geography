@@ -1,0 +1,35 @@
+concept_driver
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+[водитель]
+(* <- lang_ru;; *);
+[driver]
+(* <- lang_en;; *);
+<- rrel_key_sc_element:
+...
+(*
+=>nrel_main_idtf:
+[Опр. (водитель)]
+(* <- lang_ru;; *);
+[Def. (driver)]
+(* <- lang_en;; *);;
+<- definition;;
+<= nrel_sc_text_translation:
+...
+(*
+->rrel_example:
+[Водитель — человек, управляющий транспортным средством (автомобиль, повозка, автобус, троллейбус, трамвай и другие).]
+(* <- lang_ru;; *);;
+*);
+...
+(*
+-> rrel_example:
+[Driver a person who drives a vehicle.]
+(* <- lang_en;; *);;
+*);;
+<= nrel_using_constants:
+{
+concept_drivers_license;
+concept_vehicle
+};;
+*);;

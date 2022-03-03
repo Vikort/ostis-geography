@@ -1,0 +1,29 @@
+﻿driving_school_os_sovietsky_district_of_gomel_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School OS Sovietsky district of Gomel DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола ОС Советского района г. Гомеля ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246029]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246029, г.Гомель,  ул.Братьев Лизюковых, 14А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Братьев Лизюковых]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [14А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_favorit <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Favorit]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Фаворит]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    brest_region;
+=>nrel_district:
+    brest_district;
+=>nrel_city:
+    brest;
+=>nrel_postcode:
+    [224023]
+    (* <- postcode;;*);
+=>nrel_address:
+    [224023, г.Брест, ул.Московская, 275А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Московская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [275А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

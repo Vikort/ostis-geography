@@ -1,0 +1,29 @@
+﻿driving_school_zhlobin_state_vocational_and_technical_college <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Zhlobin State Vocational and Technical College]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Жлобинский государственный профессионально-технический колледж]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    zhlobin_district;
+=>nrel_city:
+    zhlobin;
+=>nrel_postcode:
+    [247197]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247197, г.Жлобин, ул.Ленинградская, 2]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Ленинградская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [2]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

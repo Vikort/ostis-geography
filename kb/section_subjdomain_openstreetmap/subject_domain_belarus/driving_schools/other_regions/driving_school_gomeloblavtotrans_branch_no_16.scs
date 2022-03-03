@@ -1,0 +1,29 @@
+﻿driving_school_gomeloblavtotrans_branch_no_16 <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gomeloblavtotrans (branch No. 16)]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Гомельоблавтотранс (филиал № 16)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    zhitkovichi_district;
+=>nrel_city:
+    zhitkovichi;
+=>nrel_postcode:
+    [247953]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247953, г.Житковичи, ул.Комсомольская, 49]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Комсомольская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [49]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

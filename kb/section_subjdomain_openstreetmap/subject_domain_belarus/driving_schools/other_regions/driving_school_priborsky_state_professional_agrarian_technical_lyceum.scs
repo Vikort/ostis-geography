@@ -1,0 +1,29 @@
+﻿driving_school_priborsky_state_professional_agrarian_technical_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Priborsky State Professional Agrarian-Technical Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Приборский государственный профессиональный аграрно-технический лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    pribor;
+=>nrel_postcode:
+    [247030]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247030, д.Прибор, ул.Мира, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Мира]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

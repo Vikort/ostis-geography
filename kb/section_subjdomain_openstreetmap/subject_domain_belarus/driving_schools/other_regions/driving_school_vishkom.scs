@@ -1,0 +1,29 @@
+﻿driving_school_vishkom <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Vishkom]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Вишком]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246000]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246000, г.Гомель, ул.Барыкина, 317]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Барыкина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [317]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

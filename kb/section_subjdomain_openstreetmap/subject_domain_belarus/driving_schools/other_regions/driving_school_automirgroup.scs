@@ -1,0 +1,29 @@
+﻿driving_school_automirgroupp <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AutoMirGroupp]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АвтоМирГрупп]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    smorgon_district;
+=>nrel_city:
+    smorgon;
+=>nrel_postcode:
+    [231042]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231042, г.Сморгонь, пер.Гастелло, 5]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Гастелло]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [5]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

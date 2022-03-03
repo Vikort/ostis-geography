@@ -1,0 +1,29 @@
+﻿driving_school_autotrust_master <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AUTOtrust-Master]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АВТОтраст-Мастер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    mogilev_district;
+=>nrel_city:
+    mogilev;
+=>nrel_postcode:
+    [212002]
+    (* <- postcode;;*);
+=>nrel_address:
+    [212002, г.Могилёв, просп.Пушкинский, 40Д]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Пушкинский]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [40Д]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

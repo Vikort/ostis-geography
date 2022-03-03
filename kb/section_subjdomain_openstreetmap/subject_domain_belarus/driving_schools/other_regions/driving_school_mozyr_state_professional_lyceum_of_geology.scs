@@ -1,0 +1,29 @@
+﻿driving_school_mozyr_state_professional_lyceum_of_geology <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Mozyr State Professional Lyceum of Geology]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Мозырский государственный профессиональный лицей геологии]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    mozyr_district;
+=>nrel_city:
+    mozyr;
+=>nrel_postcode:
+    [247760]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247760, г.Мозырь, б-р.Дружбы, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Дружбы]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

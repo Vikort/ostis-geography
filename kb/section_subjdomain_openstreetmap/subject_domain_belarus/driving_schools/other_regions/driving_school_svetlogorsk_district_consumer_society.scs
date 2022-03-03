@@ -1,0 +1,29 @@
+﻿driving_school_svetlogorsk_district_consumer_society <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Svetlogorsk district consumer society]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Светлогорское районное потребительское общество]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    svetlogorsk_district;
+=>nrel_city:
+    svetlogorsk;
+=>nrel_postcode:
+    [247400]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247400, г.Светлогорск, ул.Социалистическая, 7]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Социалистическая]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [7]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

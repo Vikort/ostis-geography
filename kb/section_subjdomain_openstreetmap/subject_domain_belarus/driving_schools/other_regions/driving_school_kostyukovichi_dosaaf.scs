@@ -1,0 +1,29 @@
+﻿driving_school_kostyukovichi_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Kostyukovichi DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Костюковичская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    kostyukovichi_district;
+=>nrel_city:
+    kostyukovichi;
+=>nrel_postcode:
+    [213640]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213640, г.Костюковичи,  ул.Магистральная, 12]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Магистральная]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [12]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

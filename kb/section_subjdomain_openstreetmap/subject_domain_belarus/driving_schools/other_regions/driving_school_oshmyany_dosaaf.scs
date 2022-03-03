@@ -1,0 +1,29 @@
+﻿driving_school_oshmyany_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Oshmyany DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Ошмянская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    oshmyany_district;
+=>nrel_city:
+    oshmyany;
+=>nrel_postcode:
+    [231103]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231103, г.Ошмяны, ул.Гольшанская, 17]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Гольшанская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [17]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

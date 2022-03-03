@@ -1,0 +1,29 @@
+﻿driving_school_akc <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School AKC]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола АКС]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    mozyr_district;
+=>nrel_city:
+    mozyr;
+=>nrel_postcode:
+    [247760]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247760, г.Мозырь, ул.Кирова, 2]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Кирова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [2]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

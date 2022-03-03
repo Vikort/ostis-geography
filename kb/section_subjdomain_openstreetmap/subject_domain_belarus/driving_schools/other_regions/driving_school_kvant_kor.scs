@@ -1,0 +1,29 @@
+﻿driving_school_kvant_kor <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Kvant-Kor]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Квант-Кор]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    kruglyansky_district;
+=>nrel_city:
+    krugloe;
+=>nrel_postcode:
+    [213188]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213188, г.Круглое, ул.Крупской, 4A]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Крупской]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [4А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

@@ -1,0 +1,29 @@
+﻿driving_school_buda_koshelev_state_agrarian_and_technical_college <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Buda-Koshelev State Agrarian and Technical College]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Буда-Кошелевский государственный аграрно-технический колледж]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    buda_koshelev_district;
+=>nrel_city:
+    buda_koshelev;
+=>nrel_postcode:
+    [247351]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247351, г.Буда-Кошелево, ул.Лавриновича, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Лавриновича]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

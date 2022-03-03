@@ -1,0 +1,29 @@
+﻿driving_school_rechitsa_city_os_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Rechitsa city OS DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Речицкая городская ОС ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    rechitski_district;
+=>nrel_city:
+    rechitsa;
+=>nrel_postcode:
+    [247483]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247483, г.Речица,  ул.Чапаева, 37А]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Чапаева]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [37А]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

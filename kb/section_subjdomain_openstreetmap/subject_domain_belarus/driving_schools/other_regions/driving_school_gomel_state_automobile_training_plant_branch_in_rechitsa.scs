@@ -1,0 +1,29 @@
+﻿driving_school_gomel_state_automobile_training_plant_branch_in_rechitsa <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Gomel State Automobile Training Plant (branch in Rechitsa)]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Гомельский государственный автомобильный учебный комбинат (филиал в г. Речица)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    gomel_district;
+=>nrel_city:
+    gomel;
+=>nrel_postcode:
+    [246027]
+    (* <- postcode;;*);
+=>nrel_address:
+    [246027, г.Гомель, ш.Речицкое, 11]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Речицкое]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [11]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

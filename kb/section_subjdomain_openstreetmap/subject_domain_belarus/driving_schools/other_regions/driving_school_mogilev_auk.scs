@@ -1,0 +1,29 @@
+﻿driving_school_mogilev_auk <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Mogilev AUK]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Могилёвский АУК]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    glusk_district;
+=>nrel_city:
+    glusk;
+=>nrel_postcode:
+    [213879]
+    (* <- postcode;;*);
+=>nrel_address:
+    [213879, г.Глуск, ул.Волошина, 1]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Волошина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [1]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

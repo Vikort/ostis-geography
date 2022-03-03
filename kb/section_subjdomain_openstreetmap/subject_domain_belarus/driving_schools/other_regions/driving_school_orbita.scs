@@ -1,0 +1,29 @@
+﻿driving_school_orbita <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Orbita]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Орбита]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    mogilev_region;
+=>nrel_district:
+    mogilev_district;
+=>nrel_city:
+    mogilev;
+=>nrel_postcode:
+    [212030]
+    (* <- postcode;;*);
+=>nrel_address:
+    [212030, г.Могилёв, ул.Тимирязевская, 11]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Тимирязевская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [11]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

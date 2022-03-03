@@ -1,0 +1,29 @@
+﻿driving_school_novogrudok_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Novogrudok DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Новогрудская ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    grodno_region;
+=>nrel_district:
+    novogrudok_district;
+=>nrel_city:
+    novogrudok;
+=>nrel_postcode:
+    [231244]
+    (* <- postcode;;*);
+=>nrel_address:
+    [231244, г.Новогрудок,  ул.Минская, 32]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Минская]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [32]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

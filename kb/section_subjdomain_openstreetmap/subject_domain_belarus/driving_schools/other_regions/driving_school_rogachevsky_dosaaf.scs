@@ -1,0 +1,29 @@
+﻿driving_school_rogachevsky_dosaaf <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Rogachevsky DOSAAF]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Рогачевский ДОСААФ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    rogachevski_district;
+=>nrel_city:
+    rogachev;
+=>nrel_postcode:
+    [247673]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247673, г.Рогачев,  ул.Калинина, 2]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Калинина]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [2]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+

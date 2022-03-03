@@ -1,0 +1,29 @@
+﻿driving_school_oktyabrsky_state_professional_lyceum <- concept_driving_school;
+=>nrel_main_idtf:
+    [Driving School Oktyabrsky State Professional Lyceum]
+    (* <- lang_en;; <- name_en;;*);
+    [Автошкола Октябрьский государственный профессиональный лицей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    gomel_region;
+=>nrel_district:
+    oktyabrsky_district;
+=>nrel_city:
+    oktyabrsky;
+=>nrel_postcode:
+    [247300]
+    (* <- postcode;;*);
+=>nrel_address:
+    [247300, г.п.Октябрьский, ул.Бумажкова, 5]
+    (* <- lang_ru;; <- address;;*);
+=>nrel_street:
+    [Бумажкова]
+    (* <- lang_ru;; <- street;;*);
+=>nrel_house:
+    [5]
+    (* <- house;;*);
+=>nrel_search_area: Belarus;;
+
+
