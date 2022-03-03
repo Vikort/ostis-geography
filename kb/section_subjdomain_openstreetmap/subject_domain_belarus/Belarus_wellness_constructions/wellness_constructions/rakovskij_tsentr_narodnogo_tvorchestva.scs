@@ -1,0 +1,10 @@
+rakovskij_tsentr_narodnogo_tvorchestva <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Раковский центр народного творчества]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

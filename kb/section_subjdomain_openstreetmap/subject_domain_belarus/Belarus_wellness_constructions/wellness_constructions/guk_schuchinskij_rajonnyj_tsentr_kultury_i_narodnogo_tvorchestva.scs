@@ -1,0 +1,12 @@
+guk_schuchinskij_rajonnyj_tsentr_kultury_i_narodnogo_tvorchestva <- concept_wellness_construction;
+=> nrel_main_idtf:
+[State Institution of Culture "Shchuchin regional center of culture and folk art"]
+(* <- lang_en;; <- name_en;;*);
+[ГУК "Щучинский районный центр культуры и народного творчества"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

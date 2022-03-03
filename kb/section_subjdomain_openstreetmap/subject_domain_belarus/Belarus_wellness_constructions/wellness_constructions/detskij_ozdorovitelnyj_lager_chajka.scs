@@ -1,0 +1,10 @@
+detskij_ozdorovitelnyj_lager_chajka <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Детский оздоровительный лагерь "Чайка"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

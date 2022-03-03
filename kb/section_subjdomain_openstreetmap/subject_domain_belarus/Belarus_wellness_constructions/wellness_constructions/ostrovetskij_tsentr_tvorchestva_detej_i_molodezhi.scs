@@ -1,0 +1,10 @@
+ostrovetskij_tsentr_tvorchestva_detej_i_molodezhi <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Островецкий центр творчества детей и молодёжи]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

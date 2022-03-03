@@ -1,0 +1,10 @@
+selsovet <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Сельсовет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

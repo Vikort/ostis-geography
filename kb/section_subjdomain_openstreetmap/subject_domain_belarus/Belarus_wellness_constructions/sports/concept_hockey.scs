@@ -1,0 +1,22 @@
+concept_hockey
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[хоккей]
+	(* <- lang_ru;; *);
+	[hockey]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (хоккей)]
+		(* <- lang_ru;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Командная игра на льду на коньках в небольшой мяч или шайбу, ударяемые клюшкой.]
+			(* <- lang_ru;; *);;
+		*);;
+	*);;

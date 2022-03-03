@@ -1,0 +1,10 @@
+novasamatevіtskі_klub_volnaga_chasu <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Новасаматэвіцкі клуб вольнага часу]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

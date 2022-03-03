@@ -1,0 +1,10 @@
+otdel_remesel_i_traditsionnoj_kultury <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Отдел ремёсел и традиционной культуры]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

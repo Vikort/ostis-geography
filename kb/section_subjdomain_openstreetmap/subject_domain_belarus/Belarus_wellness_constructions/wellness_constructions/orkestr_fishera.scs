@@ -1,0 +1,12 @@
+orkestr_fishera <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Fisher orchstra]
+(* <- lang_en;; <- name_en;;*);
+[Оркестр фишера]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

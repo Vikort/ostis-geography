@@ -1,0 +1,12 @@
+detskij_hokkej_i_figurnoe_katanie_pchelki <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Children's hockey and figure skating "Pchelki"]
+(* <- lang_en;; <- name_en;;*);
+[Детский хоккей и фигурное катание "Пчёлки"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+минск;
+=>nrel_country:
+by;
+=>nrel_street:
+проспект_победителей;;

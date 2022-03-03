@@ -1,0 +1,10 @@
+rogoznitskij_tsentr_kultury_i_dosuga <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Рогозницкий центр культуры и досуга]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

@@ -1,0 +1,10 @@
+konferentszal <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Конференц-зал]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

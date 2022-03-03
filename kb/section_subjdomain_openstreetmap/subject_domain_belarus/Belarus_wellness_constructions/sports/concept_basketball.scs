@@ -1,0 +1,22 @@
+concept_basketball
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[баскетбол]
+	(* <- lang_ru;; *);
+	[basketball]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (баскетбол)]
+		(* <- lang_ru;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[спортивная командная игра с мячом, в которой мяч забрасывают руками в кольцо соперника.]
+			(* <- lang_ru;; *);;
+		*);;
+	*);;

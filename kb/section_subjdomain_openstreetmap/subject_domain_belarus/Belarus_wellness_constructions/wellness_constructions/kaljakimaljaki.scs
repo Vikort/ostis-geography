@@ -1,0 +1,10 @@
+kaljakimaljaki <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Каляки-маляки]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+минск;
+=>nrel_country:
+by;
+=>nrel_street:
+улица_наполеона_орды;;

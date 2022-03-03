@@ -1,0 +1,12 @@
+rpark_park_aktivnogo_otdyha <- concept_wellness_construction;
+=> nrel_main_idtf:
+[R-Park Adventure park]
+(* <- lang_en;; <- name_en;;*);
+[R-Park Парк активного отдыха]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

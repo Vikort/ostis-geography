@@ -1,0 +1,22 @@
+shooting_sports
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[Стрелковый спорт]
+	(* <- lang_ru;; *);
+	[shooting_sports]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (Стрелковый спорт)]
+		(* <- lang_ru;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Стрелковый спорт – вид спорта, в котором участники соревнуются в стрельбе из огнестрельного и пневматического оружия.]
+			(* <- lang_ru;; *);;
+		*);;
+	*);;

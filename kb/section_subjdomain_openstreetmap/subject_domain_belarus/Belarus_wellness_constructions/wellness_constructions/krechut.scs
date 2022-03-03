@@ -1,0 +1,10 @@
+krechut <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Крэчут]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

@@ -1,0 +1,12 @@
+stajki__olimpijskij_sportivnyj_kompleks_stajki <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Stayki - Olimpiyskiy sportivnyy kompleks stayki]
+(* <- lang_en;; <- name_en;;*);
+[Стайки - Олимпийский спортивный комплекс стайки]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

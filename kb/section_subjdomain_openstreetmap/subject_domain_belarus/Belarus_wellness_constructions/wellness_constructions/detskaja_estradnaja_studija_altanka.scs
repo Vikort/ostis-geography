@@ -1,0 +1,12 @@
+detskaja_estradnaja_studija_altanka <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Studio "Altanka"]
+(* <- lang_en;; <- name_en;;*);
+[Детская эстрадная студия "Альтанка"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

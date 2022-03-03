@@ -1,0 +1,10 @@
+talent <- concept_wellness_construction;
+=> nrel_main_idtf:
+[TALENT]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+минск;
+=>nrel_country:
+by;
+=>nrel_street:
+каменногорская_улица;;

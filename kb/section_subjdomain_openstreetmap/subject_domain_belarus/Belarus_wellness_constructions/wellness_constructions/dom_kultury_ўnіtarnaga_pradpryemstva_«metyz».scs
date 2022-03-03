@@ -1,0 +1,10 @@
+dom_kultury_ўnіtarnaga_pradpryemstva_«metyz» <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Дом культуры ўнітарнага прадпрыемства «Метыз»]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

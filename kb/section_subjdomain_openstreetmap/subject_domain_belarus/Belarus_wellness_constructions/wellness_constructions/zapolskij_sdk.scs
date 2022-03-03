@@ -1,0 +1,10 @@
+zapolskij_sdk <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Запольский СДК]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+заполье;
+=>nrel_country:
+none;
+=>nrel_street:
+садовая_улица;;

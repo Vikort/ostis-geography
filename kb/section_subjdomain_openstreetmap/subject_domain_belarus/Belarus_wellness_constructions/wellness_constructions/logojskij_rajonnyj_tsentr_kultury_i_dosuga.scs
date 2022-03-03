@@ -1,0 +1,10 @@
+logojskij_rajonnyj_tsentr_kultury_i_dosuga <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Логойский районный центр культуры и досуга]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+логойск;
+=>nrel_country:
+none;
+=>nrel_street:
+советская_улица;;

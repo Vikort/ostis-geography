@@ -1,0 +1,10 @@
+tsentr_kola <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Цэнтр Кола]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+переулок_чкалова;;

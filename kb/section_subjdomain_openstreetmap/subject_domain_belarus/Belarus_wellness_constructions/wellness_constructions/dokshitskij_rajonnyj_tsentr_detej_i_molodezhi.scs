@@ -1,0 +1,10 @@
+dokshitskij_rajonnyj_tsentr_detej_i_molodezhi <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Докшицкий районный центр детей и молодежи]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

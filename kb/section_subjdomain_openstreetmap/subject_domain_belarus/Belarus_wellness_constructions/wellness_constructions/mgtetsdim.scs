@@ -1,0 +1,12 @@
+mgtetsdim <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Minsk Tourist & Ecology Center]
+(* <- lang_en;; <- name_en;;*);
+[МГТЭЦДиМ]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;
