@@ -1,4 +1,4 @@
-concept_sport_construction
+concept_wellness_construction
 <-sc_node_not_relation;
 =>nrel_main_idtf:
 	[спортивное сооружение]
