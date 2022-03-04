@@ -2,15 +2,15 @@ ui_menu_get_villages_by_postfix <- ui_user_command_class_atom; ui_user_command_c
 
 ui_menu_get_villages_by_postfix
 => nrel_main_idtf: 
-	[Найти Поселки]
+	[Найти поселки по окончанию]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
-	[Запрос поиска поселков для указанного района]
+	[Запрос поиска поселков по окончанию]
 	(* <- lang_ru;; *);;
 
 ui_menu_get_villages_by_postfix
 => nrel_main_idtf: 
-	[Get Villages]
+	[Get villages by postfix]
 	(* <- lang_en;; *);
 => nrel_idtf: 
 	[Request searches for Villages of the specified by_postfix]

@@ -2,10 +2,10 @@ module.exports = function() {
 
     var kb = 'kb/ui_components/search_villages_by_region_component';
     var components = 'sc-web/components/search_villages_by_region_component/';
-    var clientJsDirPath = '../../sc-web/client/static/components/js/';
-    var clientCssDirPath = '../../sc-web/client/static/components/css/';
-    var clientHtmlDirPath = '../../sc-web/client/static/components/html/';
-    var clientImgDirPath = '../../sc-web/client/static/components/images/';
+    var clientJsDirPath = '../../../../ostis-web-platform/sc-web/client/static/components/js/';
+    var clientCssDirPath = '../../../../ostis-web-platform/sc-web/client/static/components/css/';
+    var clientHtmlDirPath = '../../../../ostis-web-platform/sc-web/client/static/components/html/';
+    var clientImgDirPath = '../../../../ostis-web-platform/sc-web/client/static/components/images/';
 
     return  {
         concat: {
@@ -40,7 +40,7 @@ module.exports = function() {
             kb: {
                 cwd: kb,
                 src: ['*'],
-                dest: '../../kb/ui_components/search_villages_by_region_component/',
+                dest: '../../../../kb/ui_components/search_villages_by_region_component/',
                 expand: true,
                 flatten: true
             }

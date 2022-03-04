@@ -15,7 +15,7 @@ sudo npm install -g grunt-cli
 ##Run grunt for building component
 
 ```sh
-cd series_search_component
+cd series_villages_by_region
 npm install
 grunt build
 ```

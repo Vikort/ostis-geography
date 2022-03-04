@@ -2,7 +2,7 @@ ui_menu_get_villages_by_district <- ui_user_command_class_atom; ui_user_command_
 
 ui_menu_get_villages_by_district
 => nrel_main_idtf: 
-	[Найти Поселки]
+	[Найти поселки по району]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
 	[Запрос поиска поселков для указанного района]
@@ -10,7 +10,7 @@ ui_menu_get_villages_by_district
 
 ui_menu_get_villages_by_district
 => nrel_main_idtf: 
-	[Get Villages]
+	[Get villages by district]
 	(* <- lang_en;; *);
 => nrel_idtf: 
 	[Request searches for Villages of the specified district]

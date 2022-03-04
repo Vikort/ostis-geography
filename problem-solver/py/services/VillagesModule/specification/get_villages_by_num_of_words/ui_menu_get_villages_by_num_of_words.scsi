@@ -2,15 +2,15 @@ ui_menu_get_villages_by_num_of_words <- ui_user_command_class_atom; ui_user_comm
 
 ui_menu_get_villages_by_num_of_words
 => nrel_main_idtf: 
-	[Найти Поселки]
+	[Найти поселки по количеству слов]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
-	[Запрос поиска поселков для указанного района]
+	[Запрос поиска поселков по количеству слов]
 	(* <- lang_ru;; *);;
 
 ui_menu_get_villages_by_num_of_words
 => nrel_main_idtf: 
-	[Get Villages]
+	[Get villages by num of words]
 	(* <- lang_en;; *);
 => nrel_idtf: 
 	[Request searches for Villages of the specified by_num_of_words]

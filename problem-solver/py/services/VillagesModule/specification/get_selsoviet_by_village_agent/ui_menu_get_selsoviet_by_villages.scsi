@@ -1,29 +1,29 @@
-ui_menu_get_region_by_village <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+ui_menu_get_selsoviet_by_village <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
 
-ui_menu_get_region_by_village
+ui_menu_get_selsoviet_by_village
 => nrel_main_idtf: 
-	[Найти регин по деревне]
+	[Найти сельсовет по деревне]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
-	[Запрос поиска регионов для указанного посёлка]
+	[Запрос поиска сельсоветов для указанного посёлка]
 	(* <- lang_ru;; *);;
 
-ui_menu_get_region_by_village
+ui_menu_get_selsoviet_by_village
 => nrel_main_idtf: 
 	[Get Villages]
 	(* <- lang_en;; *);
 => nrel_idtf: 
-	[Request searches for region of the specified village]
+	[Request searches for selsoviet of the specified village]
 	(* <- lang_en;; *);;
 
-ui_menu_get_region_by_village => ui_nrel_command_template:
+ui_menu_get_selsoviet_by_village => ui_nrel_command_template:
 	[*
-		action_get_region_by_village _-> ._question_get_region_by_village
+		action_get_selsoviet_by_village _-> ._question_get_selsoviet_by_village
 			(*
 				_-> rrel_1::ui_arg_1;;
 			*);;
-		._question_get_region_by_village _<- question;;
+		._question_get_selsoviet_by_village _<- question;;
 	*];;
 
-ui_menu_get_region_by_village => ui_nrel_command_lang_template: [Найти регион для $ui_arg_1] (* <- lang_ru;; *);;
-ui_menu_get_region_by_village => ui_nrel_command_lang_template: [Get region for $ui_arg_1] (* <- lang_en;; *);;
+ui_menu_get_selsoviet_by_village => ui_nrel_command_lang_template: [Найти сельсовет для $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_get_selsoviet_by_village => ui_nrel_command_lang_template: [Get selsoviet for $ui_arg_1] (* <- lang_en;; *);;

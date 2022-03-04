@@ -1,5 +1,5 @@
 
-sc_web_path=../../sc-web/client
+sc_web_path=../../../../ostis-web-platform/sc-web/client
 
 append_line()
 {
@@ -24,5 +24,5 @@ append_css()
     append_line $1 $2 "<link rel=\"stylesheet\" type=\"text/css\" href=\"/static/$2\" />"
 }
 
-append_js $sc_web_path/templates/components.html components/js/search_villages_by_district_component/search_villages_by_district_component.js
-append_css $sc_web_path/templates/components.html components/css/search_villages_by_district_component.css
+append_js $sc_web_path/templates/components.html components/js/search_villages_by_region_component/search_villages_by_region_component.js
+append_css $sc_web_path/templates/components.html components/css/search_villages_by_region_component.css

@@ -2,15 +2,15 @@ ui_menu_get_villages_by_exclusive_regexp <- ui_user_command_class_atom; ui_user_
 
 ui_menu_get_villages_by_exclusive_regexp
 => nrel_main_idtf: 
-	[Найти Поселки]
+	[Найти поселки по исключающему regexp]
 	(* <- lang_ru;; *);
 => nrel_idtf: 
-	[Запрос поиска поселков для указанного района]
+	[Запрос поиска поселков по исключающему regexp]
 	(* <- lang_ru;; *);;
 
 ui_menu_get_villages_by_exclusive_regexp
 => nrel_main_idtf: 
-	[Get Villages]
+	[Get villages by exclusive regexp]
 	(* <- lang_en;; *);
 => nrel_idtf: 
 	[Request searches for Villages of the specified by_exclusive_regexp]
