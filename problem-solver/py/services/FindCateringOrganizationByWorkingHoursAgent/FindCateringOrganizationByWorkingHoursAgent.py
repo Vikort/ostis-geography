@@ -15,7 +15,7 @@ class FindCateringOrganizationByWorkingHoursAgent(ScAgent):
         status = ScResult.Ok
 
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['find_catering_organization_by_working_hours'],
+                self.keynodes['action_find_catering_organization_by_working_hours'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):

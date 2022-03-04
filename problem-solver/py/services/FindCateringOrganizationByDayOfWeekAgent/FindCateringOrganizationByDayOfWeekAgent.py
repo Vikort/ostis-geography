@@ -15,7 +15,7 @@ class FindCateringOrganizationByDayOfWeekAgent(ScAgent):
         status = ScResult.Ok
 
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['find_catering_organization_by_day_of_week'],
+                self.keynodes['action_find_catering_organization_by_day_of_week'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):

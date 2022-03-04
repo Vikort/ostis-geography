@@ -1,5 +1,5 @@
 from common import ScModule, ScKeynodes, ScPythonEventType
-from FindCateringOrganizationByRateAgent import FindCateringOrganizationByRateAgent
+from FindCateringOrganizationByCuisineAgent import FindCateringOrganizationByCuisineAgent
 
 from sc import *
 

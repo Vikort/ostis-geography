@@ -15,7 +15,7 @@ class FindCateringOrganizationByPriceCategoryAgent(ScAgent):
         status = ScResult.Ok
 
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['find_catering_organization_by_price_category'],
+                self.keynodes['action_find_catering_organization_by_price_category'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):
