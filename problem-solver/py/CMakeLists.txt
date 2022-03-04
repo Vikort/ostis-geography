@@ -5,4 +5,3 @@ add_subdirectory(FindCateringOrganizationByRateAgent)
 add_subdirectory(FindCateringOrganizationByCuisineAgent)
 add_subdirectory(FindCateringOrganizationByOpenYearAgent)
 add_subdirectory(FindCateringOrganizationByPriceCategoryAgent)
-
