@@ -63,7 +63,7 @@ StreetTranslatorWindow = function (sandbox) {
         SCWeb.core.Server.resolveScAddr([actionName], function (keynodes) {
             let actionScAddr = keynodes[actionName];
             SCWeb.core.Main.doCommand(actionScAddr, [enNameAddr, ruNameAddr, countAddr], function (res) {
-                SCWeb.ui.WindowManager.appendHistoryItem(res.question);
+                //SCWeb.ui.WindowManager.appendHistoryItem(res.question);
             })
         })
     }
