@@ -56,7 +56,7 @@ var setSearchkindergartensByDistrictViewerWindow = function (sandbox) {
     this.sandbox.eventApplyTranslation = $.proxy(this.applyTranslation, this);
 };
 
-SCWeb.core.ComponentManager.appendComponentInitialize(SearchkindergartensBydistrictComponent);
+SCWeb.core.ComponentManager.appendComponentInitialize(SearchkindergartensByDistrictComponent);
 
 function findFilms(searchParams) {
     console.log(searchParams);
