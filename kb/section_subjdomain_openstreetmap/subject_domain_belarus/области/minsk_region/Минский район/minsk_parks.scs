@@ -1,0 +1,2399 @@
+alleya_940_letiya_minska <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Аллея 940 летия Минска]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Alleya 940 letiya Minska]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    21000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_semeynoe_derevo <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [парк Семейное дерево]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [park Semeynoe derevo]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    81200
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    760
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+prud_kuncevshina <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [пруд Кунцевщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [prud Kuncevshina]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    64400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2014
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1120
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_divivelka <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [парк Дививелка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [park Divivelka]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    167400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1400
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+lesopark_medvejino <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лесопарк Медвежино]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Lesopark Medvejino]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    156400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2009
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1640
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+semeyniy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Семейный сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Semeyniy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    22100
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2012
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1890
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_yakubovskoho <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Якубовского]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Yakubovskoho]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    15600
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    320
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+dendropark <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Дендропарк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Dendropark]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    224400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2800
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+yabloneviy_sad <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Яблоневый сад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Yabloneviy sad]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    124200
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1996
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2240
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_mikhaila_pavlova <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Михаила Павлова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Mikhaila Pavlova]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    296000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    820
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_60_letiya_minskoho_hosudarstvennoho_medicinskoho_universiteta <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер 60 летия Минского Государственного Медицинского Университета]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver 60 letiya Minskoho Hosudarstvennoho Medicinskoho Universiteta]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    20000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2010
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    270
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+dubovo_lipoviy_massiv_belaya_datcha <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Дубово-липовый массив "Белая Дача"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Dubovo-lipoviy massiv "Belaya Datcha"]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    66000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1900
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_minina <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Минина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Minina]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    27300
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1999
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_imeni_jukova <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер имени Жукова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver imeni Jukova]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    19000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1000
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+hrushevskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Грушевский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Hrushevskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    20580
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2004
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    186
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_polyanka <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Полянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Polyanka]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    27200
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2009
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    851
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+tutchinskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Тучинский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Tutchinskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    65100
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1394
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+lyuteranskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лютеранский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Lyuteranskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    11900
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    840
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+kalvariyskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Кальварийский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Kalvariyskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    15120
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+olshevskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Ольшевский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Olshevskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    27802
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    728
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_imeni_so_pritickoho <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер имени С.О. Притыцкого]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver imeni S.O. Pritickoho]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    32800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    0
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+bulvar_danili_serditcha <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Бульвар Данилы Сердича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Bulvar Danili Serditcha]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    41280
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2009
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    590
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_dubki <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Дубки]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Dubki]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    19484
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    640
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_tivali <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Тивали]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Tivali]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    406000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2002
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    880
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_pohulyanka <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Погулянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Pohulyanka]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    30800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2002
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1300
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_uho_tchavesa <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Уго Чавеса]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Uho Tchavesa]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    265000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1540
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_60_letiya_oktyabrya <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк 60-летия Октября]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park 60-letiya Oktyabrya]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    270000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1974
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1280
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+evreyskiy_memorialniy_park <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Еврейский мемориальный парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Evreyskiy memorialniy park]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    76500
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    460
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+yubileyniy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Юбилейный сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Yubileyniy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    16500
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1999
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    220
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+tatarskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Татарский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Tatarskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    12600
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1160
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_kurasovshina <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Курасовщина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Kurasovshina]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    288000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1995
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1500
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+sad_hashkevitcha <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сад Гашкевича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Sad Hashkevitcha]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    50000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    5500
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+vilkaushtchina <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Вилкаушчына]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Vilkaushtchina]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    43440
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2005
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    5600
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+loshickiy_yar <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лошицкий яр]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Loshickiy yar]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    30000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1994
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    5400
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+loshickiy_park <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лошицкий парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Loshickiy park]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    1140000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1954
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    4490
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+serebryaniy_loh <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Серебряный Лог]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Serebryaniy Loh]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    279000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1960
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    3400
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_hrekovoy <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Грековой]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Hrekovoy]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    689000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1978
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    4100
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_900_letiya_minska <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк 900-летия Минска]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park 900-letiya Minska]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    265000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1980
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2700
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+alleya_molodojyonov <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Аллея молодожёнов]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Alleya molodojyonov]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    22000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_zinoviya_kolobanova <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Зиновия Колобанова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Zinoviya Kolobanova]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    11000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2700
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+alleya_bhaa <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Аллея БГАА]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Alleya BHAA]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    10800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2700
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_im_tchinhiza_aytmatova <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк им. Чингиза Айтматова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park im. Tchinhiza Aytmatova]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    303000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1997
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1190
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_imeni_omara_khayyama <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер имени Омара Хайяма]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver imeni Omara Khayyama]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    58000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1986
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1700
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+antonovskiy_park <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Антоновский парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Antonovskiy park]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    292800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1995
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1370
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_klumova <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Клумова]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Klumova]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    36800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1999
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    4700
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_po_ul_stakhanovskoy_v_rayone_domov_3335 <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер по ул. Стахановской в районе домов №33,35]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver po ul. Stakhanovskoy v rayone domov №33,35]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    5500
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    5300
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+sodrujestvo <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Содружество]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Sodrujestvo]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    11658
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2004
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    150
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_imeni_50_letiya_oktyabrya <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк имени 50-летия Октября]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park imeni 50-letiya Oktyabrya]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    348180
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1999
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    230
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+perspektivniy_park <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Перспективный парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Perspektivniy park]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    2000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1400
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+mikhaylovskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Михайловский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Mikhaylovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    9900
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    320
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+malomedvejinskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Маломедвежинский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Malomedvejinskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    88400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1999
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    950
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+polockiy_park <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Полоцкий парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Polockiy park]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    345000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1950
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2940
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+lesopark_zelyoniy_luh <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лесопарк Зелёный Луг]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Lesopark Zelyoniy Luh]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    491400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1976
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1300
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+sevastopolskiy_park <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Севастопольский парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Sevastopolskiy park]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    820800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1960
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2000
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_pisateley <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Писателей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Pisateley]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    429400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1000
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_kamney <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк камней]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park kamney]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    63800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_tchelyuskincev <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Челюскинцев]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Tchelyuskincev]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    711000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1976
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    100
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+botanitcheskiy_sad <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Ботанический сад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Botanitcheskiy sad]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    869200
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1978
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    650
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+bulvar_vmulyavina <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Бульвар В.Мулявина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Bulvar V.Mulyavina]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    6120
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1966
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    190
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+bondarevskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Бондаревский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Bondarevskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    3726
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2003
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    210
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+komarovskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Комаровский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Komarovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    14385
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1980
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    290
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_horoda_pobratima_tchantchun <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер города-побратима Чанчунь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver horoda-pobratima Tchantchun]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    4399
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    630
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+shpitalniy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Шпитальный сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Shpitalniy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    5555
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    820
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_drujbi_narodov <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Дружбы Народов]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Drujbi Narodov]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    542800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1400
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+kievskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Киевский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Kievskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    71300
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2460
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+mozirskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Мозырский Сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Mozirskiy Skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    9900
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    3600
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+brahinskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Брагинский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Brahinskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    22540
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    4100
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_pobedi <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Победы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Pobedi]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    536800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1945
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1700
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_simona_bolivara <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Симона Боливара]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Simona Bolivara]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    37400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    940
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_horkoho <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Горького]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Horkoho]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    228800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1965
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    760
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_yanki_kupali <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Янки Купалы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Yanki Kupali]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    95200
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1970
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    450
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_marata_kazeya <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк Марата Казея]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park Marata Kazeya]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    59400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    530
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+alleya_drujbi <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Аллея Дружбы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Alleya Drujbi]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    27200
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    500
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_starostinskaya_sloboda <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Старостинская слобода]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Starostinskaya sloboda]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    303600
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1976
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    800
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+tatarskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Татарский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Tatarskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    12600
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1120
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+lesopark_anharskaya_2 <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лесопарк Ангарская-2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Lesopark Anharskaya-2]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    202500
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2100
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+lesopark_stepyanka <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лесопарк Степянка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Lesopark Stepyanka]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    454300
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1997
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    4100
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_im_aleksandra_herasimenko <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк им. Александра Герасименко]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park im. Aleksandra Herasimenko]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    117300
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1989
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1600
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+sad_hashkevitcha <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сад Гашкевича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Sad Hashkevitcha]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    48300
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    3900
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_senojani <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Сеножаны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Senojani]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    9100
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1250
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+pamyatnik_prirodi_dubrava <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Памятник природы «Дубрава»]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Pamyatnik prirodi «Dubrava»]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    341400
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+storojyovskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сторожёвский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Storojyovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    11880
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1190
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+perespenskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Переспенский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Perespenskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    9350
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1982
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1250
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+stepanovskiy_sad <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Степановский сад]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Stepanovskiy sad]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    9800
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1999
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    1000
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_adama_mickevitcha <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Адама Мицкевича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Adama Mickevitcha]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    14000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    640
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_edvarda_voynilovitcha <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Эдварда Войниловича]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Edvarda Voynilovitcha]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    6147
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2001
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    660
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+sendayskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сендайский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Sendayskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    23368
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2006
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    250
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+bobruyskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Бобруйский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Bobruyskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    17310
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    490
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+lyakhovskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Ляховский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Lyakhovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    11970
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    620
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+lesopark_drozdi <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Лесопарк Дрозды]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Lesopark Drozdi]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    235600
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1978
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    4000
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+aleksandrovskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Александровский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Aleksandrovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    2100
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1991
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    50
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_hricevca <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Грицевца]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Hricevca]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    6100
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    170
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+park_40_letiya_oktyabrya <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Парк 40-летия Октября]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Park 40-letiya Oktyabrya]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    195000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1954
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    460
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+alleya_pobedi <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Аллея победы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Alleya pobedi]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    3689
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1970
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2000
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+antonovskiy_skver <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Антоновский сквер]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Antonovskiy skver]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    2279
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    7150
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+kuropati <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Куропаты]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Kuropati]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    504000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1947
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    4200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_belarus_partizanskaya <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [сквер Беларусь партизанская]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [skver Belarus partizanskaya]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    66000
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    1999
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    50
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+landshaftniy_park <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Ландшафтный парк]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Landshaftniy park]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    96600
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    630
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+skver_kotovka <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Сквер Котовка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Skver Kotovka]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    34700
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2008
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    2200
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
+        
+bulvar_tolbukhina <- concept_park;
+<-concept_minsk_parks;
+=>nrel_main_idtf:
+    [Бульвар Толбухина]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_main_idtf:
+    [Bulvar Tolbukhina]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_square:
+    36791
+    (* <- concept_square;; <- concept_square_meters;;*);
+=>nrel_founding_year:
+    2000
+    (* <- concept_year;; *);
+=>nrel_distance_to_nearest_metro_station:
+    50
+    (* <- concept_distance;; <- concept_meters;;*);
+=>nrel_country:
+    belarus;
+=>nrel_region:
+    minsk_region;
+=>nrel_district:
+    minsk_district;;
