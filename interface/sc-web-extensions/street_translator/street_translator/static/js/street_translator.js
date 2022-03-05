@@ -26,10 +26,9 @@ StreetTranslatorWindow = function (sandbox) {
         getUIComponentsIdentifiers();
         $(answerButton).click(function (event) {
             event.preventDefault();
-            let englishName = $(nameInEnglish).val();
-            let russanName = $(nameInRussian).val();
-            let countNum = $(count).val();
-            alert([englishName, russanName, countNum]);
+            let englishName = $(nameInEnglish).attr('sc_addr');
+            let russanName = $(nameInRussian).attr('sc_addr');
+            let countNum = $(count).attr('sc_addr');
             startTranslation(englishName, russanName, countNum);
         });
     });
@@ -55,21 +54,15 @@ StreetTranslatorWindow = function (sandbox) {
                 $(count).attr('sc_addr', countScAddr);
                 let translateButtonText = identifiers[keynodes['ui_street_translator_button']];
                 $(answerButton).html(translateButtonText);
-                alert([enNameComponentScAddr, ruNameComponentScAddr, countScAddr]);
             });
         });
     }
 
-    function startTranslation(enName, ruName, count) {
+    function startTranslation(enNameAddr, ruNameAddr, countAddr) {
         const actionName = "ui_menu_street_translator";
-        SCWeb.core.Server.resolveScAddr([actionName, enName, ruName, count], function (keynodes) {
-            let enScAddr = keynodes[enName];
-            let ruScAddr = keynodes[ruName];
-            let countScAddr = keynodes[count];
+        SCWeb.core.Server.resolveScAddr([actionName], function (keynodes) {
             let actionScAddr = keynodes[actionName];
-            alert([enScAddr, ruScAddr, countScAddr, actionScAddr]);
-            SCWeb.core.Main.doCommand(actionScAddr, [enScAddr, ruScAddr, countScAddr], function (res) {
-                console.log(res);
+            SCWeb.core.Main.doCommand(actionScAddr, [enNameAddr, ruNameAddr, countAddr], function (res) {
                 SCWeb.ui.WindowManager.appendHistoryItem(res.question);
             })
         })
