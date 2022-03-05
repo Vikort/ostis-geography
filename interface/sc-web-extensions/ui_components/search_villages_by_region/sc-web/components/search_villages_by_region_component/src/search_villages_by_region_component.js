@@ -58,7 +58,7 @@ var setSearchVillagesByRegionViewerWindow = function (sandbox) {
 
 SCWeb.core.ComponentManager.appendComponentInitialize(SearchVillagesByRegionComponent);
 
-function findFilms(searchParams) {
+function findVillages(searchParams) {
     console.log(searchParams);
     
     SCWeb.core.Server.resolveScAddr([searchParams.Region], function (keynodes) {

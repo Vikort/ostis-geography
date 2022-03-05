@@ -58,7 +58,7 @@ var setSearchVillagesBySelsovietViewerWindow = function (sandbox) {
 
 SCWeb.core.ComponentManager.appendComponentInitialize(SearchVillagesBySelsovietComponent);
 
-function findFilms(searchParams) {
+function findVillages(searchParams) {
     console.log(searchParams);
     
     SCWeb.core.Server.resolveScAddr([searchParams.Selsoviet], function (keynodes) {

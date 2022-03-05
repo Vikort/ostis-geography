@@ -56,9 +56,9 @@ var setSearchVillagesByDistrictViewerWindow = function (sandbox) {
     this.sandbox.eventApplyTranslation = $.proxy(this.applyTranslation, this);
 };
 
-SCWeb.core.ComponentManager.appendComponentInitialize(SearchVillagesBydistrictComponent);
+SCWeb.core.ComponentManager.appendComponentInitialize(SearchVillagesByDistrictComponent);
 
-function findFilms(searchParams) {
+function findVillages(searchParams) {
     console.log(searchParams);
     
     SCWeb.core.Server.resolveScAddr([searchParams.District], function (keynodes) {
