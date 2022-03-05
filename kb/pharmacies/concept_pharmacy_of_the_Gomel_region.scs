@@ -32,6 +32,7 @@ concept_pharmacy_of_the_Gomel_region
 		{
 			concept_pharmacy;
 			gomel_region;
-            belarus
+			belarus
 		};;
 	*);;
+	

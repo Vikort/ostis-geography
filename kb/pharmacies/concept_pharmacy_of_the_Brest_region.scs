@@ -32,6 +32,6 @@ concept_pharmacy_of_the_Brest_region
 		{
 			concept_pharmacy;
 			brest_region;
-            belarus
+			belarus
 		};;
 	*);;

@@ -32,6 +32,7 @@ concept_pharmacy_of_the_Minsk_region
 		{
 			concept_pharmacy;
 			minsk_region;
-            belarus
+			belarus
 		};;
 	*);;
+	

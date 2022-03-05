@@ -3,6 +3,7 @@ pharmacy_Belfarmacy_1_category_1_Minsk
 => nrel_main_idtf: [Аптека №1] (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:belarus;
 =>nrel_city:minsk;
+=>nrel_district:Oktjabrskij_rajon;
 =>nrel_region:minsk_region;
 =>nrel_street:[Веры Хоружей] (* <- lang_ru;; *);
 =>nrel_location_house_number:[23/1];

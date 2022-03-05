@@ -32,6 +32,7 @@ concept_pharmacy_of_the_Grodno_region
 		{
 			concept_pharmacy;
 			grodno_region;
-            belarus
+			belarus
 		};;
 	*);;
+	

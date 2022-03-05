@@ -5,7 +5,7 @@ concept_pharmacy
 =>nrel_inclusion:concept_pharmacy_chain;	
 <- rrel_key_sc_element: ...
     (*
-		<- sc_definition;;
+		<- definition;;
 		=> nrel_main_idtf:
 			[Def.(pharmacy)] (* <-lang_en;; *);
 			[Опр.(аптека)] (* <-lang_ru;; *);;

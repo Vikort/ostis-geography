@@ -4,7 +4,7 @@ concept_pharmacy_chain
 	[аптечная сеть] (* <- lang_ru;; *);
 <- rrel_key_sc_element: ...
     (*
-		<- sc_definition;;
+		<- definition;;
 		=> nrel_main_idtf:
 			[Def.(pharmacy chain)] (* <-lang_en;; *);
 			[Опр.(аптечная сеть)] (* <-lang_ru;; *);;
@@ -28,4 +28,3 @@ concept_pharmacy_chain
 -> pharmacy_chain_Belfarmacy;
 -> pharmacy_chain_ADEL;
 -> pharmacy_chain_Dobriya_leki;;
-
