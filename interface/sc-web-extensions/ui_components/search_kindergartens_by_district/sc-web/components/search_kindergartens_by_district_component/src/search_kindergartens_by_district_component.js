@@ -37,7 +37,7 @@ var setSearchkindergartensByDistrictViewerWindow = function (sandbox) {
                             District: districtString.toString()
                         };
 
-                        findkindergartens(searchParams);
+                        findKindergartens(searchParams);
                     }
                 });
             });
@@ -58,7 +58,7 @@ var setSearchkindergartensByDistrictViewerWindow = function (sandbox) {
 
 SCWeb.core.ComponentManager.appendComponentInitialize(SearchkindergartensByDistrictComponent);
 
-function findFilms(searchParams) {
+function findKindergartens(searchParams) {
     console.log(searchParams);
     
     SCWeb.core.Server.resolveScAddr([searchParams.District], function (keynodes) {

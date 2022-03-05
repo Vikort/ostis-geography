@@ -37,7 +37,7 @@ var setSearchkindergartensBycityViewerWindow = function (sandbox) {
                             city: cityString.toString()
                         };
 
-                        findkindergartens(searchParams);
+                        findKindergartens(searchParams);
                     }
                 });
             });
@@ -58,7 +58,7 @@ var setSearchkindergartensBycityViewerWindow = function (sandbox) {
 
 SCWeb.core.ComponentManager.appendComponentInitialize(SearchkindergartensBycityComponent);
 
-function findFilms(searchParams) {
+function findKindergartens(searchParams) {
     console.log(searchParams);
     
     SCWeb.core.Server.resolveScAddr([searchParams.city], function (keynodes) {

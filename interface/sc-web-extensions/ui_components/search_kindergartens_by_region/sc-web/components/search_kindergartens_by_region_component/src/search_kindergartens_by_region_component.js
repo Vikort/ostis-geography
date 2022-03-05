@@ -37,7 +37,7 @@ var setSearchkindergartensByRegionViewerWindow = function (sandbox) {
                             Region: RegionString.toString()
                         };
 
-                        findkindergartens(searchParams);
+                        findKindergartens(searchParams);
                     }
                 });
             });
@@ -58,7 +58,7 @@ var setSearchkindergartensByRegionViewerWindow = function (sandbox) {
 
 SCWeb.core.ComponentManager.appendComponentInitialize(SearchkindergartensByRegionComponent);
 
-function findFilms(searchParams) {
+function findKindergartens(searchParams) {
     console.log(searchParams);
     
     SCWeb.core.Server.resolveScAddr([searchParams.Region], function (keynodes) {
