@@ -1,7 +1,7 @@
 module.exports = function() {
 
-    var kb = 'kb/ui_components/search_kindergardens_by_city_component';
-    var components = 'sc-web/components/search_kindergardens_by_city_component/';
+    var kb = 'kb/ui_components/search_kindergartens_by_city_component';
+    var components = 'sc-web/components/search_kindergartens_by_city_component/';
     var clientJsDirPath = '../../../../ostis-web-platform/sc-web/client/static/components/js/';
     var clientCssDirPath = '../../../../ostis-web-platform/sc-web/client/static/components/css/';
     var clientHtmlDirPath = '../../../../ostis-web-platform/sc-web/client/static/components/html/';
@@ -40,7 +40,7 @@ module.exports = function() {
             kb: {
                 cwd: kb,
                 src: ['*'],
-                dest: '../../../../kb/ui_components/search_kindergardens_by_city_component/',
+                dest: '../../../../kb/ui_components/search_kindergartens_by_city_component/',
                 expand: true,
                 flatten: true
             }

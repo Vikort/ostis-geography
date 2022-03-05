@@ -1,14 +1,14 @@
-SearchKindergardensBycityComponent = {
-    ext_lang: 'search_kindergardens_by_city_code',
-    formats: ['format_search_kindergardens_by_city_json'],
+SearchkindergartensBycityComponent = {
+    ext_lang: 'search_kindergartens_by_city_code',
+    formats: ['format_search_kindergartens_by_city_json'],
     struct_support: true,
 
     factory: function (sandbox) {
-        return new setSearchKindergardensBycityViewerWindow(sandbox);
+        return new setSearchkindergartensBycityViewerWindow(sandbox);
     }
 };
 
-var setSearchKindergardensBycityViewerWindow = function (sandbox) {
+var setSearchkindergartensBycityViewerWindow = function (sandbox) {
 
     var self = this;
     this.sandbox = sandbox;
@@ -18,26 +18,26 @@ var setSearchKindergardensBycityViewerWindow = function (sandbox) {
 
     var buttonFind = '#series-tools-' + sandbox.container + " #button-find-series-city";
 
-    var keynodes = ['ui_search_kindergardens_by_city_in_memory'];
+    var keynodes = ['ui_search_kindergartens_by_city_in_memory'];
 
     $('#' + sandbox.container).prepend('<div class="inputBox" id="series-tools-' + sandbox.container + '"></div>');
     $('#series-tools-' + sandbox.container).load('static/components/html/search_kindergartens_by_city_component.html', function () {
         SCWeb.core.Server.resolveScAddr(keynodes, function (keynodes) {
             SCWeb.core.Server.resolveIdentifiers(keynodes, function (idf) {
-                var buttonSearch = idf[keynodes['ui_search_kindergardens_by_city_in_memory']];
+                var buttonSearch = idf[keynodes['ui_search_kindergartens_by_city_in_memory']];
 
                 $(buttonFind).html(buttonSearch);
                 $(buttonFind).click(function () {
                     var cityString = $(inputSeasons).val();
 
-                    console.log("Kindergardens find city string" + cityString);
+                    console.log("kindergartens find city string" + cityString);
 
                     if (cityString) {
                         var searchParams = {
                             city: cityString.toString()
                         };
 
-                        findKindergardens(searchParams);
+                        findkindergartens(searchParams);
                     }
                 });
             });
@@ -47,7 +47,7 @@ var setSearchKindergardensBycityViewerWindow = function (sandbox) {
     this.applyTranslation = function (namesMap) {
         SCWeb.core.Server.resolveScAddr(keynodes, function (keynodes) {
             SCWeb.core.Server.resolveIdentifiers(keynodes, function (idf) {
-                var buttonLoad = idf[keynodes['ui_search_kindergardens_by_city_in_memory']];
+                var buttonLoad = idf[keynodes['ui_search_kindergartens_by_city_in_memory']];
 
                 $(buttonFind).html(buttonLoad);
             });
@@ -56,7 +56,7 @@ var setSearchKindergardensBycityViewerWindow = function (sandbox) {
     this.sandbox.eventApplyTranslation = $.proxy(this.applyTranslation, this);
 };
 
-SCWeb.core.ComponentManager.appendComponentInitialize(SearchKindergardensBycityComponent);
+SCWeb.core.ComponentManager.appendComponentInitialize(SearchkindergartensBycityComponent);
 
 function findFilms(searchParams) {
     console.log(searchParams);
@@ -65,8 +65,8 @@ function findFilms(searchParams) {
         addr1 = keynodes[searchParams.city];
         console.log("addr1", addr1);
         console.log("arguments", SCWeb.core.Arguments._arguments);
-        SCWeb.core.Server.resolveScAddr(["ui_menu_get_kindergardens_by_city"], function (data) {
-            var cmd = data["ui_menu_get_kindergardens_by_city"];
+        SCWeb.core.Server.resolveScAddr(["ui_menu_get_kindergartens_by_city"], function (data) {
+            var cmd = data["ui_menu_get_kindergartens_by_city"];
             console.log("cmd", cmd);
             SCWeb.core.Main.doCommand(cmd, [addr1], function (result) {
                 if (result.question != undefined) {

@@ -24,5 +24,5 @@ append_css()
     append_line $1 $2 "<link rel=\"stylesheet\" type=\"text/css\" href=\"/static/$2\" />"
 }
 
-append_js $sc_web_path/templates/components.html components/js/search_kindergardens_by_region_component/search_kindergardens_by_region_component.js
-append_css $sc_web_path/templates/components.html components/css/search_kindergardens_by_region_component.css
+append_js $sc_web_path/templates/components.html components/js/search_kindergartens_by_region_component/search_kindergartens_by_region_component.js
+append_css $sc_web_path/templates/components.html components/css/search_kindergartens_by_region_component.css

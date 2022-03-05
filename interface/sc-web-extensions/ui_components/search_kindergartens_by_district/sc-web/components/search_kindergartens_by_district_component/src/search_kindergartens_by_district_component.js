@@ -1,14 +1,14 @@
-SearchKindergardensByDistrictComponent = {
-    ext_lang: 'search_kindergardens_by_district_code',
-    formats: ['format_search_kindergardens_by_district_json'],
+SearchkindergartensByDistrictComponent = {
+    ext_lang: 'search_kindergartens_by_district_code',
+    formats: ['format_search_kindergartens_by_district_json'],
     struct_support: true,
 
     factory: function (sandbox) {
-        return new setSearchKindergardensByDistrictViewerWindow(sandbox);
+        return new setSearchkindergartensByDistrictViewerWindow(sandbox);
     }
 };
 
-var setSearchKindergardensByDistrictViewerWindow = function (sandbox) {
+var setSearchkindergartensByDistrictViewerWindow = function (sandbox) {
 
     var self = this;
     this.sandbox = sandbox;
@@ -18,26 +18,26 @@ var setSearchKindergardensByDistrictViewerWindow = function (sandbox) {
 
     var buttonFind = '#series-tools-' + sandbox.container + " #button-find-series-district";
 
-    var keynodes = ['ui_search_kindergardens_by_district_in_memory'];
+    var keynodes = ['ui_search_kindergartens_by_district_in_memory'];
 
     $('#' + sandbox.container).prepend('<div class="inputBox" id="series-tools-' + sandbox.container + '"></div>');
     $('#series-tools-' + sandbox.container).load('static/components/html/search_kindergartens_by_district_component.html', function () {
         SCWeb.core.Server.resolveScAddr(keynodes, function (keynodes) {
             SCWeb.core.Server.resolveIdentifiers(keynodes, function (idf) {
-                var buttonSearch = idf[keynodes['ui_search_kindergardens_by_district_in_memory']];
+                var buttonSearch = idf[keynodes['ui_search_kindergartens_by_district_in_memory']];
 
                 $(buttonFind).html(buttonSearch);
                 $(buttonFind).click(function () {
                     var districtString = $(inputSeasons).val();
 
-                    console.log("kindergardens find district string" + districtString);
+                    console.log("kindergartens find district string" + districtString);
 
                     if (districtString) {
                         var searchParams = {
                             District: districtString.toString()
                         };
 
-                        findKindergardens(searchParams);
+                        findkindergartens(searchParams);
                     }
                 });
             });
@@ -47,7 +47,7 @@ var setSearchKindergardensByDistrictViewerWindow = function (sandbox) {
     this.applyTranslation = function (namesMap) {
         SCWeb.core.Server.resolveScAddr(keynodes, function (keynodes) {
             SCWeb.core.Server.resolveIdentifiers(keynodes, function (idf) {
-                var buttonLoad = idf[keynodes['ui_search_kindergardens_by_district_in_memory']];
+                var buttonLoad = idf[keynodes['ui_search_kindergartens_by_district_in_memory']];
 
                 $(buttonFind).html(buttonLoad);
             });
@@ -56,7 +56,7 @@ var setSearchKindergardensByDistrictViewerWindow = function (sandbox) {
     this.sandbox.eventApplyTranslation = $.proxy(this.applyTranslation, this);
 };
 
-SCWeb.core.ComponentManager.appendComponentInitialize(SearchKindergardensBydistrictComponent);
+SCWeb.core.ComponentManager.appendComponentInitialize(SearchkindergartensBydistrictComponent);
 
 function findFilms(searchParams) {
     console.log(searchParams);
@@ -65,8 +65,8 @@ function findFilms(searchParams) {
         addr1 = keynodes[searchParams.District];
         console.log("addr1", addr1);
         console.log("arguments", SCWeb.core.Arguments._arguments);
-        SCWeb.core.Server.resolveScAddr(["ui_menu_get_kindergardens_by_district"], function (data) {
-            var cmd = data["ui_menu_get_kindergardens_by_district"];
+        SCWeb.core.Server.resolveScAddr(["ui_menu_get_kindergartens_by_district"], function (data) {
+            var cmd = data["ui_menu_get_kindergartens_by_district"];
             console.log("cmd", cmd);
             SCWeb.core.Main.doCommand(cmd, [addr1], function (result) {
                 if (result.question != undefined) {
