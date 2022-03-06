@@ -32,8 +32,8 @@ class StreetTranslatorExecuteAgent(ScAgent):
                 print(enName)
                 ruName = self.get_main_idtf(ruNameNode)
                 count = self.get_main_idtf(countNode)
-                os.system(f"../../tools/street_parser/StreetTranslator {enName} {ruName} {count}")
-                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct) 
+                os.system(f"../../tools/street_parser/StreetTranslator hrodna Гродно 101")
+                answerNode = self.ctx.CreateNode(ScType.NodeConstStruct)
                 self.finish_agent(self.main_node, answerNode)
             except Exception as ex:
                 print(colored(str(ex), color='red'))
