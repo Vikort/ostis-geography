@@ -14,4 +14,10 @@ yezerishche <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    ezerischenskiy_selsoviet;;
+    ezerischenskiy_selsoviet;
+=>nrel_population:
+    1116(*=>nrel_main_idtf:
+    [1116];;*);
+=>nrel_distanceFromArea:
+    73(*=>nrel_main_idtf:
+    [73];;*);;

@@ -14,4 +14,10 @@ gyrki <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    buchihinskiy_selsoviet;;
+    buchihinskiy_selsoviet;
+=>nrel_population:
+    79(*=>nrel_main_idtf:
+    [79];;*);
+=>nrel_distanceFromArea:
+    67(*=>nrel_main_idtf:
+    [67];;*);;

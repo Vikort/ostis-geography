@@ -14,4 +14,10 @@ vorontsevichi <- concept_village;
 =>nrel_district:
     talachyn_district;
 =>nrel_selsoviet:
-    volosovskiy_selsoviet;;
+    volosovskiy_selsoviet;
+=>nrel_population:
+    77(*=>nrel_main_idtf:
+    [77];;*);
+=>nrel_distanceFromArea:
+    93(*=>nrel_main_idtf:
+    [93];;*);;

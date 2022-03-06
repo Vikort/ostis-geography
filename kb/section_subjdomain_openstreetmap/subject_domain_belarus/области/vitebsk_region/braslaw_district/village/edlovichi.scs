@@ -14,4 +14,10 @@ edlovichi <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    opsovsky_selsoviet;;
+    opsovsky_selsoviet;
+=>nrel_population:
+    95(*=>nrel_main_idtf:
+    [95];;*);
+=>nrel_distanceFromArea:
+    210(*=>nrel_main_idtf:
+    [210];;*);;

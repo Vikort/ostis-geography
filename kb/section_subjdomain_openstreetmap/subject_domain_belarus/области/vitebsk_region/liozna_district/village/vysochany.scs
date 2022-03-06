@@ -14,4 +14,10 @@ vysochany <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    krynkovskiy_selsoviet;;
+    krynkovskiy_selsoviet;
+=>nrel_population:
+    65(*=>nrel_main_idtf:
+    [65];;*);
+=>nrel_distanceFromArea:
+    28(*=>nrel_main_idtf:
+    [28];;*);;

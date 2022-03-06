@@ -14,4 +14,10 @@ uzrechye <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    yzrechskiy_selsoviet;;
+    yzrechskiy_selsoviet;
+=>nrel_population:
+    108(*=>nrel_main_idtf:
+    [108];;*);
+=>nrel_distanceFromArea:
+    128(*=>nrel_main_idtf:
+    [128];;*);;

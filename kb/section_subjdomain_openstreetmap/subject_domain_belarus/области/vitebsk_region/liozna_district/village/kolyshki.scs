@@ -14,4 +14,10 @@ kolyshki <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    yaskobschinskiy_selsoviet;;
+    yaskobschinskiy_selsoviet;
+=>nrel_population:
+    211(*=>nrel_main_idtf:
+    [211];;*);
+=>nrel_distanceFromArea:
+    48(*=>nrel_main_idtf:
+    [48];;*);;

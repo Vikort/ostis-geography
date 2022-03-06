@@ -14,4 +14,10 @@ slavnoye <- concept_village;
 =>nrel_district:
     talachyn_district;
 =>nrel_selsoviet:
-    slavnovskiy_selsoviet;;
+    slavnovskiy_selsoviet;
+=>nrel_population:
+    91(*=>nrel_main_idtf:
+    [91];;*);
+=>nrel_distanceFromArea:
+    110(*=>nrel_main_idtf:
+    [110];;*);;

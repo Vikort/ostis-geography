@@ -14,4 +14,10 @@ lukoml <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    lukomlskiy_selsoviet;;
+    lukomlskiy_selsoviet;
+=>nrel_population:
+    420(*=>nrel_main_idtf:
+    [420];;*);
+=>nrel_distanceFromArea:
+    101(*=>nrel_main_idtf:
+    [101];;*);;

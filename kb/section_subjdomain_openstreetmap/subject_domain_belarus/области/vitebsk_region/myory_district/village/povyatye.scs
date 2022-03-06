@@ -14,4 +14,10 @@ povyatye <- concept_village;
 =>nrel_district:
     myory_district;
 =>nrel_selsoviet:
-    povyatskiy_selsoviet;;
+    povyatskiy_selsoviet;
+=>nrel_population:
+    320(*=>nrel_main_idtf:
+    [320];;*);
+=>nrel_distanceFromArea:
+    192(*=>nrel_main_idtf:
+    [192];;*);;

@@ -14,4 +14,10 @@ yazvino <- concept_village;
 =>nrel_district:
     shumilina_district;
 =>nrel_selsoviet:
-    svetloselskiy_selsoviet;;
+    svetloselskiy_selsoviet;
+=>nrel_population:
+    386(*=>nrel_main_idtf:
+    [386];;*);
+=>nrel_distanceFromArea:
+    30(*=>nrel_main_idtf:
+    [30];;*);;

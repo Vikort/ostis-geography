@@ -14,4 +14,10 @@ zazerye <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    gomelskiy_selsoviet;;
+    gomelskiy_selsoviet;
+=>nrel_population:
+    185(*=>nrel_main_idtf:
+    [185];;*);
+=>nrel_distanceFromArea:
+    90(*=>nrel_main_idtf:
+    [90];;*);;

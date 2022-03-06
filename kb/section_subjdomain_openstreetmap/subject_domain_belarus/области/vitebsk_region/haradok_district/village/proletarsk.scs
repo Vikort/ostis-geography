@@ -14,4 +14,10 @@ proletarsk <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    dolgopolskiy_selsoviet;;
+    dolgopolskiy_selsoviet;
+=>nrel_population:
+    38(*=>nrel_main_idtf:
+    [38];;*);
+=>nrel_distanceFromArea:
+    57(*=>nrel_main_idtf:
+    [57];;*);;

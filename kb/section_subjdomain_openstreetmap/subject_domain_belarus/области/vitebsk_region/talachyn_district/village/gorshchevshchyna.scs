@@ -14,4 +14,10 @@ gorshchevshchyna <- concept_village;
 =>nrel_district:
     talachyn_district;
 =>nrel_selsoviet:
-    oboleckiy_selsoviet;;
+    oboleckiy_selsoviet;
+=>nrel_population:
+    102(*=>nrel_main_idtf:
+    [102];;*);
+=>nrel_distanceFromArea:
+    71(*=>nrel_main_idtf:
+    [71];;*);;

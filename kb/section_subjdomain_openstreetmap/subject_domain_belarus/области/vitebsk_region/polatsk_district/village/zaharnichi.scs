@@ -14,4 +14,10 @@ zaharnichi <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    polotovskiy_selsoviet;;
+    polotovskiy_selsoviet;
+=>nrel_population:
+    381(*=>nrel_main_idtf:
+    [381];;*);
+=>nrel_distanceFromArea:
+    116(*=>nrel_main_idtf:
+    [116];;*);;

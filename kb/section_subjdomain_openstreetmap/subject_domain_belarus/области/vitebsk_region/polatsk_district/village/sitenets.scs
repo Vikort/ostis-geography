@@ -14,4 +14,10 @@ sitenets <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    polotovskiy_selsoviet;;
+    polotovskiy_selsoviet;
+=>nrel_population:
+    228(*=>nrel_main_idtf:
+    [228];;*);
+=>nrel_distanceFromArea:
+    86(*=>nrel_main_idtf:
+    [86];;*);;

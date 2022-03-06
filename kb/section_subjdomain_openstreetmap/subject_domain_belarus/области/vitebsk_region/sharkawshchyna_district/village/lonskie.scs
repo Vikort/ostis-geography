@@ -14,4 +14,10 @@ lonskie <- concept_village;
 =>nrel_district:
     sharkawshchyna_district;
 =>nrel_selsoviet:
-    iodskiy_selsoviet;;
+    iodskiy_selsoviet;
+=>nrel_population:
+    73(*=>nrel_main_idtf:
+    [73];;*);
+=>nrel_distanceFromArea:
+    187(*=>nrel_main_idtf:
+    [187];;*);;

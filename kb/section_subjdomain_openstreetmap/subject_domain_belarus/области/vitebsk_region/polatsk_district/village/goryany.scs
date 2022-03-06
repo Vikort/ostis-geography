@@ -14,4 +14,10 @@ goryany <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    goryanskiy_selsoviet;;
+    goryanskiy_selsoviet;
+=>nrel_population:
+    750(*=>nrel_main_idtf:
+    [750];;*);
+=>nrel_distanceFromArea:
+    77(*=>nrel_main_idtf:
+    [77];;*);;

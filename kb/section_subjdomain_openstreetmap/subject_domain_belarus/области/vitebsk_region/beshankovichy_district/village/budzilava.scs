@@ -14,4 +14,10 @@ budzilava <- concept_village;
 =>nrel_district:
     beshankovichy_district;
 =>nrel_selsoviet:
-    sorzitsky_selsoviet;;
+    sorzitsky_selsoviet;
+=>nrel_population:
+    175(*=>nrel_main_idtf:
+    [175];;*);
+=>nrel_distanceFromArea:
+    37(*=>nrel_main_idtf:
+    [37];;*);;

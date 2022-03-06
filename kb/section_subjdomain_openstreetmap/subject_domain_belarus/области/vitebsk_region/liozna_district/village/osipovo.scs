@@ -14,4 +14,10 @@ osipovo <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    krynkovskiy_selsoviet;;
+    krynkovskiy_selsoviet;
+=>nrel_population:
+    149(*=>nrel_main_idtf:
+    [149];;*);
+=>nrel_distanceFromArea:
+    34(*=>nrel_main_idtf:
+    [34];;*);;

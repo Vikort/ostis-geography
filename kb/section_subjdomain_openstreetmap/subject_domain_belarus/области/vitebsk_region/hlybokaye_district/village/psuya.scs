@@ -14,4 +14,10 @@ psuya <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    psuevskiy_selsoviet;;
+    psuevskiy_selsoviet;
+=>nrel_population:
+    296(*=>nrel_main_idtf:
+    [296];;*);
+=>nrel_distanceFromArea:
+    154(*=>nrel_main_idtf:
+    [154];;*);;

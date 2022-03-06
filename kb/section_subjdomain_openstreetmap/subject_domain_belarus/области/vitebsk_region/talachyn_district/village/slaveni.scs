@@ -14,4 +14,10 @@ slaveni <- concept_village;
 =>nrel_district:
     talachyn_district;
 =>nrel_selsoviet:
-    slavnovskiy_selsoviet;;
+    slavnovskiy_selsoviet;
+=>nrel_population:
+    97(*=>nrel_main_idtf:
+    [97];;*);
+=>nrel_distanceFromArea:
+    104(*=>nrel_main_idtf:
+    [104];;*);;

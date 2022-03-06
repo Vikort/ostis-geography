@@ -14,4 +14,10 @@ rubezh <- concept_village;
 =>nrel_district:
     beshankovichy_district;
 =>nrel_selsoviet:
-    verhnekrivinsky_selsoviet;;
+    verhnekrivinsky_selsoviet;
+=>nrel_population:
+    213(*=>nrel_main_idtf:
+    [213];;*);
+=>nrel_distanceFromArea:
+    44(*=>nrel_main_idtf:
+    [44];;*);;

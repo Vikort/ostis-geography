@@ -14,4 +14,10 @@ usyan <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    mezhansky_selsoviet;;
+    mezhansky_selsoviet;
+=>nrel_population:
+    98(*=>nrel_main_idtf:
+    [98];;*);
+=>nrel_distanceFromArea:
+    214(*=>nrel_main_idtf:
+    [214];;*);;

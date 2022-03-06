@@ -14,4 +14,10 @@ mosar <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    ydelovskiy_selsoviet;;
+    ydelovskiy_selsoviet;
+=>nrel_population:
+    303(*=>nrel_main_idtf:
+    [303];;*);
+=>nrel_distanceFromArea:
+    171(*=>nrel_main_idtf:
+    [171];;*);;

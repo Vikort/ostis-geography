@@ -14,4 +14,10 @@ yurkovshchina <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    parafyanovskiy_selsoviet;;
+    parafyanovskiy_selsoviet;
+=>nrel_population:
+    237(*=>nrel_main_idtf:
+    [237];;*);
+=>nrel_distanceFromArea:
+    174(*=>nrel_main_idtf:
+    [174];;*);;

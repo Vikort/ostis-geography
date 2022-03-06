@@ -14,4 +14,10 @@ krynki <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    krynkovskiy_selsoviet;;
+    krynkovskiy_selsoviet;
+=>nrel_population:
+    187(*=>nrel_main_idtf:
+    [187];;*);
+=>nrel_distanceFromArea:
+    37(*=>nrel_main_idtf:
+    [37];;*);;

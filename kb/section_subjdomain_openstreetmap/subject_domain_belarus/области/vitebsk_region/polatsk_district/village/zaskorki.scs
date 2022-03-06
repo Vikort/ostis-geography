@@ -14,4 +14,10 @@ zaskorki <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    voronichiskiy_selsoviet;;
+    voronichiskiy_selsoviet;
+=>nrel_population:
+    71(*=>nrel_main_idtf:
+    [71];;*);
+=>nrel_distanceFromArea:
+    101(*=>nrel_main_idtf:
+    [101];;*);;

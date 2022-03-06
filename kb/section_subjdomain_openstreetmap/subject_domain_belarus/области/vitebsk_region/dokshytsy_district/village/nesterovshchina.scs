@@ -14,4 +14,10 @@ nesterovshchina <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    tumilovichskiy_selsoviet;;
+    tumilovichskiy_selsoviet;
+=>nrel_population:
+    102(*=>nrel_main_idtf:
+    [102];;*);
+=>nrel_distanceFromArea:
+    143(*=>nrel_main_idtf:
+    [143];;*);;

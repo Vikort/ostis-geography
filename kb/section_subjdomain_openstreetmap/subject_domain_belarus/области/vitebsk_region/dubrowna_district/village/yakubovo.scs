@@ -14,4 +14,10 @@ yakubovo <- concept_village;
 =>nrel_district:
     dubrowna_district;
 =>nrel_selsoviet:
-    pirogovskiy_selsoviet;;
+    pirogovskiy_selsoviet;
+=>nrel_population:
+    211(*=>nrel_main_idtf:
+    [211];;*);
+=>nrel_distanceFromArea:
+    70(*=>nrel_main_idtf:
+    [70];;*);;

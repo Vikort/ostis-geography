@@ -14,4 +14,10 @@ zalesye <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    ozereckiy_selsoviet;;
+    ozereckiy_selsoviet;
+=>nrel_population:
+    87(*=>nrel_main_idtf:
+    [87];;*);
+=>nrel_distanceFromArea:
+    158(*=>nrel_main_idtf:
+    [158];;*);;

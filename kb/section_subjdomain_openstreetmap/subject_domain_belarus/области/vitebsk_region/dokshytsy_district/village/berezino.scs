@@ -14,4 +14,10 @@ berezino <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    dokshytsy_berezinskiy_selsoviet;;
+    dokshytsy_berezinskiy_selsoviet;
+=>nrel_population:
+    290(*=>nrel_main_idtf:
+    [290];;*);
+=>nrel_distanceFromArea:
+    132(*=>nrel_main_idtf:
+    [132];;*);;

@@ -14,4 +14,10 @@ bocheikovo <- concept_village;
 =>nrel_district:
     beshankovichy_district;
 =>nrel_selsoviet:
-    bochekovsky_selsoviet;;
+    bochekovsky_selsoviet;
+=>nrel_population:
+    731(*=>nrel_main_idtf:
+    [731];;*);
+=>nrel_distanceFromArea:
+    70(*=>nrel_main_idtf:
+    [70];;*);;

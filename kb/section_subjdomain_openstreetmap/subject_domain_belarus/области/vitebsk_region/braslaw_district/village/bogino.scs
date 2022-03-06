@@ -14,4 +14,10 @@ bogino <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    dalekovsky_selsoviet;;
+    dalekovsky_selsoviet;
+=>nrel_population:
+    355(*=>nrel_main_idtf:
+    [355];;*);
+=>nrel_distanceFromArea:
+    126(*=>nrel_main_idtf:
+    [126];;*);;

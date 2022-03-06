@@ -14,4 +14,10 @@ pogoscha <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    opsovsky_selsoviet;;
+    opsovsky_selsoviet;
+=>nrel_population:
+    340(*=>nrel_main_idtf:
+    [340];;*);
+=>nrel_distanceFromArea:
+    189(*=>nrel_main_idtf:
+    [189];;*);;

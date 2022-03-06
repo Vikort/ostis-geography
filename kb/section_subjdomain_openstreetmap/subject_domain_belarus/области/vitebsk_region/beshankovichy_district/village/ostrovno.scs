@@ -14,4 +14,10 @@ ostrovno <- concept_village;
 =>nrel_district:
     beshankovichy_district;
 =>nrel_selsoviet:
-    ostronesky_selsoviet;;
+    ostronesky_selsoviet;
+=>nrel_population:
+    486(*=>nrel_main_idtf:
+    [486];;*);
+=>nrel_distanceFromArea:
+    26(*=>nrel_main_idtf:
+    [26];;*);;

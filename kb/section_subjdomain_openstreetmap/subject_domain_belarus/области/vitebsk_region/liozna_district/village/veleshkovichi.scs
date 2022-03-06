@@ -14,4 +14,10 @@ veleshkovichi <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    veleshkovichskiy_selsoviet;;
+    veleshkovichskiy_selsoviet;
+=>nrel_population:
+    335(*=>nrel_main_idtf:
+    [335];;*);
+=>nrel_distanceFromArea:
+    37(*=>nrel_main_idtf:
+    [37];;*);;

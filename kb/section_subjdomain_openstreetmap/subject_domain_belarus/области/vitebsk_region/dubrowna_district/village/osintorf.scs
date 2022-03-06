@@ -14,4 +14,10 @@ osintorf <- concept_village;
 =>nrel_district:
     dubrowna_district;
 =>nrel_selsoviet:
-    osintorfskiy_selsoviet;;
+    osintorfskiy_selsoviet;
+=>nrel_population:
+    799(*=>nrel_main_idtf:
+    [799];;*);
+=>nrel_distanceFromArea:
+    60(*=>nrel_main_idtf:
+    [60];;*);;

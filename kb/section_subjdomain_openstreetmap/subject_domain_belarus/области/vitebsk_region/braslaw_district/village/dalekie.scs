@@ -14,4 +14,10 @@ dalekie <- concept_village;
 =>nrel_district:
     braslaw_district;
 =>nrel_selsoviet:
-    dalekovsky_selsoviet;;
+    dalekovsky_selsoviet;
+=>nrel_population:
+    78(*=>nrel_main_idtf:
+    [78];;*);
+=>nrel_distanceFromArea:
+    247(*=>nrel_main_idtf:
+    [247];;*);;

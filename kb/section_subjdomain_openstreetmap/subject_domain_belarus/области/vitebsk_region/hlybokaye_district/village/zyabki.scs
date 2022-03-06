@@ -14,4 +14,10 @@ zyabki <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    psuevskiy_selsoviet;;
+    psuevskiy_selsoviet;
+=>nrel_population:
+    159(*=>nrel_main_idtf:
+    [159];;*);
+=>nrel_distanceFromArea:
+    161(*=>nrel_main_idtf:
+    [161];;*);;

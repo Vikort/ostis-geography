@@ -14,4 +14,10 @@ krasnoluki <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    krasnolukskiy_selsoviet;;
+    krasnolukskiy_selsoviet;
+=>nrel_population:
+    413(*=>nrel_main_idtf:
+    [413];;*);
+=>nrel_distanceFromArea:
+    108(*=>nrel_main_idtf:
+    [108];;*);;

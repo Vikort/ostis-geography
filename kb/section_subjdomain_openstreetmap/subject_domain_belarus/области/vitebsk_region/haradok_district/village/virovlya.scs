@@ -14,4 +14,10 @@ virovlya <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    virolyanskiy_selsoviet;;
+    virolyanskiy_selsoviet;
+=>nrel_population:
+    410(*=>nrel_main_idtf:
+    [410];;*);
+=>nrel_distanceFromArea:
+    55(*=>nrel_main_idtf:
+    [55];;*);;

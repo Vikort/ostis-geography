@@ -14,4 +14,10 @@ ivansk <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    ivanskiy_selsoviet;;
+    ivanskiy_selsoviet;
+=>nrel_population:
+    375(*=>nrel_main_idtf:
+    [375];;*);
+=>nrel_distanceFromArea:
+    73(*=>nrel_main_idtf:
+    [73];;*);;

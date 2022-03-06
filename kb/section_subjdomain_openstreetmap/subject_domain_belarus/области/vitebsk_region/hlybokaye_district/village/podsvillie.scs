@@ -14,4 +14,10 @@ podsvillie <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    podsvilskiy_selsoviet;;
+    podsvilskiy_selsoviet;
+=>nrel_population:
+    1965(*=>nrel_main_idtf:
+    [1965];;*);
+=>nrel_distanceFromArea:
+    188(*=>nrel_main_idtf:
+    [188];;*);;

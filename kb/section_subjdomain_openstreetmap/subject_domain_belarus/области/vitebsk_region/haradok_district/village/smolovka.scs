@@ -14,4 +14,10 @@ smolovka <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    stodolischenskiy_selsoviet;;
+    stodolischenskiy_selsoviet;
+=>nrel_population:
+    45(*=>nrel_main_idtf:
+    [45];;*);
+=>nrel_distanceFromArea:
+    40(*=>nrel_main_idtf:
+    [40];;*);;

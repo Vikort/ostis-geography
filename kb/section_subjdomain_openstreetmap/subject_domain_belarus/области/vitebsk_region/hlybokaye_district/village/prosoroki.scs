@@ -14,4 +14,10 @@ prosoroki <- concept_village;
 =>nrel_district:
     hlybokaye_district;
 =>nrel_selsoviet:
-    prozorokskiy_selsoviet;;
+    prozorokskiy_selsoviet;
+=>nrel_population:
+    336(*=>nrel_main_idtf:
+    [336];;*);
+=>nrel_distanceFromArea:
+    126(*=>nrel_main_idtf:
+    [126];;*);;

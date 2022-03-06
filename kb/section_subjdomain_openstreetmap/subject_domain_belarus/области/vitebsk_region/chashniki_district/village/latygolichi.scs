@@ -14,4 +14,10 @@ latygolichi <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    krasnolukskiy_selsoviet;;
+    krasnolukskiy_selsoviet;
+=>nrel_population:
+    248(*=>nrel_main_idtf:
+    [248];;*);
+=>nrel_distanceFromArea:
+    115(*=>nrel_main_idtf:
+    [115];;*);;

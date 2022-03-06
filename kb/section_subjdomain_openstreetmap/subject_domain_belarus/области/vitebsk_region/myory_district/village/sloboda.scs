@@ -14,4 +14,10 @@ sloboda <- concept_village;
 =>nrel_district:
     myory_district;
 =>nrel_selsoviet:
-    uzmenskiy_selsoviet;;
+    uzmenskiy_selsoviet;
+=>nrel_population:
+    75(*=>nrel_main_idtf:
+    [75];;*);
+=>nrel_distanceFromArea:
+    157(*=>nrel_main_idtf:
+    [157];;*);;

@@ -14,4 +14,10 @@ leskovichi <- concept_village;
 =>nrel_district:
     shumilina_district;
 =>nrel_selsoviet:
-    svetloselskiy_selsoviet;;
+    svetloselskiy_selsoviet;
+=>nrel_population:
+    207(*=>nrel_main_idtf:
+    [207];;*);
+=>nrel_distanceFromArea:
+    50(*=>nrel_main_idtf:
+    [50];;*);;

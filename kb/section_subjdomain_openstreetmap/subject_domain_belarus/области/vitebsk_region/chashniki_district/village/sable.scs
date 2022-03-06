@@ -14,4 +14,10 @@ sable <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    kruglickiy_selsoviet;;
+    kruglickiy_selsoviet;
+=>nrel_population:
+    130(*=>nrel_main_idtf:
+    [130];;*);
+=>nrel_distanceFromArea:
+    80(*=>nrel_main_idtf:
+    [80];;*);;

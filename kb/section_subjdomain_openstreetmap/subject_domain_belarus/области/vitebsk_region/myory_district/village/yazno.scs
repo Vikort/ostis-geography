@@ -14,4 +14,10 @@ yazno <- concept_village;
 =>nrel_district:
     myory_district;
 =>nrel_selsoviet:
-    yaznenskiy_selsoviet;;
+    yaznenskiy_selsoviet;
+=>nrel_population:
+    630(*=>nrel_main_idtf:
+    [630];;*);
+=>nrel_distanceFromArea:
+    131(*=>nrel_main_idtf:
+    [131];;*);;

@@ -14,4 +14,10 @@ mehavoe <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    buchihinskiy_selsoviet;;
+    buchihinskiy_selsoviet;
+=>nrel_population:
+    41(*=>nrel_main_idtf:
+    [41];;*);
+=>nrel_distanceFromArea:
+    60(*=>nrel_main_idtf:
+    [60];;*);;

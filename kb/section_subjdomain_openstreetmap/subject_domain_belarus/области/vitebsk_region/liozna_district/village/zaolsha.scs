@@ -14,4 +14,10 @@ zaolsha <- concept_village;
 =>nrel_district:
     liozna_district;
 =>nrel_selsoviet:
-    lioznenskiy_selsoviet;;
+    lioznenskiy_selsoviet;
+=>nrel_population:
+    123(*=>nrel_main_idtf:
+    [123];;*);
+=>nrel_distanceFromArea:
+    40(*=>nrel_main_idtf:
+    [40];;*);;

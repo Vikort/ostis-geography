@@ -14,4 +14,10 @@ verechye <- concept_village;
 =>nrel_district:
     haradok_district;
 =>nrel_selsoviet:
-    stodolischenskiy_selsoviet;;
+    stodolischenskiy_selsoviet;
+=>nrel_population:
+    24(*=>nrel_main_idtf:
+    [24];;*);
+=>nrel_distanceFromArea:
+    45(*=>nrel_main_idtf:
+    [45];;*);;

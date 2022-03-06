@@ -14,4 +14,10 @@ vetrino <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    vetrinskiy_selsoviet;;
+    vetrinskiy_selsoviet;
+=>nrel_population:
+    2220(*=>nrel_main_idtf:
+    [2220];;*);
+=>nrel_distanceFromArea:
+    113(*=>nrel_main_idtf:
+    [113];;*);;

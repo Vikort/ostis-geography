@@ -14,4 +14,10 @@ begoml <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    begomlskiy_selsoviet;;
+    begomlskiy_selsoviet;
+=>nrel_population:
+    2548(*=>nrel_main_idtf:
+    [2548];;*);
+=>nrel_distanceFromArea:
+    157(*=>nrel_main_idtf:
+    [157];;*);;

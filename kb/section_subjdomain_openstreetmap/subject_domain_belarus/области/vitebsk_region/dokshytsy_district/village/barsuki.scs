@@ -14,4 +14,10 @@ barsuki <- concept_village;
 =>nrel_district:
     dokshytsy_district;
 =>nrel_selsoviet:
-    dokshytskiy_selsoviet;;
+    dokshytskiy_selsoviet;
+=>nrel_population:
+    340(*=>nrel_main_idtf:
+    [340];;*);
+=>nrel_distanceFromArea:
+    162(*=>nrel_main_idtf:
+    [162];;*);;

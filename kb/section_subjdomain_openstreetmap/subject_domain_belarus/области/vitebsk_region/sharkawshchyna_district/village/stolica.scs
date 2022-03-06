@@ -14,4 +14,10 @@ stolica <- concept_village;
 =>nrel_district:
     sharkawshchyna_district;
 =>nrel_selsoviet:
-    germanovichskiy_selsoviet;;
+    germanovichskiy_selsoviet;
+=>nrel_population:
+    108(*=>nrel_main_idtf:
+    [108];;*);
+=>nrel_distanceFromArea:
+    154(*=>nrel_main_idtf:
+    [154];;*);;

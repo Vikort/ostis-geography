@@ -14,4 +14,10 @@ ioda <- concept_village;
 =>nrel_district:
     sharkawshchyna_district;
 =>nrel_selsoviet:
-    iodskiy_selsoviet;;
+    iodskiy_selsoviet;
+=>nrel_population:
+    357(*=>nrel_main_idtf:
+    [357];;*);
+=>nrel_distanceFromArea:
+    190(*=>nrel_main_idtf:
+    [190];;*);;

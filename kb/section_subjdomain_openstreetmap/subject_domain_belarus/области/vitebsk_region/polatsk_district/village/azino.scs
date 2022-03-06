@@ -14,4 +14,10 @@ azino <- concept_village;
 =>nrel_district:
     polatsk_district;
 =>nrel_selsoviet:
-    azinskiy_selsoviet;;
+    azinskiy_selsoviet;
+=>nrel_population:
+    450(*=>nrel_main_idtf:
+    [450];;*);
+=>nrel_distanceFromArea:
+    110(*=>nrel_main_idtf:
+    [110];;*);;

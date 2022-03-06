@@ -14,4 +14,10 @@ kanzerovo <- concept_village;
 =>nrel_district:
     myory_district;
 =>nrel_selsoviet:
-    yaznenskiy_selsoviet;;
+    yaznenskiy_selsoviet;
+=>nrel_population:
+    140(*=>nrel_main_idtf:
+    [140];;*);
+=>nrel_distanceFromArea:
+    130(*=>nrel_main_idtf:
+    [130];;*);;

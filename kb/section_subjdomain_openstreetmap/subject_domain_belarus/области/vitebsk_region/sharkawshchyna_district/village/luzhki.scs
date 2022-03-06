@@ -14,4 +14,10 @@ luzhki <- concept_village;
 =>nrel_district:
     sharkawshchyna_district;
 =>nrel_selsoviet:
-    sharkawshchyna_luzhkovskiy_selsoviet;;
+    sharkawshchyna_luzhkovskiy_selsoviet;
+=>nrel_population:
+    810(*=>nrel_main_idtf:
+    [810];;*);
+=>nrel_distanceFromArea:
+    148(*=>nrel_main_idtf:
+    [148];;*);;

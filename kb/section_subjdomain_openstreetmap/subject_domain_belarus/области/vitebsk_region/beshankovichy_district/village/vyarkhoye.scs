@@ -14,4 +14,10 @@ vyarkhoye <- concept_village;
 =>nrel_district:
     beshankovichy_district;
 =>nrel_selsoviet:
-    verhnekrivinsky_selsoviet;;
+    verhnekrivinsky_selsoviet;
+=>nrel_population:
+    54(*=>nrel_main_idtf:
+    [54];;*);
+=>nrel_distanceFromArea:
+    21(*=>nrel_main_idtf:
+    [21];;*);;

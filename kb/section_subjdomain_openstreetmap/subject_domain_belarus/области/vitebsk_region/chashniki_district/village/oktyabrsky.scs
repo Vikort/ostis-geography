@@ -14,4 +14,10 @@ oktyabrsky <- concept_village;
 =>nrel_district:
     chashniki_district;
 =>nrel_selsoviet:
-    chashniki_olshanskiy_selsoviet;;
+    chashniki_olshanskiy_selsoviet;
+=>nrel_population:
+    300(*=>nrel_main_idtf:
+    [300];;*);
+=>nrel_distanceFromArea:
+    66(*=>nrel_main_idtf:
+    [66];;*);;
