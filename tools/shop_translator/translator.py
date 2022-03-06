@@ -1,6 +1,7 @@
 import requests
 from transliterate import translit
 import os
+import sys
 
 
 def search(city_name: str,
@@ -31,7 +32,7 @@ def build_relation(rel_name: str, element: dict, tag_name: str) -> str:
 def translate(city_name: str, shop_name: str, data: list) -> None:
     shop_name_translit = russian_line_to_concept_style(shop_name)
     city_name_translit = russian_line_to_concept_style(city_name)
-    directory = f"./{shop_name_translit}"
+    directory = os.path.dirname(__file__) + f"/{shop_name_translit}"
     if not os.path.exists(directory):
         os.makedirs(directory)
     for element in data:
@@ -51,7 +52,7 @@ def translate(city_name: str, shop_name: str, data: list) -> None:
                  f"{longitude_relation}=>nrel_country:\nbelarus;\n{street_relation}" \
                  f"{house_number_relation}{search_area}"
 
-        with open(f"./{shop_name_translit}/{concept_name}.scs", encoding='utf-8', mode='w+') as output_scs:
+        with open(directory + f"/{concept_name}.scs", encoding='utf-8', mode='w+') as output_scs:
             output_scs.write(result)
 
 
@@ -66,8 +67,4 @@ def main(shop_name: str, city_name: str) -> None:
 
 
 if __name__ == '__main__':
-    print("Enter shop name:")
-    shop_name = input()
-    print("Enter Belarus city name:")
-    city_name = input()
-    main(shop_name=shop_name, city_name=city_name)
+    main(shop_name=sys.argv[1], city_name=sys.argv[2])

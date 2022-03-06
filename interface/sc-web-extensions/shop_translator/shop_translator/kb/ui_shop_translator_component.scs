@@ -1,0 +1,35 @@
+ui_shop_translator_cityName_input <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Название города на английском]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[City name in enlgish startingwith]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_shop_translator_shopName_input <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Название магазина]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Shop name in russian]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_shop_translator_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Трансліровать!]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Translate!]
+	(*
+	<- lang_en;;
+	*);;
