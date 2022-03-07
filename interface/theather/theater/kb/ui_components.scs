@@ -1,0 +1,23 @@
+ui_theater_text_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Введите название города]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Enter the city]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_theater_answer_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Найти кинотеатры]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Find theaters]
+	(*
+	<- lang_en;;
+	*);;
