@@ -9,7 +9,7 @@ SC_IMPLEMENT_MODULE(PharmaciesModule)
 
 sc_result PharmaciesModule::InitializeImpl()
 {
-  m_PharmaciesService.reset(new PharmaciesPythonService("PharmaciesModule/PharmaciesModule.py"));
+  m_PharmaciesService.reset(new PharmaciesPythonService("pharmaciesModule/PharmaciesModule.py"));
   m_PharmaciesService->Run();
   return SC_RESULT_OK;
 }

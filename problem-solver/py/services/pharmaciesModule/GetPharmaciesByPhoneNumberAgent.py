@@ -26,25 +26,17 @@ class GetPharmaciesByPhoneNumberAgent(ScAgent):
                 node = self.get_action_argument(self.main_node, 'rrel_1') 
                 answerNode = self.ctx.CreateNode(ScType.NodeConstStruct)
                 self.add_nodes_to_answer(answerNode, [node])
-                pharmacyIterator = self.ctx.Iterator3(
-                    seld.keynodes['concept_pharmacy'],
-                    ScType.EdgeAccessConstPosPerm,
+                
+                numberIterator= self.ctx.Iterator5(
                     ScType.Unknown,
+                    ScType.EdgeDCommon,
+                    node,
+                    ScType.EdgeAccessConstPosPerm,
+                    self.keynodes['nrel_phone_number']
                 )
-                while pharmacyIterator.Next():
-                    pharmacy = pharmacyIterator.Get(2)
-                    NumberIterator= self.ctx.Iterator5(
-                        pharmacy,
-                        ScType.EdgeDCommon,
-                        ScType.Unknown,
-                        ScType.EdgeAccessConstPosPerm,
-                        self.keynodes['nrel_phone_number']
-                    )
-                    number = self.ctx.GetLinkContent(linkIterator.Get(2)).AsInteger()
-                    givenNumber = self.ctx.GetLinkContent(node).AsInteger()
-                    if number < givenNumber:
-                        for i in range(5):
-                            self.add_nodes_to_answer(answerNode, [pharmacyIterator.Get(i)])
+                while numberIterator.Next():
+                    for i in range(5):
+                        self.add_nodes_to_answer(answerNode, [numberIterator.Get(i)])
 
                 
                 self.finish_agent(self.main_node, answerNode)

@@ -25,5 +25,5 @@ ui_menu_get_pharmacies_by_city => ui_nrel_command_template:
 		._question_get_pharmacies_by_city _<- question;;
 	*];;
 
-ui_menu_get_pharmacies_by_city => ui_nrel_command_lang_template: [Найти города для $ui_arg_1] (* <- lang_ru;; *);;
-ui_menu_get_pharmacies_by_city => ui_nrel_command_lang_template: [Get cities for $ui_arg_1] (* <- lang_en;; *);;
+ui_menu_get_pharmacies_by_city => ui_nrel_command_lang_template: [Найти аптеки города $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_get_pharmacies_by_city => ui_nrel_command_lang_template: [Get pharmacies of $ui_arg_1 city] (* <- lang_en;; *);;
