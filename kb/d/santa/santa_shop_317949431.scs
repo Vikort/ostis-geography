@@ -1,0 +1,22 @@
+santa_shop_317949431<-concept_santa_shop;
+=>nrel_main_idtf:
+[Санта]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Santa]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[53.8783005]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[27.5484361]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Воронянского]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[19]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+minsk;;

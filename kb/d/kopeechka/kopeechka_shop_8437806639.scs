@@ -1,0 +1,22 @@
+kopeechka_shop_8437806639<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[53.9103574]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[27.5085098]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[Кальварийская улица]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[62]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+minsk;;

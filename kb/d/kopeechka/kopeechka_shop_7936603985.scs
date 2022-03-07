@@ -1,0 +1,19 @@
+kopeechka_shop_7936603985<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[52.4472092]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[30.9692001]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Бориса Царикова]
+(* <- lang_ru;; <- street;;*);
+=>nrel_search_area:
+gomel;;

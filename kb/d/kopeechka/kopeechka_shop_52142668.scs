@@ -1,0 +1,16 @@
+kopeechka_shop_52142668<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[улица Воинов-Интернационалистов]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[1 к3]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+vitebsk;;

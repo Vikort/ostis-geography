@@ -1,0 +1,16 @@
+santa_shop_2950038838<-concept_santa_shop;
+=>nrel_main_idtf:
+[Санта]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Santa]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[52.0940875]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[23.6923376]
+(* <- lang_ru;; <- longitude;;*);
+=>nrel_country:
+belarus;
+=>nrel_search_area:
+brest;;

@@ -1,0 +1,16 @@
+kopeechka_shop_318183007<-concept_kopeechka_shop;
+=>nrel_main_idtf:
+[Копеечка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Kopeechka]
+(* <- lang_en;; <- name_en;;*);
+=>nrel_country:
+belarus;
+=>nrel_street:
+[Чечерская улица]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[23А]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_search_area:
+gomel;;
