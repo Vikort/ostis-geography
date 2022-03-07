@@ -1,0 +1,17 @@
+format_villages
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[Format of villages UI component]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+villages_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Villages UI component]
+	(*
+	<- lang_en;;
+	*);;
