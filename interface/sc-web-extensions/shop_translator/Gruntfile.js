@@ -3,6 +3,7 @@ module.exports = function (grunt) {
 
 	const scWebDirPath = "../../../ostis-web-platform/sc-web";
 	const clientJsDirPath = scWebDirPath + "/client/static/components/js/";
+	const kbPath = "../../../kb/";
 	const clientCssDirPath = scWebDirPath + "/client/static/components/css/";
 	const clientHtmlDirPath = scWebDirPath + "/client/static/components/html/";
 	const clientImgDirPath = scWebDirPath + "/client/static/components/images/";
@@ -41,6 +42,13 @@ module.exports = function (grunt) {
 				cwd: shop_translatorDirPath + "static/images/",
 				src: "*.png",
 				dest: clientImgDirPath + "shop_translator/",
+				expand: true,
+				flatten: true,
+			},
+			shop_translatorKb: {
+				cwd: shop_translatorDirPath + "kb/",
+				src: "*.scs",
+				dest: kbPath + "shop_translator/",
 				expand: true,
 				flatten: true,
 			},
