@@ -1,3 +1,4 @@
+import sys
 from typing import Dict, List
 from transliterate import translit
 import requests
@@ -165,7 +166,7 @@ if __name__ == "__main__":
 =>nrel_street:
 {kb_addr_street};;
 """
-    amenities = ['public_bath','sports','sport_school','sports_centre','community_centre']
+    amenities = [sys.argv[1]]
     query_part = "area[name='Беларусь'];node(area)[amenity={}];"
     source = "http://overpass-api.de/api/interpreter?data=[out:json];({});out;"
     save_path = "../../kb/section_subjdomain_openstreetmap/subject_domain_belarus/Belarus_wellness_constructions/wellness_constructions/"
