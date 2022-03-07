@@ -2,7 +2,7 @@ format_theater
 <- sc_node_not_relation;
 <- format;
 => nrel_main_idtf:
-	[формат компонента ПИ поиска кинотеатров в городе] 
+	[формат компонента ПИ поиска театров в городе] 
 	(*
 	<- lang_ru;;
 	 *);
@@ -16,7 +16,7 @@ format_theater
 
 theater_code <- ui_external_languages;
 => nrel_main_idtf:
-	[Rомпонента интерфейса поиска кинотеатров в городе]
+	[Компонента интерфейса поиска театров в городе]
 	(*
 	<- lang_ru;;
 	 *);
