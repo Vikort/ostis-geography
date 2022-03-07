@@ -1,0 +1,9 @@
+lib_component_ui_menu_get_district_by_village_agent
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса поиска района по деревне]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command of search of district by the village]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;
