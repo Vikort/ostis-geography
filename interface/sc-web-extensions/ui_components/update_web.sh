@@ -22,4 +22,8 @@ cd ../search_villages_by_selsoviet
 npm install
 grunt build
 
+cd ../search_region_by_village
+npm install
+grunt build
+
 cd ../../../../scripts
