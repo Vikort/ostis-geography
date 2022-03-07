@@ -2,6 +2,7 @@ module.exports = function (grunt) {
     const villagesDirPath = './villages/';
 
     const scWebDirPath = '../../ostis-web-platform/sc-web';
+    const kbPath = '../../kb/';
     const clientJsDirPath = scWebDirPath + '/client/static/components/js/';
     const clientCssDirPath = scWebDirPath + '/client/static/components/css/';
     const clientHtmlDirPath = scWebDirPath + '/client/static/components/html/';
@@ -40,6 +41,13 @@ module.exports = function (grunt) {
                 cwd: villagesDirPath + 'static/images/',
                 src: '*.png',
                 dest: clientImgDirPath + 'villages/',
+                expand: true,
+                flatten: true
+            },
+            villagesKb: {
+                cwd: villagesDirPath + 'kb/',
+                src: '*.scs',
+                dest: kbPath + 'villages/',
                 expand: true,
                 flatten: true
             }
