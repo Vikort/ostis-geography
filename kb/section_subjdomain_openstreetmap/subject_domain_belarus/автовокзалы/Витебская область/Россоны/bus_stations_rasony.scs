@@ -3,5 +3,7 @@ bus_station_rasony <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Россоны]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    rasony;
 =>nrel_search_area:
     rasony;;

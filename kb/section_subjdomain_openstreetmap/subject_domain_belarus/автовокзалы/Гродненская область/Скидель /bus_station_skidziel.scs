@@ -1,7 +1,0 @@
-bus_station_skidziel <- concept_bus_station;
-<- concept_bus_station_of_the_skidziel;
-=>nrel_main_idtf:
-    [Автостанция Скидель]
-    (* <- lang_ru;; <- name_ru;; <- name;;*);
-=>nrel_search_area:
-    skidziel;;

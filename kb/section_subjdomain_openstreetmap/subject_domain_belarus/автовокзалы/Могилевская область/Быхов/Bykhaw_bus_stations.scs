@@ -3,5 +3,7 @@ bus_station_Bykhaw <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Быхов]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    Bykhaw;
 =>nrel_search_area:
     Bykhaw;;

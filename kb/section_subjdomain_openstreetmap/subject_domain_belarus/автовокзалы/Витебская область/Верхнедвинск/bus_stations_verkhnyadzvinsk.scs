@@ -3,6 +3,8 @@ bus_station_verkhnyadzvinsk <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Верхнедвинск]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+ =>nrel_city:
+    verkhnyadzvinsk;
 =>nrel_search_area:
     verkhnyadzvinsk;;
 

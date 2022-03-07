@@ -3,5 +3,7 @@ bus_station_Pinsk <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Логишин]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    pinsk;
 =>nrel_search_area:
     pinsk;;

@@ -1,0 +1,29 @@
+ui_menu_find_bus_station_by_district<- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_find_bus_station_by_district
+=> nrel_main_idtf: 
+	[Найти автовокзалы в районе]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска автовокзалов в определенном районе]
+	(* <- lang_ru;; *);;
+
+ui_menu_find_bus_station_by_district
+=> nrel_main_idtf: 
+	[Search for all bus station in the certain district]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request searches for all bus stations in the certain district]
+	(* <- lang_en;; *);;
+
+ui_menu_find_bus_station_by_district=> ui_nrel_command_template:
+	[*
+		action_find_bus_station_by_district _-> ._question_find_bus_station_by_district
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_find_bus_station_by_district _<- question;;
+	*];;
+
+ui_menu_search_find_bus_station=> ui_nrel_command_lang_template: [Найти автовокзалы в районе $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_search_find_bus_station=> ui_nrel_command_lang_template: [Search for all bus stations in $ui_arg_1] (* <- lang_en;; *);;

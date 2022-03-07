@@ -3,5 +3,7 @@ bus_station_hantsavichy <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Ганцевичи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    hantsavichy_hantsavichy_district;
 =>nrel_search_area:
     hantsavichy_hantsavichy_district;;

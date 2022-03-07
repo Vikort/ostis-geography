@@ -3,5 +3,7 @@ bus_station_astravyets <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Островец]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    astravyets;
 =>nrel_search_area:
     astravyets;;

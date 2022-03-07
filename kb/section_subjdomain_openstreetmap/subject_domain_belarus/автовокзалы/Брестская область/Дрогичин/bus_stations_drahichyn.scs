@@ -3,5 +3,7 @@ bus_station_drahichyn <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Дрогичин]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    drahichyn;
 =>nrel_search_area:
     drahichyn;;

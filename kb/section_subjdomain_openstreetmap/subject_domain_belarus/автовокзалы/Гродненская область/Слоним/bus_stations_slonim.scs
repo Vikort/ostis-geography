@@ -3,5 +3,7 @@ bus_station_slonim <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Слоним]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    slonim;
 =>nrel_search_area:
     slonim;;

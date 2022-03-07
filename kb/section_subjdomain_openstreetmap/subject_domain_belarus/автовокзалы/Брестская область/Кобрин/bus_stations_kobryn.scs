@@ -3,6 +3,8 @@ bus_station_kobryn <- concept_bus_station;
 =>nrel_main_idtf:
     [Автовокзал Кобрин]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    kobryn;
 =>nrel_search_area:
     kobryn;;
 
@@ -12,5 +14,7 @@ bus_station_kobryn_avtopark_16 <- concept_bus_station;
 =>nrel_main_idtf:
     [автостанция "Автомобильный парк №16 г.Кобрин"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    kobryn;
 =>nrel_search_area:
     kobryn;;

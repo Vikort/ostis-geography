@@ -3,5 +3,7 @@ bus_station_pastavy <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Поставы]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    pastavy;
 =>nrel_search_area:
     pastavy;;

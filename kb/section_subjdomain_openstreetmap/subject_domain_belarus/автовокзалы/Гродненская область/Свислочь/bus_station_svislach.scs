@@ -3,5 +3,7 @@ bus_station_svislach <- concept_bus_station;
 =>nrel_main_idtf:
     [автовокзал "Свислочь"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    svislach_svislach_district;
 =>nrel_search_area:
     svislach_svislach_district;;

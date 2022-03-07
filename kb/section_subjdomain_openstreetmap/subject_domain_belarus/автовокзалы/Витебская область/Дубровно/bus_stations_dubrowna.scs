@@ -3,5 +3,7 @@ bus_station_dubrowna <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Дубровно]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    dubrowna;
 =>nrel_search_area:
     dubrowna;;

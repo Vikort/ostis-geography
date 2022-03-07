@@ -3,5 +3,7 @@ bus_station_lyepyel <- concept_bus_station;
 =>nrel_main_idtf:
     [Автовокзал Лепель]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    lyepyel;
 =>nrel_search_area:
     lyepyel;;

@@ -3,6 +3,8 @@ bus_station_navapolatsk <- concept_bus_station;
 =>nrel_main_idtf:
     [Автовокзал Новополоцк]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    navapolatsk;
 =>nrel_search_area:
     navapolatsk;;
 
@@ -12,5 +14,7 @@ bus_station_navapolatsk1 <- concept_bus_station;
 =>nrel_main_idtf:
     [автостанция "Подкостельцы"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    navapolatsk;
 =>nrel_search_area:
     navapolatsk;;

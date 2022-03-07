@@ -3,6 +3,8 @@ bus_station_talachyn <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Толочин]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    talachyn;
 =>nrel_search_area:
     talachyn;;
 

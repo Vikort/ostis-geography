@@ -3,5 +3,7 @@ bus_station_Byalynichy <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Белыничи]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    Byalynichy;
 =>nrel_search_area:
     Byalynichy;;

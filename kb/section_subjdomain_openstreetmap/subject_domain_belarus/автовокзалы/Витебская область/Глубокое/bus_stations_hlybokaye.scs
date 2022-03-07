@@ -3,6 +3,8 @@ bus_station_hlybokaye <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Глубокое]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+ =>nrel_city:
+    hlybokaye;
 =>nrel_search_area:
     hlybokaye;;
 

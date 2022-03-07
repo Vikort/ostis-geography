@@ -3,6 +3,8 @@ bus_station_braslaw <- concept_bus_station;
 =>nrel_main_idtf:
     [Автостанция Браслав]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    braslaw;
 =>nrel_search_area:
     braslaw;;
 
