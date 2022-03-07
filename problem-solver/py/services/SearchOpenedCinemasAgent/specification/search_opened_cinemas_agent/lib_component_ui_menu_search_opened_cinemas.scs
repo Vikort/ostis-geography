@@ -1,0 +1,9 @@
+lib_component_ui_menu_search_opened_cinemas
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса поиска открытых кинотеатров]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command of search of opened cinemas]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;
