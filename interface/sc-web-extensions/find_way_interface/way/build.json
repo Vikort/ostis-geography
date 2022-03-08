@@ -1,0 +1,11 @@
+{
+     "sources": [
+        
+        "src/way-common.js",
+        "src/way-paintPanel.js"
+    ],
+
+    "component": "src/way-component.js",
+
+    "target": "static/components/js/way/way.js"
+}
