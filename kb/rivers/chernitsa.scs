@@ -11,6 +11,8 @@ chernitsa
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    74;
+    74(*=>nrel_main_idtf:
+    [74];;*);
 =>nrel_basin:
-    775;;
+    775(*=>nrel_main_idtf:
+    [775];;*);;

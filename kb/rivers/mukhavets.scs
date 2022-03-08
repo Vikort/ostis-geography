@@ -11,6 +11,8 @@ mukhavets
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    113;
+    113(*=>nrel_main_idtf:
+    [113];;*);
 =>nrel_basin:
-    6350;;
+    6350(*=>nrel_main_idtf:
+    [6350];;*);;

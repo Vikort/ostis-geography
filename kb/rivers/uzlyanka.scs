@@ -11,6 +11,8 @@ uzlyanka
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    53;
+    53(*=>nrel_main_idtf:
+    [53];;*);
 =>nrel_basin:
-    663;;
+    663(*=>nrel_main_idtf:
+    [663];;*);;

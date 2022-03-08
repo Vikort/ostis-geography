@@ -11,6 +11,8 @@ servech
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    63;
+    63(*=>nrel_main_idtf:
+    [63];;*);
 =>nrel_basin:
-    770;;
+    770(*=>nrel_main_idtf:
+    [770];;*);;

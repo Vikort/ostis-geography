@@ -11,6 +11,8 @@ horyn
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    659;
+    659(*=>nrel_main_idtf:
+    [659];;*);
 =>nrel_basin:
-    27700;;
+    27700(*=>nrel_main_idtf:
+    [27700];;*);;

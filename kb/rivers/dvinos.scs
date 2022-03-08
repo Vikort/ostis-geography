@@ -11,6 +11,8 @@ dvinos
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    54;
+    54(*=>nrel_main_idtf:
+    [54];;*);
 =>nrel_basin:
-    614;;
+    614(*=>nrel_main_idtf:
+    [614];;*);;

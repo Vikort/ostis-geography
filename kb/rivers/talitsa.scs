@@ -11,6 +11,8 @@ talitsa
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    40;
+    40(*=>nrel_main_idtf:
+    [40];;*);
 =>nrel_basin:
-    455;;
+    455(*=>nrel_main_idtf:
+    [455];;*);;

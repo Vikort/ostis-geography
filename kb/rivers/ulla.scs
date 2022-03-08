@@ -11,6 +11,8 @@ ulla
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    123;
+    123(*=>nrel_main_idtf:
+    [123];;*);
 =>nrel_basin:
-    4090;;
+    4090(*=>nrel_main_idtf:
+    [4090];;*);;

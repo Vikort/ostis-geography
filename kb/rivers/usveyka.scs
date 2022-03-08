@@ -11,6 +11,8 @@ usveyka
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    116;
+    116(*=>nrel_main_idtf:
+    [116];;*);
 =>nrel_basin:
-    708;;
+    708(*=>nrel_main_idtf:
+    [708];;*);;

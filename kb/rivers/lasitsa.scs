@@ -11,6 +11,8 @@ lasitsa
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    30;
+    30(*=>nrel_main_idtf:
+    [30];;*);
 =>nrel_basin:
-    160;;
+    160(*=>nrel_main_idtf:
+    [160];;*);;

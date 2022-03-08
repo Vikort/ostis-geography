@@ -11,6 +11,8 @@ luchosa
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    90;
+    90(*=>nrel_main_idtf:
+    [90];;*);
 =>nrel_basin:
-    3510;;
+    3510(*=>nrel_main_idtf:
+    [3510];;*);;

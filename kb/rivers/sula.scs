@@ -11,6 +11,8 @@ sula
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    76;
+    76(*=>nrel_main_idtf:
+    [76];;*);
 =>nrel_basin:
-    520;;
+    520(*=>nrel_main_idtf:
+    [520];;*);;

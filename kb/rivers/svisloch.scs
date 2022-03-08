@@ -11,6 +11,8 @@ svisloch
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    327;
+    327(*=>nrel_main_idtf:
+    [327];;*);
 =>nrel_basin:
-    5160;;
+    5160(*=>nrel_main_idtf:
+    [5160];;*);;

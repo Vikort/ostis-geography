@@ -11,6 +11,8 @@ stracha
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    59;
+    59(*=>nrel_main_idtf:
+    [59];;*);
 =>nrel_basin:
-    1140;;
+    1140(*=>nrel_main_idtf:
+    [1140];;*);;

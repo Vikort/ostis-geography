@@ -11,6 +11,8 @@ isloch
 =>nrel_region:
     hrodna_region;
 =>nrel_length:
-    102;
+    102(*=>nrel_main_idtf:
+    [102];;*);
 =>nrel_basin:
-    1330;;
+    1330(*=>nrel_main_idtf:
+    [1330];;*);;

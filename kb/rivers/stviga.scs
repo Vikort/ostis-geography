@@ -11,6 +11,8 @@ stviga
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    178;
+    178(*=>nrel_main_idtf:
+    [178];;*);
 =>nrel_basin:
-    5300;;
+    5300(*=>nrel_main_idtf:
+    [5300];;*);;

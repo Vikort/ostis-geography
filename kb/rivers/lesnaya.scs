@@ -11,6 +11,8 @@ lesnaya
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    85;
+    85(*=>nrel_main_idtf:
+    [85];;*);
 =>nrel_basin:
-    2650;;
+    2650(*=>nrel_main_idtf:
+    [2650];;*);;

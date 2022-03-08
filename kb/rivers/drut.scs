@@ -11,6 +11,8 @@ drut
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    295;
+    295(*=>nrel_main_idtf:
+    [295];;*);
 =>nrel_basin:
-    5020;;
+    5020(*=>nrel_main_idtf:
+    [5020];;*);;

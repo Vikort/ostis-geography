@@ -11,6 +11,8 @@ golbica
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    63;
+    63(*=>nrel_main_idtf:
+    [63];;*);
 =>nrel_basin:
-    1050;;
+    1050(*=>nrel_main_idtf:
+    [1050];;*);;

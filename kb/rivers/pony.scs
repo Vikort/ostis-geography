@@ -11,6 +11,8 @@ pony
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    45;
+    45(*=>nrel_main_idtf:
+    [45];;*);
 =>nrel_basin:
-    503;;
+    503(*=>nrel_main_idtf:
+    [503];;*);;

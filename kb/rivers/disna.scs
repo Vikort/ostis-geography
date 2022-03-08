@@ -11,6 +11,8 @@ disna
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    178;
+    178(*=>nrel_main_idtf:
+    [178];;*);
 =>nrel_basin:
-    8180;;
+    8180(*=>nrel_main_idtf:
+    [8180];;*);;

@@ -11,6 +11,8 @@ deryazhin
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    17;
+    17(*=>nrel_main_idtf:
+    [17];;*);
 =>nrel_basin:
-    123;;
+    123(*=>nrel_main_idtf:
+    [123];;*);;

@@ -11,6 +11,8 @@ polota
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    93;
+    93(*=>nrel_main_idtf:
+    [93];;*);
 =>nrel_basin:
-    651;;
+    651(*=>nrel_main_idtf:
+    [651];;*);;

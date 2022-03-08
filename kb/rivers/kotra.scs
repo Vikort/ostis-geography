@@ -11,6 +11,8 @@ kotra
 =>nrel_region:
     hrodna_region;
 =>nrel_length:
-    140;
+    140(*=>nrel_main_idtf:
+    [140];;*);
 =>nrel_basin:
-    2060;;
+    2060(*=>nrel_main_idtf:
+    [2060];;*);;

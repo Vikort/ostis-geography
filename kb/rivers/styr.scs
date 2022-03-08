@@ -11,6 +11,8 @@ styr
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    494;
+    494(*=>nrel_main_idtf:
+    [494];;*);
 =>nrel_basin:
-    13100;;
+    13100(*=>nrel_main_idtf:
+    [13100];;*);;

@@ -11,6 +11,8 @@ ushacha
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    118;
+    118(*=>nrel_main_idtf:
+    [118];;*);
 =>nrel_basin:
-    1150;;
+    1150(*=>nrel_main_idtf:
+    [1150];;*);;

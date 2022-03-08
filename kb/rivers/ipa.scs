@@ -11,6 +11,8 @@ ipa
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    109;
+    109(*=>nrel_main_idtf:
+    [109];;*);
 =>nrel_basin:
-    1010;;
+    1010(*=>nrel_main_idtf:
+    [1010];;*);;

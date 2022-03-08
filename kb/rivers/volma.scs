@@ -11,6 +11,8 @@ volma
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    103;
+    103(*=>nrel_main_idtf:
+    [103];;*);
 =>nrel_basin:
-    1150;;
+    1150(*=>nrel_main_idtf:
+    [1150];;*);;

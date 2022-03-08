@@ -11,6 +11,8 @@ adrov
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    75;
+    75(*=>nrel_main_idtf:
+    [75];;*);
 =>nrel_basin:
-    676;;
+    676(*=>nrel_main_idtf:
+    [676];;*);;

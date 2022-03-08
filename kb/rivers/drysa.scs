@@ -11,6 +11,8 @@ drysa
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    183;
+    183(*=>nrel_main_idtf:
+    [183];;*);
 =>nrel_basin:
-    6420;;
+    6420(*=>nrel_main_idtf:
+    [6420];;*);;

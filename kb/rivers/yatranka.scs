@@ -11,6 +11,8 @@ yatranka
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    31;
+    31(*=>nrel_main_idtf:
+    [31];;*);
 =>nrel_basin:
-    208;;
+    208(*=>nrel_main_idtf:
+    [208];;*);;

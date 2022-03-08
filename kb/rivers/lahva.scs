@@ -11,6 +11,8 @@ lahva
 =>nrel_region:
     mogilev_region;
 =>nrel_length:
-    90;
+    90(*=>nrel_main_idtf:
+    [90];;*);
 =>nrel_basin:
-    731;;
+    731(*=>nrel_main_idtf:
+    [731];;*);;

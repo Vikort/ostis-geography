@@ -11,6 +11,8 @@ druika
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    52;
+    52(*=>nrel_main_idtf:
+    [52];;*);
 =>nrel_basin:
-    1050;;
+    1050(*=>nrel_main_idtf:
+    [1050];;*);;

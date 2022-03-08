@@ -11,6 +11,8 @@ bistraya
 =>nrel_region:
     mogilev_region;
 =>nrel_length:
-    46;
+    46(*=>nrel_main_idtf:
+    [46];;*);
 =>nrel_basin:
-    688;;
+    688(*=>nrel_main_idtf:
+    [688];;*);;

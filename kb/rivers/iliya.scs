@@ -11,6 +11,8 @@ iliya
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    62;
+    62(*=>nrel_main_idtf:
+    [62];;*);
 =>nrel_basin:
-    1220;;
+    1220(*=>nrel_main_idtf:
+    [1220];;*);;

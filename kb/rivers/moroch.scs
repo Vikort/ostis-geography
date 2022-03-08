@@ -11,6 +11,8 @@ moroch
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    150;
+    150(*=>nrel_main_idtf:
+    [150];;*);
 =>nrel_basin:
-    2300;;
+    2300(*=>nrel_main_idtf:
+    [2300];;*);;

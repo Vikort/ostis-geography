@@ -11,6 +11,8 @@ chechera
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    56;
+    56(*=>nrel_main_idtf:
+    [56];;*);
 =>nrel_basin:
-    551;;
+    551(*=>nrel_main_idtf:
+    [551];;*);;

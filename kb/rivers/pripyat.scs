@@ -11,6 +11,8 @@ pripyat
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    775;
+    775(*=>nrel_main_idtf:
+    [775];;*);
 =>nrel_basin:
-    114300;;
+    114300(*=>nrel_main_idtf:
+    [114300];;*);;

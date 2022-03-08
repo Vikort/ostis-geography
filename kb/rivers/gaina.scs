@@ -11,6 +11,8 @@ gaina
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    100;
+    100(*=>nrel_main_idtf:
+    [100];;*);
 =>nrel_basin:
-    1670;;
+    1670(*=>nrel_main_idtf:
+    [1670];;*);;

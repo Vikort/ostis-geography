@@ -11,6 +11,8 @@ rybchanka
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    30;
+    30(*=>nrel_main_idtf:
+    [30];;*);
 =>nrel_basin:
-    518;;
+    518(*=>nrel_main_idtf:
+    [518];;*);;

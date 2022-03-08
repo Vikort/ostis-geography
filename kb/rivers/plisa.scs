@@ -11,6 +11,8 @@ plisa
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    64;
+    64(*=>nrel_main_idtf:
+    [64];;*);
 =>nrel_basin:
-    625;;
+    625(*=>nrel_main_idtf:
+    [625];;*);;

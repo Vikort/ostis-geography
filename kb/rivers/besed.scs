@@ -11,6 +11,8 @@ besed
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    185;
+    185(*=>nrel_main_idtf:
+    [185];;*);
 =>nrel_basin:
-    5600;;
+    5600(*=>nrel_main_idtf:
+    [5600];;*);;

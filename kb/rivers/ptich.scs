@@ -11,6 +11,8 @@ ptich
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    421;
+    421(*=>nrel_main_idtf:
+    [421];;*);
 =>nrel_basin:
-    9470;;
+    9470(*=>nrel_main_idtf:
+    [9470];;*);;

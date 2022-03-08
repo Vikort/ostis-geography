@@ -1,4 +1,4 @@
-zapadnaya_dvina 
+zapadnaya dvina 
 <- concept_river;
 <- concept_way;
 =>nrel_main_idtf:
@@ -11,6 +11,8 @@ zapadnaya_dvina
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    1022;
+    1022(*=>nrel_main_idtf:
+    [1022];;*);
 =>nrel_basin:
-    87900;;
+    87900(*=>nrel_main_idtf:
+    [87900];;*);;

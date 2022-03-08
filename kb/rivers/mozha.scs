@@ -11,6 +11,8 @@ mozha
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    77;
+    77(*=>nrel_main_idtf:
+    [77];;*);
 =>nrel_basin:
-    530;;
+    530(*=>nrel_main_idtf:
+    [530];;*);;

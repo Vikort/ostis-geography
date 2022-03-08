@@ -11,6 +11,8 @@ lan
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    147;
+    147(*=>nrel_main_idtf:
+    [147];;*);
 =>nrel_basin:
-    2190;;
+    2190(*=>nrel_main_idtf:
+    [2190];;*);;

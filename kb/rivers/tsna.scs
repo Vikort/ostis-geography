@@ -11,6 +11,8 @@ tsna
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    126;
+    126(*=>nrel_main_idtf:
+    [126];;*);
 =>nrel_basin:
-    1130;;
+    1130(*=>nrel_main_idtf:
+    [1130];;*);;

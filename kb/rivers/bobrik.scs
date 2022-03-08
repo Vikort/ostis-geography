@@ -11,6 +11,8 @@ bobrik
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    109;
+    109(*=>nrel_main_idtf:
+    [109];;*);
 =>nrel_basin:
-    1902;;
+    1902(*=>nrel_main_idtf:
+    [1902];;*);;

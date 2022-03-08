@@ -11,6 +11,8 @@ narochanka
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    75;
+    75(*=>nrel_main_idtf:
+    [75];;*);
 =>nrel_basin:
-    1650;;
+    1650(*=>nrel_main_idtf:
+    [1650];;*);;

@@ -11,6 +11,8 @@ ola
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    100;
+    100(*=>nrel_main_idtf:
+    [100];;*);
 =>nrel_basin:
-    1230;;
+    1230(*=>nrel_main_idtf:
+    [1230];;*);;

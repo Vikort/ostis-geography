@@ -11,6 +11,8 @@ bobruika
 =>nrel_region:
     mogilev_region;
 =>nrel_length:
-    15;
+    15(*=>nrel_main_idtf:
+    [15];;*);
 =>nrel_basin:
-    88;;
+    88(*=>nrel_main_idtf:
+    [88];;*);;

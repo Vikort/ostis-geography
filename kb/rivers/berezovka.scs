@@ -11,6 +11,8 @@ berezovka
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    53;
+    53(*=>nrel_main_idtf:
+    [53];;*);
 =>nrel_basin:
-    721;;
+    721(*=>nrel_main_idtf:
+    [721];;*);;

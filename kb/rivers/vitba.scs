@@ -11,6 +11,8 @@ vitba
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    33;
+    33(*=>nrel_main_idtf:
+    [33];;*);
 =>nrel_basin:
-    275;;
+    275(*=>nrel_main_idtf:
+    [275];;*);;

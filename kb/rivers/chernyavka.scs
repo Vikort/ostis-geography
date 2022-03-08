@@ -11,6 +11,8 @@ chernyavka
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    24;
+    24(*=>nrel_main_idtf:
+    [24];;*);
 =>nrel_basin:
-    108;;
+    108(*=>nrel_main_idtf:
+    [108];;*);;

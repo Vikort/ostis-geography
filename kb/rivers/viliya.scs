@@ -11,6 +11,8 @@ viliya
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    228;
+    228(*=>nrel_main_idtf:
+    [228];;*);
 =>nrel_basin:
-    11100;;
+    11100(*=>nrel_main_idtf:
+    [11100];;*);;

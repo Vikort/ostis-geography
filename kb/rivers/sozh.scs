@@ -11,6 +11,8 @@ sozh
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    648;
+    648(*=>nrel_main_idtf:
+    [648];;*);
 =>nrel_basin:
-    42100;;
+    42100(*=>nrel_main_idtf:
+    [42100];;*);;

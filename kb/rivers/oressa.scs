@@ -11,6 +11,8 @@ oressa
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    151;
+    151(*=>nrel_main_idtf:
+    [151];;*);
 =>nrel_basin:
-    3580;;
+    3580(*=>nrel_main_idtf:
+    [3580];;*);;

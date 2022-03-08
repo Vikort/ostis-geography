@@ -1,4 +1,4 @@
-zapadniy_bug 
+zapadniy bug 
 <- concept_river;
 <- concept_way;
 =>nrel_main_idtf:
@@ -11,6 +11,8 @@ zapadniy_bug
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    772;
+    772(*=>nrel_main_idtf:
+    [772];;*);
 =>nrel_basin:
-    73470;;
+    73470(*=>nrel_main_idtf:
+    [73470];;*);;

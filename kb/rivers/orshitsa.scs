@@ -11,6 +11,8 @@ orshitsa
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    33;
+    33(*=>nrel_main_idtf:
+    [33];;*);
 =>nrel_basin:
-    513;;
+    513(*=>nrel_main_idtf:
+    [513];;*);;

@@ -11,6 +11,8 @@ zhelon
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    113;
+    113(*=>nrel_main_idtf:
+    [113];;*);
 =>nrel_basin:
-    1460;;
+    1460(*=>nrel_main_idtf:
+    [1460];;*);;

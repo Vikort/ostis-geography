@@ -11,6 +11,8 @@ yaselda
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    250;
+    250(*=>nrel_main_idtf:
+    [250];;*);
 =>nrel_basin:
-    7790;;
+    7790(*=>nrel_main_idtf:
+    [7790];;*);;

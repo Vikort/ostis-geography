@@ -11,6 +11,8 @@ usysa
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    50;
+    50(*=>nrel_main_idtf:
+    [50];;*);
 =>nrel_basin:
-    423;;
+    423(*=>nrel_main_idtf:
+    [423];;*);;

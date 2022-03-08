@@ -11,6 +11,8 @@ sluch
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    225;
+    225(*=>nrel_main_idtf:
+    [225];;*);
 =>nrel_basin:
-    5260;;
+    5260(*=>nrel_main_idtf:
+    [5260];;*);;

@@ -11,6 +11,8 @@ loshitsa
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    9;
+    9(*=>nrel_main_idtf:
+    [9];;*);
 =>nrel_basin:
-    62;;
+    62(*=>nrel_main_idtf:
+    [62];;*);;

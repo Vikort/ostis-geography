@@ -11,6 +11,8 @@ vedrich
 =>nrel_region:
     gomel_region;
 =>nrel_length:
-    68;
+    68(*=>nrel_main_idtf:
+    [68];;*);
 =>nrel_basin:
-    1330;;
+    1330(*=>nrel_main_idtf:
+    [1330];;*);;

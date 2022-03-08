@@ -11,6 +11,8 @@ nescherda
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    21;
+    21(*=>nrel_main_idtf:
+    [21];;*);
 =>nrel_basin:
-    346;;
+    346(*=>nrel_main_idtf:
+    [346];;*);;

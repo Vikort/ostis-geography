@@ -11,6 +11,8 @@ neman
 =>nrel_region:
     minsk_region;
 =>nrel_length:
-    937;
+    937(*=>nrel_main_idtf:
+    [937];;*);
 =>nrel_basin:
-    98200;;
+    98200(*=>nrel_main_idtf:
+    [98200];;*);;

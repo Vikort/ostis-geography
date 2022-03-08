@@ -11,6 +11,8 @@ zelvyanka
 =>nrel_region:
     brest_region;
 =>nrel_length:
-    170;
+    170(*=>nrel_main_idtf:
+    [170];;*);
 =>nrel_basin:
-    1940;;
+    1940(*=>nrel_main_idtf:
+    [1940];;*);;

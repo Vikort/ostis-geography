@@ -11,6 +11,8 @@ sosnitsa
 =>nrel_region:
     vitebsk_region;
 =>nrel_length:
-    39;
+    39(*=>nrel_main_idtf:
+    [39];;*);
 =>nrel_basin:
-    394;;
+    394(*=>nrel_main_idtf:
+    [394];;*);;
