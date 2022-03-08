@@ -1,12 +1,12 @@
 
 //1
 estates_klevoemestechko
-=>nrel_price: [222] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [145] (* <- concept_square_meters;; *);
+=>nrel_price: 222 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 145 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [«Клевое местечко»]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -23,12 +23,12 @@ estates_klevoemestechko
         
 //2
 estates_dudik
-=>nrel_price: [289] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [127] (* <- concept_square_meters;; *);
+=>nrel_price: 289 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 127 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [У Дудика]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -45,14 +45,14 @@ estates_dudik
         
 //3
 estates_uvodyugrigor
-=>nrel_price: [184] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [258] (* <- concept_square_meters;; *);
+=>nrel_price: 184 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 258 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
-    [Красное]
+    [Усадьба Красное]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -67,14 +67,14 @@ estates_uvodyugrigor
         
 //4
 estates_1812
-=>nrel_price: [155] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [208] (* <- concept_square_meters;; *);
+=>nrel_price: 155 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 208 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
-    [1812]
+    [Агроусадьба 1812]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
@@ -89,12 +89,12 @@ estates_1812
         
 //5
 estates_grydichinaozernaya13
-=>nrel_price: [326] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [155] (* <- concept_square_meters;; *);
+=>nrel_price: 326 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 155 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_mogilev_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Озерная 13]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

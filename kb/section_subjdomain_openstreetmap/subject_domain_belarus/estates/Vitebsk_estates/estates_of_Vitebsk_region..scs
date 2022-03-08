@@ -1,12 +1,12 @@
 
 //1
 estates_trisosny
-=>nrel_price: [414] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [177] (* <- concept_square_meters;; *);
+=>nrel_price: 414 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 177 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Усадьба на Набережной]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -23,12 +23,12 @@ estates_trisosny
         
 //2
 estates_gribnoybabariki
-=>nrel_price: [204] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [155] (* <- concept_square_meters;; *);
+=>nrel_price: 204 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 155 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Бабарики]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -45,12 +45,12 @@ estates_gribnoybabariki
         
 //3
 estates_plisskayagubernya
-=>nrel_price: [404] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [326] (* <- concept_square_meters;; *);
+=>nrel_price: 404 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 326 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Плисская Губерня]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -67,12 +67,12 @@ estates_plisskayagubernya
         
 //4
 estates_sveta
-=>nrel_price: [290] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [122] (* <- concept_square_meters;; *);
+=>nrel_price: 290 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 122 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Света]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -89,12 +89,12 @@ estates_sveta
         
 //5
 estates_krainamar
-=>nrel_price: [373] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [300] (* <- concept_square_meters;; *);
+=>nrel_price: 373 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 300 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Агроэкоусадьба]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -111,12 +111,12 @@ estates_krainamar
 
 //6
 estates_radush
-=>nrel_price: [326] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [306] (* <- concept_square_meters;; *);
+=>nrel_price: 326 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 306 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Радюш]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -133,12 +133,12 @@ estates_radush
         
 //7
 estates_braslavrest
-=>nrel_price: [238] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [108] (* <- concept_square_meters;; *);
+=>nrel_price: 238 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 108 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Braslav Rest]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -155,12 +155,12 @@ estates_braslavrest
         
 //8
 estates_zvezdniydvor
-=>nrel_price: [361] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [345] (* <- concept_square_meters;; *);
+=>nrel_price: 361 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 345 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Звезны двор]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -177,12 +177,12 @@ estates_zvezdniydvor
         
 //9
 estates_edishki
-=>nrel_price: [202] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [252] (* <- concept_square_meters;; *);
+=>nrel_price: 202 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 252 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Едишки]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -199,12 +199,12 @@ estates_edishki
         
 //10
 estates_alesyabraslav
-=>nrel_price: [420] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [158] (* <- concept_square_meters;; *);
+=>nrel_price: 420 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 158 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Алеся]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -221,12 +221,12 @@ estates_alesyabraslav
         
 //11
 estates_naopyshke
-=>nrel_price: [439] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [480] (* <- concept_square_meters;; *);
+=>nrel_price: 439 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 480 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [На опушке]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -243,12 +243,12 @@ estates_naopyshke
         
 //12
 estates_nomerbaykal
-=>nrel_price: [377] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [314] (* <- concept_square_meters;; *);
+=>nrel_price: 377 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 314 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Белорусский Байкал]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -265,12 +265,12 @@ estates_nomerbaykal
         
 //13
 estates_usadbadomikvderevne
-=>nrel_price: [354] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [300] (* <- concept_square_meters;; *);
+=>nrel_price: 354 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 300 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Марусина хата]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -287,12 +287,12 @@ estates_usadbadomikvderevne
         
 //14
 estates_nalepelskih
-=>nrel_price: [450] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [576] (* <- concept_square_meters;; *);
+=>nrel_price: 450 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 576 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Агроусадьба на озере Островно]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -309,12 +309,12 @@ estates_nalepelskih
         
 //15
 estates_uyasya
-=>nrel_price: [366] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [252] (* <- concept_square_meters;; *);
+=>nrel_price: 366 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 252 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [У Яся]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -331,12 +331,12 @@ estates_uyasya
         
 //16
 estates_bannydvor
-=>nrel_price: [366] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [366] (* <- concept_square_meters;; *);
+=>nrel_price: 366 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 366 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Банный двор]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -353,12 +353,12 @@ estates_bannydvor
         
 //17
 estates_usadbanalesnoy
-=>nrel_price: [222] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [145] (* <- concept_square_meters;; *);
+=>nrel_price: 222 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 145 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [На Лесной]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -375,12 +375,12 @@ estates_usadbanalesnoy
         
 //18
 estates_abuzerie
-=>nrel_price: [228] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [222] (* <- concept_square_meters;; *);
+=>nrel_price: 228 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 222 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Абузерье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -397,12 +397,12 @@ estates_abuzerie
         
 //19
 estates_karteya
-=>nrel_price: [405] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [588] (* <- concept_square_meters;; *);
+=>nrel_price: 405 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 588 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Картея]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -419,12 +419,12 @@ estates_karteya
         
 //20
 estates_gavrilovich
-=>nrel_price: [259] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [121] (* <- concept_square_meters;; *);
+=>nrel_price: 259 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 121 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [У Гавриловича]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -441,12 +441,12 @@ estates_gavrilovich
         
 //21
 estates_glushanin
-=>nrel_price: [245] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [191] (* <- concept_square_meters;; *);
+=>nrel_price: 245 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 191 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Павла Глушанина]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -463,12 +463,12 @@ estates_glushanin
         
 //22
 estates_maentokgorbacheva
-=>nrel_price: [394] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [232] (* <- concept_square_meters;; *);
+=>nrel_price: 394 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 232 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Друя]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -485,12 +485,12 @@ estates_maentokgorbacheva
         
 //23
 estates_zapovedostrovdom5
-=>nrel_price: [324] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [169] (* <- concept_square_meters;; *);
+=>nrel_price: 324 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 169 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Заповедный остров]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -507,12 +507,12 @@ estates_zapovedostrovdom5
         
 //24
 estates_murazhi21
-=>nrel_price: [216] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [399] (* <- concept_square_meters;; *);
+=>nrel_price: 216 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 399 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Муражье]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -529,12 +529,12 @@ estates_murazhi21
         
 //25
 estates_domuruchya
-=>nrel_price: [281] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [474] (* <- concept_square_meters;; *);
+=>nrel_price: 281 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 474 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Green club]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -551,12 +551,12 @@ estates_domuruchya
         
 //26
 estates_motorezervation
-=>nrel_price: [219] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [336] (* <- concept_square_meters;; *);
+=>nrel_price: 219 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 336 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Экстрим-усадьба "МотоРезервация"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -573,12 +573,12 @@ estates_motorezervation
         
 //27
 estates_chudnybereg
-=>nrel_price: [401] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [336] (* <- concept_square_meters;; *);
+=>nrel_price: 401 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 336 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [У Яся]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -595,12 +595,12 @@ estates_chudnybereg
         
 //28
 estates_toptigin
-=>nrel_price: [213] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [191] (* <- concept_square_meters;; *);
+=>nrel_price: 213 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 191 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [У Топтыгина]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -617,12 +617,12 @@ estates_toptigin
 
 //29
 estates_nashahata
-=>nrel_price: [328] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [388] (* <- concept_square_meters;; *);
+=>nrel_price: 328 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 388 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Наша хата Биосфера]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -639,12 +639,12 @@ estates_nashahata
         
 //30
 estates_karchmadudara
-=>nrel_price: [390] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [124] (* <- concept_square_meters;; *);
+=>nrel_price: 390 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 124 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Плисская губерня]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -661,12 +661,12 @@ estates_karchmadudara
         
 //31
 estates_rodnikovykray
-=>nrel_price: [257] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [489] (* <- concept_square_meters;; *);
+=>nrel_price: 257 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 489 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Родниковый край]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -683,12 +683,12 @@ estates_rodnikovykray
         
 //32
 estates_centreurope
-=>nrel_price: [176] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [162] (* <- concept_square_meters;; *);
+=>nrel_price: 176 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 162 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Центр Европы]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -705,12 +705,12 @@ estates_centreurope
         
 //33
 estates_raiskoemestecko
-=>nrel_price: [318] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [236] (* <- concept_square_meters;; *);
+=>nrel_price: 318 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 236 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Туристичкский комплекс "Струсто"]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -727,12 +727,12 @@ estates_raiskoemestecko
         
 //34
 estates_zapovedostrovdom2
-=>nrel_price: [215] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [145] (* <- concept_square_meters;; *);
+=>nrel_price: 215 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 145 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Заповедный остров]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -749,12 +749,12 @@ estates_zapovedostrovdom2
         
 //35
 estates_kanashiagro
-=>nrel_price: [185] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [234] (* <- concept_square_meters;; *);
+=>nrel_price: 185 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 234 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Канаши агро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -771,12 +771,12 @@ estates_kanashiagro
         
 //36
 estates_kaptaruny
-=>nrel_price: [176] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [206] (* <- concept_square_meters;; *);
+=>nrel_price: 176 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 206 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Арт-деревня Каптаруны]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -793,12 +793,12 @@ estates_kaptaruny
         
 //37
 estates_yakimovich
-=>nrel_price: [445] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [504] (* <- concept_square_meters;; *);
+=>nrel_price: 445 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 504 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Усадьба Якимович]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -815,12 +815,12 @@ estates_yakimovich
         
 //38
 estates_braslavskoevzmore
-=>nrel_price: [208] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [519] (* <- concept_square_meters;; *);
+=>nrel_price: 208 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 519 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_vitebsk_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Заезны двор]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

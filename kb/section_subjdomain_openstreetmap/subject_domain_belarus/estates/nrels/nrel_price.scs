@@ -1,0 +1,54 @@
+nrel_price
+<-sc_node_norole_relation;
+<-relation;
+<-norole_relation;
+<-binary_relation;
+<-oriented_relation;
+<-antireflexive_relation;
+<-antitransitive_relation;
+<-asymmetric_relation;
+=>nrel_main_idtf:
+	[ стоимость* ]
+	(* <- lang_ru;; *);
+	[ price* ]
+	(* <- lang_en;; *);
+=>nrel_first_domain: concept_estates;
+=>nrel_second_domain: concept_ruble;
+=>nrel_definitional_domain:
+	...
+	(*
+	<= nrel_combination:
+		{
+		concept_estates;
+		concept_ruble
+		};;
+	*);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (стоимость*)]
+		(* <- lang_ru;; *);
+		[Def. (price*)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[стоимость - цена в рублях за одну ночь.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[price - cost of one night using.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_ruble;
+			concept_estates;
+			nrel_price
+		};;
+	*);;

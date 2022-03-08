@@ -1,0 +1,54 @@
+nrel_layers
+<-sc_node_norole_relation;
+<-relation;
+<-norole_relation;
+<-binary_relation;
+<-oriented_relation;
+<-antireflexive_relation;
+<-antitransitive_relation;
+<-asymmetric_relation;
+=>nrel_main_idtf:
+	[ этажи* ]
+	(* <- lang_ru;; *);
+	[ layers* ]
+	(* <- lang_en;; *);
+=>nrel_first_domain: concept_estates;
+=>nrel_second_domain: concept_layers;
+=>nrel_definitional_domain:
+	...
+	(*
+	<= nrel_combination:
+		{
+		concept_estates;
+		concept_layers
+		};;
+	*);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (этажи*)]
+		(* <- lang_ru;; *);
+		[Def. (layers*)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[этажи - часть пространства здания между двумя горизонтальными перекрытиями (между полом и потолком), где 	располагаются помещения; уровень здания над (или под) уровнем земли..]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[layers - the part of the building space between two horizontal floors (between the floor and ceiling) where the premises are located; the level of the building above (or below) ground level.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_layers;
+			concept_estates;
+			nrel_layers
+		};;
+	*);;

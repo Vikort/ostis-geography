@@ -1,12 +1,12 @@
 
 //1
 estates_ulesanaopushke
-=>nrel_price: [255] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [318] (* <- concept_square_meters;; *);
+=>nrel_price: 255 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 318 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Любезный Сердцу Уголок]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -23,12 +23,12 @@ estates_ulesanaopushke
         
 //2
 estates_alyaskanarancho
-=>nrel_price: [391] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [152] (* <- concept_square_meters;; *);
+=>nrel_price: 391 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 152 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Ранчо]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -45,12 +45,12 @@ estates_alyaskanarancho
         
 //3
 estates_village
-=>nrel_price: [289] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [117] (* <- concept_square_meters;; *);
+=>nrel_price: 289 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 117 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [The Village 35]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -67,12 +67,12 @@ estates_village
         
 //4
 estates_milygrad
-=>nrel_price: [281] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [573] (* <- concept_square_meters;; *);
+=>nrel_price: 281 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 573 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Милый Град]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -89,12 +89,12 @@ estates_milygrad
         
 //5
 estates_mira34
-=>nrel_price: [333] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [134] (* <- concept_square_meters;; *);
+=>nrel_price: 333 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 134 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [На Мира 34]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -111,12 +111,12 @@ estates_mira34
         
 //6
 estates_sergeyamilogradskogo
-=>nrel_price: [165] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [465] (* <- concept_square_meters;; *);
+=>nrel_price: 165 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 465 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Сергея Милоградского]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -133,12 +133,12 @@ estates_sergeyamilogradskogo
         
 //7
 estates_babushkinahata
-=>nrel_price: [360] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [384] (* <- concept_square_meters;; *);
+=>nrel_price: 360 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 384 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Бабушкина Хата]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -155,12 +155,12 @@ estates_babushkinahata
         
 //8
 estates_agrousadbarelaks
-=>nrel_price: [362] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [358] (* <- concept_square_meters;; *);
+=>nrel_price: 362 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 358 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [На Поляне]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -177,12 +177,12 @@ estates_agrousadbarelaks
         
 //9
 estates_ozernayaklenovica
-=>nrel_price: [320] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [298] (* <- concept_square_meters;; *);
+=>nrel_price: 320 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 298 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Озёрное]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -199,12 +199,12 @@ estates_ozernayaklenovica
         
 //10
 estates_bannayaderevnya
-=>nrel_price: [275] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [151] (* <- concept_square_meters;; *);
+=>nrel_price: 275 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 151 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Лошадиный Остров]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -221,12 +221,12 @@ estates_bannayaderevnya
         
 //11
 estates_kremno
-=>nrel_price: [217] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [111] (* <- concept_square_meters;; *);
+=>nrel_price: 217 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 111 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Кремное]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -243,12 +243,12 @@ estates_kremno
         
 //12
 estates_npp
-=>nrel_price: [188] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [372] (* <- concept_square_meters;; *);
+=>nrel_price: 188 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 372 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_gomel_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Национальный парк «Припятский»]
     (* <- lang_ru;; <- name_ru;; <- name;;*);

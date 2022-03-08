@@ -1,0 +1,35 @@
+concept_square_meters
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[Квадратные метры]
+	(* <- lang_ru;; *);
+	[square meters]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (Квадратные метры)]
+		(* <- lang_ru;; *);
+		[Def. (square meters)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Квадратные метры - единица измерения площади.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[square meters - unit of area measurement.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_square_meters;
+			belarus
+		};;
+	*);;

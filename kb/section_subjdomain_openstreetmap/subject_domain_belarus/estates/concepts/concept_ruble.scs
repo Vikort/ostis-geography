@@ -1,0 +1,35 @@
+concept_ruble
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[Рубль]
+	(* <- lang_ru;; *);
+	[Ruble]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (Рубль)]
+		(* <- lang_ru;; *);
+		[Def. (Ruble)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Рубль - валюта РБ.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Ruble - Republic of Belarus currency.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_ruble;
+			belarus
+		};;
+	*);;

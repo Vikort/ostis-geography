@@ -1,0 +1,35 @@
+concept_layers
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[Этажи]
+	(* <- lang_ru;; *);
+	[layers]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (Этажи)]
+		(* <- lang_ru;; *);
+		[Def. (layers)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Этажи - часть пространства здания между двумя горизонтальными перекрытиями (между полом и потолком), где 	располагаются помещения; уровень здания над (или под) уровнем земли.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[layers - the part of the building space between two horizontal floors (between the floor and ceiling) where the premises are located; the level of the building above (or below) ground level.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_layers;
+			belarus
+		};;
+	*);;

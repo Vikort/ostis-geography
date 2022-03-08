@@ -1,12 +1,12 @@
 
 //1
 estates_tomai
-=>nrel_price: [435] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [310] (* <- concept_square_meters;; *);
+=>nrel_price: 435 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 310 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Томай]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -23,12 +23,12 @@ estates_tomai
        
 //2
 estates_bb
-=>nrel_price: [239] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [232] (* <- concept_square_meters;; *);
+=>nrel_price: 239 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 232 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [B&B]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -45,12 +45,12 @@ estates_bb
                
 //3
 estates_monomah
-=>nrel_price: [373] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [175] (* <- concept_square_meters;; *);
+=>nrel_price: 373 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 175 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Поместье Мономах]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -67,12 +67,12 @@ estates_monomah
        
 //4
 estates_lesnaya
-=>nrel_price: [276] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [333] (* <- concept_square_meters;; *);
+=>nrel_price: 276 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 333 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Лесная]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -89,12 +89,12 @@ estates_lesnaya
 
 //5
 estates_polskimayontak
-=>nrel_price: [273] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [148] (* <- concept_square_meters;; *);
+=>nrel_price: 273 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 148 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Польский маёнтак]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -111,12 +111,12 @@ estates_polskimayontak
       
 //6
 estates_zamkovayagora
-=>nrel_price: [176] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [332] (* <- concept_square_meters;; *);
+=>nrel_price: 176 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 332 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Замковая гора]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -133,12 +133,12 @@ estates_zamkovayagora
      
 //7
 estates_naprostor
-=>nrel_price: [215] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [260] (* <- concept_square_meters;; *);
+=>nrel_price: 215 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 260 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [На просторах Полесья]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -155,12 +155,12 @@ estates_naprostor
         
 //8
 estates_usadbanazarechnoy
-=>nrel_price: [413] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [266] (* <- concept_square_meters;; *);
+=>nrel_price: 413 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 266 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [На Заречной]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -177,12 +177,12 @@ estates_usadbanazarechnoy
       
 //9
 estates_podsolnux
-=>nrel_price: [211] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [388] (* <- concept_square_meters;; *);
+=>nrel_price: 211 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 388 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Подсолнух]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -199,12 +199,12 @@ estates_podsolnux
       
 //10
 estates_derevenskiyray
-=>nrel_price: [329] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [380] (* <- concept_square_meters;; *);
+=>nrel_price: 329 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 380 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Деревенский рай]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -221,12 +221,12 @@ estates_derevenskiyray
         
 //11
 estates_vpusche
-=>nrel_price: [444] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [125] (* <- concept_square_meters;; *);
+=>nrel_price: 444 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 125 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Домик в пуще]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -243,12 +243,12 @@ estates_vpusche
       
 //12
 estates_gfamilyhome
-=>nrel_price: [337] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [552] (* <- concept_square_meters;; *);
+=>nrel_price: 337 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 552 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Усадьба Горчаковых]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -265,12 +265,12 @@ estates_gfamilyhome
      
 //13
 estates_dvorik
-=>nrel_price: [327] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [411] (* <- concept_square_meters;; *);
+=>nrel_price: 327 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 411 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Дворик]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -287,12 +287,12 @@ estates_dvorik
        
 //14
 estates_belovezhgost
-=>nrel_price: [355] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [369] (* <- concept_square_meters;; *);
+=>nrel_price: 355 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 369 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Беловежская гостевая]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -309,12 +309,12 @@ estates_belovezhgost
 
 //15
 estates_valentinovichey
-=>nrel_price: [440] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [462] (* <- concept_square_meters;; *);
+=>nrel_price: 440 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 462 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Валентиновичей]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -331,12 +331,12 @@ estates_valentinovichey
        
 //16
 estates_medzavala
-=>nrel_price: [224] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [369] (* <- concept_square_meters;; *);
+=>nrel_price: 224 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 369 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Медвежья завала]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -353,12 +353,12 @@ estates_medzavala
        
 //17
 estates_babulinahatka
-=>nrel_price: [249] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [282] (* <- concept_square_meters;; *);
+=>nrel_price: 249 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 282 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Бабулина хатка]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -375,12 +375,12 @@ estates_babulinahatka
       
 //18
 estates_zvanca
-=>nrel_price: [440] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [185] (* <- concept_square_meters;; *);
+=>nrel_price: 440 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 185 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Буслянка]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -397,12 +397,12 @@ estates_zvanca
 
 //19
 estates_solo
-=>nrel_price: [440] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [483] (* <- concept_square_meters;; *);
+=>nrel_price: 440 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 483 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Соловьиный рай]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -419,12 +419,12 @@ estates_solo
        
 //20
 estates_nadozerom
-=>nrel_price: [290] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [220] (* <- concept_square_meters;; *);
+=>nrel_price: 290 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 220 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Над Озером]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -441,12 +441,12 @@ estates_nadozerom
       
 //21
 estates_puschamechta
-=>nrel_price: [317] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [262] (* <- concept_square_meters;; *);
+=>nrel_price: 317 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 262 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Мечта]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -463,12 +463,12 @@ estates_puschamechta
       
 //22
 estates_tihiy
-=>nrel_price: [301] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [192] (* <- concept_square_meters;; *);
+=>nrel_price: 301 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 192 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Тихий уголок]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -485,12 +485,12 @@ estates_tihiy
       
 //23
 estates_tribogatyrya
-=>nrel_price: [444] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [435] (* <- concept_square_meters;; *);
+=>nrel_price: 444 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 435 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Три богатыря]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -507,12 +507,12 @@ estates_tribogatyrya
       
 //24
 estates_ejonka
-=>nrel_price: [350] (* <- concept_ruble;; *);
-=>nrel_stares: [3] (* <- concept_stares;; *);
-=>nrel_area: [456] (* <- concept_square_meters;; *);
+=>nrel_price: 350 (* <- concept_ruble;; *);
+=>nrel_layers: 3 (* <- concept_layers;; *);
+=>nrel_area: 456 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Ежонка]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -529,12 +529,12 @@ estates_ejonka
      
 //25
 estates_domribaka
-=>nrel_price: [353] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [208] (* <- concept_square_meters;; *);
+=>nrel_price: 353 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 208 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Dom Rybaka]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -551,12 +551,12 @@ estates_domribaka
        
 //26
 estates_stuly
-=>nrel_price: [351] (* <- concept_ruble;; *);
-=>nrel_stares: [1] (* <- concept_stares;; *);
-=>nrel_area: [129] (* <- concept_square_meters;; *);
+=>nrel_price: 351 (* <- concept_ruble;; *);
+=>nrel_layers: 1 (* <- concept_layers;; *);
+=>nrel_area: 129 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Стулы]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -573,12 +573,12 @@ estates_stuly
       
 //27
 estates_rechnaya
-=>nrel_price: [295] (* <- concept_ruble;; *);
-=>nrel_stares: [2] (* <- concept_stares;; *);
-=>nrel_area: [230] (* <- concept_square_meters;; *);
+=>nrel_price: 295 (* <- concept_ruble;; *);
+=>nrel_layers: 2 (* <- concept_layers;; *);
+=>nrel_area: 230 (* <- concept_square_meters;; *);
 <- concept_estates;
 <- concept_estates_of_the_brest_region;
-<- concept_way;
+<- concept_map_object;
 =>nrel_main_idtf:
     [Речная]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
