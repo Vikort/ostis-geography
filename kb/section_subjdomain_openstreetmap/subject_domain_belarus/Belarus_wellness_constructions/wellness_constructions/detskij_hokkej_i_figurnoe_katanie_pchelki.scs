@@ -5,8 +5,8 @@ detskij_hokkej_i_figurnoe_katanie_pchelki <- concept_wellness_construction;
 [Детский хоккей и фигурное катание "Пчёлки"]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-минск;
+minsk;
 =>nrel_country:
 by;
 =>nrel_street:
-проспект_победителей;;
+pr_pobediteley;;

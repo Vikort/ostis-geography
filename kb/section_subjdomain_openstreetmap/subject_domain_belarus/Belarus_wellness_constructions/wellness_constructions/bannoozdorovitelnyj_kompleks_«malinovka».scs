@@ -1,4 +1,4 @@
-bannoozdorovitelnyj_kompleks_«malinovka» <- concept_wellness_construction;
+bannoozdorovitelnyj_kompleks_malinovka <- concept_wellness_construction;
 => nrel_main_idtf:
 [Банно-оздоровительный комплекс «Малиновка»]
 (* <- lang_ru;; <- name_ru;; <- name;;*);

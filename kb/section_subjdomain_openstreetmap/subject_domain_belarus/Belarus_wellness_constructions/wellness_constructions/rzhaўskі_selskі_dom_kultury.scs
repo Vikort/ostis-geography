@@ -1,4 +1,4 @@
-rzhaўskі_selskі_dom_kultury <- concept_wellness_construction;
+rzhayski_selski_dom_kultury <- concept_wellness_construction;
 => nrel_main_idtf:
 [Ржаўскі сельскі Дом культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);

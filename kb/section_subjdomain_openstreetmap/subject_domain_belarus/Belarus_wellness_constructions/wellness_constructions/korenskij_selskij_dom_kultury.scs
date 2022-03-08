@@ -3,7 +3,7 @@ korenskij_selskij_dom_kultury <- concept_wellness_construction;
 [Коренский сельский дом культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-корень;
+koren;
 =>nrel_country:
 none;
 =>nrel_street:

@@ -3,8 +3,8 @@ kvest_perfomans_logovo_bleka <- concept_wellness_construction;
 [Квест перфоманс "Логово Блэка"]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-минск;
+minsk;
 =>nrel_country:
 by;
 =>nrel_street:
-улица_карла_маркса;;
+karla_marka_street;;

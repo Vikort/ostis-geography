@@ -3,8 +3,8 @@ oktjabrskij_selskij_dom_kultury <- concept_wellness_construction;
 [Октябрьский сельский дом культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-октябрь;
+oktyabr;
 =>nrel_country:
 none;
 =>nrel_street:
-центральная_улица;;
+center_street;;

@@ -3,8 +3,8 @@ zapolskij_sdk <- concept_wellness_construction;
 [Запольский СДК]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-заполье;
+zapolye;
 =>nrel_country:
 none;
 =>nrel_street:
-садовая_улица;;
+sadovaya_street;;

@@ -5,8 +5,8 @@ tajtsziminsk <- concept_wellness_construction;
 [Тайцзи-МИНСК]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-минск;
+concept_minsk;
 =>nrel_country:
 by;
 =>nrel_street:
-улица_ванеева;;
+vaneeva_street;;

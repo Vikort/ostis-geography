@@ -3,8 +3,8 @@ banja_2 <- concept_wellness_construction;
 [Баня №2]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-быхов;
+byhov;
 =>nrel_country:
 none;
 =>nrel_street:
-авиационная_улица;;
+aviation_street;;

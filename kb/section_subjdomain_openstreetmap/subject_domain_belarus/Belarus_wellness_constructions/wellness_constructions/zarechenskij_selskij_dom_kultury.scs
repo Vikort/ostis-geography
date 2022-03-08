@@ -5,8 +5,8 @@ zarechenskij_selskij_dom_kultury <- concept_wellness_construction;
 [Зареченский сельский дом культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-заречье;
+zarechye;
 =>nrel_country:
 none;
 =>nrel_street:
-центральная_улица;;
+center_street;;

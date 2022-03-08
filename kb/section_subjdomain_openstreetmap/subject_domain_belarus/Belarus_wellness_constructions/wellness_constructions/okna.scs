@@ -3,8 +3,8 @@ okna <- concept_wellness_construction;
 [Okna]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-минск;
+concept_minsk;
 =>nrel_country:
 by;
 =>nrel_street:
-октябрьская_улица;;
+oktyabrskaya_street;;

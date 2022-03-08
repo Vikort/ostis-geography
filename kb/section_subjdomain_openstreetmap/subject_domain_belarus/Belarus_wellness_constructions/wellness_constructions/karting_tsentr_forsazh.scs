@@ -5,8 +5,8 @@ karting_tsentr_forsazh <- concept_wellness_construction;
 [Картинг центр Форсаж]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-минск;
+minsk;
 =>nrel_country:
 by;
 =>nrel_street:
-проспект_независимости;;
+pr_nezavisimosty;;

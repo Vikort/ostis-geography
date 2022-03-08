@@ -3,8 +3,8 @@ logojskij_rajonnyj_dom_remesel <- concept_wellness_construction;
 [Логойский районный дом ремесел]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-логойск;
+logoisk;
 =>nrel_country:
 none;
 =>nrel_street:
-улица_харченко;;
+harchenko_street;;

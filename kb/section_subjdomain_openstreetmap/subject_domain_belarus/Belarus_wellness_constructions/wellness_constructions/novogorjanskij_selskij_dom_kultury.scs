@@ -3,8 +3,8 @@ novogorjanskij_selskij_dom_kultury <- concept_wellness_construction;
 [Новогорянский сельский дом культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-новые_горяны;
+novie_goryany;
 =>nrel_country:
 none;
 =>nrel_street:
-лесная_улица;;
+lesnaya_street;;

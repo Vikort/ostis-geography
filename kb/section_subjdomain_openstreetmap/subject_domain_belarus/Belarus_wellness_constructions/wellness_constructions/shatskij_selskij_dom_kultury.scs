@@ -3,8 +3,8 @@ shatskij_selskij_dom_kultury <- concept_wellness_construction;
 [Шацкий сельский Дом культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-шацк;
+shatsk;
 =>nrel_country:
 none;
 =>nrel_street:
-центральная_улица;;
+center_street;;

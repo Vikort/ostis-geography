@@ -1,4 +1,4 @@
-byhaўskі_raenny_tsentr_kultury <- concept_wellness_construction;
+byhayski_raenny_tsentr_kultury <- concept_wellness_construction;
 => nrel_main_idtf:
 [Быхаўскі раённы Цэнтр культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
@@ -7,4 +7,4 @@ none;
 =>nrel_country:
 none;
 =>nrel_street:
-улица_ленина;;
+lenina_street;;

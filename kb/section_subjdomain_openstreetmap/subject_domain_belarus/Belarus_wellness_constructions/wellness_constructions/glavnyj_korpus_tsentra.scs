@@ -3,7 +3,7 @@ glavnyj_korpus_tsentra <- concept_wellness_construction;
 [Главный корпус центра]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-крюковщина;
+krykovzhina;
 =>nrel_country:
 none;
 =>nrel_street:

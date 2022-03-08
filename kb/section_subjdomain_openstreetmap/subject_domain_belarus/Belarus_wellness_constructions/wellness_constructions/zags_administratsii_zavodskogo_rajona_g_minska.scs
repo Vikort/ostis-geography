@@ -3,8 +3,8 @@ zags_administratsii_zavodskogo_rajona_g_minska <- concept_wellness_construction;
 [ЗАГС администрации Заводского района г. Минска]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-минск;
+concept_minsk;
 =>nrel_country:
 by;
 =>nrel_street:
-улица_голодеда;;
+golodeda_street;;

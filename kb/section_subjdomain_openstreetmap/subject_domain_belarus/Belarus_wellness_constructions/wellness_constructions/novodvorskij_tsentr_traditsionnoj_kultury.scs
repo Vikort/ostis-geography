@@ -3,8 +3,8 @@ novodvorskij_tsentr_traditsionnoj_kultury <- concept_wellness_construction;
 [Новодворский центр традиционной культуры]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-аг_новый_двор;
+ag_noviy_dvor;
 =>nrel_country:
 none;
 =>nrel_street:
-парковая_улица;;
+parkovaya_street;;

@@ -5,8 +5,8 @@ glushanskaja_banja <- concept_wellness_construction;
 [Глушанская баня]
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city:
-глуша;
+glusha;
 =>nrel_country:
 none;
 =>nrel_street:
-октябрьская_улица;;
+oktyabrskaya_street;;
