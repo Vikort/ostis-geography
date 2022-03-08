@@ -29,7 +29,7 @@ class SchoolTranslatorExecuteAgent(ScAgent):
                 countNode = self.get_action_argument(self.main_node, 'rrel_2')
                 ruName = self.get_main_idtf(ruNameNode)
                 count = self.get_main_idtf(countNode)
-                os.system(" java -jar ../../../../tools/school_parser/ScsTranslator-1.0.jar Гродно 10")
+                os.system(f" java -jar ../../../../tools/school_parser/ScsTranslator-1.0.jar Гродно 10")
                 answerNode = self.ctx.CreateNode(ScType.NodeConstStruct)
                 self.finish_agent(self.main_node, answerNode)
             except Exception as ex:
