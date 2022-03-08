@@ -272,7 +272,8 @@ lake_Halubinaje
 =>nrel_country:
     belarus;
 => nrel_area:
-    [1.9];
+    [1.9]
+    (* <- concept_square;; *);
 =>nrel_region:
     grodno_region;;
 
@@ -343,6 +344,9 @@ lake_Turowieckie
 =>nrel_main_idtf:
     [Туровейское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
+=> nrel_area:
+    [0.41]
+    (* <- concept_square;; *);
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -387,6 +391,9 @@ lake_Baranskaje
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_country:
     belarus;
+=> nrel_area:
+    [0.15]
+    (* <- concept_square;; *);
 =>nrel_region:
     grodno_region;;
 

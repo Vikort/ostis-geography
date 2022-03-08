@@ -173,7 +173,8 @@ lake_velikoe
 =>nrel_country:
     belarus;
 =>nrel_area:
-    [1.6];
+    [1.6]
+    (* <- concept_square;; *);
 =>nrel_region:
     gomel_region;;
 

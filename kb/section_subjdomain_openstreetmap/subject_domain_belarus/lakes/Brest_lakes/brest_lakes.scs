@@ -11,7 +11,8 @@ lake_Miadnianskaje
 =>nrel_region:
     brest_region;
 => nrel_area:
-    [0.24];
+    [0.24]
+   (* <- concept_square;; *);
 =>nrel_district:
     brest_district;
 =>nrel_search_area:
@@ -26,7 +27,8 @@ lake_Stradzieckaje
     [Страдечское озеро]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_area:
-    [0.14];
+    [0.14]
+    (* <- concept_square;; *);
 =>nrel_country:
     belarus;
 =>nrel_region:
@@ -61,7 +63,8 @@ lake_pogost
     [Погост]
     (* <- lang_ru;; <- name_ru;; <- name;;*);
 => nrel_area:
-    [17];
+    [17]
+    (* <- concept_square;; *);
 =>nrel_country:
     belarus;
 =>nrel_region:
