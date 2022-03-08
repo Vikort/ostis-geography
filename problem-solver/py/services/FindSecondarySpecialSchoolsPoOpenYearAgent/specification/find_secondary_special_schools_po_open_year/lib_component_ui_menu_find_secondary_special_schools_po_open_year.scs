@@ -1,0 +1,9 @@
+lib_component_ui_menu_find_secondary_special_schools_po_open_year
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса для нахождения ССУЗа по году открытия учебного заведения]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command to find the secondary school by the year of opening of the educational institution]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;

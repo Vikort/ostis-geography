@@ -1,0 +1,704 @@
+/*
+SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/vitebsk
+*/
+
+// 1 +
+vitebsk_vegetarian_college=>nrel_main_idtf:[Витебская Государственная Академия ветеринарной медицины]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Agrarian College of Educational Establishment "Vitebsk State Academy of Veterinary Medicine"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_vegetarian_college=>nrel_idtf:[Аграрный колледж УО "Витебская государственная академия ветеринарной медицины"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_vegetarian_college=>nrel_region:vitebsk_region;;
+vitebsk_vegetarian_college=>nrel_city:vitebsk;;
+
+vitebsk_vegetarian_college=>nrel_phone_number:[8(0212) 293-324 (приемная директора), (8-0212) 293-348; 293-346 ; 8(029) 2168122];;
+vitebsk_vegetarian_college=>nrel_address:[г. Витебск, д. Лужесно, ул.Спортивная 3А];;
+vitebsk_vegetarian_college=>nrel_email:[agr-vgavm@agrokoledj.vitebsk.by];;
+vitebsk_vegetarian_college=>nrel_site:[www.agrokoledj.vitebsk.by];;
+
+vitebsk_vegetarian_college=>nrel_search_area:vitebsk;;
+vitebsk_vegetarian_college <- concept_secondary_schools;;
+vitebsk_vegetarian_college=>nrel_open_year:1909;;
+
+// 2 +
+vitebsk_connection_college=>nrel_main_idtf:[Витебский филиал Беларуской государственной академии связи]
+        (* 
+                <-lang_ru;; <- name_ru;; <- name;;
+        *);
+        [Vitebsk branch of EE "Belarusian State Academy of Telecommunications"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_connection_college=>nrel_idtf:[Витебский филиал УО "Белорусская государственная академия связи"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_connection_college=>nrel_region: vitebsk_region;;
+vitebsk_connection_college=>nrel_city: vitebsk;;
+
+vitebsk_connection_college=>nrel_phone_number:[+375 (212) 66-52-84 - приёмная директора, +375 (212) 66-40-07 - приёмная комиссия];;
+vitebsk_connection_college=>nrel_address:[г. Витебск, ул. Ильинского, 45];;
+vitebsk_connection_college=>nrel_email:[vf-bsac@vfbsac.by];;
+vitebsk_connection_college=>nrel_site:[vfbsac.by];;
+
+vitebsk_connection_college=>nrel_search_area:vitebsk;;
+vitebsk_connection_college <- concept_secondary_schools;;
+vitebsk_connection_college=>nrel_open_year:1945;;
+
+// 3 +
+vitebsk_ind_ped_college=>nrel_main_idtf:[Индустриально-педагогический колледж]
+        (*
+                <-lang_ru;;<- name_ru;; <- name;;
+        *);
+        [Industrial-Pedagogical College of EE "Vitebsk State Technological University"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_ind_ped_college=>nrel_idtf:[Индустриально-педагогический колледж УО "Витебский государственный технологический университет"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_ind_ped_college=>nrel_region:vitebsk_region;;
+vitebsk_ind_ped_college=>nrel_city:vitebsk;;
+
+vitebsk_ind_ped_college=>nrel_phone_number:[8 (0212) 67417 (приемная директора), 8 (0212) 674193 (приемная комиссия)];;
+vitebsk_ind_ped_college=>nrel_address:[г. Витебск, Терешковой, 20];;
+vitebsk_ind_ped_college=>nrel_email:[vgipk@vitebsk.bу];;
+vitebsk_ind_ped_college=>nrel_site:[vgipk.by];;
+
+vitebsk_ind_ped_college=>nrel_search_area:vitebsk;;
+vitebsk_ind_ped_college <- concept_secondary_schools;;
+vitebsk_ind_ped_college=>nrel_open_year:1960;;
+
+// 4 +
+orsha_masherovs_college=>nrel_main_idtf:[Оршанский колледж УО «ВГУ имени П.М. Машерова»]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Orsha College of Educational Establishment "Vitebsk State University named after P. M. Masherov"]
+        (*
+                <-lang_en;;
+        *);;
+orsha_masherovs_college=>nrel_idtf:[Оршанский колледж УО "Витебский государственный университет им. П. М. Машерова"]
+        (*
+                <-lang_ru;;
+        *);;
+
+orsha_masherovs_college=>nrel_region:vitebsk_region;;
+orsha_masherovs_college=>nrel_city: orsha;;
+
+orsha_masherovs_college=>nrel_phone_number:[(8-0216)21-81-04, 21-81-08, 21-81-18-факс];;
+orsha_masherovs_college=>nrel_address:[г. Орша, ул. Пушкина, 9-б];;
+orsha_masherovs_college=>nrel_email:[okmasherova@vsu.by];;
+orsha_masherovs_college=>nrel_site:[okvgu.vsu.by];;
+
+orsha_masherovs_college=>nrel_search_area:orsha;;
+orsha_masherovs_college <- concept_secondary_schools;;
+orsha_masherovs_college=>nrel_open_year:1911;;
+
+// 5 +
+orsha_transport_college=>nrel_main_idtf:[Оршанский колледж - филиал УО "Белорусский государственный университет транспорта"]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Orsha College - branch of the EE "Belarusian State University of Transport"]
+        (*
+                <-lang_en;;
+        *);;
+orsha_transport_college=>nrel_idtf:[Оршанский колледж – филиал УО "Белорусский государственный университет транспорта"]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+orsha_transport_college=>nrel_region:vitebsk_region;;
+orsha_transport_college=>nrel_city: orsha;;
+
+orsha_transport_college=>nrel_phone_number:[(80216)29-21-25 – директор, (80216)29-31-10 (приемная)];;
+orsha_transport_college=>nrel_address:[г. Орша, ул. Тимирязева, 26];;
+orsha_transport_college=>nrel_email:[ogkjt@tut.by];;
+orsha_transport_college=>nrel_site:[ogkjt.by];;
+
+orsha_transport_college=>nrel_search_area:orsha;;
+orsha_transport_college <- concept_secondary_schools;;
+orsha_transport_college=>nrel_open_year:1929;;
+
+// 6 +
+polotsk_medical_college=>nrel_main_idtf:[Полоцкий государственный медицинский колледж]
+        (*
+                <-lang_ru;;  <- name_ru;; <- name;;
+        *);
+        [Polotsk State Medical College. Hero of the Soviet Union Z.M. Tusnolobova-Marchenko]
+        (*
+                <-lang_en;;
+        *);;
+polotsk_medical_college=>nrel_idtf:[Полоцкий государственный медицинский колледж им. Героя Советского Союза З.М.Туснолобовой-Марченко]
+        (*
+                <-lang_ru;;
+        *);;
+
+polotsk_medical_college=>nrel_region:vitebsk_region;;
+polotsk_medical_college=>nrel_city: polatsk;;
+
+polotsk_medical_college=>nrel_phone_number:[8 (0214) 43-86-22 (приемная директора), 8 (0214) 46-60-07 (на время работы приемной комиссии)];;
+polotsk_medical_college=>nrel_address:[г. Полоцк, ул.Нижне-Покровская, 49];;
+polotsk_medical_college=>nrel_email:[meduchp@vitebsk.by];;
+polotsk_medical_college=>nrel_site:[www.psec.by];;
+
+polotsk_medical_college=>nrel_search_area:polatsk;;
+polotsk_medical_college <- concept_secondary_schools;;
+polotsk_medical_college=>nrel_open_year:1937;;
+
+// 7 - не омечено на карте, поэтому оставляю такое название
+polotsk_masherov_college=>nrel_main_idtf:[Полоцкий колледж УО "Витебский государственный университет им. П.М. Машерова"]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Polotsk College of Educational Establishment "Vitebsk State University named after P.M. Masherov"]
+        (*
+                <-lang_en;;
+        *);;
+polotsk_masherov_college=>nrel_idtf:[Полоцкий колледж УО "Витебский государственный университет им. П.М. Машерова"]
+        (*
+                <-lang_ru;;
+        *);;
+
+polotsk_masherov_college=>nrel_region:vitebsk_region;;
+polotsk_masherov_college=>nrel_city: polatsk;;
+
+polotsk_masherov_college=>nrel_phone_number:[(0214) 46-27-56 (приемная директора), (0214) 46-40-35 (приемная комиссия).];;
+polotsk_masherov_college=>nrel_address:[г. Полоцк, ул. Е. Полоцкой, 26 ];;
+polotsk_masherov_college=>nrel_email:[pgpedcol@tut.by];;
+polotsk_masherov_college=>nrel_site:[pedcol.vsu.by];;
+
+polotsk_masherov_college=>nrel_search_area:polatsk;;
+polotsk_masherov_college <- concept_secondary_schools;;
+polotsk_masherov_college=>nrel_open_year:1872;;
+
+// 8 +
+vitebsk_culture_college=>nrel_main_idtf:[Витебский государственный колледж культуры и искусств]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Vitebsk State College of Culture and Arts"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_culture_college=>nrel_idtf:[УО "Витебский государственный колледж культуры и искусств"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_culture_college=>nrel_region:vitebsk_region;;
+vitebsk_culture_college=>nrel_city:vitebsk;;
+
+vitebsk_culture_college=>nrel_phone_number:[(0212) 36-26-33 (приемная директора), (0212) 36-26-17 (приемная комиссия)];;
+vitebsk_culture_college=>nrel_address:[г. Витебск, ул. М.Горького, 74];;
+vitebsk_culture_college=>nrel_email:[vgkki@tut.by];;
+vitebsk_culture_college=>nrel_site:[www.vgkki.by];;
+
+vitebsk_culture_college=>nrel_search_area:vitebsk;;
+vitebsk_culture_college <- concept_secondary_schools;;
+vitebsk_culture_college=>nrel_open_year:1971;;
+
+// 9 +
+vitebsk_electical_college=>nrel_main_idtf:[Политехнический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Vitebsk State College of Electrical Engineering"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_electical_college=>nrel_idtf:[УО "Витебский государственный колледж электротехники"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_electical_college=>nrel_region:vitebsk_region;;
+vitebsk_electical_college=>nrel_city:vitebsk;;
+
+vitebsk_electical_college=>nrel_phone_number:[64-89-38 (приемная комиссия); 64-42-97 (приемная директора)];;
+vitebsk_electical_college=>nrel_address:[г. Витебск, пр. Черняховского, 14];;
+vitebsk_electical_college=>nrel_email:[vgpt@vitebsk.by];;
+vitebsk_electical_college=>nrel_site:[vgke.by];;
+
+vitebsk_electical_college=>nrel_search_area:vitebsk;;
+vitebsk_electical_college <- concept_secondary_schools;;
+
+// 10 +
+vitebsk_medician_antonov_college=>nrel_main_idtf:[Витебский государственный медицинский колледж имени академика И. П. Антонова]
+        (*
+                <-lang_ru;; <- name_ru;;  <- name;;
+        *);
+        [Educational Establishment "Vitebsk State Medical College named after academician I.P. Antonov"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_medician_antonov_college=>nrel_idtf:[УО "Витебский государственный медицинский колледж имени академика И.П. Антонова"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_medician_antonov_college=>nrel_region:vitebsk_region;;
+vitebsk_medician_antonov_college=>nrel_city:vitebsk;;
+
+vitebsk_medician_antonov_college=>nrel_phone_number:[(80212) 26-25-93];;
+vitebsk_medician_antonov_college=>nrel_address:[г. Витебск, ул. Правды, 24];;
+vitebsk_medician_antonov_college=>nrel_email:[info@vitgmk.by];;
+vitebsk_medician_antonov_college=>nrel_site:[vitgmk.by];;
+
+vitebsk_medician_antonov_college=>nrel_search_area:vitebsk;;
+vitebsk_medician_antonov_college <- concept_secondary_schools;;
+vitebsk_medician_antonov_college=>nrel_open_year:1871;;
+
+// 11 +
+vitebsk_musican_sollertinskogo_college=>nrel_main_idtf:[Музыкальный колледж]
+        (*
+                <-lang_ru;; <- name_ru;; <- name;;
+        *);
+        [Educational Establishment "Vitebsk State Music College named after I.I. Sollertinsky"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_musican_sollertinskogo_college=>nrel_idtf:[УО "Витебский государственный музыкальный колледж им. И.И.Соллертинского"]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+vitebsk_musican_sollertinskogo_college=>nrel_region:vitebsk_region;;
+vitebsk_musican_sollertinskogo_college=>nrel_city:vitebsk;;
+
+vitebsk_musican_sollertinskogo_college=>nrel_phone_number:[(0212) 67-55-35 (директор), (0212) 67-56-47, 63-92-06 (приемная комиссия)];;
+vitebsk_musican_sollertinskogo_college=>nrel_address:[г. Витебск, ул. Советская, 23а];;
+vitebsk_musican_sollertinskogo_college=>nrel_email:[vitmusol@vitebsk.by];;
+vitebsk_musican_sollertinskogo_college=>nrel_site:[vgmk.by];;
+
+vitebsk_musican_sollertinskogo_college=>nrel_search_area:vitebsk;;
+vitebsk_musican_sollertinskogo_college <- concept_secondary_schools;;
+vitebsk_musican_sollertinskogo_college=>nrel_open_year:1918;;
+
+// 12 +
+vitebsk_technical_college=>nrel_main_idtf:[Витебский государственный технический колледж]
+        (*
+                <-lang_ru;; <- name_ru;; <- name;;
+        *);
+        [EE "Vitebsk State Technical College"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_technical_college=>nrel_idtf:[УО "Витебский государственный технический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_technical_college=>nrel_region:vitebsk_region;;
+vitebsk_technical_college=>nrel_city:vitebsk;;
+
+vitebsk_technical_college=>nrel_phone_number:[8 (0212) 66 14 15 (приемная директора), 8 (0212) 66 14 40 (приемная комиссия)];;
+vitebsk_technical_college=>nrel_address:[г. Витебск, ул. Лазо, 113а];;
+vitebsk_technical_college=>nrel_email:[vtk@vgtk.by];;
+vitebsk_technical_college=>nrel_site:[www.vgtk.by];;
+
+vitebsk_technical_college=>nrel_search_area:vitebsk;;
+vitebsk_technical_college <- concept_secondary_schools;;
+vitebsk_technical_college=>nrel_open_year:1955;;
+
+// 13 +
+vitebsk_olimpic_college=>nrel_main_idtf:[Училище олимпийского резерва]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Vitebsk State School of Olympic Reserve"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_olimpic_college=>nrel_idtf:[УО "Витебское государственное училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+vitebsk_olimpic_college=>nrel_region:vitebsk_region;;
+vitebsk_olimpic_college=>nrel_city:vitebsk;;
+
+vitebsk_olimpic_college=>nrel_phone_number:[г. Витебск, Шмырева, 44];;
+vitebsk_olimpic_college=>nrel_address:[+375 (212) 67-71-09, 61-11-86];;
+vitebsk_olimpic_college=>nrel_email:[vguor@tut.by];;
+vitebsk_olimpic_college=>nrel_site:[vguor.by];;
+
+vitebsk_olimpic_college=>nrel_search_area:vitebsk;;
+vitebsk_olimpic_college <- concept_secondary_schools;;
+vitebsk_olimpic_college=>nrel_open_year:1964;;
+
+// 14 +
+vitebsk_industrial_technological_college=>nrel_main_idtf:[Индустриально-технологический колледж]
+        (*
+                <-lang_ru;; <- name_ru;; <- name;;
+        *);
+        [Educational Establishment "Vitebsk State Industrial and Technological College"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_industrial_technological_college=>nrel_idtf:[УО "Витебский государственный индустриально-технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_industrial_technological_college=>nrel_region:vitebsk_region;;
+vitebsk_industrial_technological_college=>nrel_city: vitebsk;;
+
+vitebsk_industrial_technological_college=>nrel_phone_number:[8 (0212) 66-02-03 (приемная комиссия), 8 (0212) 66-50-45 (приемная директора)];;
+vitebsk_industrial_technological_college=>nrel_address:[г. Витебск, Кирова, 11];;
+vitebsk_industrial_technological_college=>nrel_email:[vgitk@list.ru];;
+vitebsk_industrial_technological_college=>nrel_site:[vgitk.by];;
+
+vitebsk_industrial_technological_college=>nrel_search_area:vitebsk;;
+vitebsk_industrial_technological_college <- concept_secondary_schools;;
+
+// 15 +
+gorodok_agarian_technical_college=>nrel_main_idtf:[Городокский государственный аграрно-технический колледж]
+        (*
+                <-lang_ru;; <- name_ru;; <- name;;
+        *);
+        [Educational Establishment "Gorodok State Agrarian and Technical College"]
+        (*
+                <-lang_en;;
+        *);;
+gorodok_agarian_technical_college=>nrel_idtf:[УО "Городокский государственный аграрно-технический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+gorodok_agarian_technical_college=>nrel_region:vitebsk_region;;
+gorodok_agarian_technical_college=>nrel_city:haradok;;
+
+gorodok_agarian_technical_college=>nrel_phone_number:[(8-02139) 4-17-47 (приёмная), 5-76-45; 8 (033) 322 32 77 (приёмная комиссия)];;
+gorodok_agarian_technical_college=>nrel_address:[г. Городок, Баграмяна, 42];;
+gorodok_agarian_technical_college=>nrel_email:[agrotech@ggatk.by];;
+gorodok_agarian_technical_college=>nrel_site:[ggatk.by];;
+
+gorodok_agarian_technical_college=>nrel_search_area:haradok;;
+gorodok_agarian_technical_college <- concept_secondary_schools;;
+gorodok_agarian_technical_college=>nrel_open_year:1930;;
+
+// 16 + 
+lepel_agarian_technical_college=>nrel_main_idtf:[Лепельский государственный аграрно-технический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Lepel State Agrarian and Technical College"]
+        (*
+                <-lang_en;;
+        *);;
+lepel_agarian_technical_college=>nrel_idtf:[УО "Лепельский государственный аграрно-технический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+lepel_agarian_technical_college=>nrel_region:vitebsk_region;;
+lepel_agarian_technical_college=>nrel_city: lyepyel;;
+
+lepel_agarian_technical_college=>nrel_phone_number:[(02132) 3-62-44 - приемная директора; 802132 3-62-45; 8029 217-85-59 - приёмная комиссия];;
+lepel_agarian_technical_college=>nrel_address:[г. Лепель, Интернациональная, 37];;
+lepel_agarian_technical_college=>nrel_email:[lgatk1974@tut.by];;
+lepel_agarian_technical_college=>nrel_site:[lgatk.edu.by/];;
+
+lepel_agarian_technical_college=>nrel_search_area:lyepyel;;
+lepel_agarian_technical_college <- concept_secondary_schools;;
+lepel_agarian_technical_college=>nrel_open_year:1974;;
+
+// 17 +
+navapolatsk_musical_college=>nrel_main_idtf:[Новополоцкий государственный музыкальный колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Novopolotsk State Musical College"]
+        (*
+                <-lang_en;;
+        *);;
+navapolatsk_musical_college=>nrel_idtf:[УО "Новополоцкий государственный музыкальный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+navapolatsk_musical_college=>nrel_region:vitebsk_region;;
+navapolatsk_musical_college=>nrel_city: navapolatsk;;
+
+navapolatsk_musical_college=>nrel_phone_number:[(8-0214)53-11-96 (приемная директора); (0214) 53 11 96 (приемная комиссия)];;
+navapolatsk_musical_college=>nrel_address:[г. Новополоцк, ул. Школьная, 7];;
+navapolatsk_musical_college=>nrel_email:[ngmu@inbox.ru];;
+navapolatsk_musical_college=>nrel_site:[ngmk.by];;
+
+navapolatsk_musical_college=>nrel_search_area:navapolatsk;;
+navapolatsk_musical_college <- concept_secondary_schools;;
+navapolatsk_musical_college=>nrel_open_year:1968;;
+
+// 18 +
+navapolatsk_olimpic_college=>nrel_main_idtf:[Училище олимпийского резерва]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Novopolotsk State School of Olympic Reserve"]
+        (*
+                <-lang_en;;
+        *);;
+navapolatsk_olimpic_college=>nrel_idtf:[УО "Новополоцкое государственное училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);;
+
+navapolatsk_olimpic_college=>nrel_region:vitebsk_region;;
+navapolatsk_olimpic_college=>nrel_city: navapolatsk;;
+
+navapolatsk_olimpic_college=>nrel_phone_number:[8(0214) 51-54-05];;
+navapolatsk_olimpic_college=>nrel_address:[г. Новополоцк, ул. Армейская, 80 г.п. Боровуха];;
+navapolatsk_olimpic_college=>nrel_email:[nguor@yandex.by];;
+navapolatsk_olimpic_college=>nrel_site:[nguor.jimdo.com];;
+
+navapolatsk_olimpic_college=>nrel_search_area:navapolatsk;;
+navapolatsk_olimpic_college <- concept_secondary_schools;;
+
+// 19 +
+orshanskiy_agarian_college=>nrel_main_idtf:[Оршанский государственный колледж продовольствия]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Orsha State College of Food"]
+        (*
+                <-lang_en;;
+        *);;
+orshanskiy_agarian_college=>nrel_idtf:[УО "Оршанский государственный колледж продовольствия"]
+        (*
+                <-lang_ru;;
+        *);;
+
+orshanskiy_agarian_college=>nrel_region:vitebsk_region;;
+orshanskiy_agarian_college=>nrel_city: orsha_district;;
+
+orshanskiy_agarian_college=>nrel_phone_number:[Телефоны приемной: 8(0216) 27-93-17 (п. Высокое), 8(0216) 29-91-43 (аг. Смольяны)];;
+orshanskiy_agarian_college=>nrel_address:[г. пос. Высокое, Оршанский р-н, Витебская обл.];;
+orshanskiy_agarian_college=>nrel_email:[gptu166@tut.by];;
+orshanskiy_agarian_college=>nrel_site:[ogak.by];;
+
+orshanskiy_agarian_college=>nrel_search_area:orsha_district;;
+orshanskiy_agarian_college <- concept_secondary_schools;;
+
+// 20 +
+orsha_medical_college=>nrel_main_idtf:[Оршанский государственный медицинский колледж]
+        (*
+                <-lang_ru;; <- name_ru;; <- name;;
+        *);
+        [EE "Orsha State Medical College"]
+        (*
+                <-lang_en;;
+        *);;
+orsha_medical_college=>nrel_idtf:[УО "Оршанский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+orsha_medical_college=>nrel_region:vitebsk_region;;
+orsha_medical_college=>nrel_city: orsha;;
+
+orsha_medical_college=>nrel_phone_number:[8(0216) 54 04 23 (приёмная комиссия), 8(0216) 54 78 28 (приёмная директора)];; 
+orsha_medical_college=>nrel_address:[г. Орша, ул.Ленина, 195];;
+orsha_medical_college=>nrel_email:[ogmk@vitebsk.by];;
+orsha_medical_college=>nrel_site:[www.ogmk.by];;
+
+orsha_medical_college=>nrel_search_area:orsha;;
+orsha_medical_college <- concept_secondary_schools;;
+orsha_medical_college=>nrel_open_year:1925;;
+
+// 21 +
+orsha_mechanics_econimics_college=>nrel_main_idtf:[ОГМЭК]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Orsha State Mechanics and Economics College"]
+        (*
+                <-lang_en;;
+        *);;
+orsha_mechanics_econimics_college=>nrel_idtf:[УО "Оршанский государственный механико-экономический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+orsha_mechanics_econimics_college=>nrel_region:vitebsk_region;;
+orsha_mechanics_econimics_college=>nrel_city: orsha;;
+
+orsha_mechanics_econimics_college=>nrel_phone_number:[(8-0216) 50-80-02 (приемная комиссия), (8-0216) 50-69-76 (приемная директора)];;
+orsha_mechanics_econimics_college=>nrel_address:[г. Орша, ул. Советская, 81];;
+orsha_mechanics_econimics_college=>nrel_email:[admin@osmec.by];;
+orsha_mechanics_econimics_college=>nrel_site:[www.osmec.by];;
+
+orsha_mechanics_econimics_college=>nrel_search_area:orsha;;
+orsha_mechanics_econimics_college <- concept_secondary_schools;;
+orsha_mechanics_econimics_college=>nrel_open_year:1954;;
+
+// 22 +
+polatsk_chemical_technological_college=>nrel_main_idtf:[Полоцкий государственный химико-технологический колледж]
+        (* 
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Polotsk State Chemical-Technological College"]
+        (*
+                <-lang_en;;
+        *);;
+polatsk_chemical_technological_college=>nrel_idtf:[УО "Полоцкий государственный химико-технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+polatsk_chemical_technological_college=>nrel_region:vitebsk_region;;
+polatsk_chemical_technological_college=>nrel_city:polatsk;;
+
+polatsk_chemical_technological_college=>nrel_phone_number:[8 (0214) 46-35-85; 8 (0214) 46-44-07; 8 (0214) 46-91-10; 8 (0214) 46-18-68 (приемная комиссия)];;
+polatsk_chemical_technological_college=>nrel_address:[г. Полоцк, Ф.Скорины, 20];;
+polatsk_chemical_technological_college=>nrel_email:[himtechkol@mail.ru];;
+polatsk_chemical_technological_college=>nrel_site:[pghtk.vitebsk.by];;
+
+polatsk_chemical_technological_college=>nrel_search_area:polatsk;;
+polatsk_chemical_technological_college <- concept_secondary_schools;;
+polatsk_chemical_technological_college=>nrel_open_year:1914;;
+
+// 23 +
+polatsk_economical_college=>nrel_main_idtf:[Полоцкий государственный аграрно-экономический колледж]
+        (*
+                <-lang_ru;; <- name_ru;; <- name;;
+        *);
+        [EE "Polotsk State Economic College"]
+        (*
+                <-lang_en;;
+        *);;
+polatsk_economical_college=>nrel_idtf:[УО "Полоцкий государственный экономический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+polatsk_economical_college=>nrel_region:vitebsk_region;;
+polatsk_economical_college=>nrel_city:polatsk;;
+
+polatsk_economical_college=>nrel_phone_number:[(80214) 42-15-77(приемная комиссия), (8-0214) 46-31-03 (приемная директора)];;
+polatsk_economical_college=>nrel_address:[г. Полоцк, Октябрьская, 55];;
+polatsk_economical_college=>nrel_email:[pgaek@tut.by];;
+polatsk_economical_college=>nrel_site:[pgaek.by];;
+
+polatsk_economical_college=>nrel_search_area:polatsk;;
+polatsk_economical_college <- concept_secondary_schools;;
+polatsk_economical_college=>nrel_open_year:1951;;
+
+// 24 + 
+polatsk_trade_technological_college=>nrel_main_idtf:[Полоцкий торгово-технологический колледж]
+        (*
+                <-lang_ru;; <-name_ru;; <- name;;
+        *);
+        [Educational Establishment "Polotsk Trade and Technological College" Belcoopsoyuz]
+        (*
+                <-lang_en;;
+        *);;
+polatsk_trade_technological_college=>nrel_idtf:[УО "Полоцкий торгово-технологический колледж" Белкоопсоюза]
+        (*
+                <-lang_ru;;
+        *);;
+
+polatsk_trade_technological_college=>nrel_region:vitebsk_region;;
+polatsk_trade_technological_college=>nrel_city:polatsk;;
+
+polatsk_trade_technological_college=>nrel_phone_number:[8 (0214)46-33-58, 8 (033) 336-64-02];;
+polatsk_trade_technological_college=>nrel_address:[г. Полоцк, ул. Пушкина, 2];;
+polatsk_trade_technological_college=>nrel_email:[pttk@bks.by];;
+polatsk_trade_technological_college=>nrel_site:[www.pttc.bks.by];;
+
+polatsk_trade_technological_college=>nrel_search_area:polatsk;;
+polatsk_trade_technological_college <- concept_secondary_schools;;
+
+// 25 +
+postavy_state_college=>nrel_main_idtf:[Поставский государственный колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Postavy State College"]
+        (*
+                <-lang_en;;
+        *);;
+postavy_state_college=>nrel_idtf:[УО "Поставский государственный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+postavy_state_college=>nrel_region:vitebsk_region;;
+postavy_state_college=>nrel_city: pastavy;;
+
+postavy_state_college=>nrel_phone_number:[г. Поставы, 17 Сентября, 90];;
+postavy_state_college=>nrel_address:[8(02155)23436, 8 (02155)25989];;
+postavy_state_college=>nrel_email:[gptk@mail.ru];;
+postavy_state_college=>nrel_site:[пгк.бел];;
+
+postavy_state_college=>nrel_search_area:pastavy;;
+postavy_state_college <- concept_secondary_schools;;
+postavy_state_college=>nrel_open_year:1937;;
+
+// 26 +
+vitebsk_state_technological_college=>nrel_main_idtf:[Технологический колледж]
+        (*
+                <-lang_ru;; <-name_ru ;;<- name;;
+        *);
+        [Branch of BSTU "Vitebsk State Technological College"]
+        (*
+                <-lang_en;;
+        *);;
+vitebsk_state_technological_college=>nrel_idtf:[Филиал БГТУ "Витебский государственный технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+vitebsk_state_technological_college=>nrel_region:vitebsk_region;;
+vitebsk_state_technological_college=>nrel_city:vitebsk;;
+
+vitebsk_state_technological_college=>nrel_phone_number:[8 (0212) 36-17-29 (приёмная комиссия), 8 (0212) 36-17-07 (приёмная директора)];;
+vitebsk_state_technological_college=>nrel_address:[г. Витебск, ул. Гагарина, 41];;
+vitebsk_state_technological_college=>nrel_email:[vitgtk@belstu.by];;
+vitebsk_state_technological_college=>nrel_site:[vitgtk.belstu.by];;
+
+vitebsk_state_technological_college=>nrel_search_area:vitebsk;;
+vitebsk_state_technological_college <- concept_secondary_schools;;
+vitebsk_state_technological_college=>nrel_open_year:1983;;
+
+// 27 + 
+polatsk_state_forest_college=>nrel_main_idtf:[Полоцкий государственный лесной колледж]
+        (*
+                <-lang_ru;; <-name_ru ;; <- name;;
+        *);
+        [Branch of BSTU "Polotsk State Forest College"]
+        (*
+                <-lang_en;;
+        *);;
+polatsk_state_forest_college=>nrel_idtf:[Филиал БГТУ "Полоцкий государственный лесной колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+polatsk_state_forest_college=>nrel_region:vitebsk_region;;
+polatsk_state_forest_college=>nrel_city: polatsk;;
+
+polatsk_state_forest_college=>nrel_phone_number:[8 (0214) 42-23-55 (приемная комиссия), 42-83-83 (директор)];;
+polatsk_state_forest_college=>nrel_address:[г. Полоцк, ул. Е. Полоцкой, 77];;
+polatsk_state_forest_college=>nrel_email:[pglt@tut.by];;
+polatsk_state_forest_college=>nrel_site:[pglk.belstu.by];;
+
+polatsk_state_forest_college=>nrel_search_area:polatsk;;
+polatsk_state_forest_college <- concept_secondary_schools;;
+polatsk_state_forest_college=>nrel_open_year:1921;;
+

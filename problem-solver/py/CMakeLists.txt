@@ -1,1 +1,4 @@
 add_subdirectory(OpenStreetMapAgent)
+add_subdirectory(FindSecondarySpecialSchoolsPoCityAgent)
+add_subdirectory(FindSecondarySpecialSchoolsPoOblastiAgent)
+add_subdirectory(FindSecondarySpecialSchoolsPoOpenYearAgent)

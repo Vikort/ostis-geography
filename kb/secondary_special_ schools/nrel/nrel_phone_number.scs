@@ -1,0 +1,29 @@
+nrel_phone_number
+<- sc_node_norole_relation;;
+nrel_phone_number=>nrel_main_idtf:[номер телефона*]
+        (*
+                <-lang_ru;;
+        *);
+        [phone number*]
+        (*
+                <-lang_en;;
+        *);;
+
+
+nrel_phone_number<-rrel_key_sc_element:...
+                       (*
+                             <-definition;;=>nrel_main_idtf:
+[Опр.(номер телефона*)]
+        (*
+                <-lang_ru;;
+        *);;
+
+<=nrel_sc_text_translation:...
+        (*
+                ->[Номер телефона - это номер, который указан в контактных информациях о данном предприятии.]
+(*
+<-lang_ru;;
+*);;
+
+        *);;
+*);;

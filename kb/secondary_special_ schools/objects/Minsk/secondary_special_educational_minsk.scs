@@ -1,0 +1,935 @@
+/*
+SSUZ`s data are taken from the site: https://kudapostupat.by/zavedeniya/suz/minsk
+*/
+
+
+// 1
+minsk_bsuir_college=>nrel_main_idtf:[Минский радиотехнический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *); 
+        [BSUIR branch "Minsk Radio Engineering College"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_bsuir_college=>nrel_idtf:[БГУИР филиал "Минский радиотехнический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+minsk_bsuir_college=>nrel_region:minsk_region;;
+minsk_bsuir_college=>nrel_city:minsk;;
+minsk_bsuir_college=>nrel_search_area:minsk;;
+
+minsk_bsuir_college=>nrel_phone_number:[8(017)361-62-85 (приемная директора), 8(017) 360-69-54];;
+minsk_bsuir_college=>nrel_address:[г. Минск, Независимости, 62];;
+minsk_bsuir_college=>nrel_email:[office@mrk-bsuir.by];;
+minsk_bsuir_college=>nrel_site:[www.mrk-bsuir.by];;
+
+
+minsk_bsuir_college <- concept_secondary_schools;;
+
+// 2
+minsk_art_archemchick_gymnasy=>nrel_main_idtf:[Гимназия-колледж искусств]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [State Educational Institution "Gymnasium - College of Arts named after I.O. Akhremchik"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_art_archemchick_gymnasy=>nrel_idtf:[ГУО "Гимназия - колледж искусств имени И.О. Ахремчика"]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+minsk_art_archemchick_gymnasy=>nrel_region:minsk_region;;
+minsk_art_archemchick_gymnasy=>nrel_city:minsk;;
+minsk_art_archemchick_gymnasy=>nrel_search_area:minsk;;
+
+minsk_art_archemchick_gymnasy=>nrel_phone_number:[(017) 215-11-84];;
+minsk_art_archemchick_gymnasy=>nrel_address:[г. Минск, ул. Макаенка, 14];;
+minsk_art_archemchick_gymnasy=>nrel_email:[rki@tut.by];;
+minsk_art_archemchick_gymnasy=>nrel_site:[www.gki.by];;
+
+
+minsk_art_archemchick_gymnasy <- concept_secondary_schools;;
+
+// 3
+minsk_pedagogical_college=>nrel_main_idtf:[Минский городской педагогический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [State Educational Institution "Minsk City Pedagogical College"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_pedagogical_college=>nrel_idtf:[ГУО "Минский городской педагогический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_pedagogical_college=>nrel_region:minsk_region;;
+minsk_pedagogical_college=>nrel_city:minsk;;
+minsk_pedagogical_college=>nrel_search_area:minsk;;
+
+minsk_pedagogical_college=>nrel_phone_number:[(8017) 267 15 90 (приемная директора), (8017) 267 77 40 (приемная комиссия)];;
+minsk_pedagogical_college=>nrel_address:[ г. Минск, ул. Макаенка, 29];;
+minsk_pedagogical_college=>nrel_email:[pedkol@minsk.edu.by];;
+minsk_pedagogical_college=>nrel_site:[pedkol.minsk.edu.by];;
+
+
+minsk_pedagogical_college <- concept_secondary_schools;;
+
+// 4
+minsk_republic_academy_music_college=>nrel_main_idtf:[Республиканская гимназия-колледж при Белорусской государственной академии музыки]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [State Educational Institution "Republican Gymnasium-College at the Belarusian State Academy of Music"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_republic_academy_music_college=>nrel_idtf:[ГУО "Республиканская гимназия-колледж при Белорусской государственной академии музыки"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_republic_academy_music_college=>nrel_region:minsk_region;;
+minsk_republic_academy_music_college=>nrel_city:minsk;;
+minsk_republic_academy_music_college=>nrel_search_area:minsk;;
+
+minsk_republic_academy_music_college=>nrel_phone_number:[8 (017) 203-53-74, +375 17 397-87-71 - приемная комиссия];;
+minsk_republic_academy_music_college=>nrel_address:[г. Минск, Свободы, 7];;
+minsk_republic_academy_music_college=>nrel_email:[info@rmcollege.by; info@rmcollege.by];;
+minsk_republic_academy_music_college=>nrel_site:[www.rmcollege.by];;
+
+
+minsk_republic_academy_music_college <- concept_secondary_schools;;
+
+// 5
+minsk_trade_economic_college=>nrel_main_idtf:[Минский торговый колледж Белкоопсоюза]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Minsk branch of the educational institution "Belarusian Trade and Economic University of Consumer Cooperatives" (SSO)]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_trade_economic_college=>nrel_idtf:[Минский филиал УО "Белорусский торгово-экономический университет потребительской кооперации" (ССО)]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+minsk_trade_economic_college=>nrel_region:minsk_region;;
+minsk_trade_economic_college=>nrel_city:minsk;;
+minsk_trade_economic_college=>nrel_search_area:minsk;;
+
+minsk_trade_economic_college=>nrel_phone_number:[(017) 378-74-72 - Приемная комиссия, (017) 378-72-42 – Приёмная директора (017) 378-82-21 – Зам. директора по воспитательной работе];;
+minsk_trade_economic_college=>nrel_address:[г. Минск, Партизанский, 73];;
+minsk_trade_economic_college=>nrel_email:[mail@mtk-bks.by];;
+minsk_trade_economic_college=>nrel_site:[www.mtk-bks.by];;
+
+
+minsk_trade_economic_college <- concept_secondary_schools;;
+
+// 6
+minsk_olimpic_college=>nrel_main_idtf:[РГУОР]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Republican State School of Olympic Reserve]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_olimpic_college=>nrel_idtf:[Республиканское государственное училище олимпийского резерва]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_olimpic_college=>nrel_region:minsk_region;;
+minsk_olimpic_college=>nrel_city:minsk;;
+minsk_olimpic_college=>nrel_search_area:minsk;;
+
+minsk_olimpic_college=>nrel_phone_number:[(017) 267-43-18 (приемная директора), 219-32-41 (приемная комиссия)];;
+minsk_olimpic_college=>nrel_address:[г. Минск, ул. Филимонова, 55/1];;
+minsk_olimpic_college=>nrel_email:[rguor@tut.by];;
+minsk_olimpic_college=>nrel_site:[rguor.by];;
+
+
+minsk_olimpic_college <- concept_secondary_schools;;
+
+// 7
+minsk_aviation_academy=>nrel_main_idtf:[Белорусская государственная академия авиации]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Belarusian State Aviation Academy" (SSO)]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_aviation_academy=>nrel_idtf:[УО "Белорусская государственная академия авиации" (ССО)]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_aviation_academy=>nrel_region:minsk_region;;
+minsk_aviation_academy=>nrel_city:minsk;;
+minsk_aviation_academy=>nrel_search_area:minsk;;
+
+minsk_aviation_academy=>nrel_phone_number:[+375 17 378-32-81 +375 29 608-61-96];;
+minsk_aviation_academy=>nrel_address:[г. Минск, Уборевича, 77];;
+minsk_aviation_academy=>nrel_email:[abiturient@bgаа.by];;
+minsk_aviation_academy=>nrel_site:[bgaa.by/postupaushim/priyomnaya-komissiya];;
+
+
+minsk_aviation_academy <- concept_secondary_schools;;
+
+// 8
+connetion_academy=>nrel_main_idtf:[Белорусская государственная академия связи]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Belarusian State Academy of Communications" EP "College of Information and Communication Technologies" (CCO)]
+        (*
+                <-lang_en;;
+        *);;
+
+connetion_academy=>nrel_idtf:[УО "Белорусская государственная академия связи" ОП "Колледж информационно-коммуникационных технологий" (ССО)]
+        (*
+                <-lang_ru;;
+        *);;
+
+connetion_academy=>nrel_region:minsk_region;;
+connetion_academy=>nrel_city:minsk;;
+connetion_academy=>nrel_search_area:minsk;;
+
+connetion_academy=>nrel_phone_number:[+375 17 271-41-81 приемная директора, +375 17 356-96-06 приемная ректора, +375 17 379-41-14 приемная комиссия];;
+connetion_academy=>nrel_address:[г. Минск, ул.П.Бровки, 14];;
+connetion_academy=>nrel_email:[bsac@bsac.by];;
+connetion_academy=>nrel_site:[bsac.by];;
+
+
+connetion_academy <- concept_secondary_schools;;
+
+// 9
+minsk_choreography_college=>nrel_main_idtf:[Белорусский государственный хореографический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Belarusian State Choreographic Gymnasium-College"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_choreography_college=>nrel_idtf:[УО "Белорусская государственная хореографическая гимназия-колледж]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_choreography_college=>nrel_region:minsk_region;;
+minsk_choreography_college=>nrel_city:minsk;;
+minsk_choreography_college=>nrel_search_area:minsk;;
+
+minsk_choreography_college=>nrel_phone_number:[+375-17-256 60 38 (приемная комиссия), +375-17-256 60 10];;
+minsk_choreography_college=>nrel_address:[г. Минск, ул.Притыцкого, 35];;
+minsk_choreography_college=>nrel_email:[bghk@tut.by];;
+minsk_choreography_college=>nrel_site:[bghgk.by];;
+
+
+minsk_choreography_college <- concept_secondary_schools;;
+
+// 10
+minsk_medicine_college=>nrel_main_idtf:[Белорусский государственный медицинский колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Belarusian State Medical College"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_medicine_college=>nrel_idtf:[УО "Белорусский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_medicine_college=>nrel_region:minsk_region;;
+minsk_medicine_college=>nrel_city:minsk;;
+minsk_medicine_college=>nrel_search_area:minsk;;
+
+minsk_medicine_college=>nrel_phone_number:[+375 17 350 44 39];;
+minsk_medicine_college=>nrel_address:[г. Минск, Кижеватова, 60, к. 2];;
+minsk_medicine_college=>nrel_email:[belsmc@rambler.ru];;
+minsk_medicine_college=>nrel_site:[bsmc.by];;
+
+
+minsk_medicine_college <- concept_secondary_schools;;
+
+// 11
+minsk_art_college=>nrel_main_idtf:[Минская государственная гимназия-колледж искусств]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Minsk State Gymnasium-College of Arts"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_art_college=>nrel_idtf:[УО "Минская государственная гимназия-колледж искусств"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_art_college=>nrel_region:minsk_region;;
+minsk_art_college=>nrel_city:minsk;;
+minsk_art_college=>nrel_search_area:minsk;;
+
+minsk_art_college=>nrel_phone_number:[8-(017) 243 78 18 (приемная директора), (017) 243 78 18 (приемная комиссия)];;
+minsk_art_college=>nrel_address:[г. Минск, ул.Коммунистическая, 52];;
+minsk_art_college=>nrel_email:[gki@minsk.edu.by];;
+minsk_art_college=>nrel_site:[gki.minsk.edu.by];;
+
+
+minsk_art_college <- concept_secondary_schools;;
+
+// 12 - на карте openstreetmap не отоброжается данное уч.заведение
+minsk_olimpic_reserv_college=>nrel_main_idtf:["Минское эксплуатационное управление Вооруженных сил". Четырехзальный спортивный комплекс дивизии, 11 "Уручье"]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Minsk State Regional Secondary School-School of the Olympic Reserve"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_olimpic_reserv_college=>nrel_idtf:[УО "Минская государственная областная средняя школа-училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+minsk_olimpic_reserv_college=>nrel_region:minsk_region;;
+minsk_olimpic_reserv_college=>nrel_city:minsk;;
+minsk_olimpic_reserv_college=>nrel_search_area:minsk;;
+
+minsk_olimpic_reserv_college=>nrel_phone_number:[+375 17 266-09-54, (8017) 266 59 50];;
+minsk_olimpic_reserv_college=>nrel_address:[г. Минск, Героев 120 дивизии, 11];;
+minsk_olimpic_reserv_college=>nrel_email:[mgouor@tut.by];;
+minsk_olimpic_reserv_college=>nrel_site:[www.mgouor.by];;
+
+
+minsk_olimpic_reserv_college <- concept_secondary_schools;;
+
+// 13
+minsk_goverment_art_college=>nrel_main_idtf:[Минский государственный колледж искусств]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Minsk State College of Arts"]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_goverment_art_college=>nrel_idtf:[УО "Минский государственный колледж искусств"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_goverment_art_college=>nrel_region:minsk_region;;
+minsk_goverment_art_college=>nrel_city:minsk;;
+minsk_goverment_art_college=>nrel_search_area:minsk;;
+
+minsk_goverment_art_college=>nrel_phone_number:[+375 17 360 24 30 (приёмная директора) +375 17 363 53 82 (приёмная комиссия)];;
+minsk_goverment_art_college=>nrel_address:[г. Минск, Кижеватова, 9];;
+minsk_goverment_art_college=>nrel_email:[postmaster@mdkm.edu.datacenter.by];;
+minsk_goverment_art_college=>nrel_site:[мгки.бел];;
+
+
+minsk_goverment_art_college <- concept_secondary_schools;;
+
+// 14
+minsk_server_college=>nrel_main_idtf:[МГК Сферы обслуживания]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Minsk State College of Service Sector" (SSO)]
+        (*
+                <-lang_en;;
+        *);;
+
+minsk_server_college=>nrel_idtf:[УО "Минский государственный колледж сферы обслуживания" (ССО)]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_server_college=>nrel_region:minsk_region;;
+minsk_server_college=>nrel_city:minsk;;
+minsk_server_college=>nrel_search_area:minsk;;
+
+minsk_server_college=>nrel_phone_number:[+375 17 319 73 99 (директор, приемная директора), +37517 319 75 62 (заместитель директора по УВР)];;
+minsk_server_college=>nrel_address:[г. Минск, Семашко, 7];;
+minsk_server_college=>nrel_email:[kso@minsk.edu.by];;
+minsk_server_college=>nrel_site:[kso.minsk.edu.by];;
+
+
+minsk_server_college <- concept_secondary_schools;;
+
+// 15
+minsk_design_college=>nrel_main_idtf:[Колледж технологии и дизайна]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Minsk State College of Technology and Design of Light Industry"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_design_college=>nrel_idtf:[УО "Минский государственный колледж технологии и дизайна легкой промышленности"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_design_college=>nrel_region:minsk_region;;
+minsk_design_college=>nrel_city:minsk;;
+minsk_design_college=>nrel_search_area:minsk;;
+
+minsk_design_college=>nrel_phone_number:[8-(017) 3783012, +375-(29) 1436946 (приемная директора); 8-(017) 3788147, +375-(29) 1436946 (приемная комиссия)];;
+minsk_design_college=>nrel_address:[г. Минск, ул. Матусевича, 26];;
+minsk_design_college=>nrel_email:[mgkplp@tut.by];;
+minsk_design_college=>nrel_site:[coltechdis.by];;
+
+
+minsk_design_college <- concept_secondary_schools;;
+
+// 16
+minsk_electromic_college=>nrel_main_idtf:[Минский государственный колледж электроники]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Minsk State College of Electronics"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_electromic_college=>nrel_idtf:[УО "Минский государственный колледж электроники"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_electromic_college=>nrel_region:minsk_region;;
+minsk_electromic_college=>nrel_city:minsk;;
+minsk_electromic_college=>nrel_search_area:minsk;;
+
+minsk_electromic_college=>nrel_phone_number:[(8 017) 398-33-75 (приемная комиссия), 212 11 62 (приемная директора), 212 41 80];;
+minsk_electromic_college=>nrel_address:[г. Минск, Казинца, 91];;
+minsk_electromic_college=>nrel_email:[mgke@minsk.edu.by];;
+minsk_electromic_college=>nrel_site:[mgke.minsk.edu.by];;
+
+
+minsk_electromic_college <- concept_secondary_schools;;
+
+// 17
+minsk_medical_state_college=>nrel_main_idtf:[Минский государственный медицинский колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Minsk State Medical College"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_medical_state_college=>nrel_idtf:[УО "Минский государственный медицинский колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_medical_state_college=>nrel_region:minsk_region;;
+minsk_medical_state_college=>nrel_city:minsk;;
+minsk_medical_state_college=>nrel_search_area:minsk;;
+
+minsk_medical_state_college=>nrel_phone_number:[+375 (017) 235-25-32];;
+minsk_medical_state_college=>nrel_address:[г. Минск, Долгобродская, 41/1];;
+minsk_medical_state_college=>nrel_email:[mail@msmc.by];;
+minsk_medical_state_college=>nrel_site:[www.msmc.by];;
+
+
+minsk_medical_state_college <- concept_secondary_schools;;
+
+// 18
+minsk_musical_glinka_college=>nrel_main_idtf:[Минский государстенный музыкальный колледж имени М.И.Глинки]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Minsk State Musical College named after M.I. Glinka"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_musical_glinka_college=>nrel_idtf:[УО "Минский государственный музыкальный колледж имени М.И. Глинки"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_musical_glinka_college=>nrel_region:minsk_region;;
+minsk_musical_glinka_college=>nrel_city:minsk;;
+minsk_musical_glinka_college=>nrel_search_area:minsk;;
+
+minsk_musical_glinka_college=>nrel_phone_number:[(017) 203-52-72 (приемная комиссия), +375 (17) 203-66-67];;
+minsk_musical_glinka_college=>nrel_address:[г. Минск, Грибоедова, 22];;
+minsk_musical_glinka_college=>nrel_email:[reception@glinka-edu.by];;
+minsk_musical_glinka_college=>nrel_site:[glinka-edu.by];;
+
+
+minsk_musical_glinka_college <- concept_secondary_schools;;
+
+// 19
+minsk_art_glebov_college=>nrel_main_idtf:[Минский государственный художественный колледж имени А.К. Глебова]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Minsk State Art College named after A.K. Glebov"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_art_glebov_college=>nrel_idtf:[УО "Минский государственный музыкальный колледж имени М.И. Глинки"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_art_glebov_college=>nrel_region:minsk_region;;
+minsk_art_glebov_college=>nrel_city:minsk;;
+minsk_art_glebov_college=>nrel_search_area:minsk;;
+
+minsk_art_glebov_college=>nrel_phone_number:[+375 17 270-09-91];;
+minsk_art_glebov_college=>nrel_address:[г. Минск, ул. Петруся Бровки, 22];;
+minsk_art_glebov_college=>nrel_email:[1947@glebovka.by];;
+minsk_art_glebov_college=>nrel_site:[glebovka.by];;
+
+
+minsk_art_glebov_college <- concept_secondary_schools;;
+
+// 20
+minsk_energy_college=>nrel_main_idtf:[Минский государственный энергетический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [EE "Minsk State Energy College"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_energy_college=>nrel_idtf:[УО "Минский государственный энергетический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_energy_college=>nrel_region:minsk_region;;
+minsk_energy_college=>nrel_city:minsk;;
+minsk_energy_college=>nrel_search_area:minsk;;
+
+minsk_energy_college=>nrel_phone_number:[(017) 270-42-31 (приёмная директора)];;
+minsk_energy_college=>nrel_address:[г. Минск, ул. Радиальная, 38];;
+minsk_energy_college=>nrel_email:[energcol@tut.by];;
+minsk_energy_college=>nrel_site:[mgek.by];;
+
+
+minsk_energy_college <- concept_secondary_schools;;
+
+// 21
+minsk_automotive_vysotsky_college=>nrel_main_idtf:[Минский Государственный Автомеханический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch "Minsk State Automotive College named after M.S. Vysotsky" EE "RIPO"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_automotive_vysotsky_college=>nrel_idtf:[Филиал "Минский государственный автомеханический колледж им М.С. Высоцкого" УО "РИПО"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_automotive_vysotsky_college=>nrel_region:minsk_region;;
+minsk_automotive_vysotsky_college=>nrel_city:minsk;;
+minsk_automotive_vysotsky_college=>nrel_search_area:minsk;;
+
+minsk_automotive_vysotsky_college=>nrel_phone_number:[(8-017) 215-24-38(приемная)];;
+minsk_automotive_vysotsky_college=>nrel_address:[г. Минск, Социалистическая, 5];;
+minsk_automotive_vysotsky_college=>nrel_email:[mgak@mgak1.by];;
+minsk_automotive_vysotsky_college=>nrel_site:[mgak1.by];;
+
+
+minsk_automotive_vysotsky_college <- concept_secondary_schools;;
+
+// 22
+minsk_mechanical_engineering_college=>nrel_main_idtf:[Колледж современных технологий в машиностроении и автосервисе]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch "College of modern technologies in mechanical engineering and car service" UO RIPO]
+        (*
+                <-lang_en;;
+        *);;
+minsk_mechanical_engineering_college=>nrel_idtf:[Филиал "Колледж современных технологий в машиностроении и автосервисе" УО РИПО]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_mechanical_engineering_college=>nrel_region:minsk_region;;
+minsk_mechanical_engineering_college=>nrel_city:minsk;;
+minsk_mechanical_engineering_college=>nrel_search_area:minsk;;
+
+minsk_mechanical_engineering_college=>nrel_phone_number:[8-017-241-92-51; 8-017-396-36-25 (приемная комиссия)];;
+minsk_mechanical_engineering_college=>nrel_address:[г. Минск, Ваупшасова, 23/2];;
+minsk_mechanical_engineering_college=>nrel_email:[director@college-ripo.by];;
+minsk_mechanical_engineering_college=>nrel_site:[www.college-ripo.by];;
+
+
+minsk_mechanical_engineering_college <- concept_secondary_schools;;
+
+// 23
+minsk_industrial_pedagocical_college=>nrel_main_idtf:[Индустриально-педагогический колледж РИПО]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch "Industrial and Pedagogical College" UO RIPO]
+        (*
+                <-lang_en;;
+        *);;
+minsk_industrial_pedagocical_college=>nrel_idtf:[Филиал "Индустриально-педагогический колледж" УО РИПО]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+minsk_industrial_pedagocical_college=>nrel_region:minsk_region;;
+minsk_industrial_pedagocical_college=>nrel_city:minsk;;
+minsk_industrial_pedagocical_college=>nrel_search_area:minsk;;
+
+minsk_industrial_pedagocical_college=>nrel_phone_number:[+375 (17) 271-34-83 (приемная комиссия); +375 (17) 272-18-82 ];;
+minsk_industrial_pedagocical_college=>nrel_address:[г. Минск, Матусевича, 24];;
+minsk_industrial_pedagocical_college=>nrel_email:[ipk.ripo.minsk@mail.ru, mipk@ripo.unibel.by];;
+minsk_industrial_pedagocical_college=>nrel_site:[ipkripo.by];;
+
+
+minsk_industrial_pedagocical_college <- concept_secondary_schools;;
+
+// 24
+minsk_legal_college=>nrel_main_idtf:[Юридический колледж БГУ]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Legal College of BSU"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_legal_college=>nrel_idtf:[УО "Юридический колледж БГУ"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_legal_college=>nrel_region:minsk_region;;
+minsk_legal_college=>nrel_city:minsk;;
+minsk_legal_college=>nrel_search_area:minsk;;
+
+minsk_legal_college=>nrel_phone_number:[(8-017) 397-12-82 (приемная директора); (029) 503-09-24 (МТС); (029) 618-43-18 (А1) - Отделение];;
+minsk_legal_college=>nrel_address:[г. Минск,, ул. Комсомольская, 21];;
+minsk_legal_college=>nrel_email:[college@bsu.by];;
+minsk_legal_college=>nrel_site:[www.lawcollege.bsu.by];;
+
+
+minsk_energy_college <- concept_secondary_schools;;
+
+// 25
+minsk_building_materials_college=>nrel_main_idtf:[Колледж промышленности стройматериалов]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch of BSTU "Belarusian State College of Building Materials Industry"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_building_materials_college=>nrel_idtf:[Филиал БГТУ "Белорусский государственный колледж промышленности строительных материалов"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_building_materials_college=>nrel_region:minsk_region;;
+minsk_building_materials_college=>nrel_city:minsk;;
+minsk_building_materials_college=>nrel_search_area:minsk;;
+
+minsk_building_materials_college=>nrel_phone_number:[8 (017) 352 66 44 (приемная директора), (017) 348 21 58 (приемная комиссия)];;
+minsk_building_materials_college=>nrel_address:[г. Минск, Гурского, 21/2];;
+minsk_building_materials_college=>nrel_email:[bgtubgkpsm@yandex.ru];;
+minsk_building_materials_college=>nrel_site:[bgkpsm.belstu.by];;
+
+
+minsk_building_materials_college <- concept_secondary_schools;;
+
+// 26
+minsk_olimpic_state_city_college=>nrel_main_idtf:[Государственное училище олимпийского резерва]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Educational Establishment "Minsk State City School of Olympic Reserve"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_olimpic_state_city_college=>nrel_idtf:[УО "Минское государственное городское училище олимпийского резерва"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_olimpic_state_city_college=>nrel_region:minsk_region;;
+minsk_olimpic_state_city_college=>nrel_city:minsk;;
+minsk_olimpic_state_city_college=>nrel_search_area:minsk;;
+
+minsk_olimpic_state_city_college=>nrel_phone_number:[(8017) 281 41 33, (8017) 334-87-78];;
+minsk_olimpic_state_city_college=>nrel_address:[г. Минск, Седых, 42];;
+minsk_olimpic_state_city_college=>nrel_email:[mgguor_pr@mail.ru];;
+minsk_olimpic_state_city_college=>nrel_site:[mgguor.by];;
+
+
+minsk_olimpic_state_city_college <- concept_secondary_schools;;
+
+// 27
+minsk_bseu_trade_college=>nrel_main_idtf:[Минский государственный торговый колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch of BSEU "Minsk Trade College"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_bseu_trade_college=>nrel_idtf:[Филиал БГЭУ "Минский торговый колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_bseu_trade_college=>nrel_region:minsk_region;;
+minsk_bseu_trade_college=>nrel_city:minsk;;
+minsk_bseu_trade_college=>nrel_search_area:minsk;;
+
+minsk_bseu_trade_college=>nrel_phone_number:[(017) 374 31 70 (приемная директора), 272 31 69 (приемная комиссия)];;
+minsk_bseu_trade_college=>nrel_address:[г. Минск, Восточная, 183];;
+minsk_bseu_trade_college=>nrel_email:[mstc@tut.by];;
+minsk_bseu_trade_college=>nrel_site:[www.mgtk.by];;
+
+
+minsk_bseu_trade_college <- concept_secondary_schools;;
+
+// 28
+minsk_bseu_financial_economic_college=>nrel_main_idtf:[Минский финансово-экономический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch of BSEU "Minsk Financial and Economic College"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_bseu_financial_economic_college=>nrel_idtf:[Филиал БГЭУ "Минский финансово-экономический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_bseu_financial_economic_college=>nrel_region:minsk_region;;
+minsk_bseu_financial_economic_college=>nrel_city:minsk;;
+minsk_bseu_financial_economic_college=>nrel_search_area:minsk;;
+
+minsk_bseu_financial_economic_college=>nrel_phone_number:[8(17) 365 10 62 – приёмная комиссия, 8(17) 272 75 53 – приёмная директора];;
+minsk_bseu_financial_economic_college=>nrel_address:[г. Минск,, Красная, 17];;
+minsk_bseu_financial_economic_college=>nrel_email:[mfec@mfec.by];;
+minsk_bseu_financial_economic_college=>nrel_site:[www.mfec.by];;
+
+
+minsk_bseu_financial_economic_college <- concept_secondary_schools;;
+
+// 29
+minsk_bntu_architecture_college=>nrel_main_idtf:[Минский государственный архитектурно-строительный колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch of BNTU "Minsk State College of Architecture and Civil Engineering"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_bntu_architecture_college=>nrel_idtf:[Филиал БНТУ "Минский государственный архитектурно-строительный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+minsk_bntu_architecture_college=>nrel_region:minsk_region;;
+minsk_bntu_architecture_college=>nrel_city:minsk;;
+minsk_bntu_architecture_college=>nrel_search_area:minsk;;
+
+minsk_bntu_architecture_college=>nrel_phone_number:[(017) 294-04-32(приёмная директора), (017) 285-29-82(приёмная комиссия)];;
+minsk_bntu_architecture_college=>nrel_address:[г. Минск, З. Бядули, 7];;
+minsk_bntu_architecture_college=>nrel_email:[mgask@bntu.by, vseobuch.mgask@bntu.by];;
+minsk_bntu_architecture_college=>nrel_site:[www.mgask.org];;
+
+
+minsk_bntu_architecture_college <- concept_secondary_schools;;
+
+// 30
+minsk_bntu_engineering_college=>nrel_main_idtf:[Машиностроительный колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch of BNTU "Minsk State Engineering College"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_bntu_engineering_college=>nrel_idtf:[Филиал БНТУ "Минский государственный машиностроительный колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_bntu_engineering_college=>nrel_region:minsk_region;;
+minsk_bntu_engineering_college=>nrel_city:minsk;;
+minsk_bntu_engineering_college=>nrel_search_area:minsk;;
+
+minsk_bntu_engineering_college=>nrel_phone_number:[8-017-398-93-00];;
+minsk_bntu_engineering_college=>nrel_address:[г. Минск, Долгобродская, 25];;
+minsk_bntu_engineering_college=>nrel_email:[dianamgmk@gmail.com];;
+minsk_bntu_engineering_college=>nrel_site:[www.college.by];;
+
+
+minsk_bntu_engineering_college <- concept_secondary_schools;;
+
+// 31
+minsk_bntu_polytechnic_college=>nrel_main_idtf:[Минский государственный политехнический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch of BNTU "Minsk State Polytechnic College"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_bntu_polytechnic_college=>nrel_idtf:[Филиал БНТУ "Минский государственный политехнический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_bntu_polytechnic_college=>nrel_region:minsk_region;;
+minsk_bntu_polytechnic_college=>nrel_city:minsk;;
+minsk_bntu_polytechnic_college=>nrel_search_area:minsk;;
+
+minsk_bntu_polytechnic_college=>nrel_phone_number:[8(017)-338-33-42(приемная директора), +375-17-272-72-65, +375-17-379-10-17 (приемная комиссия)];;
+minsk_bntu_polytechnic_college=>nrel_address:[г. Минск, пр-т Независимости, 85];;
+minsk_bntu_polytechnic_college=>nrel_email:[mgpk@bntu.by];;
+minsk_bntu_polytechnic_college=>nrel_site:[mgpk.bntu.by];;
+
+
+minsk_bntu_polytechnic_college <- concept_secondary_schools;;
+
+// 32
+minsk_bntu_technological_college=>nrel_main_idtf:[Минский государственный технологический колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [Branch of BNTU "Minsk State Technological College"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_bntu_technological_college=>nrel_idtf:[Филиал БНТУ "Минский государственный технологический колледж"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_bntu_technological_college=>nrel_region:minsk_region;;
+minsk_bntu_technological_college=>nrel_city:minsk;;
+minsk_bntu_technological_college=>nrel_search_area:minsk;;
+
+minsk_bntu_technological_college=>nrel_phone_number:[(+37517) 284-78-15 (+37517) 284-88-36];;
+minsk_bntu_technological_college=>nrel_address:[г. Минск, ул. Красная, 19б];;
+minsk_bntu_technological_college=>nrel_email:[mstc@bntu.by];;
+minsk_bntu_technological_college=>nrel_site:[mstc.bntu.by/ru];;
+
+
+minsk_bntu_technological_college <- concept_secondary_schools;;
+
+// 33
+misnk_mglu_linguistics_college=>nrel_main_idtf:[Лингвогуманитарный колледж]
+        (*
+                <-lang_ru;; <- name;;
+        *); 
+        [Branch of MSLU "Linguistics College"]
+        (*
+                <-lang_en;;
+        *);;
+misnk_mglu_linguistics_college=>nrel_idtf:[Филиал МГЛУ «Лингвогуманитарный колледж»]
+        (*
+                <-lang_ru;;
+        *);;
+
+misnk_mglu_linguistics_college=>nrel_region:minsk_region;;
+misnk_mglu_linguistics_college=>nrel_city:minsk;;
+misnk_mglu_linguistics_college=>nrel_search_area:minsk;;
+
+misnk_mglu_linguistics_college=>nrel_phone_number:[(017) 379-44-50 (приемная директора колледжа), (017) 365 52 97, (017) 284 81 43 (приемная комиссия)];;
+misnk_mglu_linguistics_college=>nrel_address:[г. Минск, Притыцкого, 60-Б];;
+misnk_mglu_linguistics_college=>nrel_email:[abiturient@mslu.by, info@mslu.by, lingvocolledg@tut.by];;
+misnk_mglu_linguistics_college=>nrel_site:[www.lgk.mslu.by];;
+
+
+misnk_mglu_linguistics_college <- concept_secondary_schools;;
+
+// 34
+minsk_piu_law_college=>nrel_main_idtf:[Колледж бизнеса и права]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [PIU "College of Business and Law"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_piu_law_college=>nrel_idtf:[ЧУО "Колледж бизнеса и права"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_piu_law_college=>nrel_region:minsk_region;;
+minsk_piu_law_college=>nrel_city:minsk;;
+minsk_piu_law_college=>nrel_search_area:minsk;;
+
+minsk_piu_law_college=>nrel_phone_number:[+375 (17) 319-31-31 (приемная директора), +375 (44) 777-64-29 (приемная комиссия)];;
+minsk_piu_law_college=>nrel_address:[г. Минск, ул.Колесникова, 3];;
+minsk_piu_law_college=>nrel_email:[office@kbp.by];;
+minsk_piu_law_college=>nrel_site:[kbp.by];;
+
+
+minsk_piu_law_college <- concept_secondary_schools;;
+
+// 35
+minsk_piu_entrepreneurship_college=>nrel_main_idtf:[Минский колледж предпринимательства]
+        (*
+                <-lang_ru;; <- name;;
+        *);
+        [PIU "Minsk College of Entrepreneurship"]
+        (*
+                <-lang_en;;
+        *);;
+minsk_piu_entrepreneurship_college=>nrel_idtf:[ЧУО "Минский колледж предпринимательства"]
+        (*
+                <-lang_ru;;
+        *);;
+
+minsk_piu_entrepreneurship_college=>nrel_region:minsk_region;;
+minsk_piu_entrepreneurship_college=>nrel_city:minsk;;
+minsk_piu_entrepreneurship_college=>nrel_search_area:minsk;;
+
+minsk_piu_entrepreneurship_college=>nrel_phone_number:[ 8 (017) 265 68 00 (приемная директора), (017) 265 68 05 (приемная комиссия)];;
+minsk_piu_entrepreneurship_college=>nrel_address:[г. Минск, Уручская, 21 в];;
+minsk_piu_entrepreneurship_college=>nrel_email:[info@mcb.by];;
+minsk_piu_entrepreneurship_college=>nrel_site:[www.mcb.by];;
+
+
+minsk_piu_entrepreneurship_college <- concept_secondary_schools;;
+

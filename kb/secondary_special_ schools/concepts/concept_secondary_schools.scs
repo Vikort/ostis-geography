@@ -1,0 +1,51 @@
+concept_secondary_schools<-sc_node_not_relation;;
+
+concept_secondary_schools=>nrel_main_idtf:[Среднее специальное учебное заведение]
+        (*
+                <-lang_ru;;
+        *);
+        [Secondary specialized educational institution]
+        (*
+                <-lang_en;;
+        *);;
+
+concept_secondary_schools=>nrel_idtf:[ССУЗ]
+        (*
+                <-lang_ru;;
+        *);;
+
+
+concept_secondary_schools<-rrel_key_sc_element:...
+        (*
+                <-illustration;;
+                <=nrel_sc_text_translation:...
+        (*
+                ->rrel_example:
+                "file://photo//transport.jpg"
+        (*
+                =>nrel_format:format_jpg;;
+        *);;
+ => nrel_main_idtf: [Иллюстрация(Пример ССУЗ)](*<- lang_ru;;*);;
+*);;
+*);;
+
+defenition ->...
+(*
+->rrel_key_sc_element:concept_secondary_schools ;;
+<= nrel_sc_text_translation: ...(*->rrel_example:[Среднее специальное образование — уровень основного образования, направленный на развитие личности учащегося, курсанта, получение ими специальной теоретической и практической подготовки, завершающийся присвоением квалификации специалиста со средним специальным образованием, рабочего со средним специальным образованием.](*<-lang_ru;;*);;*);;
+=> nrel_main_idtf: [Определение(Среднее специальное учебное заведение)](*<- lang_ru;;*);;
+*);;
+
+defenition ->...
+(*
+->rrel_key_sc_element:concept_secondary_schools ;;
+<= nrel_sc_text_translation: ...(*->rrel_example:[TVET (technical and vocational education and training) is education and training which provides knowledge and skills for employment.](*<-lang_en;;*);;*);;
+=> nrel_main_idtf: [Definition(Secondary specialized educational institution)](*<- lang_en;;*);;
+*);;
+
+
+concept_secondary_schools->rrel_example: 
+vitebsk_electical_college;
+brest_bisness_and_prav_college;
+minsk_art_college;;
+
