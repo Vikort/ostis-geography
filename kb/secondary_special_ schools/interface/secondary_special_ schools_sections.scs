@@ -1,0 +1,4 @@
+secondary_special_schools_section <- ui_external_languages;
+=>nrel_main_idtf:
+[SSUZ system interface](*<-lang_en;;*);
+[Интерфейс системы ССУЗов](* <-lang_ru;; *);;
