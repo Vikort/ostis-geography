@@ -56,7 +56,4 @@ Please note that JSON Websocket protocol will be available as well after start.
 ![](content/work_interface.png)
 
 **Output:**
-![](content/answer.jpg)
-
-**Graph Version:**
-![](content/answer_graph.jpg)
+![](content/answer.png)
