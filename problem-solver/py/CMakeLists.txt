@@ -1,1 +1,2 @@
+add_subdirectory(CustomAgent)
 add_subdirectory(OpenStreetMapAgent)

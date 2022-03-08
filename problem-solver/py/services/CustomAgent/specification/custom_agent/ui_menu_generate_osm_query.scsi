@@ -1,0 +1,22 @@
+ui_run_translator <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_run_translator
+=> nrel_main_idtf: 
+	[Запустить транслятор улиц]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос запуска транслятора]
+	(* <- lang_ru;; *);;
+
+
+ui_run_translator => ui_nrel_command_template:
+	[*
+		action_run_translator _-> ._question_run_translator
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_run_translator _<- question;;
+	*];;
+
+ui_run_translator => ui_nrel_command_lang_template: [Запустить транслятор для $ui_arg_1] (* <- lang_ru;; *);;
+ui_run_translator => ui_nrel_command_lang_template: [Run translator for $ui_arg_1] (* <- lang_en;; *);;

@@ -5,6 +5,7 @@ from transliterate import translit
 import re
 from tqdm import tqdm
 
+import pathlib
 
 def clean_name(text):
     text = text.replace("ул.", "")
@@ -59,12 +60,15 @@ def get_eng_identifier(identifier):
 
 
 def main():
-    csv_path = 'data/streets.csv'
-    external_csv_path = 'data/external_data.csv'
-    output_dir = 'streets_moghilev_output/'
+    current_path = str(pathlib.Path(__file__).parent.resolve())
+    data_path = current_path + '/data/'
 
-    if not os.path.exists('data/'):
-        os.makedirs('data/')
+    csv_path = data_path + 'streets.csv'
+    external_csv_path = data_path + 'external_data.csv'
+    output_dir = current_path + '/streets_moghilev_output/'
+
+    if not os.path.exists(data_path):
+        os.makedirs(data_path)
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
