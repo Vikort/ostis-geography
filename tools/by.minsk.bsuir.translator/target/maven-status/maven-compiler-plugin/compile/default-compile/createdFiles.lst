@@ -1,0 +1,8 @@
+com/example/psi/entity/Company.class
+com/example/psi/translator/TranslatorToSCS.class
+com/example/psi/config/Config.class
+com/example/psi/translator/Translate.class
+com/example/psi/PsiApplication.class
+com/example/psi/controller/TranslatorController.class
+com/example/psi/translator/Translator.class
+com/example/psi/parser/Parser.class

@@ -3,6 +3,7 @@
 ### How to run application
 
 Open translator as IntellijIDEA project and run.
+`target` is indexed by git so that there is no need to build the project.
 This application has 1 endpoint: 
 
 `localhost:8080/` - get all companies and create scs file for each company. Files stores in `$THIS_PROJECT/files`.
