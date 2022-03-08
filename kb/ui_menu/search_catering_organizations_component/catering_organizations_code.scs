@@ -1,0 +1,5 @@
+ui_external_languages
+-> catering_organizations_code;;
+catering_organizations_code => nrel_main_idtf: [Организации общественного питания] (*
+<- lang_ru;;
+*);;

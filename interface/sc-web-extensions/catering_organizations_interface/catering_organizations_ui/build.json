@@ -1,0 +1,10 @@
+{
+    "sources": [
+        "src/catering-organizations-common.js",
+        "src/catering-organizations-paintPanel.js"
+    ],
+    "component": "src/catering-organizations-component.js",
+
+    "target": "static/components/js/catering_organizations_ui/catering-organizations.js"
+
+}
