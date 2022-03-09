@@ -1,0 +1,12 @@
+tihovolskij_selskij_filialklub <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Cihavolya rural branch club]
+(* <- lang_en;; <- name_en;;*);
+[Тиховольский сельский филиал-клуб]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

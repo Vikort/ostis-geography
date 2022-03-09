@@ -1,0 +1,10 @@
+oktjabrskij_selskij_dom_kultury <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Октябрьский сельский дом культуры]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+oktyabr;
+=>nrel_country:
+none;
+=>nrel_street:
+center_street;;

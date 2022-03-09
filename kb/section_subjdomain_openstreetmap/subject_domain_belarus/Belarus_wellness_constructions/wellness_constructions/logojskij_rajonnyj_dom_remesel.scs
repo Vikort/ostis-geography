@@ -1,0 +1,10 @@
+logojskij_rajonnyj_dom_remesel <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Логойский районный дом ремесел]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+logoisk;
+=>nrel_country:
+none;
+=>nrel_street:
+harchenko_street;;

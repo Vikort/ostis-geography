@@ -1,0 +1,10 @@
+bannoozdorovitelnyj_kompleks_malinovka <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Банно-оздоровительный комплекс «Малиновка»]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

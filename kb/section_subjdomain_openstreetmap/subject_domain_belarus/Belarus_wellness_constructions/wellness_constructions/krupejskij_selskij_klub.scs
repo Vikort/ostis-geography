@@ -1,0 +1,10 @@
+krupejskij_selskij_klub <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Крупейский сельский клуб]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+krupeiki;
+=>nrel_country:
+none;
+=>nrel_street:
+sovetskaya_street;;

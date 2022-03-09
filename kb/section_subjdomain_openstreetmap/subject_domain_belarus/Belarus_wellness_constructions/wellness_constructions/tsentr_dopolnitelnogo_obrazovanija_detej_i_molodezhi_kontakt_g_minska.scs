@@ -1,0 +1,12 @@
+tsentr_dopolnitelnogo_obrazovanija_detej_i_molodezhi_kontakt_g_minska <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Center for additional education of children and youth "Kontakt" Minsk]
+(* <- lang_en;; <- name_en;;*);
+[Центр дополнительного образования детей и молодежи "Контакт" г. Минска]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

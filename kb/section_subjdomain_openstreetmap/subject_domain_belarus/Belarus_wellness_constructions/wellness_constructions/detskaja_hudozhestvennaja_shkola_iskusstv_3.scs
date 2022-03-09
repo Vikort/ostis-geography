@@ -1,0 +1,10 @@
+detskaja_hudozhestvennaja_shkola_iskusstv_3 <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Детская художественная школа искусств №3]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

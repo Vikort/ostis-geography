@@ -1,0 +1,10 @@
+zelvenskij_rajonnyj_tsentr_kultury_i_narodnogo_tvorchestva <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Зельвенский районный Центр культуры и народного творчества]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

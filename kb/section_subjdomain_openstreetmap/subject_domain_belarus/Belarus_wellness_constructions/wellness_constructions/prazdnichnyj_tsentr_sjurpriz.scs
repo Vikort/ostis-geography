@@ -1,0 +1,10 @@
+prazdnichnyj_tsentr_sjurpriz <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Праздничный центр "Сюрприз"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

@@ -1,0 +1,10 @@
+sluzhba_zanjatosti_naselenija <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Служба занятости населения]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

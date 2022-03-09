@@ -1,0 +1,10 @@
+polykovichskij_selskij_dom_kultury <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Полыковичский сельский дом культуры]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+polykovichi;
+=>nrel_country:
+none;
+=>nrel_street:
+center_street;;

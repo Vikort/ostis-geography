@@ -1,0 +1,12 @@
+tajtsziminsk <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Taiji-by.org]
+(* <- lang_en;; <- name_en;;*);
+[Тайцзи-МИНСК]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+concept_minsk;
+=>nrel_country:
+by;
+=>nrel_street:
+vaneeva_street;;

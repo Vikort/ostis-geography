@@ -1,0 +1,22 @@
+concept_cycling
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[велоспорт]
+	(* <- lang_ru;; *);
+	[cycling]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (велоспорт)]
+		(* <- lang_ru;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[перемещение по земле с использованием транспортных средств (велосипедов), движимых мускульной силой человека.]
+			(* <- lang_ru;; *);;
+		*);;
+	*);;

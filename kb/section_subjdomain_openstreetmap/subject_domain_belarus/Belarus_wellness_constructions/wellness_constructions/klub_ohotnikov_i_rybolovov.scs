@@ -1,0 +1,10 @@
+klub_ohotnikov_i_rybolovov <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Клуб охотников и рыболовов]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

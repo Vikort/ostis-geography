@@ -1,0 +1,10 @@
+borzdovskij_selskij_klub <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Борздовский сельский клуб]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+goretskaya_street;;

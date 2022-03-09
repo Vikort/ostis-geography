@@ -1,0 +1,10 @@
+dolgolesskoe_ozero <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Долголесское озеро]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

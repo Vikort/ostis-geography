@@ -1,0 +1,10 @@
+tsentr_dopolnitelnogo_obrazovanija_detej_i_molodezhi_gbeloozerska <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Центр дополнительного образования детей и молодёжи г.Белоозёрска]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

@@ -1,0 +1,10 @@
+guk_gorodskoj_tsentr_kultury_gp_loev <- concept_wellness_construction;
+=> nrel_main_idtf:
+[ГУК «Городской центр культуры г.п. Лоев»]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+loev;
+=>nrel_country:
+none;
+=>nrel_street:
+sheveleva_street;;

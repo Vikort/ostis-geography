@@ -1,0 +1,10 @@
+berdovskij_kulturnodosugovyj_tsentr <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Бердовский культурно-досуговый центр]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

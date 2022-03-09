@@ -1,0 +1,10 @@
+lukovskij_dom_kultury <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Луковский Дом культуры]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+lukovo;
+=>nrel_country:
+none;
+=>nrel_street:
+suvorova_street;;

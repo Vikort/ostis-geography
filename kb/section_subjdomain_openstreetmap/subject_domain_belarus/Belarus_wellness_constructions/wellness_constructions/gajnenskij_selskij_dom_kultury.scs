@@ -1,0 +1,10 @@
+gajnenskij_selskij_dom_kultury <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Гайненский сельский дом культуры]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+gaina;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

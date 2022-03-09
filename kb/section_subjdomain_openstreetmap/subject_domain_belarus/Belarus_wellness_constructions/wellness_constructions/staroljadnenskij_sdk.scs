@@ -1,0 +1,10 @@
+staroljadnenskij_sdk <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Старолядненский СДК]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+center_street;;

@@ -1,0 +1,12 @@
+lazertag_klub_laserwarby <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Lasertag club Laserwar.by]
+(* <- lang_en;; <- name_en;;*);
+[Лазертаг клуб Laserwar.by]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

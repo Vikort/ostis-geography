@@ -1,0 +1,10 @@
+tsdo_evrika <- concept_wellness_construction;
+=> nrel_main_idtf:
+[ЦДО Эврика]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+concept_minsk;
+=>nrel_country:
+by;
+=>nrel_street:
+danily_serdicha_street;;

@@ -1,0 +1,12 @@
+internet_agentstvo_maksi_baj_media <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Internet agency MAXI.BY media]
+(* <- lang_en;; <- name_en;;*);
+[Интернет агентство Макси Бай Медиа]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

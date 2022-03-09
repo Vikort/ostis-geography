@@ -1,0 +1,12 @@
+drugi_paverh <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Druhi paverh]
+(* <- lang_en;; <- name_en;;*);
+[Другі паверх]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+minsk;
+=>nrel_country:
+by;
+=>nrel_street:
+none;;

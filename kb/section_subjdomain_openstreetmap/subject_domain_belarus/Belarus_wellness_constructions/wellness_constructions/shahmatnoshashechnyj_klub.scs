@@ -1,0 +1,10 @@
+shahmatnoshashechnyj_klub <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Шахматно-шашечный клуб]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

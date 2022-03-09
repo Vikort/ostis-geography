@@ -1,0 +1,10 @@
+kulturnoe_prostranstvo_pervyj_shag <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Культурное пространство "Первый шаг"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

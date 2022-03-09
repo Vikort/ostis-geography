@@ -1,0 +1,10 @@
+novodvorskij_tsentr_traditsionnoj_kultury <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Новодворский центр традиционной культуры]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+ag_noviy_dvor;
+=>nrel_country:
+none;
+=>nrel_street:
+parkovaya_street;;

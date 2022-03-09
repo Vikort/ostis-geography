@@ -1,0 +1,10 @@
+banja_2 <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Баня №2]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+byhov;
+=>nrel_country:
+none;
+=>nrel_street:
+aviation_street;;

@@ -1,0 +1,12 @@
+glushanskaja_banja <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Glusha Public Bath]
+(* <- lang_en;; <- name_en;;*);
+[Глушанская баня]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+glusha;
+=>nrel_country:
+none;
+=>nrel_street:
+oktyabrskaya_street;;

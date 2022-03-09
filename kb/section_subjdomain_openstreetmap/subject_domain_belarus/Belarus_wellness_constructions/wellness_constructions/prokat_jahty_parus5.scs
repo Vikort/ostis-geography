@@ -1,0 +1,12 @@
+prokat_jahty_parus5 <- concept_wellness_construction;
+=> nrel_main_idtf:
+[rent sailing boat with skipper]
+(* <- lang_en;; <- name_en;;*);
+[прокат яхты парус5]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

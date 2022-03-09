@@ -1,0 +1,10 @@
+strajkbolnyj_klub_bastion <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Страйкбольный клуб Бастион]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

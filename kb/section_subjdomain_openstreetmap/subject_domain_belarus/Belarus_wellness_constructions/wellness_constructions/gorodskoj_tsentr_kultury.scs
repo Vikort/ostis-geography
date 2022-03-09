@@ -1,0 +1,10 @@
+gorodskoj_tsentr_kultury <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Городской центр культуры]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

@@ -1,0 +1,10 @@
+detskaja_tvorcheskaja_studija_mediakids <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Детская творческая студия MediaKids]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+none;
+=>nrel_country:
+none;
+=>nrel_street:
+none;;

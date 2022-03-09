@@ -1,0 +1,10 @@
+detskaja_hudozhestvennaja_shkola__1_im_vk_tsvirko <- concept_wellness_construction;
+=> nrel_main_idtf:
+[Детская художественная школа № 1 им. В.К. Цвирко]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+minsk;
+=>nrel_country:
+by;
+=>nrel_street:
+volodarskogo_street;;
