@@ -1,0 +1,10 @@
+{
+    "sources": [
+        "src/estates-common.js",
+        "src/estates-paintPanel.js"
+    ],
+    "component": "src/estates-component.js",
+
+    "target": "static/components/js/estates_ui/estates.js"
+
+}
