@@ -42,6 +42,13 @@ module.exports = function (grunt) {
                 dest: clientImgDirPath + 'chain-store/',
                 expand: true,
                 flatten: true
+            },
+            chainStoreKb: {
+                cwd: chainStoreDirPath + 'kb/',
+                src: '*.scs',
+                dest: "../../kb/" + 'chain-store/',
+                expand: true,
+                flatten: true
             }
         },
         watch: {
