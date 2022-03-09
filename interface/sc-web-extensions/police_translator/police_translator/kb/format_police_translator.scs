@@ -10,7 +10,7 @@ format_police_translator
 	[format of UI component police_translator]
 	(*
 	<- lang_en;;
-	*);m
+	*);
 => nrel_mimetype:
 	[application/html];;
 
