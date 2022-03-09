@@ -1,0 +1,19 @@
+elite_stroy_5
+<- concept_hardware_store;
+=>nrel_main_idtf:
+    [ЭлитСтрой]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+    [ElitStroy]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_country:
+    belarus;
+=>nrel_search_area:
+    brest;
+=>nrel_city:
+    pinsk;
+=>nrel_store_rating:
+    [3.7]
+    (* <- concept_rating;; *);
+=>nrel_reviews_number:
+    [3];;
+

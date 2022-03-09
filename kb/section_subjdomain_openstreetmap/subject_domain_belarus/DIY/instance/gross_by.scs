@@ -1,0 +1,19 @@
+gross_by
+<- concept_hardware_store;
+=>nrel_main_idtf:
+    [ГРОСС.БАЙ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+    [GROSS.BY]
+    (* <- lang_en;; <- name_en;;*);
+=>nrel_country:
+    belarus;
+=>nrel_search_area:
+    minsk;
+=>nrel_city:
+    minsk;
+=>nrel_store_rating:
+    [3.9]
+    (* <- concept_rating;; *);
+=>nrel_reviews_number:
+    [20];;
+
