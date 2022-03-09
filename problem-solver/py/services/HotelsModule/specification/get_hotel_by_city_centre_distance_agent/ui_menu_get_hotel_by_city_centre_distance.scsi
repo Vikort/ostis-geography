@@ -21,10 +21,9 @@ ui_menu_get_hotel_by_city_centre_distance => ui_nrel_command_template:
 		action_get_hotel_by_city_centre_distance _-> ._question_get_hotel_by_city_centre_distance
 			(*
 				_-> rrel_1::ui_arg_1;;
-                _-> rrel_2::ui_arg_2;;
 			*);;
 		._question_get_hotel_by_city_centre_distance _<- question;;
 	*];;
 
-ui_menu_get_hotel_by_city_centre_distance => ui_nrel_command_lang_template: [Найти отели с расстоянием от центра города от $ui_arg_1 до $ui_arg_2] (* <- lang_ru;; *);;
-ui_menu_get_hotel_by_city_centre_distance => ui_nrel_command_lang_template: [Find hotels with city centre distance from $ui_arg_1 to $ui_arg_2] (* <- lang_en;; *);;
+ui_menu_get_hotel_by_city_centre_distance => ui_nrel_command_lang_template: [Найти отели с расстоянием от центра города $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_get_hotel_by_city_centre_distance => ui_nrel_command_lang_template: [Find hotels with city centre distance of $ui_arg_1] (* <- lang_en;; *);;

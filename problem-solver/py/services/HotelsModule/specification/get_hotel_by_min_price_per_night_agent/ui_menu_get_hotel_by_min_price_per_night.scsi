@@ -21,10 +21,9 @@ ui_menu_get_hotel_by_min_price_per_night => ui_nrel_command_template:
 		action_get_hotel_by_min_price_per_night _-> ._question_get_hotel_by_min_price_per_night
 			(*
 				_-> rrel_1::ui_arg_1;;
-                _-> rrel_2::ui_arg_2;;
 			*);;
 		._question_get_hotel_by_min_price_per_night _<- question;;
 	*];;
 
-ui_menu_get_hotel_by_min_price_per_night => ui_nrel_command_lang_template: [Найти отели с минимальной ценой за сутки от $ui_arg_1 до $ui_arg_2] (* <- lang_ru;; *);;
-ui_menu_get_hotel_by_min_price_per_night => ui_nrel_command_lang_template: [Find hotels with minimal price per night from $ui_arg_1 to $ui_arg_2] (* <- lang_en;; *);;
+ui_menu_get_hotel_by_min_price_per_night => ui_nrel_command_lang_template: [Найти отели с минимальной ценой за сутки $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_get_hotel_by_min_price_per_night => ui_nrel_command_lang_template: [Find hotels with minimal price per night of $ui_arg_1] (* <- lang_en;; *);;
