@@ -1,0 +1,95 @@
+ui_museum_title<- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Музеи]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Museums]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_museum_select_label <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Выберите область:]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Select region:]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_museum_list_state_empty <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Нет подходящих музеев. Попробуйте поменять настройки поиска.]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[No museums find. Try change search settings.]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_museum_list_state_loading <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Загрузка...]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Loading...]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_museum_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Искать]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Find]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_museum_site <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Сайт музея:]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Museum site:]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_museum_email <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Почта музея:]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Museum email:]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_museum_phone <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Телефон музея:]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Museum phone:]
+	(*
+	<- lang_en;;
+	*);;
