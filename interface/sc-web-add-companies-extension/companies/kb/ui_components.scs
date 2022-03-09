@@ -1,0 +1,25 @@
+ui_companies_text_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Компонент добавления IT-компании.]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[This is a component for adding IT-company.]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_companies_answer_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Создать]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Create]
+	(*
+	<- lang_en;;
+	*);;
+
+

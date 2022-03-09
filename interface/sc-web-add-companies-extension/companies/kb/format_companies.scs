@@ -1,0 +1,27 @@
+format_companies
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[формат компонент]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[format of UI component]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+companies_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Компонент добавления IT-компании]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[UI component for adding IT-company]
+	(*
+	<- lang_en;;
+	*);;

@@ -1,5 +1,5 @@
 {
-  "name": "sc-web-extensions",
+  "name": "sc-web-add-companies-extension",
   "version": "1.0.0",
   "dependencies": {
     "grunt": "^1.0.1"

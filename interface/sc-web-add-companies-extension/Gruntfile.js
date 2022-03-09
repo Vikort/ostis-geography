@@ -1,5 +1,5 @@
 module.exports = function (grunt) {
-    const translatorDirPath = './translator/';
+    const companiesDirPath = './companies/';
 
     const scWebDirPath = '../../ostis-web-platform/sc-web';
     const clientJsDirPath = scWebDirPath + '/client/static/components/js/';
@@ -9,57 +9,64 @@ module.exports = function (grunt) {
 
     grunt.initConfig({
         concat: {
-            translator: {
-                src: [translatorDirPath + 'src/*.js'],
-                dest: translatorDirPath + 'static/js/translator.js'
+            companies: {
+                src: [companiesDirPath + 'src/*.js'],
+                dest: companiesDirPath + 'static/js/companies.js'
             },
         },
         copy: {
-            translatorJs: {
-                cwd: translatorDirPath + 'static/js/',
-                src: 'translator.js',
-                dest: clientJsDirPath + 'translator/',
+            companiesJs: {
+                cwd: companiesDirPath + 'static/js/',
+                src: 'companies.js',
+                dest: clientJsDirPath + 'companies/',
                 expand: true,
                 flatten: true
             },
-            translatorCss: {
-                cwd: translatorDirPath + 'static/css/',
+            companiesCss: {
+                cwd: companiesDirPath + 'static/css/',
                 src: '*.css',
                 dest: clientCssDirPath,
                 expand: true,
                 flatten: true
             },
-            translatorHtml: {
-                cwd: translatorDirPath + 'static/html/',
+            companiesHtml: {
+                cwd: companiesDirPath + 'static/html/',
                 src: ['*.html'],
                 dest: clientHtmlDirPath,
                 expand: true,
                 flatten: true
             },
-            translatorImg: {
-                cwd: translatorDirPath + 'static/images/',
+            companiesImg: {
+                cwd: companiesDirPath + 'static/images/',
                 src: '*.png',
-                dest: clientImgDirPath + 'translator/',
+                dest: clientImgDirPath + 'companies/',
+                expand: true,
+                flatten: true
+            },
+            companiesKb: {
+                cwd: companiesDirPath + 'kb/',
+                src: '*.scs',
+                dest: "../../kb/" + 'companies/',
                 expand: true,
                 flatten: true
             }
         },
         watch: {
-            translatorJs: {
-                files: translatorDirPath + 'src/**',
-                tasks: ['concat:translator', 'copy:translatorJs'],
+            companiesJs: {
+                files: companiesDirPath + 'src/**',
+                tasks: ['concat:companies', 'copy:companiesJs'],
             },
-            translatorCss: {
-                files: translatorDirPath + 'static/css/**',
-                tasks: ['copy:translatorCss'],
+            companiesCss: {
+                files: companiesDirPath + 'static/css/**',
+                tasks: ['copy:companiesCss'],
             },
-            translatorHtml: {
-                files: [translatorDirPath + 'static/html/**'],
-                tasks: ['copy:translatorHtml'],
+            companiesHtml: {
+                files: [companiesDirPath + 'static/html/**'],
+                tasks: ['copy:companiesHtml'],
             },
-            translatorImg: {
-                files: [translatorDirPath + 'static/images/**'],
-                tasks: ['copy:translatorImg'],
+            companiesImg: {
+                files: [companiesDirPath + 'static/images/**'],
+                tasks: ['copy:companiesImg'],
             },
         },
         exec: {

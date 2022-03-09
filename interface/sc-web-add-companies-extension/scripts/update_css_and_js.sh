@@ -1,6 +1,6 @@
 sc_web_path=../../ostis-web-platform/sc-web/client
-example_js_path=components/js/example/example.js
-example_css_path=components/css/example.css
+companies_js_path=components/js/companies/companies.js
+companies_css_path=components/css/companies.css
 
 append_line()
 {
@@ -23,5 +23,5 @@ append_css()
     append_line $1 $2 "<link rel=\"stylesheet\" type=\"text/css\" href=\"/static/$2\" />"
 }
 
-append_js $sc_web_path/templates/components.html $example_js_path
-append_css $sc_web_path/templates/components.html $example_css_path
+append_js $sc_web_path/templates/components.html $companies_js_path
+append_css $sc_web_path/templates/components.html $companies_css_path
