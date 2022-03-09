@@ -1,0 +1,38 @@
+concept_kuzlitmash
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Кузлитмаш]
+(* <- lang_ru;; *); 
+[Kuzlitmash]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Кузлитмаш)](*<-lang_ru;;*);
+[Description (Kuzlitmash)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, 225710 г. Пинск, пр-т Жолтовского, 109 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

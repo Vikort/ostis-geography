@@ -1,0 +1,38 @@
+concept_zaslavskaya_furniture_factory
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Заславская мебельная фабрика]
+(* <- lang_ru;; *); 
+[Zaslavskaya furniture factory]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Заславская мебельная фабрика)](*<-lang_ru;;*);
+[Description (Zaslavskaya furniture factory)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Лесная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Приморская,2Б 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

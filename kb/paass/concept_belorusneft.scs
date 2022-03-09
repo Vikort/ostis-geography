@@ -1,0 +1,38 @@
+concept_belorusneft
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белоруснефть]
+(* <- lang_ru;; *); 
+[Belorusneft]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белоруснефть)](*<-lang_ru;;*);
+[Description (Belorusneft)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Нефтегазовая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Рогачевская, 9, г. Гомель, 246003, Республика Беларусь 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

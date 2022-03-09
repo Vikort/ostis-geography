@@ -1,0 +1,38 @@
+concept_belfa
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белфа]
+(* <- lang_ru;; *); 
+[Belfa]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белфа)](*<-lang_ru;;*);
+[Description (Belfa)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Легкая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Беларусь, г. Жлобин, проезд Красный, 2 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

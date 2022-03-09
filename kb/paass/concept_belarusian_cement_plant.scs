@@ -1,0 +1,58 @@
+concept_belarusian_cement_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белорусский цементный завод]
+(* <- lang_ru;; *); 
+[Belarusian cement plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белорусский цементный завод)](*<-lang_ru;;*);
+[Description (Belarusian cement plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Промышленность строительных материалов 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_number_of_person: ...(* 
+<- concept_quantity;; 
+<= nrel_relevance: ... 
+(* 
+-> rrel_persons: 2600
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  213640 Могилевская область, г. Костюковичи, ул. Юношеская 117 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_creation_year: ...(* 
+<- concept_quantity;; 
+<= nrel_relevance: ... 
+(* 
+-> rrel_year: 1996
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*);; 

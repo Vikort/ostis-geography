@@ -1,0 +1,38 @@
+concept_healthy_eating
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Здоровое питание]
+(* <- lang_ru;; *); 
+[healthy eating]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Здоровое питание)](*<-lang_ru;;*);
+[Description (healthy eating)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минский р-н, п. Большевик, в/г 137 «А», здание бывшего штаба, к.1 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

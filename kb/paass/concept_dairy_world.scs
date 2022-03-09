@@ -1,0 +1,58 @@
+concept_dairy_world
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Молочный мир]
+(* <- lang_ru;; *); 
+[Dairy World]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Молочный мир)](*<-lang_ru;;*);
+[Description (Dairy World)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_number_of_person: ...(* 
+<- concept_quantity;; 
+<= nrel_relevance: ... 
+(* 
+-> rrel_persons: 1300
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Гродно, ул. Гаспадарчая, 28 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_creation_year: ...(* 
+<- concept_quantity;; 
+<= nrel_relevance: ... 
+(* 
+-> rrel_year: 1938
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*);; 

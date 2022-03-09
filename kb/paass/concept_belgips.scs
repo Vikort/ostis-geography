@@ -1,0 +1,48 @@
+concept_belgips
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белгипс]
+(* <- lang_ru;; *); 
+[Belgips]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белгипс)](*<-lang_ru;;*);
+[Description (Belgips)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Промышленность строительных материалов 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минский район, Новодворский с/с 128,р-н аг, Гатово 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_creation_year: ...(* 
+<- concept_quantity;; 
+<= nrel_relevance: ... 
+(* 
+-> rrel_year: 1944
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*);; 

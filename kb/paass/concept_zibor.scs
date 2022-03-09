@@ -1,0 +1,38 @@
+concept_zibor
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Зибор]
+(* <- lang_ru;; *); 
+[Zibor]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Зибор)](*<-lang_ru;;*);
+[Description (Zibor)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минск, ул. Геологическая, д. 87, п. 8 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

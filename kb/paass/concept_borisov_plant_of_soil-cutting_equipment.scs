@@ -1,0 +1,38 @@
+concept_borisov_plant_of_soil-cutting_equipment
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Борисовский завод грунторезной техники]
+(* <- lang_ru;; *); 
+[Borisov plant of soil-cutting equipment]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Борисовский завод грунторезной техники)](*<-lang_ru;;*);
+[Description (Borisov plant of soil-cutting equipment)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минская обл., г. Борисов, ул. Имени братьев Вайнрубов, 82. 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

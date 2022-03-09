@@ -1,0 +1,38 @@
+concept_molodechno_powder_metallurgy_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Молодечненский завод порошковой металлургии]
+(* <- lang_ru;; *); 
+[Molodechno Powder Metallurgy Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Молодечненский завод порошковой металлургии)](*<-lang_ru;;*);
+[Description (Molodechno Powder Metallurgy Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Металлургия 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул Я.Купалы, 130 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

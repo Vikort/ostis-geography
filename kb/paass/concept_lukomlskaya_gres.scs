@@ -1,0 +1,38 @@
+concept_lukomlskaya_gres
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Лукомльская ГРЭС]
+(* <- lang_ru;; *); 
+[Lukomlskaya GRES]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Лукомльская ГРЭС)](*<-lang_ru;;*);
+[Description (Lukomlskaya GRES)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Коммунальное хозяйство и электроэнергетика 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Витебская область, Чашникский р-н, г. Новолукомль 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

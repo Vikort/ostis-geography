@@ -1,0 +1,38 @@
+concept_osipovichi_timber_industry_enterprise
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Осиповичский леспромхоз]
+(* <- lang_ru;; *); 
+[Osipovichi timber industry enterprise]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Осиповичский леспромхоз)](*<-lang_ru;;*);
+[Description (Osipovichi timber industry enterprise)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Лесная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Ленина 9 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

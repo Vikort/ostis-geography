@@ -1,0 +1,38 @@
+concept_plant_santex
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Завод Сантэкс]
+(* <- lang_ru;; *); 
+[Plant Santex]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Завод Сантэкс)](*<-lang_ru;;*);
+[Description (Plant Santex)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Промышленность строительных материалов 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, Гомель, ул. Барыкина 132, к.2 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

@@ -1,0 +1,38 @@
+concept_bobruisk_leather_factory
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Бобруйский кожевенный комбинат]
+(* <- lang_ru;; *); 
+[Bobruisk leather factory]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Бобруйский кожевенный комбинат)](*<-lang_ru;;*);
+[Description (Bobruisk leather factory)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Легкая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Бобруйск, 213822 ул. Минская, 142а 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

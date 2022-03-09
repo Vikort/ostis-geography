@@ -1,0 +1,38 @@
+concept_novolukoml_production_of_the_orsha_bakery
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Новолукомльское производство Оршанского хлебозавода]
+(* <- lang_ru;; *); 
+[Novolukoml production of the Orsha bakery]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Новолукомльское производство Оршанского хлебозавода)](*<-lang_ru;;*);
+[Description (Novolukoml production of the Orsha bakery)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Витебская область, Чашникский р-н, г. Новолукомль, ул. Заводская, 2 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

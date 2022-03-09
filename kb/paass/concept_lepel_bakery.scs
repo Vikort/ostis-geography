@@ -1,0 +1,38 @@
+concept_lepel_bakery
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Лепельский хлебозавод]
+(* <- lang_ru;; *); 
+[Lepel bakery]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Лепельский хлебозавод)](*<-lang_ru;;*);
+[Description (Lepel bakery)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Ленина, 5 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

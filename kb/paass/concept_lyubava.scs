@@ -1,0 +1,38 @@
+concept_lyubava
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Любава]
+(* <- lang_ru;; *); 
+[Lyubava]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Любава)](*<-lang_ru;;*);
+[Description (Lyubava)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, 220113, г. Минск, ул. Мележа, д. 5, к.2, офис 1109 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

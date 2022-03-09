@@ -1,0 +1,38 @@
+concept_goryn_plant_of_building_materials
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Горынский комбинат строительных материалов]
+(* <- lang_ru;; *); 
+[Goryn plant of building materials]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Горынский комбинат строительных материалов)](*<-lang_ru;;*);
+[Description (Goryn plant of building materials)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Промышленность строительных материалов 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Брестская область, Столинский р-н, р.п. Речица, ул. Коммунистическая, 96 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

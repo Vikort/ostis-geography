@@ -1,0 +1,38 @@
+concept_maz-weichai
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[МАЗ-Вейчай]
+(* <- lang_ru;; *); 
+[MAZ-Weichai]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (МАЗ-Вейчай)](*<-lang_ru;;*);
+[Description (MAZ-Weichai)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Космическая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, Минская область, Смолевичский район, Китайско-Белорусский индустриальный парк «Великий камень» 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

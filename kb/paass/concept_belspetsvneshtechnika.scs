@@ -1,0 +1,38 @@
+concept_belspetsvneshtechnika
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белспецвнештехника]
+(* <- lang_ru;; *); 
+[Belspetsvneshtechnika]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белспецвнештехника)](*<-lang_ru;;*);
+[Description (Belspetsvneshtechnika)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Оборонно-промышленный комплекс 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, 220103 г. Минск, ул. Калиновского, д. 8 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

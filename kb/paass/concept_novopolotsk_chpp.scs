@@ -1,0 +1,38 @@
+concept_novopolotsk_chpp
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Новополоцкая ТЭЦ]
+(* <- lang_ru;; *); 
+[Novopolotsk CHPP]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Новополоцкая ТЭЦ)](*<-lang_ru;;*);
+[Description (Novopolotsk CHPP)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Коммунальное хозяйство и электроэнергетика 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Витебская обл., г. Новополоцк 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

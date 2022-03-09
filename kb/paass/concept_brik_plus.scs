@@ -1,0 +1,38 @@
+concept_brik_plus
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Брик Плюс]
+(* <- lang_ru;; *); 
+[Brik Plus]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Брик Плюс)](*<-lang_ru;;*);
+[Description (Brik Plus)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Промышленность строительных материалов 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минский р-н, п. Звенячи, ул. Шоссейная д. 7а/1; р-н д. Аксаковщина, 20км от МКАД по трассе Минск-Гродно 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

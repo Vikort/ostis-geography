@@ -1,0 +1,48 @@
+concept_minsk_plant_of_wheel_tractors
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Минский завод колёсных тягачей]
+(* <- lang_ru;; *); 
+[Minsk plant of wheel tractors]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Минский завод колёсных тягачей)](*<-lang_ru;;*);
+[Description (Minsk plant of wheel tractors)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Пр-т Партизанский, 150, 220021, г. Минск 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_creation_year: ...(* 
+<- concept_quantity;; 
+<= nrel_relevance: ... 
+(* 
+-> rrel_year: 1954
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*);; 

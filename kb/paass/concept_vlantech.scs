@@ -1,0 +1,38 @@
+concept_vlantech
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Влантех]
+(* <- lang_ru;; *); 
+[Vlantech]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Влантех)](*<-lang_ru;;*);
+[Description (Vlantech)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Электронная и электротехническая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Гикало д. 1, офис 316, г. Минск, Беларусь 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

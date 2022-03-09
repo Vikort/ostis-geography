@@ -1,0 +1,38 @@
+concept_savushkin_product
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Савушкин продукт]
+(* <- lang_ru;; *); 
+[Savushkin product]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Савушкин продукт)](*<-lang_ru;;*);
+[Description (Savushkin product)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Янки Купалы, 118 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

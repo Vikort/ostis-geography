@@ -1,0 +1,38 @@
+concept_twilaim
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Твилайм]
+(* <- lang_ru;; *); 
+[Twilaim]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Твилайм)](*<-lang_ru;;*);
+[Description (Twilaim)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Медицинская промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Гомельская обл.,г. Мозырь, ул. Коммунальная, 18В. 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

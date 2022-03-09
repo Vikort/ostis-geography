@@ -1,0 +1,38 @@
+concept_crystal
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Кристалл]
+(* <- lang_ru;; *); 
+[Crystal]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Кристалл)](*<-lang_ru;;*);
+[Description (Crystal)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Ювелирная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Черниговская, 22 "Б", корпус №2, г. Гомель, 246042, Республика Беларусь 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

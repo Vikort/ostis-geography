@@ -1,0 +1,48 @@
+concept_alutech
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Алютех]
+(* <- lang_ru;; *); 
+[Alutech]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Алютех)](*<-lang_ru;;*);
+[Description (Alutech)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Металлургия
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, ул. Гамарника, д. 30, пом. 274, БЦ «Зеленый луг», 1 этаж 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_creation_year: ...(* 
+<- concept_quantity;; 
+<= nrel_relevance: ... 
+(* 
+-> rrel_year: 1996
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*);; 

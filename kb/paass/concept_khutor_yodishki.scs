@@ -1,0 +1,38 @@
+concept_khutor_yodishki
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Хутор Ёдишки]
+(* <- lang_ru;; *); 
+[Khutor Yodishki]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Хутор Ёдишки)](*<-lang_ru;;*);
+[Description (Khutor Yodishki)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Сельское хозяйство 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Витебская обл., Браславский р-н, х.Ёдишки 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

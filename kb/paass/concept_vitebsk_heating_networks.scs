@@ -1,0 +1,38 @@
+concept_vitebsk_heating_networks
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Витебские тепловые сети]
+(* <- lang_ru;; *); 
+[Vitebsk heating networks]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Витебские тепловые сети)](*<-lang_ru;;*);
+[Description (Vitebsk heating networks)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Коммунальное хозяйство и электроэнергетика 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Витебск, проезд с. Панковой, 6 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

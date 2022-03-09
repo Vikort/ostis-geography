@@ -1,0 +1,38 @@
+concept_grid
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Сетка]
+(* <- lang_ru;; *); 
+[Grid]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Сетка)](*<-lang_ru;;*);
+[Description (Grid)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Металлургия 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Железнодорожная, дом 31, корп. 1, офис 403 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

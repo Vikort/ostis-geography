@@ -1,0 +1,38 @@
+concept_miory_production_of_the_polotsk_bakery
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Миорское производство Полоцкого хлебозавода]
+(* <- lang_ru;; *); 
+[Miory production of the Polotsk bakery]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Миорское производство Полоцкого хлебозавода)](*<-lang_ru;;*);
+[Description (Miory production of the Polotsk bakery)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  п. Миоры 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

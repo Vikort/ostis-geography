@@ -1,0 +1,38 @@
+concept_unidragmet_bgu
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Унидрагмет БГУ]
+(* <- lang_ru;; *); 
+[Unidragmet BGU]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Унидрагмет БГУ)](*<-lang_ru;;*);
+[Description (Unidragmet BGU)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Горная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, ул. академика Курчатова 1 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

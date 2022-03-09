@@ -1,0 +1,38 @@
+concept_belinvesttorg-splav
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белинвестторг-Сплав]
+(* <- lang_ru;; *); 
+[Belinvesttorg-Splav]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белинвестторг-Сплав)](*<-lang_ru;;*);
+[Description (Belinvesttorg-Splav)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Металлургия 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, г. Пинск, пр. Калиновского, 2 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

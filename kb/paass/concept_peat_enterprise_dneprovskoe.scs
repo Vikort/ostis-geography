@@ -1,0 +1,38 @@
+concept_peat_enterprise_dneprovskoe
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Торфопредприятие Днепровское]
+(* <- lang_ru;; *); 
+[Peat enterprise Dneprovskoe]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Торфопредприятие Днепровское)](*<-lang_ru;;*);
+[Description (Peat enterprise Dneprovskoe)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Горная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Гасана, 12, д. Годылево, Быховский район, Могилевская обл. 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

@@ -1,0 +1,38 @@
+concept_dairy_hotel
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Молочный гостинец]
+(* <- lang_ru;; *); 
+[Dairy hotel]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Молочный гостинец)](*<-lang_ru;;*);
+[Description (Dairy hotel)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г.Минск, Партизанский проспект, д. 170 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

@@ -1,0 +1,38 @@
+concept_engineering_alliance
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Машиностроительный альянс]
+(* <- lang_ru;; *); 
+[Engineering Alliance]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Машиностроительный альянс)](*<-lang_ru;;*);
+[Description (Engineering Alliance)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, ул. Селицкого, д. 21Н, пом.2 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

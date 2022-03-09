@@ -1,0 +1,38 @@
+concept_baranovichi_machine_tool_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Барановичский станкостроительный завод]
+(* <- lang_ru;; *); 
+[Baranovichi Machine Tool Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Барановичский станкостроительный завод)](*<-lang_ru;;*);
+[Description (Baranovichi Machine Tool Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Барановичи, Беларусь, ул. Наконечникова 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

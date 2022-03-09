@@ -1,0 +1,38 @@
+concept_zarya_mogilev_chemical_combine
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Заря Могилевский химкомбинат]
+(* <- lang_ru;; *); 
+[Zarya Mogilev Chemical Combine]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Заря Могилевский химкомбинат)](*<-lang_ru;;*);
+[Description (Zarya Mogilev Chemical Combine)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Химическая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  пр-т Шмидта, 114 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

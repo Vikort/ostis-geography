@@ -1,0 +1,38 @@
+concept_gomel_distillery
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Гомельский ликероводочный завод]
+(* <- lang_ru;; *); 
+[Gomel Distillery]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Гомельский ликероводочный завод)](*<-lang_ru;;*);
+[Description (Gomel Distillery)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Севастопольская, 106 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

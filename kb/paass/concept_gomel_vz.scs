@@ -1,0 +1,38 @@
+concept_gomel_vz
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Гомельский ВСЗ]
+(* <- lang_ru;; *); 
+[Gomel VZ]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Гомельский ВСЗ)](*<-lang_ru;;*);
+[Description (Gomel VZ)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Гомель, Республика Беларусь 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

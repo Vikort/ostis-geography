@@ -1,0 +1,38 @@
+concept_white_mane_and_k
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белая грива и К]
+(* <- lang_ru;; *); 
+[White mane and K]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белая грива и К)](*<-lang_ru;;*);
+[Description (White mane and K)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Легкая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минская обл.,Минский р-н,аг Луговая Слобода, ул. Мира, д. 16,2-й этаж 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

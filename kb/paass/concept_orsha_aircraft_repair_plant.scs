@@ -1,0 +1,38 @@
+concept_orsha_aircraft_repair_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Оршанский авиаремонтный завод]
+(* <- lang_ru;; *); 
+[Orsha Aircraft Repair Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Оршанский авиаремонтный завод)](*<-lang_ru;;*);
+[Description (Orsha Aircraft Repair Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Оборонно-промышленный комплекс
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Витебская обл., Оршанский р-н, п. Болбасово ул. Заводская, 1 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
