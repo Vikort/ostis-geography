@@ -1,7 +1,7 @@
 company_instinctools <- concept_company;
 <- concept_belarusian_company;
 =>nrel_main_idtf:
-	[*instinctools]
+	[instinctools]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 	[+375 29 287 74 37]
 	(* <- concept_phone_number;;*);
