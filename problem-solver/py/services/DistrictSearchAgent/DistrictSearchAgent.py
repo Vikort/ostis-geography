@@ -3,8 +3,17 @@ from termcolor import colored
 from common import ScAgent, ScEventParams, ScKeynodes
 from sc import *
 
+osm_level_to_tag = {
+    '2': ['addr:city', 'addr:district', 'addr:region'],
+    '4': ['addr:city', 'addr:district', 'addr:region'],
+    '6': ['addr:city', 'addr:district'],
+    '8': ['addr:city'],
+    '9': ['addr:country', 'addr:district', 'addr:region'],
+    '10': ['addr:city'],
+    None: ['addr:country', 'addr:district', 'addr:region', 'addr:city']
+}
 
-class SearchShopsInTheDistrictAgent(ScAgent):
+class DistrictSearchAgent(ScAgent):
     def __init__(self, module):
         super().__init__(module)
         self.ctx = module.ctx
@@ -18,22 +27,22 @@ class SearchShopsInTheDistrictAgent(ScAgent):
         status = ScResult.Ok
 
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['action_search_cinemas_in_the_district'],
+                self.keynodes['action_search_cinemas_in_the_city'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):
             try:
                 if self.main_node is None or not self.main_node.IsValid():
                     raise Exception("The question node isn't valid.")
-                district =  self.get_action_argument(self.main_node, 'rrel_1')
+                city =  self.get_action_argument(self.main_node, 'rrel_1')
 
                 concept_shop = self.module.ctx.HelperResolveSystemIdtf("concept_shop", ScType.NodeConstClass)
                 answer = self.module.ctx.HelperResolveSystemIdtf("find_shop_by_district", ScType.NodeConst)
-                nrel_district = self.module.ctx.HelperResolveSystemIdtf("nrel_district", ScType.NodeConstNoRole)
+                nrel_city = self.module.ctx.HelperResolveSystemIdtf("nrel_district", ScType.NodeConstNoRole)
                 shop = self.module.ctx.Iterator3( concept_shop, ScType.EdgeAccessConstPosPerm, ScType.NodeConst)
                 while shop.Next():
                     print("sss")
-                    find_shop = self.module.ctx.Iterator5(shop.Get(2), ScType.EdgeDCommonConst, district , ScType.EdgeAccessConstPosPerm, nrel_district)
+                    find_shop = self.module.ctx.Iterator5(shop.Get(2), ScType.EdgeDCommonConst, city , ScType.EdgeAccessConstPosPerm, nrel_city)
                     print(find_shop)
                     while find_shop.Next():
                         if find_shop.IsValid():

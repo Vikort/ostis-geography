@@ -8,11 +8,11 @@
 #pragma once
 
 #include "sc-memory/sc_module.hpp"
-#include "SearchShopsInTheDistrictService.hpp"
-#include "SearchShopsInTheDistrictModule.generated.hpp"
+#include "DistrictSearchService.hpp"
+#include "DistrictSearchModule.generated.hpp"
 
 
-class SearchShopsInTheDistrictModule : public ScModule
+class DistrictSearchModule : public ScModule
 {
   SC_CLASS(LoadOrder(1000))
   SC_GENERATED_BODY()
@@ -21,5 +21,5 @@ class SearchShopsInTheDistrictModule : public ScModule
   virtual sc_result ShutdownImpl() override;
 
 private:
-  std::unique_ptr<SearchShopsInTheDistrictAgentPythonService> m_SearchShopsInTheDistrictService;
+  std::unique_ptr<DistrictSearchAgentPythonService> m_DistrictSearchService;
 };

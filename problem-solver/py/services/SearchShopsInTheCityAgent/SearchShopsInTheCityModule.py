@@ -1,5 +1,5 @@
 from common import ScModule, ScKeynodes, ScPythonEventType
-from SearchShopInTheCityAgent import SearchShopInTheCityAgent
+from SearchShopsInTheCityAgent import SearchShopInTheCityAgent
 
 from sc import *
 

@@ -21,5 +21,5 @@ class SearchCulinaryShopsModule : public ScModule
   virtual sc_result ShutdownImpl() override;
 
 private:
-  std::unique_ptr<SearchCulinaryShopsAgentPythonService> m_SearchClosedTheatersService;
+  std::unique_ptr<SearchCulinaryShopsAgentPythonService> m_SearchCulinaryShopsService;
 };

@@ -1,6 +1,6 @@
 concept_shop
-<- sc_node_not_relation;
-=> nrel_main_idtf:
+<-sc_node_not_relation;
+=>nrel_main_idtf:
 	[магазин]
 	(* <- lang_ru;; *);
 	[shop]
@@ -8,23 +8,23 @@ concept_shop
 <- rrel_key_sc_element:
 	...
 	(*
-	=> nrel_main_idtf:
+	=>nrel_main_idtf:
 		[Опр. (магазин)]
 		(* <- lang_ru;; *);
-		[Def. (shop])]
+		[Def. (shop)]
 		(* <- lang_en;; *);;
 	<- definition;;
 	<= nrel_sc_text_translation:
 		...
 		(*
-		-> rrel_example:
-			[магазин -  предприятие розничной торговли, размещённое в стационарном здании, оборудованном для продаж товаров и оказания услуг.]
+		->rrel_example:
+			[Магазин - предприятие розничной торговли.]
 			(* <- lang_ru;; *);;
 		*);
 		...
 		(*
-		-> rrel_example:
-			[chain store] - retail trade enterprise located in a stationary building equipped for the sale of goods and the provision of services]
+		-> rrel_example: 
+			[chain store -  retail trade enterprise]
 			(* <- lang_en;; *);;
 		*);;
 	<= nrel_using_constants:

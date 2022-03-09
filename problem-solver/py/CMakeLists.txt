@@ -1,4 +1,4 @@
 add_subdirectory(OpenStreetMapAgent)
 add_subdirectory(SearchCulinaryShopsAgent)
 add_subdirectory(SearchShopsInTheCityAgent)
-add_subdirectory(SearchShopsInTheDistrictAgent)
+add_subdirectory(DistrictSearchAgent)

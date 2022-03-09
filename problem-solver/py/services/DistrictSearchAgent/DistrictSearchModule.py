@@ -1,10 +1,10 @@
 from common import ScModule, ScKeynodes, ScPythonEventType
-from SearchShopsInTheDistrictAgent import SearchShopsInTheDistrictAgent
+from DistrictSearchAgent import DistrictSearchAgent
 
 from sc import *
 
 
-class SearchShopsInTheDistrictModule(ScModule):
+class DistrictSearchAgentModule(ScModule):
 
     def __init__(self):
         ScModule.__init__(
@@ -16,15 +16,15 @@ class SearchShopsInTheDistrictModule(ScModule):
         self.keynodes = ScKeynodes(self.ctx)
 
     def OnInitialize(self, params):
-        print('Initialize SearchShopsInTheDistrict module')
+        print('Initialize DistrictSearchAgent module')
         question_initiated = self.keynodes['question_initiated']
 
-        agent = SearchShopsInTheDistrictAgent(self)
+        agent = DistrictSearchAgent(self)
         agent.Register(question_initiated, ScPythonEventType.AddOutputEdge)
 
     def OnShutdown(self):
-        print('Shutting down SearchShopsInTheDistrict module')
+        print('Shutting down DistrictSearchAgent module')
 
 
-service = SearchShopsInTheDistrictModule()
+service = DistrictSearchAgentModule()
 service.Run()
