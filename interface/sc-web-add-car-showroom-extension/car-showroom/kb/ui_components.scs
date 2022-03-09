@@ -1,0 +1,25 @@
+ui_car_showrooms_text_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Компонент добавления автомобильного салона.]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[This is a component for adding car showroom.]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_car_showrooms_answer_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Создать]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Create]
+	(*
+	<- lang_en;;
+	*);;
+
+

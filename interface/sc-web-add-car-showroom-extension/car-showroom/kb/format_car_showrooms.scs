@@ -1,0 +1,27 @@
+format_car_showroom
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[формат компонент]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[format of UI component]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+car_showroom_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Компонент добавления автомобильного салона]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[UI component for adding car showroom]
+	(*
+	<- lang_en;;
+	*);;
