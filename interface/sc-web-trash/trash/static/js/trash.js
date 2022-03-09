@@ -46,8 +46,8 @@ TrashWindow = function (sandbox) {
                 let searchComponentText = identifiers[searchComponentScAddr];
                 $(answerButton).html(searchComponentText);
                 $(answerButton).attr('sc_addr', searchComponentScAddr);
-                TrashComponent.concept_pottery_centre = keynodes['concept_district'];
-                TrashComponent.nrel_technologies_used = keynodes['nrel_search_area'];
+                TrashComponent.concept_district = keynodes['concept_district'];
+                TrashComponent.nrel_search_area = keynodes['nrel_search_area'];
             });
         });
     }
@@ -67,7 +67,7 @@ TrashWindow = function (sandbox) {
                         sc_type_arc_pos_const_perm,
                         TrashComponent.nrel_search_area
                     ]).done(function (identifiers) {
-                        SCWeb.core.Server.resolveIdentifiers([identifiers[0][2], pottery], function (keynodes) {
+                        SCWeb.core.Server.resolveIdentifiers([identifiers[0][2], trash], function (keynodes) {
                             let search_area = keynodes[identifiers[0][2]];
 
                             if (search_area) {
