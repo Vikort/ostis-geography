@@ -117,3 +117,11 @@ Russia <- concept_country;
 concept_admin_building<-sc_node_not_relation;;
 concept_embassy<-sc_node_not_relation;;
 
+concept_admin_building
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[Административное здание]
+	(* <- lang_ru;;<-name;; *);
+	[Admin building]
+	(* <- lang_en;; *);;
+
