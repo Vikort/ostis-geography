@@ -1,6 +1,6 @@
 concept_Gorodok_District_Executive_Committee
 <-sc_node_not_relation;
-->concept_admin_building;
+<-concept_admin_building;
 =>nrel_search_area:haradok_district; <- concept_way;=>nrel_main_idtf:
 	[Городокский РИК]
 	(* <- lang_ru;;<-name;; *);

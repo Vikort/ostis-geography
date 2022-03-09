@@ -1,6 +1,6 @@
 concept_Embassy_of_the_United_Arab_Emirates_minsk
 ->concept_embassy;
-->concept_admin_building;
+<-concept_admin_building;
 =>nrel_embassy:
     the_United_Arab_Emirates;
 <-sc_node_not_relation;

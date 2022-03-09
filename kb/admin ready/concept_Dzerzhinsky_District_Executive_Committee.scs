@@ -1,6 +1,6 @@
 concept_Dzerzhinsky_District_Executive_Committee
 <-sc_node_not_relation;
-->concept_admin_building;
+<-concept_admin_building;
 =>nrel_main_idtf:
 	[Дзержинский районный исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);

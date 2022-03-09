@@ -1,6 +1,6 @@
 concept_Department_of_Education_of_the_Krupsky_District
 <-sc_node_not_relation;
-->concept_admin_building;
+<-concept_admin_building;
 =>nrel_search_area:krupki_district;
  <- concept_way;=>nrel_main_idtf:
 	[Управление по образованию Крупского района]

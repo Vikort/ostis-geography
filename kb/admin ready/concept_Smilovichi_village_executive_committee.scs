@@ -1,6 +1,6 @@
 concept_Smilovichi_village_executive_committee
 <-sc_node_not_relation;
-->concept_admin_building;
+<-concept_admin_building;
 =>nrel_main_idtf:
 	[Смиловичский сельский исполнительный комитет]
 	(* <- lang_ru;;<-name;; *);
