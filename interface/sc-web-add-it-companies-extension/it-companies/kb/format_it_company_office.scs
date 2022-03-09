@@ -1,4 +1,4 @@
-format_car_showroom
+format_it_company_office
 <- sc_node_not_relation;
 <- format;
 => nrel_main_idtf:
@@ -14,14 +14,14 @@ format_car_showroom
 => nrel_mimetype:
 	[application/html];;
 
-car_showroom_code <- ui_external_languages;
+it_company_office_code <- ui_external_languages;
 => nrel_main_idtf:
-	[Компонент добавления автомобильного салона]
+	[Компонент добавления it офиса]
 	(*
 	<- lang_ru;;
 	 *);
 => nrel_main_idtf:
-	[UI component for adding car showroom]
+	[UI component for adding it company office]
 	(*
 	<- lang_en;;
 	*);;

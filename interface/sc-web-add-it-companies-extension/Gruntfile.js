@@ -1,5 +1,5 @@
 module.exports = function (grunt) {
-    const carShowroomDirPath = './car-showroom/';
+    const itCompanyOfficeDirPath = './it-showroom/';
 
     const scWebDirPath = '../../ostis-web-platform/sc-web';
     const clientJsDirPath = scWebDirPath + '/client/static/components/js/';
@@ -9,57 +9,57 @@ module.exports = function (grunt) {
 
     grunt.initConfig({
         concat: {
-            carShowroom: {
-                src: [carShowroomDirPath + 'src/*.js'],
-                dest: carShowroomDirPath + 'static/js/car-showroom.js'
+            itShowroom: {
+                src: [itCompanyOfficeDirPath + 'src/*.js'],
+                dest: itCompanyOfficeDirPath + 'static/js/it-showroom.js'
             },
         },
         copy: {
-            carShowroomJs: {
-                cwd: carShowroomDirPath + 'static/js/',
-                src: 'car-showroom.js',
-                dest: clientJsDirPath + 'car-showroom/',
+            itShowroomJs: {
+                cwd: itCompanyOfficeDirPath + 'static/js/',
+                src: 'it-showroom.js',
+                dest: clientJsDirPath + 'it-showroom/',
                 expand: true,
                 flatten: true
             },
-            carShowroomCss: {
-                cwd: carShowroomDirPath + 'static/css/',
+            itShowroomCss: {
+                cwd: itCompanyOfficeDirPath + 'static/css/',
                 src: '*.css',
                 dest: clientCssDirPath,
                 expand: true,
                 flatten: true
             },
-            carShowroomHtml: {
-                cwd: carShowroomDirPath + 'static/html/',
+            itShowroomHtml: {
+                cwd: itCompanyOfficeDirPath + 'static/html/',
                 src: ['*.html'],
                 dest: clientHtmlDirPath,
                 expand: true,
                 flatten: true
             },
-            carShowroomImg: {
-                cwd: carShowroomDirPath + 'static/images/',
+            itShowroomImg: {
+                cwd: itCompanyOfficeDirPath + 'static/images/',
                 src: '*.png',
-                dest: clientImgDirPath + 'car-showroom/',
+                dest: clientImgDirPath + 'it-showroom/',
                 expand: true,
                 flatten: true
             }
         },
         watch: {
-            carShowroomJs: {
-                files: carShowroomDirPath + 'src/**',
-                tasks: ['concat:car-showroom', 'copy:carShowroomJs'],
+            itShowroomJs: {
+                files: itCompanyOfficeDirPath + 'src/**',
+                tasks: ['concat:it-showroom', 'copy:itShowroomJs'],
             },
-            carShowroomCss: {
-                files: carShowroomDirPath + 'static/css/**',
-                tasks: ['copy:carShowroomCss'],
+            itShowroomCss: {
+                files: itCompanyOfficeDirPath + 'static/css/**',
+                tasks: ['copy:itShowroomCss'],
             },
-            carShowroomHtml: {
-                files: [carShowroomDirPath + 'static/html/**'],
-                tasks: ['copy:carShowroomHtml'],
+            itShowroomHtml: {
+                files: [itCompanyOfficeDirPath + 'static/html/**'],
+                tasks: ['copy:itShowroomHtml'],
             },
-            carShowroomImg: {
-                files: [carShowroomDirPath + 'static/images/**'],
-                tasks: ['copy:carShowroomImg'],
+            itShowroomImg: {
+                files: [itCompanyOfficeDirPath + 'static/images/**'],
+                tasks: ['copy:itShowroomImg'],
             },
         },
         exec: {
