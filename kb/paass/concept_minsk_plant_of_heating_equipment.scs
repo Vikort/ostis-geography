@@ -1,0 +1,38 @@
+concept_minsk_plant_of_heating_equipment
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Минский завод отопительного оборудования]
+(* <- lang_ru;; *); 
+[Minsk Plant of Heating Equipment]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Минский завод отопительного оборудования)](*<-lang_ru;;*);
+[Description (Minsk Plant of Heating Equipment)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Тимирязева, 29 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

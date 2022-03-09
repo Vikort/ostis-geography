@@ -1,0 +1,38 @@
+concept_rybkhoz_new
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Рыбхоз Новинки]
+(* <- lang_ru;; *); 
+[Rybkhoz New]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Рыбхоз Новинки)](*<-lang_ru;;*);
+[Description (Rybkhoz New)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Сельское хозяйство 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Беларусь, Витебская обл.,Поставский р-н, д. Новинки, -, каб. - 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

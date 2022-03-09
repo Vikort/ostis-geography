@@ -1,0 +1,38 @@
+concept_starobinsky_tbz
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Старобинский ТБЗ]
+(* <- lang_ru;; *); 
+[Starobinsky TBZ]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Старобинский ТБЗ)](*<-lang_ru;;*);
+[Description (Starobinsky TBZ)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Горная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минская обл., Солигорский р-н, г., Старобин 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

@@ -1,0 +1,6 @@
+otdel_ugolovnogo_rozyska <- concept_police;
+=>nrel_main_idtf:
+    [Отдел уголовного розыска]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

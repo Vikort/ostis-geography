@@ -1,0 +1,38 @@
+concept_rogachev_milk_canning_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Рогачевский молочно-консервный комбинат]
+(* <- lang_ru;; *); 
+[Rogachev Milk Canning Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Рогачевский молочно-консервный комбинат)](*<-lang_ru;;*);
+[Description (Rogachev Milk Canning Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Кирова, 31 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

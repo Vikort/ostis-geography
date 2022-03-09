@@ -1,0 +1,38 @@
+concept_brook_kobrin_spinning_and_weaving_factory
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Ручайка Кобринская прядильно-ткацкая фабрика]
+(* <- lang_ru;; *); 
+[Brook Kobrin spinning and weaving factory]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Ручайка Кобринская прядильно-ткацкая фабрика)](*<-lang_ru;;*);
+[Description (Brook Kobrin spinning and weaving factory)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Легкая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Советская 139-7 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

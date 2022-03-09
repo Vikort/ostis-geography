@@ -1,0 +1,38 @@
+concept_peat_briquette_plant_lidsky
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Торфобрикетный завод Лидский]
+(* <- lang_ru;; *); 
+[Peat briquette plant Lidsky]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Торфобрикетный завод Лидский)](*<-lang_ru;;*);
+[Description (Peat briquette plant Lidsky)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Горная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Гродненская обл., Лидский р-н, п. Первомайский, ул. Ленина,3 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

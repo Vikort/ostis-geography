@@ -1,0 +1,6 @@
+ovd_administratsii_leninskogo_rayona_g_bresta <- concept_police;
+=>nrel_main_idtf:
+    [ОВД администрации Ленинского района г. Бреста]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

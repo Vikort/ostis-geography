@@ -1,0 +1,6 @@
+punkt_okhrany_poryadka <- concept_police;
+=>nrel_main_idtf:
+    [Пункт охраны порядка]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

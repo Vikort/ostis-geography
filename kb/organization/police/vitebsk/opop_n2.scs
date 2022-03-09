@@ -1,0 +1,8 @@
+opop_n2 <- concept_police;
+=>nrel_main_idtf:
+    [Грамадскі пункт аховы парадку № 2]
+    (* <- lang_bel;; <- name_en;;*);
+    [ОПОП № 2]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

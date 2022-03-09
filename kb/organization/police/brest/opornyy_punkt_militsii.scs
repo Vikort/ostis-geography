@@ -1,0 +1,8 @@
+opornyy_punkt_militsii <- concept_police;
+=>nrel_main_idtf:
+    [Апорны пункт міліцыі]
+    (* <- lang_bel;; <- name_en;;*);
+    [Опорный пункт милиции]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

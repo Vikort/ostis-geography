@@ -1,0 +1,6 @@
+opop_51 <- concept_police;
+=>nrel_main_idtf:
+    [ОПОП-51]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

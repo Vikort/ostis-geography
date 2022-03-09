@@ -1,0 +1,38 @@
+concept_smorgon_optical_machine_tool_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Сморгонский завод оптического станкостроения]
+(* <- lang_ru;; *); 
+[Smorgon Optical Machine Tool Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Сморгонский завод оптического станкостроения)](*<-lang_ru;;*);
+[Description (Smorgon Optical Machine Tool Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Я. Коласа 80, 231042, г. Сморгонь Гродненская область, Республика Беларусь 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

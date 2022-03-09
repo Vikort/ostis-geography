@@ -1,0 +1,8 @@
+otdel_vnutrennikh_del_administratsii_leninskogo_rayona <- concept_police;
+=>nrel_main_idtf:
+    [Аддзел унутранных спраў адміністрацыі Ленінскага раёна]
+    (* <- lang_bel;; <- name_en;;*);
+    [Отдел внутренних дел администрации Ленинского района]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

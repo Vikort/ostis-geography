@@ -1,0 +1,8 @@
+rassmotreniye_del <- concept_police;
+=>nrel_main_idtf:
+    [Разгляд спраў]
+    (* <- lang_bel;; <- name_en;;*);
+    [Рассмотрение дел]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

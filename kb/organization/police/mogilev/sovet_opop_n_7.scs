@@ -1,0 +1,6 @@
+sovet_opop_n_7 <- concept_police;
+=>nrel_main_idtf:
+    [Совет ОПОП № 7]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

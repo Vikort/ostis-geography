@@ -1,0 +1,38 @@
+concept_rechitsa_hardware_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Речицкий метизный завод]
+(* <- lang_ru;; *); 
+[Rechitsa Hardware Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Речицкий метизный завод)](*<-lang_ru;;*);
+[Description (Rechitsa Hardware Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Фрунзе, 2 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

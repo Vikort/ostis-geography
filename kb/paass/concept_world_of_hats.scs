@@ -1,0 +1,38 @@
+concept_world_of_hats
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Мир шапок]
+(* <- lang_ru;; *); 
+[world of hats]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Мир шапок)](*<-lang_ru;;*);
+[Description (world of hats)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Легкая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минск ул. Казинца 62, оф.161а 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

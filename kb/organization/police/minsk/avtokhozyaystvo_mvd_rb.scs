@@ -1,0 +1,8 @@
+avtokhozyaystvo_mvd_rb <- concept_police;
+=>nrel_main_idtf:
+    [Аўтагаспадарка МУС РБ]
+    (* <- lang_bel;; <- name_en;;*);
+    [Автохозяйство МВД РБ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

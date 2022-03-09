@@ -1,0 +1,38 @@
+concept_bellakt
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Беллакт]
+(* <- lang_ru;; *); 
+[Bellakt]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Беллакт)](*<-lang_ru;;*);
+[Description (Bellakt)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, Гродненская область, г. Волковыск, ул. Октябрьская, 133 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

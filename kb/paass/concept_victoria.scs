@@ -1,0 +1,38 @@
+concept_victoria
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Виктория]
+(* <- lang_ru;; *); 
+[Victoria]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Виктория)](*<-lang_ru;;*);
+[Description (Victoria)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, Микрорайон Уручье, пр. Независимости, 199, центральный корпус, пом. 1. 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

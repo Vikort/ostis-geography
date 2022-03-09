@@ -1,0 +1,38 @@
+concept_vitebsk_confectionery_plant_vitba
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Витебский кондитерский комбинат Витьба]
+(* <- lang_ru;; *); 
+[Vitebsk Confectionery Plant Vitba]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Витебский кондитерский комбинат Витьба)](*<-lang_ru;;*);
+[Description (Vitebsk Confectionery Plant Vitba)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Короткевича,3 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

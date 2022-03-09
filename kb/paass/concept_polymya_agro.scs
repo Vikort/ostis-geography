@@ -1,0 +1,38 @@
+concept_polymya_agro
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Полымя Агро]
+(* <- lang_ru;; *); 
+[Polymya Agro]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Полымя Агро)](*<-lang_ru;;*);
+[Description (Polymya Agro)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Беларусь, 222520, Минская область, г. Борисов, ул. Краснознаменная, 64 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

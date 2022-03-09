@@ -1,0 +1,38 @@
+concept_pukhovichsky_forestry
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Пуховичский лесхоз]
+(* <- lang_ru;; *); 
+[Pukhovichsky forestry]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Пуховичский лесхоз)](*<-lang_ru;;*);
+[Description (Pukhovichsky forestry)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Лесная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул Калинина, 14 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

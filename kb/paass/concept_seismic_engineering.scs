@@ -1,0 +1,38 @@
+concept_seismic_engineering
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Сейсмотехника]
+(* <- lang_ru;; *); 
+[seismic engineering]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Сейсмотехника)](*<-lang_ru;;*);
+[Description (seismic engineering)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Владимирова, 16 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

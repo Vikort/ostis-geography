@@ -1,0 +1,8 @@
+ugai_mvd_rb <- concept_police;
+=>nrel_main_idtf:
+    [УДАІ МУС РБ]
+    (* <- lang_bel;; <- name_en;;*);
+    [УГАИ МВД РБ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

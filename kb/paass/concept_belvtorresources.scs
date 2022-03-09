@@ -1,0 +1,38 @@
+concept_belvtorresources
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белвторресурсы]
+(* <- lang_ru;; *); 
+[Belvtorresources]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белвторресурсы)](*<-lang_ru;;*);
+[Description (Belvtorresources)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Лесная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, ул. Казинца, дом 2, кабинет 21 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

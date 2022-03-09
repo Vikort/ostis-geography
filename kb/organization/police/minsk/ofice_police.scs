@@ -1,0 +1,8 @@
+ofice_police <- concept_police;
+=>nrel_main_idtf:
+    [Ofice police]
+    (* <- lang_en;; <- name_en;;*);
+    [Полицейский участок ГОМ-1]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

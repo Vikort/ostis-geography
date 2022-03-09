@@ -1,0 +1,38 @@
+concept_artillery_and_engineering_ammunition_disposal_center
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Центр утилизации артиллерийских и инженерных боеприпасов]
+(* <- lang_ru;; *); 
+[Artillery and Engineering Ammunition Disposal Center]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Центр утилизации артиллерийских и инженерных боеприпасов)](*<-lang_ru;;*);
+[Description (Artillery and Engineering Ammunition Disposal Center)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Оборонно-промышленный комплекс 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, Гомельская область, Добрушский район, г. Добруш, 246358 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

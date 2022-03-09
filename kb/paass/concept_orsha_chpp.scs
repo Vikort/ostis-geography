@@ -1,0 +1,38 @@
+concept_orsha_chpp
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Оршанская ТЭЦ]
+(* <- lang_ru;; *); 
+[Orsha CHPP]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Оршанская ТЭЦ)](*<-lang_ru;;*);
+[Description (Orsha CHPP)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Коммунальное хозяйство и электроэнергетика 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Витебская обл., г. Орша, ул. Южная, 1 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

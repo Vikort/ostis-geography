@@ -1,0 +1,6 @@
+proyezd_zapreshchën <- concept_police;
+=>nrel_main_idtf:
+    [Проезд запрещён]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

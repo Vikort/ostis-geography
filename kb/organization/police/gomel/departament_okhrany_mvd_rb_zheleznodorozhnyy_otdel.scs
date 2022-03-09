@@ -1,0 +1,8 @@
+departament_okhrany_mvd_rb_zheleznodorozhnyy_otdel <- concept_police;
+=>nrel_main_idtf:
+    [Дэпартамент аховы МУС РБ Чыгуначны аддзел]
+    (* <- lang_bel;; <- name_en;;*);
+    [Департамент охраны МВД РБ Железнодорожный отдел]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

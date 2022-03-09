@@ -1,0 +1,38 @@
+concept_ekta
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Экта]
+(* <- lang_ru;; *); 
+[Ekta]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Экта)](*<-lang_ru;;*);
+[Description (Ekta)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Прочее производство 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, ул Ташкентская д. 19, МСРК «Чижовка-арена» вход №50, офис № М260 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

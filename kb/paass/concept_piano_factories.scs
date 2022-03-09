@@ -1,0 +1,38 @@
+concept_piano_factories
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Фабрики фортепиано]
+(* <- lang_ru;; *); 
+[piano factories]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Фабрики фортепиано)](*<-lang_ru;;*);
+[Description (piano factories)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Прочее производство 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск,ул. Голодеда, д. 49, пом. 33 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

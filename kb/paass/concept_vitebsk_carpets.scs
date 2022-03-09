@@ -1,0 +1,38 @@
+concept_vitebsk_carpets
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Витебские ковры]
+(* <- lang_ru;; *); 
+[Vitebsk carpets]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Витебские ковры)](*<-lang_ru;;*);
+[Description (Vitebsk carpets)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Легкая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. М. Горького, 75 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

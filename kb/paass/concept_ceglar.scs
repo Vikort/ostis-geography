@@ -1,0 +1,38 @@
+concept_ceglar
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Ceglar]
+(* <- lang_ru;; *); 
+[Ceglar]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Ceglar)](*<-lang_ru;;*);
+[Description (Ceglar)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Промышленность строительных материалов 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Минская обл., Молодечненский р-н, Радошковичский с/с,3 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

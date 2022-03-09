@@ -1,0 +1,8 @@
+otdel_vnutrennikh_del_grodnenskogo_rayispolkoma <- concept_police;
+=>nrel_main_idtf:
+    [Аддзел унутранных спраў Гродзенскага райвыканкама]
+    (* <- lang_bel;; <- name_en;;*);
+    [Отдел внутренних дел Гродненского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

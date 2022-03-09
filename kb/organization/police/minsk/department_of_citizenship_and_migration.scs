@@ -1,0 +1,10 @@
+department_of_citizenship_and_migration <- concept_police;
+=>nrel_main_idtf:
+    [Department of Citizenship and Migration]
+    (* <- lang_en;; <- name_en;;*);
+    [Аддзел па грамадзянстве і міграцыі]
+    (* <- lang_bel;; <- name_en;;*);
+    [Отдел по гражданству и миграции]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

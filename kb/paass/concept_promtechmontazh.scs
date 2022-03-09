@@ -1,0 +1,38 @@
+concept_promtechmontazh
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Промтехмонтаж]
+(* <- lang_ru;; *); 
+[Promtechmontazh]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Промтехмонтаж)](*<-lang_ru;;*);
+[Description (Promtechmontazh)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Металлургия 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  пер. Калининградский, 19А 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

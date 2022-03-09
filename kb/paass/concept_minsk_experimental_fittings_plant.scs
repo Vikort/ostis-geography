@@ -1,0 +1,38 @@
+concept_minsk_experimental_fittings_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Минский экспериментально-фурнитурный завод]
+(* <- lang_ru;; *); 
+[Minsk Experimental Fittings Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Минский экспериментально-фурнитурный завод)](*<-lang_ru;;*);
+[Description (Minsk Experimental Fittings Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Оборонно-промышленный комплекс 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, 220123, г. Минск, ул. Старовиленская, 100 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

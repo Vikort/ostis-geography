@@ -1,0 +1,6 @@
+nauchno_prakticheskiy_tsentr_prokuratury <- concept_police;
+=>nrel_main_idtf:
+    [Научно-практический центр прокуратуры]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

@@ -1,0 +1,6 @@
+opornyy_punkt_okhrany_pravoporyadka_n_24 <- concept_police;
+=>nrel_main_idtf:
+    [Опорный пункт охраны правопорядка № 24]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

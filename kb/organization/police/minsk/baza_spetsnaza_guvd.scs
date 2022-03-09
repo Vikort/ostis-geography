@@ -1,0 +1,8 @@
+baza_spetsnaza_guvd <- concept_police;
+=>nrel_main_idtf:
+    [База Спецпрызна ГУУС]
+    (* <- lang_bel;; <- name_en;;*);
+    [База Спецназа ГУВД]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

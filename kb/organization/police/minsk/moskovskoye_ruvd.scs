@@ -1,0 +1,8 @@
+moskovskoye_ruvd <- concept_police;
+=>nrel_main_idtf:
+    [Маскоўскае РУУС]
+    (* <- lang_bel;; <- name_en;;*);
+    [Московское РУВД]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

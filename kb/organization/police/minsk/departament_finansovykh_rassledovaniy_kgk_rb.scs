@@ -1,0 +1,8 @@
+departament_finansovykh_rassledovaniy_kgk_rb <- concept_police;
+=>nrel_main_idtf:
+    [Дэпартамент фінансавых расследванняў КДК РБ]
+    (* <- lang_bel;; <- name_en;;*);
+    [Департамент финансовых расследований КГК РБ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

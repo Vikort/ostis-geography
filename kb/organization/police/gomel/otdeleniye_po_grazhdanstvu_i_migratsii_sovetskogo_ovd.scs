@@ -1,0 +1,6 @@
+otdeleniye_po_grazhdanstvu_i_migratsii_sovetskogo_ovd <- concept_police;
+=>nrel_main_idtf:
+    [Отделение по гражданству и миграции Советского ОВД]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

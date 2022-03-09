@@ -1,0 +1,6 @@
+inspektsiya_po_delam_nesovershennoletnikh <- concept_police;
+=>nrel_main_idtf:
+    [Инспекция по делам несовершеннолетних]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

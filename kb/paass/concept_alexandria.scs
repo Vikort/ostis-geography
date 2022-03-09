@@ -1,0 +1,38 @@
+concept_alexandria
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Александрийское]
+(* <- lang_ru;; *); 
+[Alexandria]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Александрийское)](*<-lang_ru;;*);
+[Description (Alexandria)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Сельское хозяйство 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Беларусь, Могилевская обл.,г. Александрия, ул. Оршанская, 6 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

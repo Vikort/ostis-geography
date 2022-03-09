@@ -1,0 +1,38 @@
+concept_crio_expert
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Эксперт Крио]
+(* <- lang_ru;; *); 
+[Crio Expert]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Эксперт Крио)](*<-lang_ru;;*);
+[Description (Crio Expert)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, ул. Стебенева 16/2, офис 13 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

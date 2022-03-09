@@ -1,0 +1,6 @@
+tsentr_izolyatsii_pravonarushiteley <- concept_police;
+=>nrel_main_idtf:
+    [Центр изоляции правонарушителей]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

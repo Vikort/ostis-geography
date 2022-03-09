@@ -1,0 +1,6 @@
+byuro_registratsii_neschastnykh_sluchayev_uvd <- concept_police;
+=>nrel_main_idtf:
+    [Бюро регистрации несчастных случаев УВД]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

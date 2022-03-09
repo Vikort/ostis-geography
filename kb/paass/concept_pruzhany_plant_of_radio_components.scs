@@ -1,0 +1,38 @@
+concept_pruzhany_plant_of_radio_components
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Пружанский завод радиодеталей]
+(* <- lang_ru;; *); 
+[Pruzhany Plant of Radio Components]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Пружанский завод радиодеталей)](*<-lang_ru;;*);
+[Description (Pruzhany Plant of Radio Components)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Красноармейская, 81 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

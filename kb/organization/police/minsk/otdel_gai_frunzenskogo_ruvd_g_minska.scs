@@ -1,0 +1,6 @@
+otdel_gai_frunzenskogo_ruvd_g_minska <- concept_police;
+=>nrel_main_idtf:
+    [Отдел ГАИ Фрунзенского РУВД г. Минска]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

@@ -1,0 +1,38 @@
+concept_belstroybat
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Белстройбат]
+(* <- lang_ru;; *); 
+[Belstroybat]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Белстройбат)](*<-lang_ru;;*);
+[Description (Belstroybat)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Легкая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, 230001, Гродно, ул. Пучкова 46 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

@@ -1,0 +1,6 @@
+upravleniye_departamenta_finansovykh_rassledovaniy_kgk <- concept_police;
+=>nrel_main_idtf:
+    [Управление департамента финансовых расследований КГК]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

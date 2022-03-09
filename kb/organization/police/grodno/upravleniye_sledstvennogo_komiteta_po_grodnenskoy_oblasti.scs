@@ -1,0 +1,8 @@
+upravleniye_sledstvennogo_komiteta_po_grodnenskoy_oblasti <- concept_police;
+=>nrel_main_idtf:
+    [Упраўленне Следчага камітэта па Гродзенскай вобласці]
+    (* <- lang_bel;; <- name_en;;*);
+    [Управление Следственного комитета по Гродненской области]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

@@ -1,0 +1,8 @@
+oktyabrskiy_otdel_departamenta_okhrany_mvd_rb <- concept_police;
+=>nrel_main_idtf:
+    [Кастрычніцкі аддзел Дэпартамента аховы МУС РБ]
+    (* <- lang_bel;; <- name_en;;*);
+    [Октябрьский отдел Департамента охраны МВД РБ]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    grodno;;

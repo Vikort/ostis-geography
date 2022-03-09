@@ -1,0 +1,8 @@
+gorodskoy_otdel_militsii_pervomayskogo_r_na <- concept_police;
+=>nrel_main_idtf:
+    [Гарадскі аддзел міліцыі Першамайскага р-на]
+    (* <- lang_bel;; <- name_en;;*);
+    [Городской отдел милиции Первомайского р-на]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

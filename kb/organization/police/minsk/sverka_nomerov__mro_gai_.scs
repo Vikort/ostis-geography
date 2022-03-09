@@ -1,0 +1,6 @@
+sverka_nomerov__mro_gai_ <- concept_police;
+=>nrel_main_idtf:
+    [Сверка номеров (МРО ГАИ)]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

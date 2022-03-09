@@ -1,0 +1,8 @@
+obshchestvennyy_punkt_okhrany_poryadka_n16 <- concept_police;
+=>nrel_main_idtf:
+    [Грамадскі пункт аховы парадку №16]
+    (* <- lang_bel;; <- name_en;;*);
+    [Общественный пункт охраны порядка №16]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

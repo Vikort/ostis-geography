@@ -1,0 +1,6 @@
+gai_pervomayskogo_rayona <- concept_police;
+=>nrel_main_idtf:
+    [ГАИ Первомайского района]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

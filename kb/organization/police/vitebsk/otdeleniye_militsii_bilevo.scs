@@ -1,0 +1,6 @@
+otdeleniye_militsii_bilevo <- concept_police;
+=>nrel_main_idtf:
+    [Отделение милиции Билево]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

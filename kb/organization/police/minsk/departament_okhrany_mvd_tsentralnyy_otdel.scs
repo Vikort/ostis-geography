@@ -1,0 +1,6 @@
+departament_okhrany_mvd_tsentralnyy_otdel <- concept_police;
+=>nrel_main_idtf:
+    [Департамент охраны МВД. Центральный отдел]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

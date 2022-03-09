@@ -1,0 +1,6 @@
+pervomayskiy_otdel_departamenta_okhrany_mvd_respubliki_belarus <- concept_police;
+=>nrel_main_idtf:
+    [Первомайский отдел Департамента охраны МВД Республики Беларусь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

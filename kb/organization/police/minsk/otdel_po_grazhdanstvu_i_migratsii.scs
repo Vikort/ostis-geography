@@ -1,0 +1,8 @@
+otdel_po_grazhdanstvu_i_migratsii <- concept_police;
+=>nrel_main_idtf:
+    [Адзел па Грамадзянству і міграцыі]
+    (* <- lang_bel;; <- name_en;;*);
+    [Отдел по Гражданству и Миграции]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

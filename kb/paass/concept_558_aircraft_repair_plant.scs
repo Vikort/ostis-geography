@@ -1,0 +1,38 @@
+concept_558_aircraft_repair_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[558 Авиационный ремонтный завод]
+(* <- lang_ru;; *); 
+[558 Aircraft Repair Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (558 Авиационный ремонтный завод)](*<-lang_ru;;*);
+[Description (558 Aircraft Repair Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Авиационная промышленность
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, Бресткая обл., г. Барановичи, ул. 50 ВЛКСМ, 7 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

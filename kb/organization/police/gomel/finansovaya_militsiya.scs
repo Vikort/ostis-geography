@@ -1,0 +1,8 @@
+finansovaya_militsiya <- concept_police;
+=>nrel_main_idtf:
+    [Фінансавая міліцыя]
+    (* <- lang_bel;; <- name_en;;*);
+    [Финансовая милиция]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

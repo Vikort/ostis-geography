@@ -1,0 +1,6 @@
+ovd_gomelskogo_rayispolkoma <- concept_police;
+=>nrel_main_idtf:
+    [ОВД Гомельского райисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

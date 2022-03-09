@@ -1,0 +1,38 @@
+concept_minsk_motor_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Минский моторный завод]
+(* <- lang_ru;; *); 
+[Minsk Motor Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Минский моторный завод)](*<-lang_ru;;*);
+[Description (Minsk Motor Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Электронная и электротехническая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, 220070 г. Минск, ул. Ваупшасова, 4 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

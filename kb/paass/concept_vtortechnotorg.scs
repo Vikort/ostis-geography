@@ -1,0 +1,38 @@
+concept_vtortechnotorg
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[ВторТехноТорг]
+(* <- lang_ru;; *); 
+[VtorTechnoTorg]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (ВторТехноТорг)](*<-lang_ru;;*);
+[Description (VtorTechnoTorg)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Коммунальное хозяйство и электроэнергетика 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Минск, Республика Беларусь пер. Автодоровский, д. 15, корп.2, каб.215/6 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

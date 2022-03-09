@@ -1,0 +1,6 @@
+departament_okhrany <- concept_police;
+=>nrel_main_idtf:
+    [Департамент охраны]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

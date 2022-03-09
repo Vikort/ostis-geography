@@ -1,0 +1,6 @@
+militsiya_uchastkovyye <- concept_police;
+=>nrel_main_idtf:
+    [Милиция. Участковые.]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

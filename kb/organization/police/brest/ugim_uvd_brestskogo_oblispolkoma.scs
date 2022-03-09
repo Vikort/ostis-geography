@@ -1,0 +1,6 @@
+ugim_uvd_brestskogo_oblispolkoma <- concept_police;
+=>nrel_main_idtf:
+    [УГИМ УВД Брестского облисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

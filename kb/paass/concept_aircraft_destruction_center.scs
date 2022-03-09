@@ -1,0 +1,38 @@
+concept_aircraft_destruction_center
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Центр утилизации авиационных средств поражения]
+(* <- lang_ru;; *); 
+[Aircraft Destruction Center]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Центр утилизации авиационных средств поражения)](*<-lang_ru;;*);
+[Description (Aircraft Destruction Center)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Оборонно-промышленный комплекс 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Городокский р-н, Витебская обл. Первомайский с/с, 23, два километра северо-западнее д. Прудок 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

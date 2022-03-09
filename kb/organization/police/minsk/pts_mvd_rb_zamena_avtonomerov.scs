@@ -1,0 +1,8 @@
+pts_mvd_rb_zamena_avtonomerov <- concept_police;
+=>nrel_main_idtf:
+    [ДЦ МУС РБ замена аўтанумароў]
+    (* <- lang_bel;; <- name_en;;*);
+    [ПЦ МВД РБ замена автономеров.]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

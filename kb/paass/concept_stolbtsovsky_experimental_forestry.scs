@@ -1,0 +1,38 @@
+concept_stolbtsovsky_experimental_forestry
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Столбцовский опытный лесхоз]
+(* <- lang_ru;; *); 
+[Stolbtsovsky experimental forestry]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Столбцовский опытный лесхоз)](*<-lang_ru;;*);
+[Description (Stolbtsovsky experimental forestry)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Лесная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. 17 Сентября, д. 15 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

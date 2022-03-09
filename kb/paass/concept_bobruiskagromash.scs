@@ -1,0 +1,38 @@
+concept_bobruiskagromash
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Бобруйскагромаш]
+(* <- lang_ru;; *); 
+[Bobruiskagromash]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Бобруйскагромаш)](*<-lang_ru;;*);
+[Description (Bobruiskagromash)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, Могилевская область, г. Бобруйск, ул. Шинная, 5 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

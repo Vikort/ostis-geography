@@ -1,0 +1,27 @@
+format_police_translator
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[формат примера компонента ПИ police_translator]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[format of UI component police_translator]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+police_translator_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Пример компонента интерфейса police_translator]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[UI component police_translator]
+	(*
+	<- lang_en;;
+	*);;

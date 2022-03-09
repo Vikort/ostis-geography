@@ -1,0 +1,38 @@
+concept_vileika_furniture_factory
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Вилейская мебельная фабрика]
+(* <- lang_ru;; *); 
+[Vileika furniture factory]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Вилейская мебельная фабрика)](*<-lang_ru;;*);
+[Description (Vileika furniture factory)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Лесная промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Волынца 7 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

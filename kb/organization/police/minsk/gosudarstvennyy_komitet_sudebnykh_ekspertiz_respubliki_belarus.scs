@@ -1,0 +1,6 @@
+gosudarstvennyy_komitet_sudebnykh_ekspertiz_respubliki_belarus <- concept_police;
+=>nrel_main_idtf:
+    [Государственный Комитет Судебных Экспертиз Республики Беларусь]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

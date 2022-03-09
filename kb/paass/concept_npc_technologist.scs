@@ -1,0 +1,38 @@
+concept_npc_technologist
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[НПЦ Технолог]
+(* <- lang_ru;; *); 
+[NPC Technologist]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (НПЦ Технолог)](*<-lang_ru;;*);
+[Description (NPC Technologist)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Могилев, ул. Первомайская, 29а 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

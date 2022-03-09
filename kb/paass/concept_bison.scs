@@ -1,0 +1,38 @@
+concept_bison
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Зубрава]
+(* <- lang_ru;; *); 
+[bison]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Зубрава)](*<-lang_ru;;*);
+[Description (bison)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Прочее производство 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Гомельская область, г. Жлобин, проезд Красный, д. 1, пом.26 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

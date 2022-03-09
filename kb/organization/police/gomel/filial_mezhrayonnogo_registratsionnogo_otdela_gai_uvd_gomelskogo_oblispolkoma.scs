@@ -1,0 +1,6 @@
+filial_mezhrayonnogo_registratsionnogo_otdela_gai_uvd_gomelskogo_oblispolkoma <- concept_police;
+=>nrel_main_idtf:
+    [Филиал межрайонного регистрационного отдела ГАИ УВД Гомельского облисполкома]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    gomel;;

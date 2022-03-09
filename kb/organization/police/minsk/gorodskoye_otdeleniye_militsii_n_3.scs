@@ -1,0 +1,8 @@
+gorodskoye_otdeleniye_militsii_n_3 <- concept_police;
+=>nrel_main_idtf:
+    [Гарадское аддзяленне міліцыі №3]
+    (* <- lang_bel;; <- name_en;;*);
+    [Городское отделение милиции № 3]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

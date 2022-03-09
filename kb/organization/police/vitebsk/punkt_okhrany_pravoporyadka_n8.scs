@@ -1,0 +1,8 @@
+punkt_okhrany_pravoporyadka_n8 <- concept_police;
+=>nrel_main_idtf:
+    [Пункт аховы правапарадку №8]
+    (* <- lang_bel;; <- name_en;;*);
+    [Пункт охраны правопорядка №8]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    vitebsk;;

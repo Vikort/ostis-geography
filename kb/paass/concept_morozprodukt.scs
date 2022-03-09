@@ -1,0 +1,38 @@
+concept_morozprodukt
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Морозпродукт]
+(* <- lang_ru;; *); 
+[Morozprodukt]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Морозпродукт)](*<-lang_ru;;*);
+[Description (Morozprodukt)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, 220056, г. Минск, ул. Героев 120-й дивизии, 3а 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

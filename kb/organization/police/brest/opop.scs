@@ -1,0 +1,6 @@
+opop <- concept_police;
+=>nrel_main_idtf:
+    [ОПОП]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    brest;;

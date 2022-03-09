@@ -1,0 +1,38 @@
+concept_vitebsk_plant_of_tractor_spare_parts
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Витебский завод тракторных запчастей]
+(* <- lang_ru;; *); 
+[Vitebsk plant of tractor spare parts]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Витебский завод тракторных запчастей)](*<-lang_ru;;*);
+[Description (Vitebsk plant of tractor spare parts)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. М. Горького, 51 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

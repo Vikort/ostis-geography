@@ -1,0 +1,9 @@
+lib_component_ui_menu_police_translator
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса запуска транслятора школ]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command of police translator]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;

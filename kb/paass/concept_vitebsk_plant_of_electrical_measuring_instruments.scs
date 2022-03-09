@@ -1,0 +1,38 @@
+concept_vitebsk_plant_of_electrical_measuring_instruments
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Витебский завод электроизмерительных приборов]
+(* <- lang_ru;; *); 
+[Vitebsk plant of electrical measuring instruments]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Витебский завод электроизмерительных приборов)](*<-lang_ru;;*);
+[Description (Vitebsk plant of electrical measuring instruments)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Ильинского , 19/18 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

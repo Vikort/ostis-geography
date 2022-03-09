@@ -1,0 +1,38 @@
+concept_mogilev_carriage_works
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Могилевский вагоностроительный завод]
+(* <- lang_ru;; *); 
+[Mogilev Carriage Works]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Могилевский вагоностроительный завод)](*<-lang_ru;;*);
+[Description (Mogilev Carriage Works)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  г. Могилев, Витебский пр-т, 5 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

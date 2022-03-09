@@ -1,0 +1,6 @@
+gom_n1_leninskogo_ruvd_g_minska <- concept_police;
+=>nrel_main_idtf:
+    [ГОМ №1 Ленинского РУВД г. Минска]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

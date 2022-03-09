@@ -1,0 +1,10 @@
+state_forensic_examination_committee_of_the_republic_of_belarus <- concept_police;
+=>nrel_main_idtf:
+    [State Forensic Examination Committee of the Republic of Belarus]
+    (* <- lang_en;; <- name_en;;*);
+    [ГПАП-50]
+    (* <- lang_bel;; <- name_en;;*);
+    [ОПОП-50]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    minsk;;

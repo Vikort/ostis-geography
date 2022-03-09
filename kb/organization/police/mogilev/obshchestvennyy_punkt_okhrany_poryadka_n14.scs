@@ -1,0 +1,6 @@
+obshchestvennyy_punkt_okhrany_poryadka_n14 <- concept_police;
+=>nrel_main_idtf:
+    [Общественный пункт охраны порядка №14]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_search_area:
+    mogilev;;

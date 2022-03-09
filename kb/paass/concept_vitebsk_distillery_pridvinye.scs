@@ -1,0 +1,38 @@
+concept_vitebsk_distillery_pridvinye
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Витебский ликеро-водочный завод Придвинье]
+(* <- lang_ru;; *); 
+[Vitebsk Distillery Pridvinye]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Витебский ликеро-водочный завод Придвинье)](*<-lang_ru;;*);
+[Description (Vitebsk Distillery Pridvinye)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Пищевая промышленность 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Революционная, 45 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

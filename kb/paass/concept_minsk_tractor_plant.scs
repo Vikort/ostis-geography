@@ -1,0 +1,38 @@
+concept_minsk_tractor_plant
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[Минский тракторный завод]
+(* <- lang_ru;; *); 
+[Minsk Tractor Plant]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (Минский тракторный завод)](*<-lang_ru;;*);
+[Description (Minsk Tractor Plant)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Транспортное машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  Республика Беларусь, г. Минск ул. Долгобродская, 29 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 

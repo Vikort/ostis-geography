@@ -1,0 +1,38 @@
+concept_rhodoliteaqua
+<- sc_node_not_relation; 
+<-concept_power_stations;
+=> nrel_main_idtf: 
+[РодолитАква]
+(* <- lang_ru;; *); 
+[RhodoliteAqua]
+(* <- lang_en;; *); 
+<-rrel_key_sc_element:...
+(*
+<-definition;;
+=>nrel_main_idtf:
+[Описание (РодолитАква)](*<-lang_ru;;*);
+[Description (RhodoliteAqua)](*<-lang_en;;*);; 
+<=nrel_using_constants: 
+{
+concept_power_stations
+};;
+=>nrel_industry: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_industry:  Машиностроение 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
+=>nrel_address: ...(* 
+<- concept_quantity;;
+<= nrel_relevance: ...
+(* 
+-> rrel_address:  ул. Гикало 1,16-1, Минск, 220005, Беларусь 
+(* 
+<- concept_number;; 
+*);; 
+*);; 
+*); 
