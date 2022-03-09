@@ -1,0 +1,11 @@
+darvina_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Darvina street]
+                (* <- lang_en;; <- name_en;;*);
+                [Дарвина улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:500;
+                =>nrel_number_of_house:23;
+                =>nrel_search_area:
+                moghilev;;
+                

@@ -1,0 +1,11 @@
+zatishanskaja_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Zatishanskaja street]
+                (* <- lang_en;; <- name_en;;*);
+                [Затишанская улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:900;
+                =>nrel_number_of_house:13;
+                =>nrel_search_area:
+                moghilev;;
+                

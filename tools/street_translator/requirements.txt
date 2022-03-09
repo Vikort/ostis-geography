@@ -1,0 +1,3 @@
+pandas
+transliterate
+tqdm

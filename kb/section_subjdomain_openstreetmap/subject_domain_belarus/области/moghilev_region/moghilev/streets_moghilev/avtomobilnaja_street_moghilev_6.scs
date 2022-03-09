@@ -1,0 +1,11 @@
+avtomobilnaja_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Avtomobilnaja street]
+                (* <- lang_en;; <- name_en;;*);
+                [Автомобильная улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2900;
+                =>nrel_number_of_house:12;
+                =>nrel_search_area:
+                moghilev;;
+                

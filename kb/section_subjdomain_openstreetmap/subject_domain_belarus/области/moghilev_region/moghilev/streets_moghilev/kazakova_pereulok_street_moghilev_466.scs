@@ -1,0 +1,11 @@
+kazakova_pereulok_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Kazakova pereulok street]
+                (* <- lang_en;; <- name_en;;*);
+                [Казакова переулок]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2100;
+                =>nrel_number_of_house:29;
+                =>nrel_search_area:
+                moghilev;;
+                

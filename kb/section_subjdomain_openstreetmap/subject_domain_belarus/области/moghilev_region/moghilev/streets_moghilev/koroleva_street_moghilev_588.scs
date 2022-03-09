@@ -1,0 +1,11 @@
+koroleva_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Koroleva street]
+                (* <- lang_en;; <- name_en;;*);
+                [Королева улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:1300;
+                =>nrel_number_of_house:34;
+                =>nrel_search_area:
+                moghilev;;
+                

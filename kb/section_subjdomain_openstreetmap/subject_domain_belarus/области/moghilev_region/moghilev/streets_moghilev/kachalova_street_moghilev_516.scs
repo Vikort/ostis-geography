@@ -1,0 +1,11 @@
+kachalova_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Kachalova street]
+                (* <- lang_en;; <- name_en;;*);
+                [Качалова улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3000;
+                =>nrel_number_of_house:11;
+                =>nrel_search_area:
+                moghilev;;
+                

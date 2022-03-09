@@ -1,0 +1,11 @@
+vitebskij_tupik_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Vitebskij tupik street]
+                (* <- lang_en;; <- name_en;;*);
+                [Витебский тупик]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3100;
+                =>nrel_number_of_house:45;
+                =>nrel_search_area:
+                moghilev;;
+                

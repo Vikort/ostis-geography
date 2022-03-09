@@ -1,0 +1,11 @@
+kamanina_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Kamanina street]
+                (* <- lang_en;; <- name_en;;*);
+                [Каманина улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:300;
+                =>nrel_number_of_house:43;
+                =>nrel_search_area:
+                moghilev;;
+                

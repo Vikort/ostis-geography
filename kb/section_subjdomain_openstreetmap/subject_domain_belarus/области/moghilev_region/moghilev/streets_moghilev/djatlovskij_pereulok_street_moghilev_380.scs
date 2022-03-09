@@ -1,0 +1,11 @@
+djatlovskij_pereulok_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Djatlovskij pereulok street]
+                (* <- lang_en;; <- name_en;;*);
+                [Дятловский переулок]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:300;
+                =>nrel_number_of_house:81;
+                =>nrel_search_area:
+                moghilev;;
+                

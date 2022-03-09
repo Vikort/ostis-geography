@@ -1,0 +1,11 @@
+baltijskij_pereulok_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Baltijskij pereulok street]
+                (* <- lang_en;; <- name_en;;*);
+                [Балтийский переулок]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2400;
+                =>nrel_number_of_house:60;
+                =>nrel_search_area:
+                moghilev;;
+                

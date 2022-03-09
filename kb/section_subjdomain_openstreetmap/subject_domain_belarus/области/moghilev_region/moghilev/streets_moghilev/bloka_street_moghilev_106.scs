@@ -1,0 +1,11 @@
+bloka_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Bloka street]
+                (* <- lang_en;; <- name_en;;*);
+                [Блока улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:400;
+                =>nrel_number_of_house:20;
+                =>nrel_search_area:
+                moghilev;;
+                

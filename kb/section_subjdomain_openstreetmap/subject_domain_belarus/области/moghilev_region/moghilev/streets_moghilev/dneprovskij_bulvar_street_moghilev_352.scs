@@ -1,0 +1,11 @@
+dneprovskij_bulvar_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Dneprovskij bulvar street]
+                (* <- lang_en;; <- name_en;;*);
+                [Днепровский бульвар]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:2600;
+                =>nrel_number_of_house:29;
+                =>nrel_search_area:
+                moghilev;;
+                

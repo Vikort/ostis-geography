@@ -1,0 +1,11 @@
+zheleznjakova_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Zheleznjakova street]
+                (* <- lang_en;; <- name_en;;*);
+                [Железнякова улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:1200;
+                =>nrel_number_of_house:48;
+                =>nrel_search_area:
+                moghilev;;
+                

@@ -1,0 +1,11 @@
+vasilevskij_pereulok_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Vasilevskij pereulok street]
+                (* <- lang_en;; <- name_en;;*);
+                [Васильевский переулок]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:900;
+                =>nrel_number_of_house:51;
+                =>nrel_search_area:
+                moghilev;;
+                

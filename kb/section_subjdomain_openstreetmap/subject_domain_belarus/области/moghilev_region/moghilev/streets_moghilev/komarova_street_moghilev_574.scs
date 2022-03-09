@@ -1,0 +1,11 @@
+komarova_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Komarova street]
+                (* <- lang_en;; <- name_en;;*);
+                [Комарова улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3200;
+                =>nrel_number_of_house:19;
+                =>nrel_search_area:
+                moghilev;;
+                

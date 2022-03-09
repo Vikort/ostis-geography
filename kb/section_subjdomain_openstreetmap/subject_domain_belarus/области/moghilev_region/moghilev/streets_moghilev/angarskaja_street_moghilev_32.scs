@@ -1,0 +1,11 @@
+angarskaja_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Angarskaja street]
+                (* <- lang_en;; <- name_en;;*);
+                [Ангарская улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3300;
+                =>nrel_number_of_house:22;
+                =>nrel_search_area:
+                moghilev;;
+                

@@ -1,0 +1,11 @@
+gvardejskaja_street_moghilev <- concept_way;
+                =>nrel_main_idtf:
+                [Gvardejskaja street]
+                (* <- lang_en;; <- name_en;;*);
+                [Гвардейская улица]
+                (* <- lang_ru;; <- name_ru;; <- name;;*);
+                =>nrel_street_length:3400;
+                =>nrel_number_of_house:31;
+                =>nrel_search_area:
+                moghilev;;
+                

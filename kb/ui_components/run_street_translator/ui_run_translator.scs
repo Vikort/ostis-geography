@@ -1,0 +1,8 @@
+ui_run_translator
+	<- ui_scgg_control; sc_node_not_relation;
+	=> nrel_main_idtf:
+		[Запустить транслятор улиц]
+		(* <- lang_ru;; *);
+	=> nrel_main_idtf:
+        [Run street translator]
+(* <- lang_en;; *);;
