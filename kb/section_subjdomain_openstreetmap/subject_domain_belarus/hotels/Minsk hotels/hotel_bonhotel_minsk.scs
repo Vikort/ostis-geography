@@ -1,14 +1,14 @@
-hotel_bonhotel_misk <- concept_hotel;
+hotel_bonhotel_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[BonHotel]
 	(* <- lang_en;; <- name;;*);
     [Отель Бонотель]
 	(* <- lang_ru;;*);
 =>nrel_city_centre_distance:
-    4000
+    [4000]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    51
+    [51]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

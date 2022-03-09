@@ -3,10 +3,10 @@ hotel_garni_minsk <- concept_hotel;
 	[Гарни]
 	(* <- lang_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    800
+    [800]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    47
+    [47]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

@@ -1,12 +1,12 @@
-hotel_aqua_minsk_misk <- concept_hotel;
+hotel_aqua_minsk_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Аква-Минск]
 	(* <- lang_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    9200
+    [9200]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    63
+    [63]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     2

@@ -1,12 +1,12 @@
-hotel_arena_misk <- concept_hotel;
+hotel_arena_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Арена]
 	(* <- lang_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    7800
+    [7800]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    42
+    [42]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

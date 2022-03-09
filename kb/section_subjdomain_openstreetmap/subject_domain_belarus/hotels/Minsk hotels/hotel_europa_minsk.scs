@@ -1,12 +1,12 @@
-hotel_europa_misk <- concept_hotel;
+hotel_europa_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Европа]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    600
+    [600]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    112
+    [112]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     5

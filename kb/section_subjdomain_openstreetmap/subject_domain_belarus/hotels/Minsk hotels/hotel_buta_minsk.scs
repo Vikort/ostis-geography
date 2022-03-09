@@ -1,14 +1,14 @@
-hotel_buta_misk <- concept_hotel;
+hotel_buta_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Buta]
 	(* <- lang_en;; <- name;;*);
     [Отель Бута]
 	(* <- lang_ru;;*);
 =>nrel_city_centre_distance:
-    1100
+    [1100]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    85
+    [85]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     5

@@ -1,12 +1,12 @@
-hotel_agat_misk <- concept_hotel;
+hotel_agat_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Агат]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    7500
+    [7500]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    26
+    [26]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     2

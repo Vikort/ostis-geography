@@ -3,10 +3,10 @@ hotel_planeta_minsk <- concept_hotel;
 	[Планета]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    2200
+    [2200]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    40
+    [40]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

@@ -3,10 +3,10 @@ hotel_yubileiny_minsk <- concept_hotel;
 	[Юбилейная]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    1800
+    [1800]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    36
+    [36]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

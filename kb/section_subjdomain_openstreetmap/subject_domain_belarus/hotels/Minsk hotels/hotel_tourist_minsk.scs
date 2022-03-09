@@ -3,10 +3,10 @@ hotel_tourist_minsk <- concept_hotel;
 	[Гостиничный комплекс Турист]
 	(* <- lang_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    4900
+    [4900]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    30
+    [30]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

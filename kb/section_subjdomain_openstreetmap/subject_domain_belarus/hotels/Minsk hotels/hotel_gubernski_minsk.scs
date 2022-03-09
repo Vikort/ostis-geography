@@ -1,12 +1,12 @@
-hotel_gubernski_misk <- concept_hotel;
+hotel_gubernski_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Отель Губернский]
 	(* <- lang_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    1300
+    [1300]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    65
+    [65]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     4

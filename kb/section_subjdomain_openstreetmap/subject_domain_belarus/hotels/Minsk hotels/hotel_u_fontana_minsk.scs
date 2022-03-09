@@ -3,10 +3,10 @@ hotel_u_fontana_minsk <- concept_hotel;
 	[У Фонтана]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    2600
+    [2600]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    33
+    [33]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

@@ -1,12 +1,12 @@
-hotel_na_zamkovoy_misk <- concept_hotel;
+hotel_na_zamkovoy_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[На Замковой]
 	(* <- lang_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    1300
+    [1300]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    57
+    [57]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

@@ -5,10 +5,10 @@ hotel_sputnik_minsk <- concept_hotel;
     [Sputnik hotel]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_city_centre_distance:
-    3100
+    [3100]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    39
+    [39]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

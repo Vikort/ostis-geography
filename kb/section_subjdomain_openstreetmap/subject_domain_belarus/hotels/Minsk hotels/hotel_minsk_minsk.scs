@@ -1,12 +1,12 @@
-hotel_minsk_misk <- concept_hotel;
+hotel_minsk_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Минск]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    1000
+    [1000]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    52
+    [52]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     4

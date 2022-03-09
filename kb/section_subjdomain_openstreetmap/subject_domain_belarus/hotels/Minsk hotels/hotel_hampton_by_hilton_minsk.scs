@@ -5,10 +5,10 @@ hotel_hampton_by_hilton_minsk <- concept_hotel;
     [Отель Hampton by Hilton Минск]
 	(* <- lang_ru;;*);
 =>nrel_city_centre_distance:
-    1800
+    [1800]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    68
+    [68]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     3

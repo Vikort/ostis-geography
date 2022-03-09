@@ -1,14 +1,14 @@
-hotel_marriott_misk <- concept_hotel;
+hotel_marriott_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Marriott]
 	(* <- lang_en;; <- name;;*);
     [Отель Marriott]
 	(* <- lang_ru;;*);
 =>nrel_city_centre_distance:
-    5000
+    [5000]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    133
+    [133]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     5

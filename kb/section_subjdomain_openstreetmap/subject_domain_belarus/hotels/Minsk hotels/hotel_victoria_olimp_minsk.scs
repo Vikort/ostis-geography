@@ -1,12 +1,12 @@
-hotel_victoria_olimp_misk <- concept_hotel;
+hotel_victoria_olimp_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Виктория-Олимп]
 	(* <- lang_ru;; <- name;;*);
 =>nrel_city_centre_distance:
-    6100
+    [6100]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    56
+    [56]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     4

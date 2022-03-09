@@ -1,14 +1,14 @@
-hotel_renaissance_misk <- concept_hotel;
+hotel_renaissance_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Renaissance Minsk]
 	(* <- lang_en;; <- name;;*);
     [Отель Renaissance Минск]
 	(* <- lang_ru;;*);
 =>nrel_city_centre_distance:
-    2500
+    [2500]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    123
+    [123]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     5

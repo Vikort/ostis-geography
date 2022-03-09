@@ -1,14 +1,14 @@
-hotel_victoria_misk <- concept_hotel;
+hotel_victoria_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Виктория]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
     [Victoria]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_city_centre_distance:
-    3500
+    [3500]
     (* <- concept_distance;; <- concept_meters;;*);
 =>nrel_min_price_per_night:
-    51
+    [51]
     (* <- concept_price;; <- concept_usd;;*);
 =>nrel_star_rating:
     4

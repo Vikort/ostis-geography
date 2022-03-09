@@ -1,4 +1,4 @@
-hotel_belarus_misk <- concept_hotel;
+hotel_belarus_minsk <- concept_hotel;
 =>nrel_main_idtf:
 	[Беларусь]
 	(* <- lang_ru;; <- name_ru;; <- name;;*);
