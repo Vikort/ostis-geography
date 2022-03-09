@@ -1,0 +1,7 @@
+ui_rivers_search_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Find rivers by bigger basin range]
+	(*
+	<- lang_en;;
+	*);;
+

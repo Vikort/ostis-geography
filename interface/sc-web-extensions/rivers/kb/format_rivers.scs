@@ -1,0 +1,17 @@
+format_rivers
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[Format of rivers UI component]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+rivers_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Rivers UI component]
+	(*
+	<- lang_en;;
+	*);;
