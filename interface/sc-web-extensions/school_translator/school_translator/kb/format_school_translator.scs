@@ -1,0 +1,27 @@
+format_school_translator
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[формат примера компонента ПИ school_translator]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[format of UI component school_translator]
+	(*
+	<- lang_en;;
+	*);m
+=> nrel_mimetype:
+	[application/html];;
+
+school_translator_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Пример компонента интерфейса school_translator]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[UI component school_translator]
+	(*
+	<- lang_en;;
+	*);;
