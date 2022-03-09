@@ -1,0 +1,36 @@
+ui_police_translator_ruName_input <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Название на русском]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Name in russian]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_police_translator_count_input <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Количество полицеских учреждений для трансляции]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Number of polices to translate!]
+	(*
+	<- lang_en;;
+	*);;
+
+
+ui_police_translator_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Транслировать!]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Translate!]
+	(*
+	<- lang_en;;
+	*);;
