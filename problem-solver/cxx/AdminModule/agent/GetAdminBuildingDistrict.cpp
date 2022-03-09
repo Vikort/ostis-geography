@@ -46,7 +46,7 @@ SC_AGENT_IMPLEMENTATION(GetAdminBuildingDistrict)
     key_sc_element = iterator5->Get(0);
    
   
-    if (m_memoryCtx.HelperCheckEdge( key_sc_element,AdminKeynodes::concept_admin_building, ScType::EdgeAccessConstPosPerm))
+    if (m_memoryCtx.HelperCheckEdge(AdminKeynodes::concept_admin_building, key_sc_element, ScType::EdgeAccessConstPosPerm))
          m_memoryCtx.CreateEdge(ScType::EdgeAccessConstPosPerm, answerNode, key_sc_element);
 
   }

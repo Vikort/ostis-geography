@@ -54,7 +54,7 @@ SC_AGENT_IMPLEMENTATION(GetAdminBuildingRegion)
        std::cout<<"2 "; 
        building = it5->Get(0);
       
-        if (m_memoryCtx.HelperCheckEdge( building,AdminKeynodes::concept_admin_building, ScType::EdgeAccessConstPosPerm))
+        if (m_memoryCtx.HelperCheckEdge(AdminKeynodes::concept_admin_building, building, ScType::EdgeAccessConstPosPerm))
             m_memoryCtx.CreateEdge(ScType::EdgeAccessConstPosPerm, answerNode, building);
 
       }
