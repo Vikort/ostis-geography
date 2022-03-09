@@ -42,6 +42,13 @@ module.exports = function (grunt) {
                 dest: clientImgDirPath + 'rivers/',
                 expand: true,
                 flatten: true
+            },
+            riversKb: {
+                cwd: riversDirPath + 'kb/',
+                src: '*.scs',
+                dest:  '../../kb/rivers/',
+                expand: true,
+                flatten: true
             }
         },
         watch: {
