@@ -22,5 +22,5 @@ nrel_status
 		concept_shop;
 		concept_status
 		};;
-	*);
+	*);;
 
