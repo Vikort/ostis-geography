@@ -3,4 +3,4 @@ school_Swimming_pool <-concept_school;
 [Swimming pool]
 (* <- lang_en;; <- name_en;;*);
 [Бассейн]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <-lang_ru;;<- name_ru;;<- name;;*);;

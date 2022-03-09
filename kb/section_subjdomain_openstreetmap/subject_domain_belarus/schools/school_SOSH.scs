@@ -1,4 +1,4 @@
 school_SOSH <-concept_school;
 => nrel_main_idtf:
 [СОШ]
-(* <-lang_ru;;<- name_ru;;<- name;;*);
+(* <-lang_ru;;<- name_ru;;<- name;;*);;
