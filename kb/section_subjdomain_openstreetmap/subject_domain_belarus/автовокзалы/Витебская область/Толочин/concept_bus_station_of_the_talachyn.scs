@@ -1,0 +1,37 @@
+concept_bus_station_of_the_talachyn
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Толочин]
+	(* <- lang_ru;; *);
+	[bus station of the Talachyn]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Толочин)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the talachyn)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Толочин — автовокзал, который располагается в городе Толочин.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Talachyn bus Station is a bus station located in the city of Talachyn.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			talachyn;
+           		belarus
+		};;
+	*);;

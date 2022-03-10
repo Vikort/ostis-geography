@@ -1,0 +1,9 @@
+bus_station_navahrudak <- concept_bus_station;
+<- concept_bus_station_of_the_navahrudak;
+=>nrel_main_idtf:
+    [Автостанция Новогрудок]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    navahrudak;
+=>nrel_search_area:
+    navahrudak;;

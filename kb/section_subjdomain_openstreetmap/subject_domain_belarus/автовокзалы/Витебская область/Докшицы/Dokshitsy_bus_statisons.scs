@@ -1,0 +1,9 @@
+bus_station_Dokshitsy <- concept_bus_station;
+<- concept_bus_station_of_the_Dokshitsy;
+=>nrel_main_idtf:
+    [Автостанция Докшицы]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    dokshytsy;
+=>nrel_search_area:
+    dokshytsy;;

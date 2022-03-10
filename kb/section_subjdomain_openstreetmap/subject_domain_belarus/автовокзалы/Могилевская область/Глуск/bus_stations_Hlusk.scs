@@ -1,0 +1,10 @@
+bus_station_Hlusk <- concept_bus_station;
+<- concept_bus_station_of_the_Hlusk;
+=>nrel_main_idtf:
+    [Автостанция Глуск]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    Hlusk;
+=>nrel_search_area:
+    Hlusk;;
+

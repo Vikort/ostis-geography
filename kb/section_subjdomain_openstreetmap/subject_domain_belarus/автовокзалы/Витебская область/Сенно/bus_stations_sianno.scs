@@ -1,0 +1,9 @@
+bus_station_sianno <- concept_bus_station;
+<- concept_bus_station_of_the_sianno;
+=>nrel_main_idtf:
+    [Автостанция Сенно]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    sianno;
+=>nrel_search_area:
+    sianno;;

@@ -1,0 +1,37 @@
+concept_bus_station_of_the_brest
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал Бреста]
+	(* <- lang_ru;; *);
+	[bus station of the Brest]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал Бреста)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Brest)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал Бреста — автовокзал, который располагается в городе Брест.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Brest bus Station is a bus station located in the city of Brest.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			brest;
+           		belarus
+		};;
+	*);;

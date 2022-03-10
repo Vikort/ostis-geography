@@ -1,0 +1,37 @@
+concept_bus_station_of_the_navahrudak
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Новогрудок]
+	(* <- lang_ru;; *);
+	[bus station of the Navahrudak]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Новогрудок)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Navahrudak)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Новогрудок — автовокзал, который располагается в городе Новогрудок.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Navahrudak bus Station is a bus station located in the city of Navahrudak.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			navahrudak;
+           		belarus
+		};;
+	*);;

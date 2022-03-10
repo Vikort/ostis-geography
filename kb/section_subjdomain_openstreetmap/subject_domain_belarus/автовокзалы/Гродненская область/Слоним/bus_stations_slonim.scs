@@ -1,0 +1,9 @@
+bus_station_slonim <- concept_bus_station;
+<- concept_bus_station_of_the_slonim;
+=>nrel_main_idtf:
+    [Автостанция Слоним]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    slonim;
+=>nrel_search_area:
+    slonim;;

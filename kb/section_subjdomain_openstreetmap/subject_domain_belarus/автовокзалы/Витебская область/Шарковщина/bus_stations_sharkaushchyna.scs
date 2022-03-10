@@ -1,0 +1,9 @@
+bus_station_sharkaushchyna <- concept_bus_station;
+<- concept_bus_station_of_the_sharkaushchyna;
+=>nrel_main_idtf:
+    [автовокзал "Шарковщина"]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    sharkaushchyna;
+=>nrel_search_area:
+    sharkaushchyna;;

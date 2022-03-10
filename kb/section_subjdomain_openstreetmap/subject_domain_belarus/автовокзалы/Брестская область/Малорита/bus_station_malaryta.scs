@@ -1,0 +1,9 @@
+bus_station_malaryta <- concept_bus_station;
+<- concept_bus_station_of_the_malaryta;
+=>nrel_main_idtf:
+    [Автостанция Малорита]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    malaryta;
+=>nrel_search_area:
+    malaryta;;

@@ -1,0 +1,10 @@
+bus_station_lida <- concept_bus_station;
+<- concept_bus_station_of_the_lida;
+=>nrel_main_idtf:
+    [Автовокзал Лида]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    lida;
+=>nrel_search_area:
+    lida;;
+

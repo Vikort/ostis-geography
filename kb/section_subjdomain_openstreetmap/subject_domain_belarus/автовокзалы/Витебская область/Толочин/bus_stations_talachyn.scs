@@ -1,0 +1,10 @@
+bus_station_talachyn <- concept_bus_station;
+<- concept_bus_station_of_the_talachyn;
+=>nrel_main_idtf:
+    [Автостанция Толочин]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    talachyn;
+=>nrel_search_area:
+    talachyn;;
+

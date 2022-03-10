@@ -1,0 +1,9 @@
+bus_station_beshankovichy <- concept_bus_station;
+<- concept_bus_station_of_the_beshankovichy;
+=>nrel_main_idtf:
+    [Автостанция Бешенковичи]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_city:
+    beshankovichy;
+=>nrel_search_area:
+    beshankovichy;;

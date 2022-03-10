@@ -1,0 +1,9 @@
+lib_component_ui_menu_find_bus_station
+=> nrel_main_idtf:
+	[Компонент библиотеки. Команда пользовательского интерфейса поиска автовокзала]
+	(* <- lang_ru;; *);
+	[Library component. User interfaces command of search bus station]
+	(* <- lang_en;; *);
+
+<- library_of_platform_independent_reusable_components;
+<- library_of_atomic_reusable_components;;

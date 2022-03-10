@@ -1,0 +1,37 @@
+concept_bus_station_of_the_ashmyany
+<-sc_node_not_relation;
+<-concept_bus_station;
+=>nrel_main_idtf:
+	[автовокзал города Ошмяны]
+	(* <- lang_ru;; *);
+	[bus station of the Ashmyany]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (автовокзал города Ошмяны)]
+		(* <- lang_ru;; *);
+		[Def. (bus station of the Ashmyany)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Автовокзал города Ошмяны — автовокзал, который располагается в городе Ошмяны.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example: 
+			[Ashmyany bus Station is a bus station located in the city of Ashmyany.]
+			(* <- lang_en;; *);;
+		*);;
+	<= nrel_using_constants:
+		{
+			concept_bus_station;
+			ashmyany;
+           		belarus
+		};;
+	*);;
