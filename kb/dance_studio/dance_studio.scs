@@ -3,8 +3,11 @@ no_flex_dance_studio <- concept_dance_studio;
 	[No Flex]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -17,8 +20,11 @@ naila_dance_studio <- concept_dance_studio;
 	[Найла]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	eastern_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -31,34 +37,42 @@ impulse_dance_studio <- concept_dance_studio;
 	(* <- lang_ru;; <- name_ru;;*);
 	[Impulse]
 	(* <- lang_en;; <- name_en;;*);
-=>nrel_year_of_foundation:
-	[2016]
-	(* <-concept_year_of_foundation;;*);
+=>nrel_founding_year:
+	2016
+	 (* <- concept_year_of_foundation;; *);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
-	hrodna;;
+	hrodna
+(* <- concept_city;; *);;
 
 
 adept_dance_school <- concept_dance_studio;
 =>nrel_main_idtf:
 	[Adept Dance School]
 	(* <- lang_en;; <- name_en;;*);
-=>nrel_year_of_foundation:
-	[2017]
-	(* <-concept_year_of_foundation;;*);
+=>nrel_founding_year:
+	2016
+	 (* <- concept_year_of_foundation;; *);
 =>nrel_country:
 	belarus;
 =>nrel_city:
-	hrodna;;
+	hrodna
+(* <- concept_city;; *);;
       
 gracia_dance_studio <- concept_dance_studio;
 =>nrel_main_idtf:
 	[Грация]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2020]
+	2020
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -72,8 +86,11 @@ el_gato_dance_center <- concept_dance_studio;
 	[El Gato Dance Center]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2015]
+	2015
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -85,8 +102,11 @@ queens_dance_studio <- concept_dance_studio;
 	[Queens]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	pole_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -98,8 +118,11 @@ dance_impery <- concept_dance_studio;
 	[Империя Танца]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -111,8 +134,11 @@ larry_floor_dance_studio <- concept_dance_studio;
 	[Этаж Larry]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -124,8 +150,11 @@ roxy_dance_studio <- concept_dance_studio;
 	[Roxy Dance]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -137,8 +166,11 @@ alexis_dance_studio <- concept_dance_studio;
 	[Alexis]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2020]
+	2020
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -150,8 +182,11 @@ dance_line_studio <- concept_dance_studio;
 	[Dance Line]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -163,12 +198,16 @@ step_up_dance_studio <- concept_dance_studio;
 	[Step Up]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
-	minsk;;
+	minsk
+(* <- concept_city;; *);;
 
  
 soul_dance_studio <- concept_dance_studio;
@@ -176,8 +215,11 @@ soul_dance_studio <- concept_dance_studio;
 	[Soul]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	national_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -189,8 +231,11 @@ kredo_dance_studio <- concept_dance_studio;
 	[Kredo]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -202,8 +247,11 @@ zames_dance_studio <- concept_dance_studio;
 	[Zames Studio]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	salsa
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -215,8 +263,11 @@ kvartal_julia_shostak_dance_studio <- concept_dance_studio;
 	[Квартал Юлии Шостак]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -228,8 +279,11 @@ tandem_dance_studio <- concept_dance_studio;
 	[Тандем]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -241,8 +295,11 @@ in_the_sky_studio <- concept_dance_studio;
 	[В облаках]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	pole_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -254,8 +311,11 @@ double_twist_dance <- concept_dance_studio;
 	[Double Twist Dance]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -267,8 +327,11 @@ city_dance_studio <- concept_dance_studio;
 	[CityDance]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -280,8 +343,11 @@ tumbao_dance_studio <- concept_dance_studio;
 	[Tumbao]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2020]
+	2020
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -293,8 +359,11 @@ puanty_dance_studio <- concept_dance_studio;
 	[Пуанты]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -306,8 +375,11 @@ al_centro_dance_studio <- concept_dance_studio;
 	[Al Centro]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -318,8 +390,11 @@ lynx_dance_studio <- concept_dance_studio;
 	[Lynx]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -332,8 +407,11 @@ nevesomost_dance_studio <- concept_dance_studio;
 	[Невесомость]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -344,8 +422,11 @@ vdohnovenie_dance_studio <- concept_dance_studio;
 	[Вдохновение]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -357,8 +438,11 @@ teatr_tanca_kolibri <- concept_dance_studio;
 	[Театр танца Колибри]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	ballet
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -370,8 +454,11 @@ school_dance_alexander_mazhennogo <- concept_dance_studio;
 	[Школа танцев Александра Моженного]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -383,8 +470,11 @@ strekozza_dance_studio <- concept_dance_studio;
 	[Strekozza]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -396,8 +486,11 @@ magia_tanca_dance_studio <- concept_dance_studio;
 	[Магия танца]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -409,8 +502,11 @@ sigma_dance_studio <- concept_dance_studio;
 	[Сигма]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -422,8 +518,11 @@ menada_dance_studio <- concept_dance_studio;
 	[Менада]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -435,8 +534,11 @@ akcent_dance_studio <- concept_dance_studio;
 	[Akcent]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -448,8 +550,11 @@ azart_dance_studio <- concept_dance_studio;
 	[Azart]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -460,8 +565,11 @@ tamazur_dance_studio <- concept_dance_studio;
 	[Тамазур]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -473,8 +581,11 @@ bad_moon_dance_studio <- concept_dance_studio;
 	[Bad Moon]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -486,8 +597,11 @@ amani_dance_studio <- concept_dance_studio;
 	[Amani]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -499,8 +613,11 @@ panthers_dance_studio <- concept_dance_studio;
 	[Panthers Dance Studio]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -512,7 +629,7 @@ karamelki_dance_studio <- concept_dance_studio;
 	[Карамельки]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
 =>nrel_country:
 	belarus;
@@ -524,13 +641,14 @@ kolibri_dance_studio <- concept_dance_studio;
 =>nrel_main_idtf:
 	[Колибри]
 	(* <- lang_ru;; <- name_ru;;*);
-=>nrel_year_of_foundation:
-	[2017]
-	(* <-concept_year_of_foundation;;*);
+=>nrel_founding_year:
+	2016
+	 (* <- concept_year_of_foundation;; *);
 =>nrel_country:
 	belarus;
 =>nrel_city:
-	minsk;;
+	minsk
+(* <- concept_city;; *);;
 
 
 alligator_dance_studio <- concept_dance_studio;
@@ -538,8 +656,11 @@ alligator_dance_studio <- concept_dance_studio;
 	[Alligator]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -551,8 +672,11 @@ ovacia_dance_studio <- concept_dance_studio;
 	[Овация]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -564,8 +688,11 @@ school_ballet_valentiny_mogucej <- concept_dance_studio;
 	[Школа балета Валентины Могучей]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2015]
+	2015
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	ballet
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -577,8 +704,11 @@ avantazh_dance_studio <- concept_dance_studio;
 	[Авантаж]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	national_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -590,8 +720,11 @@ vayfit_dance_studio <- concept_dance_studio;
 	[Вайфит]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -602,8 +735,11 @@ fly_stars_dance_studio <- concept_dance_studio;
 	[Летающие Звёзды]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	national_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -615,8 +751,11 @@ gloria_dance_studio <- concept_dance_studio;
 	[Gloria]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -628,8 +767,11 @@ encanto_dance_studio <- concept_dance_studio;
 	[Encanto]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -641,8 +783,11 @@ arkadia_dance_studio <- concept_dance_studio;
 	[Аркадия]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -656,8 +801,11 @@ flow_dance_studio <- concept_dance_studio;
 	[Flow]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -669,8 +817,11 @@ dancing_fish <- concept_dance_studio;
 	[Dancing Fish]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -682,8 +833,11 @@ akvamarin_dance_studio <- concept_dance_studio;
 	[Аквамарин]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	national_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -695,8 +849,11 @@ tancbit_dance_studio <- concept_dance_studio;
 	[ТанцБит]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -708,8 +865,11 @@ tafi_dance_studio <- concept_dance_studio;
 	[Тафи]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -721,8 +881,11 @@ arabesk_dance_studio <- concept_dance_studio;
 	[Арабеск]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -734,8 +897,11 @@ menada_dance_studio <- concept_dance_studio;
 	[Менада]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -747,8 +913,11 @@ zorka_dance_studio <- concept_dance_studio;
 	[Зорька]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -760,8 +929,11 @@ aelita_dance_studio <- concept_dance_studio;
 	[Аэлита]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2015]
+	2015
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -773,8 +945,11 @@ pole_deluxe_dance_studio <- concept_dance_studio;
 	[Pole Deluxe]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	pole_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -789,8 +964,11 @@ enjoy_dance_studio <- concept_dance_studio;
 	[Enjoy Dance]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -802,12 +980,16 @@ willpower_dance_studio <- concept_dance_studio;
 	[Willpower]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
-	vitebsk;;
+	vitebsk
+(* <- concept_city;; *);;
 
 
 face2face_dance_studio <- concept_dance_studio;
@@ -815,8 +997,11 @@ face2face_dance_studio <- concept_dance_studio;
 	[Face2Face]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -828,8 +1013,11 @@ leggo_dance_studio <- concept_dance_studio;
 	[Leggo Dance Studio]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2015]
+	2015
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -841,12 +1029,16 @@ may_dance_studio <- concept_dance_studio;
 	[May]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
-	brest;;
+	brest
+(* <- concept_city;; *);;
 
 
 
@@ -855,8 +1047,11 @@ shakira_dance_studio <- concept_dance_studio;
 	[Шакира]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	bachata
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -869,8 +1064,11 @@ talisman_dance_studio <- concept_dance_studio;
 	[Талисман]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -883,8 +1081,11 @@ black_lotos_dance_studio <- concept_dance_studio;
 	[Черный Лотос]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -896,8 +1097,11 @@ alians_dance_studio <- concept_dance_studio;
 	[Альянс]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -909,8 +1113,11 @@ fresh_dance_studio <- concept_dance_studio;
 	[Фреш]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -923,8 +1130,11 @@ plastic_studio <- concept_dance_studio;
 	[Plastic studio]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -936,8 +1146,11 @@ cherry_boom__dance_studio <- concept_dance_studio;
 	[Cherry boom]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -949,8 +1162,11 @@ azalais_dance_studio <- concept_dance_studio;
 	[Азалаис]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	eastern_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -962,8 +1178,11 @@ fantazy_dance_studio <- concept_dance_studio;
 	[Фантазия]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	national_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -975,8 +1194,11 @@ diamond_dance_studio <- concept_dance_studio;
 	[Diamond Dance]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -990,8 +1212,11 @@ angel_dance_studio <- concept_dance_studio;
 	[Angel]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1003,8 +1228,11 @@ elegans_dance_studio <- concept_dance_studio;
 	[Элеганс]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1016,8 +1244,11 @@ mozaika_dance_studio <- concept_dance_studio;
 	[Мозаика]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	eastern_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1029,8 +1260,11 @@ bigstar_dance_studio <- concept_dance_studio;
 	[Bigstar]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1042,8 +1276,11 @@ bularus_sozvezdie_tanca_dance_studio <- concept_dance_studio;
 	[Белорусское Созвездие Танца]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2015]
+	2015
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	national_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1057,8 +1294,11 @@ prospect_dance_studio <- concept_dance_studio;
 	[Prospect]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1070,8 +1310,11 @@ slam_dance_studio <- concept_dance_studio;
 	[Slam]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1083,8 +1326,11 @@ sky_move_dance_studio <- concept_dance_studio;
 	[Sky Move]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	pole_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1096,8 +1342,11 @@ energy_dance_studio <- concept_dance_studio;
 	[Energy]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	salsa
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1109,8 +1358,11 @@ dance4life_dance_studio <- concept_dance_studio;
 	[Dance4life]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	salsa
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1122,8 +1374,11 @@ latino_dance_studio <- concept_dance_studio;
 	[Latino]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	latina
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1136,8 +1391,11 @@ color_dance_studio <- concept_dance_studio;
 	[Color Dance]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1149,8 +1407,11 @@ grand_pas_dance_studio <- concept_dance_studio;
 	[Grand Pas]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1162,8 +1423,11 @@ mango_dance_studio <- concept_dance_studio;
 	[Mango]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1175,8 +1439,11 @@ vida_dance_studio <- concept_dance_studio;
 	[Vida]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1189,8 +1456,11 @@ place_of_power_dance_studio <- concept_dance_studio;
 	[Place of Power]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1203,8 +1473,11 @@ indigo_dance_studio <- concept_dance_studio;
 	[Indigo]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	eastern_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1216,8 +1489,11 @@ kapriz_dance_studio <- concept_dance_studio;
 	[KaPriz]
 	(* <- lang_en;; <- name_en;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	hip_hop
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1229,8 +1505,11 @@ raiskii_dance_studio <- concept_dance_studio;
 	[Райский]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1242,8 +1521,11 @@ stancia_dance_studio <- concept_dance_studio;
 	[Sтанция]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1255,8 +1537,11 @@ azhar_dance_studio <- concept_dance_studio;
 	[Азхар]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2017]
+	2017
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	eastern_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1268,8 +1553,11 @@ nadzah_dance_studio <- concept_dance_studio;
 	[Наджах]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	eastern_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1281,8 +1569,11 @@ kruzevo_shagov_dance_studio <- concept_dance_studio;
 	[Кружево шагов]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2019]
+	2019
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	national_dance
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1294,8 +1585,11 @@ diva_dance_studio <- concept_dance_studio;
 	[Дива]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2016]
+	2016
 	(* <-concept_year_of_foundation;;*);
+=>nrel_type:
+	jazz_funk
+(* <-concept_type;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
@@ -1307,9 +1601,10 @@ malyshok_dance_studio <- concept_dance_studio;
 	[Малышок]
 	(* <- lang_ru;; <- name_ru;;*);
 =>nrel_year_of_foundation:
-	[2018]
+	2018
 	(* <-concept_year_of_foundation;;*);
 =>nrel_country:
 	belarus;
 =>nrel_city:
-	gomel;;
+	gomel
+(* <- concept_city;; *);;
