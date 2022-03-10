@@ -7,4 +7,4 @@ function extend(child, parent) {
     child.prototype = new F();
     child.prototype.constructor = child;
     child.superclass = parent.prototype;
-} 
+}

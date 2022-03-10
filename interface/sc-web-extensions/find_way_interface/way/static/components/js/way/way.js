@@ -47,16 +47,19 @@ Way.DrawWindow = function (sandbox) {
         return dfd.promise();
     }
 
+// resolve keynodes
     var self = this;
     this.needUpdate = false;
     this.requestUpdate = function () {
         var updateVisual = function () {
+// check if object is an arc
             var dfd1 = drawAllElements();
             dfd1.done(function (r) {
                 return;
             });
 
 
+/// @todo: Don't update if there are no new elements
             window.clearTimeout(self.structTimeout);
             delete self.structTimeout;
             if (self.needUpdate)
@@ -91,7 +94,7 @@ Way.DrawWindow = function (sandbox) {
             });
         });
     };
-
+// delegate event handlers
     this.sandbox.eventDataAppend = $.proxy(this.receiveData, this);
     this.sandbox.eventStructUpdate = $.proxy(this.eventStructUpdate, this);
     this.sandbox.updateContent();
