@@ -85,7 +85,7 @@ mogilev_Temple_of_the_Three_Saints
 =>nrel_search_area: mogilev;
 <-concept_faith_place;;
 
-mogilev_Cathedral_of_Unebaўzyatsya_Dzeva_Mary_and_St_Stanislav
+mogilev_Cathedral_of_Unebazyatsya_Dzeva_Mary_and_St_Stanislav
 => nrel_main_idtf: [Cathedral of Unebayzyatsya Dzeva Mary and St. Stanislav] (* <- lang_en;; *);
 => nrel_main_idtf: [Собор Успения Пресвятой Богородицы и Святого Станислава] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;

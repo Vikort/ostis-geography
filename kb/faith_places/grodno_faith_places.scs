@@ -57,7 +57,7 @@ grodno_Deanery_of_the_Grodno_Eparchy
 =>nrel_search_area: grodno;
 <-concept_faith_place;;
 
-grodno_Holy_Pakroiskі_Cathedral
+grodno_Holy_Pakroiski_Cathedral
 => nrel_main_idtf: [Holy Pakroiskі Cathedral] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Покровский собор] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
@@ -87,7 +87,7 @@ grodno_Grodno_Diocese_of_the_Roman_Catholic
 =>nrel_search_area: grodno;
 <-concept_faith_place;;
 
-grodno_Church of the Nativity of the Virgin
+grodno_Church_of_the_Nativity_of_the_Virgin
 => nrel_main_idtf: [Church of the Nativity of the Virgin] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Рождества Богородицы] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
