@@ -1,1 +1,7 @@
 add_subdirectory(OpenStreetMapAgent)
+add_subdirectory(FindBySityAndOpenTimeModule)
+add_subdirectory(CountAverageBooksModule)
+add_subdirectory(LibraryModule)
+add_subdirectory(FoundationYearModule)
+add_subdirectory(CityModule)
+add_subdirectory(TypeModule)
