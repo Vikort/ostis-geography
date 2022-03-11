@@ -17,7 +17,7 @@ class LibraryAgent(ScAgent):
 
         # проверяем что был вызван действительно наш агент
         if self.module.ctx.HelperCheckEdge(
-                self.keynodes['action_get_Library'],
+                self.keynodes['action_get_library'],
                 self.main_node,
                 ScType.EdgeAccessConstPosPerm,
         ):

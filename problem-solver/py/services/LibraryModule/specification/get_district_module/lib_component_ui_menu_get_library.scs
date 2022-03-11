@@ -1,4 +1,4 @@
-lib_component_ui_menu_get_Library
+lib_component_ui_menu_get_library
 => nrel_main_idtf:
 	[Компонент библиотеки. Команда пользовательского интерфейса поиска определения понятий]
 	(* <- lang_ru;; *);
