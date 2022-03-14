@@ -1,0 +1,6 @@
+avto_shkola_bolshaya_medveditsa <- concept_car_rental;
+=> nrel_main_idtf:
+[Авто школа Большая Медведица]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avto shkola Bolshaya Medveditsa]
+(* <- lang_en;; <- name_en;;*);;

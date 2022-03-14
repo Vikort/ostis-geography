@@ -1,0 +1,6 @@
+bravis_by <- concept_car_rental;
+=> nrel_main_idtf:
+[Bravis.by]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Bravis.by]
+(* <- lang_en;; <- name_en;;*);;

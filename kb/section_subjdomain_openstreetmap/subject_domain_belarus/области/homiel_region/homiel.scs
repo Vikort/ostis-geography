@@ -1,0 +1,8 @@
+homiel <- concept_city;
+=>nrel_main_idtf:
+    [Homiel]
+    (* <- lang_en;; <- name_en;;*);
+    [Гомель]
+    (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_country:
+    belarus;;

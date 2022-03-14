@@ -1,0 +1,6 @@
+avtolayt <- concept_car_rental;
+=> nrel_main_idtf:
+[АвтоЛайт]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[AvtoLayt]
+(* <- lang_en;; <- name_en;;*);;

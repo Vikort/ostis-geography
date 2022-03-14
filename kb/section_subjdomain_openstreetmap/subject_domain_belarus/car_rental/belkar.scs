@@ -1,0 +1,6 @@
+belkar <- concept_car_rental;
+=> nrel_main_idtf:
+[белкар]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[belcar.by]
+(* <- lang_en;; <- name_en;;*);;

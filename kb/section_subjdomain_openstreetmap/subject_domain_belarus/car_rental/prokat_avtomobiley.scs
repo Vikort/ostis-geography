@@ -1,0 +1,6 @@
+prokat_avtomobiley <- concept_car_rental;
+=> nrel_main_idtf:
+[Прокат автомобилей]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Prokat avtomobiley]
+(* <- lang_en;; <- name_en;;*);;

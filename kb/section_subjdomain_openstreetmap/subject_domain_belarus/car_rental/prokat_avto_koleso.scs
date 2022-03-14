@@ -1,0 +1,6 @@
+prokat_avto_koleso <- concept_car_rental;
+=> nrel_main_idtf:
+[Прокат Авто "Колесо"]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Prokat Avto "Koleso"]
+(* <- lang_en;; <- name_en;;*);;

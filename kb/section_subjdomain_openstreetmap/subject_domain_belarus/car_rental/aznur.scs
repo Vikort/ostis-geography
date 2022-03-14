@@ -1,0 +1,6 @@
+aznur <- concept_car_rental;
+=> nrel_main_idtf:
+[Азнур]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Aznur]
+(* <- lang_en;; <- name_en;;*);;

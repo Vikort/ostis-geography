@@ -1,0 +1,6 @@
+mir_avto <- concept_car_rental;
+=> nrel_main_idtf:
+[Мир авто]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Mir avto]
+(* <- lang_en;; <- name_en;;*);;

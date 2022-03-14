@@ -1,0 +1,6 @@
+ooo_yantrans <- concept_car_rental;
+=> nrel_main_idtf:
+[ООО «ЯнТранс»]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[OOO «YanTrans»]
+(* <- lang_en;; <- name_en;;*);;

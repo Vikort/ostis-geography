@@ -1,0 +1,6 @@
+pchyolka_mayya <- concept_car_rental;
+=> nrel_main_idtf:
+[Пчёлка Майя]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Pchyolka Mayya]
+(* <- lang_en;; <- name_en;;*);;

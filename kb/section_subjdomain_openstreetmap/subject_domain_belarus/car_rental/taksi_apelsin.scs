@@ -1,0 +1,6 @@
+taksi_apelsin <- concept_car_rental;
+=> nrel_main_idtf:
+[Такси Апельсин]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Taksi Apelsin]
+(* <- lang_en;; <- name_en;;*);;

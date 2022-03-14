@@ -1,0 +1,6 @@
+stroitelnoye_podyemnoye_oborudovaniye <- concept_car_rental;
+=> nrel_main_idtf:
+[Строительное подъемное оборудование]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Stroitelnoye podyemnoye oborudovaniye]
+(* <- lang_en;; <- name_en;;*);;

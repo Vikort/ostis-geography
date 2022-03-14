@@ -1,0 +1,6 @@
+arenda_avtomobilya_s_voditelem <- concept_car_rental;
+=> nrel_main_idtf:
+[Аренда автомобиля с водителем]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Rent a car with a driver]
+(* <- lang_en;; <- name_en;;*);;

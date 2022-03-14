@@ -1,0 +1,6 @@
+salon_prokat_easyrent <- concept_car_rental;
+=> nrel_main_idtf:
+[Салон прокат EasyRent]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Salon prokat EasyRent]
+(* <- lang_en;; <- name_en;;*);;

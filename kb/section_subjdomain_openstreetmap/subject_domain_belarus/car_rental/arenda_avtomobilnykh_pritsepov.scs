@@ -1,0 +1,6 @@
+arenda_avtomobilnykh_pritsepov <- concept_car_rental;
+=> nrel_main_idtf:
+[Аренда автомобильных прицепов]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Arenda avtomobilnykh pritsepov]
+(* <- lang_en;; <- name_en;;*);;

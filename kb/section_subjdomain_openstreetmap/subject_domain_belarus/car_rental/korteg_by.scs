@@ -1,0 +1,6 @@
+korteg_by <- concept_car_rental;
+=> nrel_main_idtf:
+[KORTEG.by]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[KORTEG.by]
+(* <- lang_en;; <- name_en;;*);;

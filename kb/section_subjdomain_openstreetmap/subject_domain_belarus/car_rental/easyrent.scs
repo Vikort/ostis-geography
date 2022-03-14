@@ -1,0 +1,6 @@
+easyrent <- concept_car_rental;
+=> nrel_main_idtf:
+[EasyRent]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[EasyRent]
+(* <- lang_en;; <- name_en;;*);;
