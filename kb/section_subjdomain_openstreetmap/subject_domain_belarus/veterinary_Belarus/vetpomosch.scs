@@ -1,0 +1,4 @@
+vetpomosch <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветпомощь]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

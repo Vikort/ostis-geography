@@ -1,0 +1,4 @@
+veterinarnaja_klinika_9_shans <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная клиника 9 Шанс]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

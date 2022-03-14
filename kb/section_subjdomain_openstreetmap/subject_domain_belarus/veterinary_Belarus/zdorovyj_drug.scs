@@ -1,0 +1,4 @@
+zdorovyj_drug <- concept_veterinary;
+=> nrel_main_idtf:
+[Здоровый друг]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

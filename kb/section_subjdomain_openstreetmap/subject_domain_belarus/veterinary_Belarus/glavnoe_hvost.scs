@@ -1,0 +1,4 @@
+glavnoe_hvost <- concept_veterinary;
+=> nrel_main_idtf:
+[Главное хвост]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,4 @@
+soligorskaja_veterinarnaja_klinika <- concept_veterinary;
+=> nrel_main_idtf:
+[солигорская ветеринарная клиника]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

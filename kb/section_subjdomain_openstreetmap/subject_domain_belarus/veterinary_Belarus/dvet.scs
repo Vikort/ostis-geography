@@ -1,0 +1,4 @@
+dvet <- concept_veterinary;
+=> nrel_main_idtf:
+[Д-Вет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

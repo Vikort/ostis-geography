@@ -1,0 +1,4 @@
+sas_enimal_servis <- concept_veterinary;
+=> nrel_main_idtf:
+[Сас энимал сервис]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

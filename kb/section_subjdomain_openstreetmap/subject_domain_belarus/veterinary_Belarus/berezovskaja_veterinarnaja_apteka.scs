@@ -1,0 +1,4 @@
+berezovskaja_veterinarnaja_apteka <- concept_veterinary;
+=> nrel_main_idtf:
+[Берёзовская ветеринарная аптека]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,4 @@
+zoo_market <- concept_veterinary;
+=> nrel_main_idtf:
+[Zoo Market]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

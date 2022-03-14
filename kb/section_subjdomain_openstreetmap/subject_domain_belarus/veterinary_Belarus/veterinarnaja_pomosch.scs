@@ -1,0 +1,4 @@
+veterinarnaja_pomosch <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная помощь]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,4 @@
+veterinarnaja_klinika_vorobeva <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная клиника Воробьева]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

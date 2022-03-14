@@ -1,0 +1,4 @@
+zoovet <- concept_veterinary;
+=> nrel_main_idtf:
+[ЗооВет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

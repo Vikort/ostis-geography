@@ -1,0 +1,4 @@
+vetspektr <- concept_veterinary;
+=> nrel_main_idtf:
+[ВетСпектр]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

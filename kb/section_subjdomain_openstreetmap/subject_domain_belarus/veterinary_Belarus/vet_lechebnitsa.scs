@@ -1,0 +1,4 @@
+vet_lechebnitsa <- concept_veterinary;
+=> nrel_main_idtf:
+[Вет. лечебница]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,4 @@
+vet_mir <- concept_veterinary;
+=> nrel_main_idtf:
+[Вет Мир]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

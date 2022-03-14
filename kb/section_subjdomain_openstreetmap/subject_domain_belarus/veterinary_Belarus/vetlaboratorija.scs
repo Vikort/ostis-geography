@@ -1,0 +1,4 @@
+vetlaboratorija <- concept_veterinary;
+=> nrel_main_idtf:
+[Вет.лаборатория]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

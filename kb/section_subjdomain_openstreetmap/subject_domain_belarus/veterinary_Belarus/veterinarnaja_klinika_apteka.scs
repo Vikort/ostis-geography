@@ -1,0 +1,4 @@
+veterinarnaja_klinika_apteka <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная клиника Аптека]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

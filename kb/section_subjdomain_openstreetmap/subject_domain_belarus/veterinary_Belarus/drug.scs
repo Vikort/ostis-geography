@@ -1,0 +1,4 @@
+drug <- concept_veterinary;
+=> nrel_main_idtf:
+[Друг]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

@@ -1,0 +1,4 @@
+veterynar <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветэрынар]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

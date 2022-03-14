@@ -1,0 +1,4 @@
+veterinarnyj_kabinet <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарный кабинет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

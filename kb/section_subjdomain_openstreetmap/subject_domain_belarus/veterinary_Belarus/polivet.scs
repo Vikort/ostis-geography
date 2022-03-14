@@ -1,0 +1,4 @@
+polivet <- concept_veterinary;
+=> nrel_main_idtf:
+[ПолиВет]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;

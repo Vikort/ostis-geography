@@ -1,0 +1,4 @@
+veterinarnaja_klinika_tsentra_konnogo_sporta <- concept_veterinary;
+=> nrel_main_idtf:
+[Ветеринарная клиника центра конного спорта]
+(* <- lang_ru;; <- name_ru;; <- name;;*);;
