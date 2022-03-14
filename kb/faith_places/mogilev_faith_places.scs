@@ -1,105 +1,116 @@
-mogilev_Church_of_the_Icon_of_Mother_God_The_Tsaritsa
+mogilev_region_Church_of_the_Icon_of_Mother_God_The_Tsaritsa
 => nrel_main_idtf: [Church of the Icon of the Mother of God "The Tsaritsa"] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Иконы Божией Матери "Всецарица"] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Minskskoe;
 =>nrel_location_house_number:4;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Kazan_Icon_of_the_Mother_of_God
+mogilev_region_Kazan_Icon_of_the_Mother_of_God
 => nrel_main_idtf: [Kazan Icon of the Mother of God] (* <- lang_en;; *);
 => nrel_main_idtf: [Казанской иконы Божей Матери] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Altaiskaya;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Seraphim_Orthodox_Church
+mogilev_region_Seraphim_Orthodox_Church
 => nrel_main_idtf: [Seraphim Orthodox Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Серафимовская православная церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Nijnyaya_Karabanovskaya;
 =>nrel_location_house_number:88;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Uniate_Chapel_of_Belynichskaya_Icon_of_Mother_God
+mogilev_region_Uniate_Chapel_of_Belynichskaya_Icon_of_Mother_God
 => nrel_main_idtf: [Uniate Chapel of the Belynichskaya Icon of the Mother of God] (* <- lang_en;; *);
 => nrel_main_idtf: [Униатская часовня Белыничской иконы Богородицы] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Lazarenko;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Exaltation_of_Cross_Boriso_Glebsky_Church
+mogilev_region_Exaltation_of_Cross_Boriso_Glebsky_Church
 => nrel_main_idtf: [Exaltation of the Cross Boriso-Glebsky Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Крестовоздвиженский Борисо-глебский Храм] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Bryusova;
 =>nrel_location_house_number:4;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_St_Nicholas_Church
+mogilev_region_St_Nicholas_Church
 => nrel_main_idtf: [St. Nicholas Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Святого Николая] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Surta;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Church_of_the_Holy_Royal_Martyrs
+mogilev_region_Church_of_the_Holy_Royal_Martyrs
 => nrel_main_idtf: [Church of the Holy Royal Martyrs] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Святых Царственных Мучеников] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Leninskaya;
 =>nrel_location_house_number:11;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Spaso_Preobrazhensky_Church
+mogilev_region_Spaso_Preobrazhensky_Church
 => nrel_main_idtf: [Spaso-Preobrazhensky Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Спасо-Преображенский храм] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Gabrovskaya;
 =>nrel_location_house_number:35;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Temple_of_the_Three_Saints
+mogilev_region_Temple_of_the_Three_Saints
 => nrel_main_idtf: [Temple of the Three Saints] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Трех Святителей] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Pervomayskaya;
 =>nrel_location_house_number:75;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Cathedral_of_Unebazyatsya_Dzeva_Mary_and_St_Stanislav
+mogilev_region_Cathedral_of_Unebazyatsya_Dzeva_Mary_and_St_Stanislav
 => nrel_main_idtf: [Cathedral of Unebayzyatsya Dzeva Mary and St. Stanislav] (* <- lang_en;; *);
 => nrel_main_idtf: [Собор Успения Пресвятой Богородицы и Святого Станислава] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Komsomolskaya;
 =>nrel_location_house_number:4;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;
 
-mogilev_Church_of_the_Intercession
+mogilev_region_Church_of_the_Intercession
 => nrel_main_idtf: [Church of the Intercession] (* <- lang_en;; *);
 => nrel_main_idtf: [Покровская церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:mogilev;
+=>nrel_region:mogilev_region;
 =>nrel_street:ulica_Hramadzyanskaya;
-=>nrel_search_area: mogilev;
+=>nrel_search_area: mogilev_region;
+=>nrel_city: mogilev;
 <-concept_faith_place;;

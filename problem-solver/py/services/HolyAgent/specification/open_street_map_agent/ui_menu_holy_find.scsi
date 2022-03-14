@@ -1,0 +1,29 @@
+ui_menu_holy_find <- ui_user_command_class_atom; ui_user_command_class_view_kb; ui_one_argument_command_class;;
+
+ui_menu_holy_find
+=> nrel_main_idtf: 
+	[Сгенерировать поиск церкви по городу]
+	(* <- lang_ru;; *);
+=> nrel_idtf: 
+	[Запрос поиска церкви по для указанной сущности]
+	(* <- lang_ru;; *);;
+
+ui_menu_holy_find
+=> nrel_main_idtf: 
+	[What is subdividing of the specified entity?]
+	(* <- lang_en;; *);
+=> nrel_idtf: 
+	[Request searches for subdividing of the specified entity]
+	(* <- lang_en;; *);;
+
+ui_menu_holy_find => ui_nrel_command_template:
+	[*
+		action_holy_find _-> ._question_holy_find
+			(*
+				_-> rrel_1::ui_arg_1;;
+			*);;
+		._question_holy_find _<- question;;
+	*];;
+
+ui_menu_holy_find => ui_nrel_command_lang_template: [Сгенерировать поиск церквт по городу $ui_arg_1] (* <- lang_ru;; *);;
+ui_menu_holy_find => ui_nrel_command_lang_template: [Generate holy find for $ui_arg_1] (* <- lang_en;; *);;

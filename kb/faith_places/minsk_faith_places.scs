@@ -1,189 +1,208 @@
-minsk_St_Elisabeth_Convent
+minsk_region_St_Elisabeth_Convent
 => nrel_main_idtf: [St. Elisabeth Convent] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Елисаветинский женский монастырь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Vygotskogo;
 =>nrel_location_house_number:6;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_the_Holy_Equal_Apostles_Prince_Vladimir
+minsk_region_Church_of_the_Holy_Equal_Apostles_Prince_Vladimir
 => nrel_main_idtf: [Church of the Holy Equal-to-the-Apostles Prince Vladimir] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Святого Равноапостольного Князя Владимира] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Pasyalkovaya;
 =>nrel_location_house_number:47;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_the_Holy_Life_Giving_Trinity
+minsk_region_Church_of_the_Holy_Life_Giving_Trinity
 => nrel_main_idtf: [Church of the Holy Life-Giving Trinity] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Святой Живоначальной Троицы] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Knorina;
 =>nrel_location_house_number:1;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_the_Holy_Trinity
+minsk_region_Church_of_the_Holy_Trinity
 => nrel_main_idtf: [Church of the Holy Trinity] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм в честь Святой Троицы] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Kalinovskogo;
 =>nrel_location_house_number:119;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_in_honor_of_the_icon_of_the_Blessed_Virgin_Vladimirskaya
+minsk_region_Church_in_honor_of_the_icon_of_the_Blessed_Virgin_Vladimirskaya
 => nrel_main_idtf: [Church in honor of the icon of the Blessed Virgin "Vladimirskaya"] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь в честь иконы Пресвятой Богородицы "Владимирская"] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Volzhsky;
 =>nrel_location_house_number:8;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_Saints_Simon_and_Helena
+minsk_region_Church_of_Saints_Simon_and_Helena
 => nrel_main_idtf: [Church of Saints Simon and Helena] (* <- lang_en;; *);
 => nrel_main_idtf: [Костёл Святых Симона и Елены] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Sovetskaya;
 =>nrel_location_house_number:15;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_Cyril_and_Methodius
+minsk_region_Church_of_Cyril_and_Methodius
 => nrel_main_idtf: [Church of Cyril and Methodius] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Кирилла и Мефодия] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Nezalezhnosti;
 =>nrel_location_house_number:26;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Archcathedral_church_of_Panna_Mary
+minsk_region_Archcathedral_church_of_Panna_Mary
 => nrel_main_idtf: [Archcathedral church of Panna Mary] (* <- lang_en;; *);
 => nrel_main_idtf: [Архикафедральный костел Девы Марии] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Svobody;
 =>nrel_location_house_number:9;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Holy_Spirit_Cathedral
+minsk_region_Holy_Spirit_Cathedral
 => nrel_main_idtf: [Holy Spirit Cathedral] (* <- lang_en;; *);
 => nrel_main_idtf: [Собор Святого Духа] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Cyril_and_Methodius;
 =>nrel_location_house_number:3;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_St_Peter_and_Paul_Cathedral
+minsk_region_St_Peter_and_Paul_Cathedral
 => nrel_main_idtf: [St. Peter and Paul Cathedral] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Петро-Павловский собор] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Rakovskaya;
 =>nrel_location_house_number:4;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_St_John_of_Kronstadt
+minsk_region_Church_of_St_John_of_Kronstadt
 => nrel_main_idtf: [Church of St. John of Kronstadt] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Святого Иоанна Кронштадтского] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Saperov;
 =>nrel_location_house_number:5;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Crypt_temple_in_honor_of_the_Cathedral_of_Martyrs_and_Confessors_of_the_Belarusian_Land
+minsk_region_Crypt_temple_in_honor_of_the_Cathedral_of_Martyrs_and_Confessors_of_the_Belarusian_Land
 => nrel_main_idtf: [Crypt temple in honor of the Cathedral of the New Martyrs and Confessors of the Belarusian Land] (* <- lang_en;; *);
 => nrel_main_idtf: [Криптовый храм в честь собора Новомучеников и Исповедников земли Белорусской] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Pobediteley;
 =>nrel_location_house_number:82;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Temple_Complex_of_the_Exaltation_of_the_Cross_Church
+minsk_region_Temple_Complex_of_the_Exaltation_of_the_Cross_Church
 => nrel_main_idtf: [Temple Complex of the Exaltation of the Cross Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Храмовый Комплекс Крестовоздвиженской Церкви] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Timiryazeva;
 =>nrel_location_house_number:96;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_St_Nicholas_of_Japan_in_Minsk
+minsk_region_Church_of_St_Nicholas_of_Japan_in_Minsk
 => nrel_main_idtf: [Church of St. Nicholas of Japan in Minsk] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм святителя Николая Японского в Минске] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Lidskaya;
 =>nrel_location_house_number:3;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_in_honor_of_Euphrosyne_of_Polotsk
+minsk_region_Church_in_honor_of_Euphrosyne_of_Polotsk
 => nrel_main_idtf: [Church in honor of Euphrosyne of Polotsk] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь в честь Ефросинии Полоцкой] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Pritytskogo;
 =>nrel_location_house_number:65;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_Bethlehem
+minsk_region_Church_of_Bethlehem
 => nrel_main_idtf: [Church of Bethlehem] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Вифлеем] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Goretskogo;
 =>nrel_location_house_number:93;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_New_Apostolic_Church
+minsk_region_New_Apostolic_Church
 => nrel_main_idtf: [New Apostolic Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Новоапостольская Церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Sharangovicha;
 =>nrel_location_house_number:1;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Church_of_the_Archangel_Michael
+minsk_region_Church_of_the_Archangel_Michael
 => nrel_main_idtf: [Church of the Archangel Michael] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Архангела Михаила] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Yankovsky;
 =>nrel_location_house_number:2;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;
 
-minsk_Chapel_in_honor_of_the_Beheading_of_John_the_Baptist
+minsk_region_Chapel_in_honor_of_the_Beheading_of_John_the_Baptist
 => nrel_main_idtf: [Chapel in honor of the Beheading of John the Baptist] (* <- lang_en;; *);
 => nrel_main_idtf: [Придел в честь Усекновения Главы Иоанна Предтечи] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:minsk;
+=>nrel_region:minsk_region;
 =>nrel_street:ulica_Kalinovskogo;
 =>nrel_location_house_number:121;
-=>nrel_search_area: minsk;
+=>nrel_search_area: minsk_region;
+=>nrel_city: minsk;
 <-concept_faith_place;;

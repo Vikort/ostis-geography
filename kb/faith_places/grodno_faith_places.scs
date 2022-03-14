@@ -1,165 +1,182 @@
-grodno_Temple_in_honor_of_appearance_of_icon_of_Mother_of_God
+grodno_region_Temple_in_honor_of_appearance_of_icon_of_Mother_of_God
 => nrel_main_idtf: [Temple in honor of the appearance of the icon of the Mother of God "Zhirovichskaya"] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм в честь явления иконы Божией Матери «Жировичская»] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Yagodnaya;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Parish_of_the_Temple_of_Beheading_of_John_Baptist
+grodno_region_Parish_of_the_Temple_of_Beheading_of_John_Baptist
 => nrel_main_idtf: [Parish of the Temple of the Beheading of John the Baptist] (* <- lang_en;; *);
 => nrel_main_idtf: [Приход Храма Усекновения Главы Иоанна Предтечи] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Kurchatova;
 =>nrel_location_house_number:19;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Temple_in_honor_of_the_Nativity_of_Christ
+grodno_region_Temple_in_honor_of_the_Nativity_of_Christ
 => nrel_main_idtf: [Temple in honor of the Nativity of Christ] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм в честь Рождества Христова] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Limoges;
 =>nrel_location_house_number:30;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Temple_of_St_Luke
+grodno_region_Temple_of_St_Luke
 => nrel_main_idtf: [Temple of St. Luke] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм святителя Луки] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Leninsky_Komsomol;
 =>nrel_location_house_number:52;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Lutheran_church
+grodno_region_Lutheran_church
 => nrel_main_idtf: [Lutheran church] (* <- lang_en;; *);
 => nrel_main_idtf: [Лютеранская церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Academicheskaya;
 =>nrel_location_house_number:7;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Deanery_of_the_Grodno_Eparchy
+grodno_region_Deanery_of_the_Grodno_Eparchy
 => nrel_main_idtf: [Deanery of the Grodno Eparchy] (* <- lang_en;; *);
 => nrel_main_idtf: [Благочиние Гродненской Епархии] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Ozheshko;
 =>nrel_location_house_number:43;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Holy_Pakroiski_Cathedral
+grodno_region_Holy_Pakroiski_Cathedral
 => nrel_main_idtf: [Holy Pakroiskі Cathedral] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Покровский собор] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Ozheshko;
 =>nrel_location_house_number:23;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Home_church_of_St_Nicholas_the_Wonderworker
+grodno_region_Home_church_of_St_Nicholas_the_Wonderworker
 => nrel_main_idtf: [Home church of St. Nicholas the Wonderworker] (* <- lang_en;; *);
 => nrel_main_idtf: [Домовая церковь свт. Николая Чудотворца] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Maxim_Gorky;
 =>nrel_location_house_number:2;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Grodno_Diocese_of_the_Roman_Catholic
+grodno_region_Grodno_Diocese_of_the_Roman_Catholic
 => nrel_main_idtf: [Grodno Diocese of the Roman Catholic] (* <- lang_en;; *);
 => nrel_main_idtf: [Гродненская Епархия Римско-католической] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Karl_Marx;
 =>nrel_location_house_number:4;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Church_of_the_Nativity_of_the_Virgin
+grodno_region_Church_of_the_Nativity_of_the_Virgin
 => nrel_main_idtf: [Church of the Nativity of the Virgin] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Рождества Богородицы] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Davyda_Garadzenskaga;
 =>nrel_location_house_number:3;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Kalozhskaya_Church_of_St_Barys_and_Gleb
+grodno_region_Kalozhskaya_Church_of_St_Barys_and_Gleb
 => nrel_main_idtf: [Kalozhskaya Church of St. Barys and Gleb] (* <- lang_en;; *);
 => nrel_main_idtf: [Коложская церковь Св. Борис и Глеб] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Kolozha;
 =>nrel_location_house_number:6;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Parish_of_the_Church_of_Icon_of_the_Mother_of_God
+grodno_region_Parish_of_the_Church_of_Icon_of_the_Mother_of_God
 => nrel_main_idtf: [Parish of the Church of the Icon of the Mother of God "Search for the Lost"] (* <- lang_en;; *);
 => nrel_main_idtf: [Приход храма иконы Божьей Матери «Взыскание погибших»] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Sovetskikh_Pogranichnikov;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Temple_in_the_name_of_the_holy_great_great_Martha
+grodno_region_Temple_in_the_name_of_the_holy_great_great_Martha
 => nrel_main_idtf: [Temple in the name of the holy great-great Martha] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм во имя Святой Марты] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Prygaradnaya;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Temple_in_the_name_of_Holy_Equal_Apostles_Vladimir
+grodno_region_Temple_in_the_name_of_Holy_Equal_Apostles_Vladimir
 => nrel_main_idtf: [Temple in the name of the Holy Equal-to-the-Apostles Prince Vladimir] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм во имя святого равноапостольного князя Владимира] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Pobeda;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Temple_in_honor_of_Cathedral_of_All_Belarusian_Saints
+grodno_region_Temple_in_honor_of_Cathedral_of_All_Belarusian_Saints
 => nrel_main_idtf: [Temple in honor of the Cathedral of All Belarusian Saints] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм в честь Собора Всех Белорусских Святых] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Kupala;
 =>nrel_location_house_number:90;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Parish_of_the_Church_of_Monk_Martyr_Seraphim_Archimandrite_Zhirovitsky
+grodno_region_Parish_of_the_Church_of_Monk_Martyr_Seraphim_Archimandrite_Zhirovitsky
 => nrel_main_idtf: [Parish of the Church of the Monk Martyr Seraphim, Archimandrite Zhirovitsky] (* <- lang_en;; *);
 => nrel_main_idtf: [Приход храма преподобномученника Серафима архимандрита Жировицкого] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Domeyko;
 =>nrel_location_house_number:7;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;
 
-grodno_Church_and_Monastery_of_the_Holy_Spirit
+grodno_region_Church_and_Monastery_of_the_Holy_Spirit
 => nrel_main_idtf: [Church and Monastery of the Holy Spirit] (* <- lang_en;; *);
 => nrel_main_idtf: [Костёл и монастырь Святого Духа] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:grodno;
+=>nrel_region:grodno_region;
 =>nrel_street:ulica_Soviet;
 =>nrel_location_house_number:14;
-=>nrel_search_area: grodno;
+=>nrel_search_area: grodno_region;
+=>nrel_city: grodno;
 <-concept_faith_place;;

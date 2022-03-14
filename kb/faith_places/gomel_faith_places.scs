@@ -1,155 +1,171 @@
-gomel_Church_of_the_Holy_Great_Martyr_George_the_Victorious
+gomel_region_Church_of_the_Holy_Great_Martyr_George_the_Victorious
 => nrel_main_idtf: [Church of the Holy Great Martyr George the Victorious] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Святого Великомученика Георгия Победоносца] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Krupskoy;
 =>nrel_location_house_number:1;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Spaso_Preobrazhensky_Church
+gomel_region_Spaso_Preobrazhensky_Church
 => nrel_main_idtf: [Spaso-Preobrazhensky Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Спасо-Преображенский храм] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Kamenshchikova;
 =>nrel_location_house_number:9;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Church_of_St_Nicholas_the_Wonderworker
+gomel_region_Church_of_St_Nicholas_the_Wonderworker
 => nrel_main_idtf: [Church of St. Nicholas the Wonderworker] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм святителя Николая Чудотворца] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Bryanskaya;
 =>nrel_location_house_number:4;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Holy_Trinity_Church
+gomel_region_Holy_Trinity_Church
 => nrel_main_idtf: [Holy Trinity Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Троицкий Храм] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Savetskaya;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Parish_of_the_Church_of_St_Seraphim_of_Sarov
+gomel_region_Parish_of_the_Church_of_St_Seraphim_of_Sarov
 => nrel_main_idtf: [Parish of the Church of St. Seraphim of Sarov] (* <- lang_en;; *);
 => nrel_main_idtf: [Приход Храма Святого Преподобного Серафима Саровского] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Ozernaya;
 =>nrel_location_house_number:5;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Church_of_St_Sergius_of_Radonezh
+gomel_region_Church_of_St_Sergius_of_Radonezh
 => nrel_main_idtf: [Church of St. Sergius of Radonezh] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм святого преподобного Сергия Радонежского] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Broad;
 =>nrel_location_house_number:1;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Temple_of_John_Kormyansky
+gomel_region_Temple_of_John_Kormyansky
 => nrel_main_idtf: [Temple of John Kormyansky] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Иоанна Кормянского] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Chernomorskaya;
 =>nrel_location_house_number:1;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Grace_Church_Christians_Evangelical_Faith
+gomel_region_Grace_Church_Christians_Evangelical_Faith
 => nrel_main_idtf: [Grace Church Christians Evangelical Faith] (* <- lang_en;; *);
 => nrel_main_idtf: [Благодать Церковь Христиан Веры Евангельской] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Radosti;
 =>nrel_location_house_number:15;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Cathedral_of_St_Pyatra_and_Paula
+gomel_region_Cathedral_of_St_Pyatra_and_Paula
 => nrel_main_idtf: [Cathedral of St. Pyatra and Paula] (* <- lang_en;; *);
 => nrel_main_idtf: [Собор св. Петра и Павла] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Lenina;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Elias_Church
+gomel_region_Elias_Church
 => nrel_main_idtf: [Elias Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Ильинская Церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Komissarov;
 =>nrel_location_house_number:44;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Temple_Iberian_Icon_Mother_God
+gomel_region_Temple_Iberian_Icon_Mother_God
 => nrel_main_idtf: [Temple of the Iberian Icon of the Mother of God] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Иверской Иконы Божией Матери] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Bykhovskaya;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Parish_Church_of_Holy_Archangel_Michael
+gomel_region_Parish_Church_of_Holy_Archangel_Michael
 => nrel_main_idtf: [Parish Church of the Holy Archangel Michael] (* <- lang_en;; *);
 => nrel_main_idtf: [Приход Храма Святого Архангела Михаила] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Rechitskoye;
 =>nrel_location_house_number:34;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Church_St_Luke_of_Crimea_and_Apostle_Evangelist_Luke
+gomel_region_Church_St_Luke_of_Crimea_and_Apostle_Evangelist_Luke
 => nrel_main_idtf: [Church of St. Luke of Crimea and the Apostle and Evangelist Luke] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм святителя Луки Крымского и апостола и евангелиста Луки] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Brothers_Lizyukov;
 =>nrel_location_house_number:5;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Old_Believer_Old_Orthodox_Church
+gomel_region_Old_Believer_Old_Orthodox_Church
 => nrel_main_idtf: [Old Believer Old Orthodox Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Старообрядческая Древлеправославная церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Proletarskaya;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Temple_of_Alexander_Nevsky
+gomel_region_Temple_of_Alexander_Nevsky
 => nrel_main_idtf: [Temple of Alexander Nevsky] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Александра Невского] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Ilyicha;
 =>nrel_location_house_number:128;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;
 
-gomel_Church_of_St_Panteleimon
+gomel_region_Church_of_St_Panteleimon
 => nrel_main_idtf: [Church of St. Panteleimon] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Св. Пантелеимона] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:gomel;
+=>nrel_region:gomel_region;
 =>nrel_street:ulica_Davydovskaya;
 =>nrel_location_house_number:30;
-=>nrel_search_area: gomel;
+=>nrel_search_area: gomel_region;
+=>nrel_city: gomel;
 <-concept_faith_place;;

@@ -1,188 +1,207 @@
-brest_St_Seraphim_Church
+brest_region_St_Seraphim_Church
 => nrel_main_idtf: [St. Seraphim Church Brest Diocese of the Belarusian Orthodox Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-серафимовская Церковь Брестская Епархия Белорусской Православной Церкви] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Ploska;
 =>nrel_location_house_number:10;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Temple_of_St_Spyridon
+brest_region_Temple_of_St_Spyridon
 => nrel_main_idtf: [Temple of St. Spyridon] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Святителя Спиридона] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Moshenskogo;
 =>nrel_location_house_number:41;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Church_of_the_Mother_of_God_The_Tsaritsa
+brest_region_Church_of_the_Mother_of_God_The_Tsaritsa
 => nrel_main_idtf: [Church of the Mother of God "The Tsaritsa"] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Божией Матери «Всецарица»] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Grodno;
 =>nrel_location_house_number:41;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_St_George_Church
+brest_region_St_George_Church
 => nrel_main_idtf: [St. George Church Brest Diocese of the Belarusian Orthodox Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-георгиевская Церковь Брестская Епархия Белорусской Православной Церкви] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Georgievskaya;
 =>nrel_location_house_number:2;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Holy_Resurrection_Cathedral
+brest_region_Holy_Resurrection_Cathedral
 => nrel_main_idtf: [Holy Resurrection Cathedral] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Воскресенский собор] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Moskovskaya;
 =>nrel_location_house_number:271;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Temple_in_Honor_of_the_Tikhvin_Icon_of_the_Mother_of_God
+brest_region_Temple_in_Honor_of_the_Tikhvin_Icon_of_the_Mother_of_God
 => nrel_main_idtf: [Temple in Honor of the Tikhvin Icon of the Mother of God] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм В Честь Тихвинской Иконы Божией Матери] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Volgogradskaya;
 =>nrel_location_house_number:44;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Church_of_Evangelical_Christians
+brest_region_Church_of_Evangelical_Christians
 => nrel_main_idtf: [Church of Evangelical Christians] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Христиан Веры Евангельской] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Centralnaya;
 =>nrel_location_house_number:1;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Holy_Christ_Nativity_Church
+brest_region_Holy_Christ_Nativity_Church
 => nrel_main_idtf: [Holy Christ Nativity Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Христо-Рождественская Церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Krasnoznamnaya;
 =>nrel_location_house_number:73;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Cathedral_of_Saint_Simeon_the_Stylite
+brest_region_Cathedral_of_Saint_Simeon_the_Stylite
 => nrel_main_idtf: [Cathedral of Saint Simeon the Stylite] (* <- lang_en;; *);
 => nrel_main_idtf: [Кафедральный собор Святого Симеона Столпника] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Marx;
 =>nrel_location_house_number:84;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_St_Nicholas_Garrison_Cathedral
+brest_region_St_Nicholas_Garrison_Cathedral
 => nrel_main_idtf: [St. Nicholas Garrison Cathedral] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Николаевский гарнизонный собор] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Geroyev_oborony_Brestskoy;
 =>nrel_location_house_number:60;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_St_Nicholas_Fraternal_Church
+brest_region_St_Nicholas_Fraternal_Church
 => nrel_main_idtf: [St. Nicholas Fraternal Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято-Николаевская Братская церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Sovetskaya;
 =>nrel_location_house_number:10;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Temple_of_Peresvet_and_Oslyaby
+brest_region_Temple_of_Peresvet_and_Oslyaby
 => nrel_main_idtf: [Temple of Peresvet and Oslyaby] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Пересвета и Осляби] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_first_Green;
 =>nrel_location_house_number:5;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Temple_of_the_Apostle_Thomas
+brest_region_Temple_of_the_Apostle_Thomas
 => nrel_main_idtf: [Temple of the Apostle Thomas] (* <- lang_en;; *);
 => nrel_main_idtf: [Храм Апостола Фомы] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Brest_Divisions;
 =>nrel_location_house_number:37;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Holy_Trinity_Church
+brest_region_Holy_Trinity_Church
 => nrel_main_idtf: [Holy Trinity Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Свято Троицкая церковь] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Solnechnaya;
 =>nrel_location_house_number:82;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Church_of_the_Nativity
+brest_region_Church_of_the_Nativity
 => nrel_main_idtf: [Church of the Nativity] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь Рождества] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Lieutenant_Ryabtseva;
 =>nrel_location_house_number:12;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Church_of_the_Icon_of_the_Mother_of_God
+brest_region_Church_of_the_Icon_of_the_Mother_of_God
 => nrel_main_idtf: [Church of the Icon of the Mother of God "Joy of All Who Sorrow"] (* <- lang_en;; *);
 => nrel_main_idtf: [Церковь иконы Божией Матери "Всех скорбящих Радость"] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Belorusskaya;
 =>nrel_location_house_number:45;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Holy_Cross_Church
+brest_region_Holy_Cross_Church
 => nrel_main_idtf: [Holy Cross Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Крестовоздвиженский костел] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Lenina;
 =>nrel_location_house_number:34;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Lutheran_church_in_Brest
+brest_region_Lutheran_church_in_Brest
 => nrel_main_idtf: [Lutheran church in Brest] (* <- lang_en;; *);
 => nrel_main_idtf: [Lutheran church in Brest] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Marx;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
 
-brest_Church_of_St_Joseph
+brest_region_Church_of_St_Joseph
 => nrel_main_idtf: [Church of St. Joseph Pinsk Diocese of the Roman Catholic Church] (* <- lang_en;; *);
 => nrel_main_idtf: [Костел Им Св. Иосифа Пинская Епархия Римско-католической Церкви] (* <- lang_ru;; <-name;; *);
 =>nrel_country:Belarus;
-=>nrel_region:brest;
+=>nrel_region:brest_region;
 =>nrel_street:ulica_Suvorova;
 =>nrel_location_house_number:184;
-=>nrel_search_area: brest;
+=>nrel_search_area: brest_region;
+=>nrel_city: brest;
 <-concept_faith_place;;
