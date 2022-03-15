@@ -1,12 +1,12 @@
-Kjana<-concept_way;
-                =>nrel_main_idtf:
-                [Kjana]
-                (* <- lang_en;; <- name_en;;*);
-                [Кяна]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1200;
-                =>nrel_number_of_employees:24;
-                =>nrel_number_of_trains:7;
-                =>nrel_oblast:Grodnenskaja;;
-                
+kjana<-concept_way;
+                    =>nrel_main_idtf:
+                    [kjana]
+                    (* <- lang_en;; <- name_en;;*);
+                    [кяна]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1200;
+                    =>nrel_number_of_employees:24;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_oblast:Grodnenskaja;;
+                    

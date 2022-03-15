@@ -1,12 +1,12 @@
-Zaolsha<-concept_way;
-                =>nrel_main_idtf:
-                [Zaolsha]
-                (* <- lang_en;; <- name_en;;*);
-                [Заольша]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1300;
-                =>nrel_number_of_employees:15;
-                =>nrel_number_of_trains:5;
-                =>nrel_oblast:Vitebskaja;;
-                
+zaolsha<-concept_way;
+                    =>nrel_main_idtf:
+                    [zaolsha]
+                    (* <- lang_en;; <- name_en;;*);
+                    [заольша]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1300;
+                    =>nrel_number_of_employees:15;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_oblast:Vitebskaja;;
+                    

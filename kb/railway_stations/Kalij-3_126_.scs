@@ -1,12 +1,12 @@
-Kalij-3<-concept_way;
-                =>nrel_main_idtf:
-                [Kalij-3]
-                (* <- lang_en;; <- name_en;;*);
-                [Калий-3]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2800;
-                =>nrel_number_of_employees:24;
-                =>nrel_number_of_trains:3;
-                =>nrel_oblast:Minskaja;;
-                
+kalij_3<-concept_way;
+                    =>nrel_main_idtf:
+                    [kalij_3]
+                    (* <- lang_en;; <- name_en;;*);
+                    [калий_3]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2800;
+                    =>nrel_number_of_employees:24;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_oblast:Minskaja;;
+                    

@@ -1,12 +1,12 @@
-Elizovo<-concept_way;
-                =>nrel_main_idtf:
-                [Elizovo]
-                (* <- lang_en;; <- name_en;;*);
-                [Елизово]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1700;
-                =>nrel_number_of_employees:21;
-                =>nrel_number_of_trains:3;
-                =>nrel_rajon:Osipovichskij;;
-                
+elizovo<-concept_way;
+                    =>nrel_main_idtf:
+                    [elizovo]
+                    (* <- lang_en;; <- name_en;;*);
+                    [елизово]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1700;
+                    =>nrel_number_of_employees:21;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_rajon:Osipovichskij;;
+                    

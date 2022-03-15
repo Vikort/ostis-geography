@@ -1,12 +1,12 @@
-Bogatyrevo<-concept_way;
-                =>nrel_main_idtf:
-                [Bogatyrevo]
-                (* <- lang_en;; <- name_en;;*);
-                [Богатырёво]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1700;
-                =>nrel_number_of_employees:11;
-                =>nrel_number_of_trains:2;
-                =>nrel_oblast:Minskaja;;
-                
+bogatyrevo<-concept_way;
+                    =>nrel_main_idtf:
+                    [bogatyrevo]
+                    (* <- lang_en;; <- name_en;;*);
+                    [богатырёво]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1700;
+                    =>nrel_number_of_employees:11;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_oblast:Minskaja;;
+                    

@@ -1,12 +1,12 @@
-Zherd<-concept_way;
-                =>nrel_main_idtf:
-                [Zherd]
-                (* <- lang_en;; <- name_en;;*);
-                [Жердь]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1300;
-                =>nrel_number_of_employees:22;
-                =>nrel_number_of_trains:2;
-                =>nrel_rajon:Svetlogorskij;;
-                
+zherd<-concept_way;
+                    =>nrel_main_idtf:
+                    [zherd]
+                    (* <- lang_en;; <- name_en;;*);
+                    [жердь]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1300;
+                    =>nrel_number_of_employees:22;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_rajon:Svetlogorskij;;
+                    

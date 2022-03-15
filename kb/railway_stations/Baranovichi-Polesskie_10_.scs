@@ -1,12 +1,12 @@
-Baranovichi-Polesskie<-concept_way;
-                =>nrel_main_idtf:
-                [Baranovichi-Polesskie]
-                (* <- lang_en;; <- name_en;;*);
-                [Барановичи-Полесские]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:800;
-                =>nrel_number_of_employees:15;
-                =>nrel_number_of_trains:7;
-                =>nrel_gorod:Baranovichi;;
-                
+baranovichi_polesskie<-concept_way;
+                    =>nrel_main_idtf:
+                    [baranovichi_polesskie]
+                    (* <- lang_en;; <- name_en;;*);
+                    [барановичи_полесские]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:800;
+                    =>nrel_number_of_employees:15;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_gorod:Baranovichi;;
+                    

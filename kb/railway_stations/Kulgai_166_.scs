@@ -1,12 +1,12 @@
-Kulgai<-concept_way;
-                =>nrel_main_idtf:
-                [Kulgai]
-                (* <- lang_en;; <- name_en;;*);
-                [Кульгаи]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2800;
-                =>nrel_number_of_employees:12;
-                =>nrel_number_of_trains:2;
-                =>nrel_oblast:Vitebskaja;;
-                
+kulgai<-concept_way;
+                    =>nrel_main_idtf:
+                    [kulgai]
+                    (* <- lang_en;; <- name_en;;*);
+                    [кульгаи]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2800;
+                    =>nrel_number_of_employees:12;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_oblast:Vitebskaja;;
+                    

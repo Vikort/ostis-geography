@@ -1,12 +1,12 @@
-Liozno<-concept_way;
-                =>nrel_main_idtf:
-                [Liozno]
-                (* <- lang_en;; <- name_en;;*);
-                [Лиозно]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1000;
-                =>nrel_number_of_employees:17;
-                =>nrel_number_of_trains:5;
-                =>nrel_gorod:Liozno;;
-                
+liozno<-concept_way;
+                    =>nrel_main_idtf:
+                    [liozno]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лиозно]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1000;
+                    =>nrel_number_of_employees:17;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_gorod:Liozno;;
+                    

@@ -1,12 +1,12 @@
-Kalinkovichi-Juzhnye<-concept_way;
-                =>nrel_main_idtf:
-                [Kalinkovichi-Juzhnye]
-                (* <- lang_en;; <- name_en;;*);
-                [Калинковичи-Южные]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1400;
-                =>nrel_number_of_employees:20;
-                =>nrel_number_of_trains:3;
-                =>nrel_gorod:Kalinkovichi;;
-                
+kalinkovichi_juzhnye<-concept_way;
+                    =>nrel_main_idtf:
+                    [kalinkovichi_juzhnye]
+                    (* <- lang_en;; <- name_en;;*);
+                    [калинковичи_южные]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1400;
+                    =>nrel_number_of_employees:20;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_gorod:Kalinkovichi;;
+                    

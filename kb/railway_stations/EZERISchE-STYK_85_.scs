@@ -1,12 +1,12 @@
-EZERISchE-STYK<-concept_way;
-                =>nrel_main_idtf:
-                [EZERISchE-STYK]
-                (* <- lang_en;; <- name_en;;*);
-                [ЕЗЕРИЩЕ-СТЫК]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:800;
-                =>nrel_number_of_employees:16;
-                =>nrel_number_of_trains:3;
-                =>nrel_oblast:Vitebskaja;;
-                
+ezerische_styk<-concept_way;
+                    =>nrel_main_idtf:
+                    [ezerische_styk]
+                    (* <- lang_en;; <- name_en;;*);
+                    [езерище_стык]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:800;
+                    =>nrel_number_of_employees:16;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_oblast:Vitebskaja;;
+                    

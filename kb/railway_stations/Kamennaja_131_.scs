@@ -1,12 +1,12 @@
-Kamennaja<-concept_way;
-                =>nrel_main_idtf:
-                [Kamennaja]
-                (* <- lang_en;; <- name_en;;*);
-                [Каменная]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1100;
-                =>nrel_number_of_employees:14;
-                =>nrel_number_of_trains:4;
-                =>nrel_oblast:Brestskaja;;
-                
+kamennaja<-concept_way;
+                    =>nrel_main_idtf:
+                    [kamennaja]
+                    (* <- lang_en;; <- name_en;;*);
+                    [каменная]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1100;
+                    =>nrel_number_of_employees:14;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_oblast:Brestskaja;;
+                    

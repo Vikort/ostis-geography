@@ -1,12 +1,12 @@
-Zaluche<-concept_way;
-                =>nrel_main_idtf:
-                [Zaluche]
-                (* <- lang_en;; <- name_en;;*);
-                [Залучье]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2900;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:5;
-                =>nrel_rajon:Gorodokskij;;
-                
+zaluche<-concept_way;
+                    =>nrel_main_idtf:
+                    [zaluche]
+                    (* <- lang_en;; <- name_en;;*);
+                    [залучье]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2900;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_rajon:Gorodokskij;;
+                    

@@ -1,12 +1,12 @@
-Alescha<-concept_way;
-                =>nrel_main_idtf:
-                [Alescha]
-                (* <- lang_en;; <- name_en;;*);
-                [Алёща]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1600;
-                =>nrel_number_of_employees:17;
-                =>nrel_number_of_trains:3;
-                =>nrel_rajon:Polotskij;;
-                
+alescha<-concept_way;
+                    =>nrel_main_idtf:
+                    [alescha]
+                    (* <- lang_en;; <- name_en;;*);
+                    [алёща]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1600;
+                    =>nrel_number_of_employees:17;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_rajon:Polotskij;;
+                    

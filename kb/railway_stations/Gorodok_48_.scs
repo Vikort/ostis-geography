@@ -1,12 +1,12 @@
-Gorodok<-concept_way;
-                =>nrel_main_idtf:
-                [Gorodok]
-                (* <- lang_en;; <- name_en;;*);
-                [Городок]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2100;
-                =>nrel_number_of_employees:24;
-                =>nrel_number_of_trains:4;
-                =>nrel_gorod:Gorodok;;
-                
+gorodok<-concept_way;
+                    =>nrel_main_idtf:
+                    [gorodok]
+                    (* <- lang_en;; <- name_en;;*);
+                    [городок]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2100;
+                    =>nrel_number_of_employees:24;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_gorod:Gorodok;;
+                    

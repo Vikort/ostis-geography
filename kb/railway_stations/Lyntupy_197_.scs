@@ -1,12 +1,12 @@
-Lyntupy<-concept_way;
-                =>nrel_main_idtf:
-                [Lyntupy]
-                (* <- lang_en;; <- name_en;;*);
-                [Лынтупы]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1000;
-                =>nrel_number_of_employees:20;
-                =>nrel_number_of_trains:7;
-                =>nrel_rajon:Ostrovetskij;;
-                
+lyntupy<-concept_way;
+                    =>nrel_main_idtf:
+                    [lyntupy]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лынтупы]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1000;
+                    =>nrel_number_of_employees:20;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_rajon:Ostrovetskij;;
+                    

@@ -1,12 +1,12 @@
-Druja<-concept_way;
-                =>nrel_main_idtf:
-                [Druja]
-                (* <- lang_en;; <- name_en;;*);
-                [Друя]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:700;
-                =>nrel_number_of_employees:18;
-                =>nrel_number_of_trains:5;
-                =>nrel_rajon:Braslavskij;;
-                
+druja<-concept_way;
+                    =>nrel_main_idtf:
+                    [druja]
+                    (* <- lang_en;; <- name_en;;*);
+                    [друя]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:700;
+                    =>nrel_number_of_employees:18;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_rajon:Braslavskij;;
+                    

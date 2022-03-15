@@ -1,12 +1,12 @@
-Iput<-concept_way;
-                =>nrel_main_idtf:
-                [Iput]
-                (* <- lang_en;; <- name_en;;*);
-                [Ипуть]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1900;
-                =>nrel_number_of_employees:22;
-                =>nrel_number_of_trains:3;
-                =>nrel_gorod:Gomel;;
-                
+iput<-concept_way;
+                    =>nrel_main_idtf:
+                    [iput]
+                    (* <- lang_en;; <- name_en;;*);
+                    [ипуть]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1900;
+                    =>nrel_number_of_employees:22;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_gorod:Gomel;;
+                    

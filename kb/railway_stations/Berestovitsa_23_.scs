@@ -1,12 +1,12 @@
-Berestovitsa<-concept_way;
-                =>nrel_main_idtf:
-                [Berestovitsa]
-                (* <- lang_en;; <- name_en;;*);
-                [Берестовица]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2800;
-                =>nrel_number_of_employees:20;
-                =>nrel_number_of_trains:3;
-                =>nrel_oblast:Grodnenskaja;;
-                
+berestovitsa<-concept_way;
+                    =>nrel_main_idtf:
+                    [berestovitsa]
+                    (* <- lang_en;; <- name_en;;*);
+                    [берестовица]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2800;
+                    =>nrel_number_of_employees:20;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_oblast:Grodnenskaja;;
+                    

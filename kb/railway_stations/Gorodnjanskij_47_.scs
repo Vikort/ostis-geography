@@ -1,12 +1,12 @@
-Gorodnjanskij<-concept_way;
-                =>nrel_main_idtf:
-                [Gorodnjanskij]
-                (* <- lang_en;; <- name_en;;*);
-                [Городнянский]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2400;
-                =>nrel_number_of_employees:12;
-                =>nrel_number_of_trains:6;
-                =>nrel_rajon:Orshanskij;;
-                
+gorodnjanskij<-concept_way;
+                    =>nrel_main_idtf:
+                    [gorodnjanskij]
+                    (* <- lang_en;; <- name_en;;*);
+                    [городнянский]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2400;
+                    =>nrel_number_of_employees:12;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_rajon:Orshanskij;;
+                    

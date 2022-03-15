@@ -1,12 +1,12 @@
-Bastuny<-concept_way;
-                =>nrel_main_idtf:
-                [Bastuny]
-                (* <- lang_en;; <- name_en;;*);
-                [Бастуны]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3100;
-                =>nrel_number_of_employees:21;
-                =>nrel_number_of_trains:2;
-                =>nrel_rajon:Voronovskij;;
-                
+bastuny<-concept_way;
+                    =>nrel_main_idtf:
+                    [bastuny]
+                    (* <- lang_en;; <- name_en;;*);
+                    [бастуны]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3100;
+                    =>nrel_number_of_employees:21;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_rajon:Voronovskij;;
+                    

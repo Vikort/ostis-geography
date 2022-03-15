@@ -1,12 +1,12 @@
-Bigosovo<-concept_way;
-                =>nrel_main_idtf:
-                [Bigosovo]
-                (* <- lang_en;; <- name_en;;*);
-                [Бигосово]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:800;
-                =>nrel_number_of_employees:23;
-                =>nrel_number_of_trains:3;
-                =>nrel_rajon:Verhnedvinskij;;
-                
+bigosovo<-concept_way;
+                    =>nrel_main_idtf:
+                    [bigosovo]
+                    (* <- lang_en;; <- name_en;;*);
+                    [бигосово]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:800;
+                    =>nrel_number_of_employees:23;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_rajon:Verhnedvinskij;;
+                    

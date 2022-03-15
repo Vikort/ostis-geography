@@ -1,12 +1,12 @@
-Dobrush<-concept_way;
-                =>nrel_main_idtf:
-                [Dobrush]
-                (* <- lang_en;; <- name_en;;*);
-                [Добруш]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1500;
-                =>nrel_number_of_employees:12;
-                =>nrel_number_of_trains:2;
-                =>nrel_gorod:Dobrush;;
-                
+dobrush<-concept_way;
+                    =>nrel_main_idtf:
+                    [dobrush]
+                    (* <- lang_en;; <- name_en;;*);
+                    [добруш]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1500;
+                    =>nrel_number_of_employees:12;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_gorod:Dobrush;;
+                    

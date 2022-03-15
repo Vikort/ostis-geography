@@ -1,12 +1,12 @@
-Drut<-concept_way;
-                =>nrel_main_idtf:
-                [Drut]
-                (* <- lang_en;; <- name_en;;*);
-                [Друть]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3200;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:7;
-                =>nrel_rajon:Belynichskij;;
-                
+drut<-concept_way;
+                    =>nrel_main_idtf:
+                    [drut]
+                    (* <- lang_en;; <- name_en;;*);
+                    [друть]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3200;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_rajon:Belynichskij;;
+                    

@@ -1,12 +1,12 @@
-Grodzjanka<-concept_way;
-                =>nrel_main_idtf:
-                [Grodzjanka]
-                (* <- lang_en;; <- name_en;;*);
-                [Гродзянка]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:100;
-                =>nrel_number_of_employees:21;
-                =>nrel_number_of_trains:3;
-                =>nrel_rajon:Chervenskij;;
-                
+grodzjanka<-concept_way;
+                    =>nrel_main_idtf:
+                    [grodzjanka]
+                    (* <- lang_en;; <- name_en;;*);
+                    [гродзянка]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:100;
+                    =>nrel_number_of_employees:21;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_rajon:Chervenskij;;
+                    

@@ -1,12 +1,12 @@
-Daraganovo<-concept_way;
-                =>nrel_main_idtf:
-                [Daraganovo]
-                (* <- lang_en;; <- name_en;;*);
-                [Дараганово]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3000;
-                =>nrel_number_of_employees:22;
-                =>nrel_number_of_trains:5;
-                =>nrel_oblast:Minskaja;;
-                
+daraganovo<-concept_way;
+                    =>nrel_main_idtf:
+                    [daraganovo]
+                    (* <- lang_en;; <- name_en;;*);
+                    [дараганово]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3000;
+                    =>nrel_number_of_employees:22;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_oblast:Minskaja;;
+                    

@@ -1,12 +1,12 @@
-Krichev-1<-concept_way;
-                =>nrel_main_idtf:
-                [Krichev-1]
-                (* <- lang_en;; <- name_en;;*);
-                [Кричев-1]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2700;
-                =>nrel_number_of_employees:18;
-                =>nrel_number_of_trains:7;
-                =>nrel_gorod:Krichev;;
-                
+krichev_1<-concept_way;
+                    =>nrel_main_idtf:
+                    [krichev_1]
+                    (* <- lang_en;; <- name_en;;*);
+                    [кричев_1]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2700;
+                    =>nrel_number_of_employees:18;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_gorod:Krichev;;
+                    

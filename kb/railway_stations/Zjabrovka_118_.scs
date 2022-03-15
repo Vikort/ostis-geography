@@ -1,12 +1,12 @@
-Zjabrovka<-concept_way;
-                =>nrel_main_idtf:
-                [Zjabrovka]
-                (* <- lang_en;; <- name_en;;*);
-                [Зябровка]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:100;
-                =>nrel_number_of_employees:13;
-                =>nrel_number_of_trains:6;
-                =>nrel_oblast:Gomelskaja;;
-                
+zjabrovka<-concept_way;
+                    =>nrel_main_idtf:
+                    [zjabrovka]
+                    (* <- lang_en;; <- name_en;;*);
+                    [зябровка]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:100;
+                    =>nrel_number_of_employees:13;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_oblast:Gomelskaja;;
+                    

@@ -1,12 +1,12 @@
-Zabolotinka<-concept_way;
-                =>nrel_main_idtf:
-                [Zabolotinka]
-                (* <- lang_en;; <- name_en;;*);
-                [Заболотинка]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3400;
-                =>nrel_number_of_employees:12;
-                =>nrel_number_of_trains:4;
-                =>nrel_rajon:Vitebskij;;
-                
+zabolotinka<-concept_way;
+                    =>nrel_main_idtf:
+                    [zabolotinka]
+                    (* <- lang_en;; <- name_en;;*);
+                    [заболотинка]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3400;
+                    =>nrel_number_of_employees:12;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_rajon:Vitebskij;;
+                    

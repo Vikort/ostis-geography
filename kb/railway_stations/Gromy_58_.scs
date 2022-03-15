@@ -1,12 +1,12 @@
-Gromy<-concept_way;
-                =>nrel_main_idtf:
-                [Gromy]
-                (* <- lang_en;; <- name_en;;*);
-                [Громы]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:800;
-                =>nrel_number_of_employees:19;
-                =>nrel_number_of_trains:3;
-                =>nrel_gorod:Polotsk;;
-                
+gromy<-concept_way;
+                    =>nrel_main_idtf:
+                    [gromy]
+                    (* <- lang_en;; <- name_en;;*);
+                    [громы]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:800;
+                    =>nrel_number_of_employees:19;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_gorod:Polotsk;;
+                    

@@ -1,12 +1,12 @@
-Lahva<-concept_way;
-                =>nrel_main_idtf:
-                [Lahva]
-                (* <- lang_en;; <- name_en;;*);
-                [Лахва]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2100;
-                =>nrel_number_of_employees:15;
-                =>nrel_number_of_trains:6;
-                =>nrel_oblast:Brestskaja;;
-                
+lahva<-concept_way;
+                    =>nrel_main_idtf:
+                    [lahva]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лахва]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2100;
+                    =>nrel_number_of_employees:15;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_oblast:Brestskaja;;
+                    

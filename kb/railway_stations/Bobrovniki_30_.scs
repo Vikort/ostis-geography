@@ -1,12 +1,12 @@
-Bobrovniki<-concept_way;
-                =>nrel_main_idtf:
-                [Bobrovniki]
-                (* <- lang_en;; <- name_en;;*);
-                [Бобровники]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1700;
-                =>nrel_number_of_employees:19;
-                =>nrel_number_of_trains:5;
-                =>nrel_oblast:Grodnenskaja;;
-                
+bobrovniki<-concept_way;
+                    =>nrel_main_idtf:
+                    [bobrovniki]
+                    (* <- lang_en;; <- name_en;;*);
+                    [бобровники]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1700;
+                    =>nrel_number_of_employees:19;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_oblast:Grodnenskaja;;
+                    

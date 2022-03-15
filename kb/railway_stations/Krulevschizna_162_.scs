@@ -1,12 +1,12 @@
-Krulevschizna<-concept_way;
-                =>nrel_main_idtf:
-                [Krulevschizna]
-                (* <- lang_en;; <- name_en;;*);
-                [Крулевщизна]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1900;
-                =>nrel_number_of_employees:12;
-                =>nrel_number_of_trains:4;
-                =>nrel_rajon:Dokshitskij;;
-                
+krulevschizna<-concept_way;
+                    =>nrel_main_idtf:
+                    [krulevschizna]
+                    (* <- lang_en;; <- name_en;;*);
+                    [крулевщизна]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1900;
+                    =>nrel_number_of_employees:12;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_rajon:Dokshitskij;;
+                    

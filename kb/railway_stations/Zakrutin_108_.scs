@@ -1,12 +1,12 @@
-Zakrutin<-concept_way;
-                =>nrel_main_idtf:
-                [Zakrutin]
-                (* <- lang_en;; <- name_en;;*);
-                [Закрутин]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:400;
-                =>nrel_number_of_employees:19;
-                =>nrel_number_of_trains:3;
-                =>nrel_rajon:Maloritskij;;
-                
+zakrutin<-concept_way;
+                    =>nrel_main_idtf:
+                    [zakrutin]
+                    (* <- lang_en;; <- name_en;;*);
+                    [закрутин]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:400;
+                    =>nrel_number_of_employees:19;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_rajon:Maloritskij;;
+                    

@@ -1,12 +1,12 @@
-Zagate<-concept_way;
-                =>nrel_main_idtf:
-                [Zagate]
-                (* <- lang_en;; <- name_en;;*);
-                [Загатье]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1600;
-                =>nrel_number_of_employees:12;
-                =>nrel_number_of_trains:5;
-                =>nrel_rajon:Glubokskij;;
-                
+zagate<-concept_way;
+                    =>nrel_main_idtf:
+                    [zagate]
+                    (* <- lang_en;; <- name_en;;*);
+                    [загатье]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1600;
+                    =>nrel_number_of_employees:12;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_rajon:Glubokskij;;
+                    

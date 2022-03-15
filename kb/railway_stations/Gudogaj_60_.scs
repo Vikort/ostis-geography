@@ -1,12 +1,12 @@
-Gudogaj<-concept_way;
-                =>nrel_main_idtf:
-                [Gudogaj]
-                (* <- lang_en;; <- name_en;;*);
-                [Гудогай]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2700;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:2;
-                =>nrel_oblast:Grodnenskaja;;
-                
+gudogaj<-concept_way;
+                    =>nrel_main_idtf:
+                    [gudogaj]
+                    (* <- lang_en;; <- name_en;;*);
+                    [гудогай]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2700;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_oblast:Grodnenskaja;;
+                    

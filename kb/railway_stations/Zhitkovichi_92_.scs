@@ -1,12 +1,12 @@
-Zhitkovichi<-concept_way;
-                =>nrel_main_idtf:
-                [Zhitkovichi]
-                (* <- lang_en;; <- name_en;;*);
-                [Житковичи]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:200;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:2;
-                =>nrel_rajon:Zhitkovichskij;;
-                
+zhitkovichi<-concept_way;
+                    =>nrel_main_idtf:
+                    [zhitkovichi]
+                    (* <- lang_en;; <- name_en;;*);
+                    [житковичи]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:200;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_rajon:Zhitkovichskij;;
+                    

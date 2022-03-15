@@ -1,12 +1,12 @@
-Krynki<-concept_way;
-                =>nrel_main_idtf:
-                [Krynki]
-                (* <- lang_en;; <- name_en;;*);
-                [Крынки]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1000;
-                =>nrel_number_of_employees:22;
-                =>nrel_number_of_trains:7;
-                =>nrel_rajon:Vitebskij;;
-                
+krynki<-concept_way;
+                    =>nrel_main_idtf:
+                    [krynki]
+                    (* <- lang_en;; <- name_en;;*);
+                    [крынки]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1000;
+                    =>nrel_number_of_employees:22;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_rajon:Vitebskij;;
+                    

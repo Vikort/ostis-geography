@@ -1,12 +1,12 @@
-Kalinkovichi-Zapadnye<-concept_way;
-                =>nrel_main_idtf:
-                [Kalinkovichi-Zapadnye]
-                (* <- lang_en;; <- name_en;;*);
-                [Калинковичи-Западные]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1900;
-                =>nrel_number_of_employees:11;
-                =>nrel_number_of_trains:3;
-                =>nrel_gorod:Kalinkovichi;;
-                
+kalinkovichi_zapadnye<-concept_way;
+                    =>nrel_main_idtf:
+                    [kalinkovichi_zapadnye]
+                    (* <- lang_en;; <- name_en;;*);
+                    [калинковичи_западные]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1900;
+                    =>nrel_number_of_employees:11;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_gorod:Kalinkovichi;;
+                    

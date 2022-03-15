@@ -1,12 +1,12 @@
-Kalinkovichi-Vostochnye<-concept_way;
-                =>nrel_main_idtf:
-                [Kalinkovichi-Vostochnye]
-                (* <- lang_en;; <- name_en;;*);
-                [Калинковичи-Восточные]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1300;
-                =>nrel_number_of_employees:15;
-                =>nrel_number_of_trains:3;
-                =>nrel_gorod:Kalinkovichi;;
-                
+kalinkovichi_vostochnye<-concept_way;
+                    =>nrel_main_idtf:
+                    [kalinkovichi_vostochnye]
+                    (* <- lang_en;; <- name_en;;*);
+                    [калинковичи_восточные]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1300;
+                    =>nrel_number_of_employees:15;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_gorod:Kalinkovichi;;
+                    

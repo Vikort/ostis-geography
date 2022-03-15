@@ -1,12 +1,12 @@
-Ludchitsy<-concept_way;
-                =>nrel_main_idtf:
-                [Ludchitsy]
-                (* <- lang_en;; <- name_en;;*);
-                [Лудчицы]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2100;
-                =>nrel_number_of_employees:12;
-                =>nrel_number_of_trains:4;
-                =>nrel_oblast:Mogilevskaja;;
-                
+ludchitsy<-concept_way;
+                    =>nrel_main_idtf:
+                    [ludchitsy]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лудчицы]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2100;
+                    =>nrel_number_of_employees:12;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_oblast:Mogilevskaja;;
+                    

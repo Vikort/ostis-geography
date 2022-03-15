@@ -1,12 +1,12 @@
-Ivatsevichi<-concept_way;
-                =>nrel_main_idtf:
-                [Ivatsevichi]
-                (* <- lang_en;; <- name_en;;*);
-                [Ивацевичи]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1500;
-                =>nrel_number_of_employees:21;
-                =>nrel_number_of_trains:6;
-                =>nrel_gorod:Ivatsevichi;;
-                
+ivatsevichi<-concept_way;
+                    =>nrel_main_idtf:
+                    [ivatsevichi]
+                    (* <- lang_en;; <- name_en;;*);
+                    [ивацевичи]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1500;
+                    =>nrel_number_of_employees:21;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_gorod:Ivatsevichi;;
+                    

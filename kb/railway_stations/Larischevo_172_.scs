@@ -1,12 +1,12 @@
-Larischevo<-concept_way;
-                =>nrel_main_idtf:
-                [Larischevo]
-                (* <- lang_en;; <- name_en;;*);
-                [Ларищево]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1400;
-                =>nrel_number_of_employees:11;
-                =>nrel_number_of_trains:2;
-                =>nrel_rajon:Gomelskij;;
-                
+larischevo<-concept_way;
+                    =>nrel_main_idtf:
+                    [larischevo]
+                    (* <- lang_en;; <- name_en;;*);
+                    [ларищево]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1400;
+                    =>nrel_number_of_employees:11;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_rajon:Gomelskij;;
+                    

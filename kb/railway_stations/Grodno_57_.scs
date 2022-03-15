@@ -1,12 +1,12 @@
-Grodno<-concept_way;
-                =>nrel_main_idtf:
-                [Grodno]
-                (* <- lang_en;; <- name_en;;*);
-                [Гродно]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3000;
-                =>nrel_number_of_employees:21;
-                =>nrel_number_of_trains:6;
-                =>nrel_oblast:Grodnenskaja;;
-                
+grodno<-concept_way;
+                    =>nrel_main_idtf:
+                    [grodno]
+                    (* <- lang_en;; <- name_en;;*);
+                    [гродно]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3000;
+                    =>nrel_number_of_employees:21;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_oblast:Grodnenskaja;;
+                    

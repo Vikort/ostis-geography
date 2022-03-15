@@ -1,12 +1,12 @@
-Zjabki<-concept_way;
-                =>nrel_main_idtf:
-                [Zjabki]
-                (* <- lang_en;; <- name_en;;*);
-                [Зябки]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1200;
-                =>nrel_number_of_employees:13;
-                =>nrel_number_of_trains:5;
-                =>nrel_rajon:Glubokskij;;
-                
+zjabki<-concept_way;
+                    =>nrel_main_idtf:
+                    [zjabki]
+                    (* <- lang_en;; <- name_en;;*);
+                    [зябки]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1200;
+                    =>nrel_number_of_employees:13;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_rajon:Glubokskij;;
+                    

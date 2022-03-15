@@ -1,12 +1,12 @@
-Auls<-concept_way;
-                =>nrel_main_idtf:
-                [Auls]
-                (* <- lang_en;; <- name_en;;*);
-                [Аульс]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2700;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:4;
-                =>nrel_rajon:Grodnenskij;;
-                
+auls<-concept_way;
+                    =>nrel_main_idtf:
+                    [auls]
+                    (* <- lang_en;; <- name_en;;*);
+                    [аульс]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2700;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_rajon:Grodnenskij;;
+                    

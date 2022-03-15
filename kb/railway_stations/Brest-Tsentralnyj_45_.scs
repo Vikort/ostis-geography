@@ -1,12 +1,12 @@
-Brest-Tsentralnyj<-concept_way;
-                =>nrel_main_idtf:
-                [Brest-Tsentralnyj]
-                (* <- lang_en;; <- name_en;;*);
-                [Брест-Центральный]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1300;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:6;
-                =>nrel_oblast:Brestskaja;;
-                
+brest_tsentralnyj<-concept_way;
+                    =>nrel_main_idtf:
+                    [brest_tsentralnyj]
+                    (* <- lang_en;; <- name_en;;*);
+                    [брест_центральный]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1300;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_oblast:Brestskaja;;
+                    

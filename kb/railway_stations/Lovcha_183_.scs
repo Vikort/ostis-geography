@@ -1,12 +1,12 @@
-Lovcha<-concept_way;
-                =>nrel_main_idtf:
-                [Lovcha]
-                (* <- lang_en;; <- name_en;;*);
-                [Ловча]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2000;
-                =>nrel_number_of_employees:15;
-                =>nrel_number_of_trains:4;
-                =>nrel_oblast:Brestskaja;;
-                
+lovcha<-concept_way;
+                    =>nrel_main_idtf:
+                    [lovcha]
+                    (* <- lang_en;; <- name_en;;*);
+                    [ловча]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2000;
+                    =>nrel_number_of_employees:15;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_oblast:Brestskaja;;
+                    

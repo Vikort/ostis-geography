@@ -1,12 +1,12 @@
-Kalinkovichi<-concept_way;
-                =>nrel_main_idtf:
-                [Kalinkovichi]
-                (* <- lang_en;; <- name_en;;*);
-                [Калинковичи]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3100;
-                =>nrel_number_of_employees:16;
-                =>nrel_number_of_trains:3;
-                =>nrel_gorod:Kalinkovichi;;
-                
+kalinkovichi<-concept_way;
+                    =>nrel_main_idtf:
+                    [kalinkovichi]
+                    (* <- lang_en;; <- name_en;;*);
+                    [калинковичи]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3100;
+                    =>nrel_number_of_employees:16;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_gorod:Kalinkovichi;;
+                    

@@ -1,12 +1,12 @@
-Lotva<-concept_way;
-                =>nrel_main_idtf:
-                [Lotva]
-                (* <- lang_en;; <- name_en;;*);
-                [Лотва]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1800;
-                =>nrel_number_of_employees:14;
-                =>nrel_number_of_trains:4;
-                =>nrel_rajon:Shklovskij;;
-                
+lotva<-concept_way;
+                    =>nrel_main_idtf:
+                    [lotva]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лотва]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1800;
+                    =>nrel_number_of_employees:14;
+                    =>nrel_number_of_trains:4;
+                    =>nrel_rajon:Shklovskij;;
+                    

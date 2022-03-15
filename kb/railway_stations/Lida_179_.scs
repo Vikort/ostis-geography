@@ -1,12 +1,12 @@
-Lida<-concept_way;
-                =>nrel_main_idtf:
-                [Lida]
-                (* <- lang_en;; <- name_en;;*);
-                [Лида]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2400;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:7;
-                =>nrel_gorod:Lida;;
-                
+lida<-concept_way;
+                    =>nrel_main_idtf:
+                    [lida]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лида]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2400;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_gorod:Lida;;
+                    

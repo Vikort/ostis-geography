@@ -1,12 +1,12 @@
-Domashevichi<-concept_way;
-                =>nrel_main_idtf:
-                [Domashevichi]
-                (* <- lang_en;; <- name_en;;*);
-                [Домашевичи]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1400;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:6;
-                =>nrel_rajon:Baranovichskij;;
-                
+domashevichi<-concept_way;
+                    =>nrel_main_idtf:
+                    [domashevichi]
+                    (* <- lang_en;; <- name_en;;*);
+                    [домашевичи]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1400;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_rajon:Baranovichskij;;
+                    

@@ -1,12 +1,12 @@
-Adamovo<-concept_way;
-                =>nrel_main_idtf:
-                [Adamovo]
-                (* <- lang_en;; <- name_en;;*);
-                [Адамово]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:400;
-                =>nrel_number_of_employees:23;
-                =>nrel_number_of_trains:5;
-                =>nrel_oblast:Vitebskaja;;
-                
+adamovo<-concept_way;
+                    =>nrel_main_idtf:
+                    [adamovo]
+                    (* <- lang_en;; <- name_en;;*);
+                    [адамово]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:400;
+                    =>nrel_number_of_employees:23;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_oblast:Vitebskaja;;
+                    

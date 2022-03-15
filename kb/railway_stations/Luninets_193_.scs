@@ -1,12 +1,12 @@
-Luninets<-concept_way;
-                =>nrel_main_idtf:
-                [Luninets]
-                (* <- lang_en;; <- name_en;;*);
-                [Лунинец]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2500;
-                =>nrel_number_of_employees:16;
-                =>nrel_number_of_trains:6;
-                =>nrel_gorod:Luninets;;
-                
+luninets<-concept_way;
+                    =>nrel_main_idtf:
+                    [luninets]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лунинец]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2500;
+                    =>nrel_number_of_employees:16;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_gorod:Luninets;;
+                    

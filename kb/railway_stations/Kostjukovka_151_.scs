@@ -1,12 +1,12 @@
-Kostjukovka<-concept_way;
-                =>nrel_main_idtf:
-                [Kostjukovka]
-                (* <- lang_en;; <- name_en;;*);
-                [Костюковка]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1300;
-                =>nrel_number_of_employees:21;
-                =>nrel_number_of_trains:6;
-                =>nrel_oblast:Gomelskaja;;
-                
+kostjukovka<-concept_way;
+                    =>nrel_main_idtf:
+                    [kostjukovka]
+                    (* <- lang_en;; <- name_en;;*);
+                    [костюковка]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1300;
+                    =>nrel_number_of_employees:21;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_oblast:Gomelskaja;;
+                    

@@ -1,12 +1,12 @@
-Kozenki<-concept_way;
-                =>nrel_main_idtf:
-                [Kozenki]
-                (* <- lang_en;; <- name_en;;*);
-                [Козенки]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:700;
-                =>nrel_number_of_employees:19;
-                =>nrel_number_of_trains:6;
-                =>nrel_gorod:Mozyr;;
-                
+kozenki<-concept_way;
+                    =>nrel_main_idtf:
+                    [kozenki]
+                    (* <- lang_en;; <- name_en;;*);
+                    [козенки]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:700;
+                    =>nrel_number_of_employees:19;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_gorod:Mozyr;;
+                    

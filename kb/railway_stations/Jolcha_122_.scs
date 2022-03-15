@@ -1,12 +1,12 @@
-Jolcha<-concept_way;
-                =>nrel_main_idtf:
-                [Jolcha]
-                (* <- lang_en;; <- name_en;;*);
-                [Йолча]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2100;
-                =>nrel_number_of_employees:17;
-                =>nrel_number_of_trains:5;
-                =>nrel_rajon:Braginskij;;
-                
+jolcha<-concept_way;
+                    =>nrel_main_idtf:
+                    [jolcha]
+                    (* <- lang_en;; <- name_en;;*);
+                    [йолча]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2100;
+                    =>nrel_number_of_employees:17;
+                    =>nrel_number_of_trains:5;
+                    =>nrel_rajon:Braginskij;;
+                    

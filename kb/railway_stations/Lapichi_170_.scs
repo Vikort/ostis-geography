@@ -1,12 +1,12 @@
-Lapichi<-concept_way;
-                =>nrel_main_idtf:
-                [Lapichi]
-                (* <- lang_en;; <- name_en;;*);
-                [Лапичи]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:500;
-                =>nrel_number_of_employees:16;
-                =>nrel_number_of_trains:7;
-                =>nrel_oblast:Mogilevskaja;;
-                
+lapichi<-concept_way;
+                    =>nrel_main_idtf:
+                    [lapichi]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лапичи]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:500;
+                    =>nrel_number_of_employees:16;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_oblast:Mogilevskaja;;
+                    

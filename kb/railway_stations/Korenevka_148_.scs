@@ -1,12 +1,12 @@
-Korenevka<-concept_way;
-                =>nrel_main_idtf:
-                [Korenevka]
-                (* <- lang_en;; <- name_en;;*);
-                [Кореневка]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:700;
-                =>nrel_number_of_employees:19;
-                =>nrel_number_of_trains:6;
-                =>nrel_oblast:Gomelskaja;;
-                
+korenevka<-concept_way;
+                    =>nrel_main_idtf:
+                    [korenevka]
+                    (* <- lang_en;; <- name_en;;*);
+                    [кореневка]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:700;
+                    =>nrel_number_of_employees:19;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_oblast:Gomelskaja;;
+                    

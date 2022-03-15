@@ -1,12 +1,12 @@
-Krugovets<-concept_way;
-                =>nrel_main_idtf:
-                [Krugovets]
-                (* <- lang_en;; <- name_en;;*);
-                [Круговец]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:1700;
-                =>nrel_number_of_employees:19;
-                =>nrel_number_of_trains:6;
-                =>nrel_rajon:Dobrushskij;;
-                
+krugovets<-concept_way;
+                    =>nrel_main_idtf:
+                    [krugovets]
+                    (* <- lang_en;; <- name_en;;*);
+                    [круговец]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:1700;
+                    =>nrel_number_of_employees:19;
+                    =>nrel_number_of_trains:6;
+                    =>nrel_rajon:Dobrushskij;;
+                    

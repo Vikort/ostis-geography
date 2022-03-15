@@ -1,12 +1,12 @@
-Lupolovo<-concept_way;
-                =>nrel_main_idtf:
-                [Lupolovo]
-                (* <- lang_en;; <- name_en;;*);
-                [Луполово]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2000;
-                =>nrel_number_of_employees:11;
-                =>nrel_number_of_trains:2;
-                =>nrel_oblast:Mogilevskaja;;
-                
+lupolovo<-concept_way;
+                    =>nrel_main_idtf:
+                    [lupolovo]
+                    (* <- lang_en;; <- name_en;;*);
+                    [луполово]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2000;
+                    =>nrel_number_of_employees:11;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_oblast:Mogilevskaja;;
+                    

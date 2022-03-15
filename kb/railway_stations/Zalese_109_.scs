@@ -1,12 +1,12 @@
-Zalese<-concept_way;
-                =>nrel_main_idtf:
-                [Zalese]
-                (* <- lang_en;; <- name_en;;*);
-                [Залесье]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2900;
-                =>nrel_number_of_employees:20;
-                =>nrel_number_of_trains:2;
-                =>nrel_rajon:Smorgonskij;;
-                
+zalese<-concept_way;
+                    =>nrel_main_idtf:
+                    [zalese]
+                    (* <- lang_en;; <- name_en;;*);
+                    [залесье]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2900;
+                    =>nrel_number_of_employees:20;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_rajon:Smorgonskij;;
+                    

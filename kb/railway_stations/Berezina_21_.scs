@@ -1,12 +1,12 @@
-Berezina<-concept_way;
-                =>nrel_main_idtf:
-                [Berezina]
-                (* <- lang_en;; <- name_en;;*);
-                [Березина]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3100;
-                =>nrel_number_of_employees:24;
-                =>nrel_number_of_trains:7;
-                =>nrel_gorod:Bobrujsk;;
-                
+berezina<-concept_way;
+                    =>nrel_main_idtf:
+                    [berezina]
+                    (* <- lang_en;; <- name_en;;*);
+                    [березина]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3100;
+                    =>nrel_number_of_employees:24;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_gorod:Bobrujsk;;
+                    

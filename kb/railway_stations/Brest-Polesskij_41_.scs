@@ -1,12 +1,12 @@
-Brest-Polesskij<-concept_way;
-                =>nrel_main_idtf:
-                [Brest-Polesskij]
-                (* <- lang_en;; <- name_en;;*);
-                [Брест-Полесский]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:3300;
-                =>nrel_number_of_employees:16;
-                =>nrel_number_of_trains:3;
-                =>nrel_gorod:Brest;;
-                
+brest_polesskij<-concept_way;
+                    =>nrel_main_idtf:
+                    [brest_polesskij]
+                    (* <- lang_en;; <- name_en;;*);
+                    [брест_полесский]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:3300;
+                    =>nrel_number_of_employees:16;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_gorod:Brest;;
+                    

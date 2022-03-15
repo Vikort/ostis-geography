@@ -1,12 +1,12 @@
-Bobr<-concept_way;
-                =>nrel_main_idtf:
-                [Bobr]
-                (* <- lang_en;; <- name_en;;*);
-                [Бобр]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2000;
-                =>nrel_number_of_employees:18;
-                =>nrel_number_of_trains:7;
-                =>nrel_rajon:Krupskij;;
-                
+bobr<-concept_way;
+                    =>nrel_main_idtf:
+                    [bobr]
+                    (* <- lang_en;; <- name_en;;*);
+                    [бобр]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2000;
+                    =>nrel_number_of_employees:18;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_rajon:Krupskij;;
+                    

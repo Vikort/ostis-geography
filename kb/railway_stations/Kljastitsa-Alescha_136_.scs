@@ -1,12 +1,12 @@
-Kljastitsa-Alescha<-concept_way;
-                =>nrel_main_idtf:
-                [Kljastitsa-Alescha]
-                (* <- lang_en;; <- name_en;;*);
-                [Клястица-Алеща]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2800;
-                =>nrel_number_of_employees:16;
-                =>nrel_number_of_trains:7;
-                =>nrel_oblast:Vitebskaja;;
-                
+kljastitsa_alescha<-concept_way;
+                    =>nrel_main_idtf:
+                    [kljastitsa_alescha]
+                    (* <- lang_en;; <- name_en;;*);
+                    [клястица_алеща]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2800;
+                    =>nrel_number_of_employees:16;
+                    =>nrel_number_of_trains:7;
+                    =>nrel_oblast:Vitebskaja;;
+                    

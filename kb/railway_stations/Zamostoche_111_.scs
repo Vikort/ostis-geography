@@ -1,12 +1,12 @@
-Zamostoche<-concept_way;
-                =>nrel_main_idtf:
-                [Zamostoche]
-                (* <- lang_en;; <- name_en;;*);
-                [Замосточье]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2400;
-                =>nrel_number_of_employees:10;
-                =>nrel_number_of_trains:3;
-                =>nrel_rajon:Vitebskij;;
-                
+zamostoche<-concept_way;
+                    =>nrel_main_idtf:
+                    [zamostoche]
+                    (* <- lang_en;; <- name_en;;*);
+                    [замосточье]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2400;
+                    =>nrel_number_of_employees:10;
+                    =>nrel_number_of_trains:3;
+                    =>nrel_rajon:Vitebskij;;
+                    

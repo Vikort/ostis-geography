@@ -1,12 +1,12 @@
-Lepel<-concept_way;
-                =>nrel_main_idtf:
-                [Lepel]
-                (* <- lang_en;; <- name_en;;*);
-                [Лепель]
-                (* <- lang_ru;; <- name_ru;; <- name;;*);
-                =>nrel_country:Belarus;
-                =>nrel_number_of_passengers:2500;
-                =>nrel_number_of_employees:13;
-                =>nrel_number_of_trains:2;
-                =>nrel_gorod:Lepel;;
-                
+lepel<-concept_way;
+                    =>nrel_main_idtf:
+                    [lepel]
+                    (* <- lang_en;; <- name_en;;*);
+                    [лепель]
+                    (* <- lang_ru;; <- name_ru;; <- name;;*);
+                    =>nrel_country:Belarus;
+                    =>nrel_number_of_passengers:2500;
+                    =>nrel_number_of_employees:13;
+                    =>nrel_number_of_trains:2;
+                    =>nrel_gorod:Lepel;;
+                    
