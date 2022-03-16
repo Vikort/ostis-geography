@@ -1,1 +1,5 @@
 add_subdirectory(OpenStreetMapAgent)
+add_subdirectory(FoundationYearModule)
+add_subdirectory(CityModule)
+add_subdirectory(TypeModule)
+
