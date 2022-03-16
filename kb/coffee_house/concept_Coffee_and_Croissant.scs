@@ -1,0 +1,18 @@
+Coffee_and_Croissant <- concept_coffee_house; <- concept_map_object;
+=>nrel_main_idtf:
+       [Porappo Coffee]
+       (* <- lang_en;; <- name_en;; <- name;;*);
+       [Пораппо Кофи]
+       (* <- lang_ru;; <- name_ru;;*);
+=>nrel_year_of_foundation:
+       2015
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+=>nrel_rating:
+       4.4;
+=>nrel_price:
+       12;;
+                

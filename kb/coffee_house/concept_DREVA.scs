@@ -1,0 +1,18 @@
+DREVA <- concept_coffee_house; <- concept_map_object;
+=>nrel_main_idtf:
+       [DREVA]
+       (* <- lang_en;; <- name_en;;*);
+       [ДРЕВА]
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_year_of_foundation:
+       2016
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+=>nrel_rating:
+       4.4;
+=>nrel_price:
+       10;;
+                

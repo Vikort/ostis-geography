@@ -1,0 +1,18 @@
+Wake_Up_Coffee <- concept_coffee_house; <- concept_map_object;
+=>nrel_main_idtf:
+       [Wake Up Coffee]
+       (* <- lang_en;; <- name_en;;*);
+       [Ваке Уп Цоффее]
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_year_of_foundation:
+       2015
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+=>nrel_rating:
+       3.1;
+=>nrel_price:
+       11;;
+                

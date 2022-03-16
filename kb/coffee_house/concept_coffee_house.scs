@@ -1,0 +1,30 @@
+concept_coffee_house
+<-sc_node_not_relation;
+=>nrel_main_idtf:
+	[кофейня]
+	(* <- lang_ru;; *);
+	[coffee house]
+	(* <- lang_en;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	=>nrel_main_idtf:
+		[Опр. (кофейня)]
+		(* <- lang_ru;; *);
+		[Def. (coffee house)]
+		(* <- lang_en;; *);;
+	<- definition;;
+	<= nrel_sc_text_translation:
+		...
+		(*
+		->rrel_example:
+			[Кофейня — подвид кафе, гастрономическое заведение, место для встреч и общения, где подают напитки и десертные блюда: кофе, торты, мороженое, зелёный и чёрный чай, соки, а также газированные и алкогольные напитки.]
+			(* <- lang_ru;; *);;
+		*);
+		...
+		(*
+		-> rrel_example:
+			[A coffeehouse, coffee shop, or café is an establishment that primarily serves coffee of various types, e.g. espresso, latte, and cappuccino. Some coffeehouses may serve cold drinks, such as iced coffee, iced tea, and other non-caffeinated beverages.]
+			(* <- lang_en;; *);;
+		*);;
+	*);;

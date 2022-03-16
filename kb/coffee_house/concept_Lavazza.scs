@@ -1,0 +1,18 @@
+Lavazza <- concept_coffee_house; <- concept_map_object;
+=>nrel_main_idtf:
+       [Lavazza]
+       (* <- lang_en;; <- name_en;;*);
+       [Лавазза]
+       (* <- lang_ru;; <- name_ru;; <- name;;*);
+=>nrel_year_of_foundation:
+       2016
+       (* <-concept_year_of_foundation;;*);
+=>nrel_country:
+       belarus;
+=>nrel_city:
+       minsk;
+=>nrel_rating:
+       3.1;
+=>nrel_price:
+       7;;
+                
