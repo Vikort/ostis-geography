@@ -27,6 +27,9 @@ include_kb()
 	rm -rf ./kb/menu
 	echo "../kb" >> ./repo.path
 	echo "../problem-solver/py/services/OpenStreetMapAgent/specification" >> ./repo.path
+	echo "../problem-solver/py/services/SearchPostOfficeByBrandAgent/specification" >> ./repo.path
+	echo "../problem-solver/py/services/SearchPostOfficeByCityAgent/specification" >> ./repo.path
+	echo "../problem-solver/py/services/SearchPostOfficeByTypeAgent/specification" >> ./repo.path
 	cd scripts
 	./build_kb.sh
 	cd "${PLATFORM_PATH}"
@@ -53,6 +56,7 @@ include_interface()
 	cd "${PLATFORM_PATH}"/ostis-osm
 	cp -f build_components.py "${PLATFORM_PATH}"/sc-web/scripts
 	./install_component.sh
+	
 }
 
 cd "${APP_ROOT_PATH}"
