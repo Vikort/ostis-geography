@@ -1,1 +1,6 @@
 add_subdirectory(OpenStreetMapAgent)
+add_subdirectory(LengthAverageModule)
+add_subdirectory(CountAverageModule)
+add_subdirectory(DistrictModule)
+
+
