@@ -1,0 +1,7 @@
+ui_villages_search_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Find villages by population range]
+	(*
+	<- lang_en;;
+	*);;
+
