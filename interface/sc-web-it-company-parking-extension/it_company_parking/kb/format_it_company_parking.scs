@@ -1,0 +1,27 @@
+format_it_company_parking
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[формат компонент]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[format of UI component]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+it_company_parking_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Компонент добавления стоянок it компаний]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[UI component for adding it company parkings]
+	(*
+	<- lang_en;;
+	*);;

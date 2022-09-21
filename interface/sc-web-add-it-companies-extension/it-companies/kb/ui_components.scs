@@ -1,0 +1,25 @@
+ui_it_company_office_text_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Компонент добавления офиса it компании.]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[This is a component for adding it company office.]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_it_company_office_answer_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Создать]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Create]
+	(*
+	<- lang_en;;
+	*);;
+
+

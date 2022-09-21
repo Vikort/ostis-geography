@@ -1,0 +1,25 @@
+ui_it_company_parking_text_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Компонент добавления парковки it компании.]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[This is a component for adding it company parking.]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_it_company_parking_answer_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Создать]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Create]
+	(*
+	<- lang_en;;
+	*);;
+
+

@@ -1,0 +1,27 @@
+format_it_company_office
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[формат компонент]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[format of UI component]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+it_company_office_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Компонент добавления it офиса]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[UI component for adding it company office]
+	(*
+	<- lang_en;;
+	*);;
