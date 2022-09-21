@@ -1,0 +1,20 @@
+Belorusneft_24_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_24]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №24]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.845374]
+    (* <- rrel_latitude;; *);
+    [27.41402]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_24_3
+<= nrel_address:
+[Минская обл., Минский р-н, Щомыслицкий с/с, 28 км МКАД район аг. Озерцо]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_30_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_30]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №30]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.817615]
+    (* <- rrel_latitude;; *);
+    [27.428389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_30_5
+<= nrel_address:
+[Минская обл., Минский р-н, а/д Р-1, 12-й км, 2]
+(*<-lang_ru;;*);;

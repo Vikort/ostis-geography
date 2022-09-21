@@ -1,0 +1,20 @@
+Belorusneft_76_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1568]
+    (* <- rrel_latitude;; *);
+    [25.5597]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_76_5
+<= nrel_address:
+[Брестская обл., Ивановский р-н, Лясковичский с/с, М-10, 438 км., 10]
+(*<-lang_ru;;*);;

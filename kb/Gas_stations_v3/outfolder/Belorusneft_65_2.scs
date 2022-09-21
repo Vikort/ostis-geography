@@ -1,0 +1,19 @@
+Belorusneft_65_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_65]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №65]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.120266]
+    (* <- rrel_latitude;; *);
+    [28.16863]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_65_2
+<= nrel_address:
+[Лясковичский с/с., аг. Лясковичи, ул. Речная, 29]
+(*<-lang_ru;;*);;

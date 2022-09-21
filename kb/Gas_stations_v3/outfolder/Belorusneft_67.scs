@@ -1,0 +1,20 @@
+Belorusneft_67<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_67]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №67]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.906433]
+    (* <- rrel_latitude;; *);
+    [29.399433]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_67
+<= nrel_address:
+[Белыничский р-н, М-4,132 км,1]
+(*<-lang_ru;;*);;

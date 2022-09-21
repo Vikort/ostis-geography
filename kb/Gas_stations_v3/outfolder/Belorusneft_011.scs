@@ -1,0 +1,15 @@
+Belorusneft_011<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_011]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №011]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.899066]
+    (* <- rrel_latitude;; *);
+    [27.565566]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_011
+<= nrel_address:
+[г. Минск, ул. Кирова, 18]
+(*<-lang_ru;;*);;

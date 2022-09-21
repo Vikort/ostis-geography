@@ -1,0 +1,20 @@
+Belorusneft_9_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_9]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №9]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.615278]
+    (* <- rrel_latitude;; *);
+    [30.853611]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_9_7
+<= nrel_address:
+[Коммунаровский с/с., 8]
+(*<-lang_ru;;*);;

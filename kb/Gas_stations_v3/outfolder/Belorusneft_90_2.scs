@@ -1,0 +1,20 @@
+Belorusneft_90_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_90]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №90]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.813611]
+    (* <- rrel_latitude;; *);
+    [24.076111]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_90_2
+<= nrel_address:
+[Брестская обл., Малоритский р-н, г. Малорита, ул. Кобринская, 65]
+(*<-lang_ru;;*);;

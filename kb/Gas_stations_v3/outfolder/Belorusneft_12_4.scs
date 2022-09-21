@@ -1,0 +1,21 @@
+Belorusneft_12_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_12]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №12]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.960514]
+    (* <- rrel_latitude;; *);
+    [27.537704]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_12_4
+<= nrel_address:
+[г. Минск, Долгиновский тракт, 172]
+(*<-lang_ru;;*);;

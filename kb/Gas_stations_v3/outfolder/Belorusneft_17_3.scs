@@ -1,0 +1,19 @@
+Belorusneft_17_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_17]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №17]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.889393]
+    (* <- rrel_latitude;; *);
+    [28.675158]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_17_3
+<= nrel_address:
+[Глусский р-н, Хвастовичский с/с,1]
+(*<-lang_ru;;*);;

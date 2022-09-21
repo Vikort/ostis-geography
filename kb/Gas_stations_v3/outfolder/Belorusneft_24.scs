@@ -1,0 +1,19 @@
+Belorusneft_24<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_24]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №24]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.904465]
+    (* <- rrel_latitude;; *);
+    [27.747779]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;;
+Belorusneft_24
+<= nrel_address:
+[г. Докшицы, ул. Советская, 92]
+(*<-lang_ru;;*);;

@@ -1,0 +1,15 @@
+Belorusneft_077<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_077]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №077]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.899808]
+    (* <- rrel_latitude;; *);
+    [27.543412]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_077
+<= nrel_address:
+[г. Минск, ул. Немига, 40]
+(*<-lang_ru;;*);;

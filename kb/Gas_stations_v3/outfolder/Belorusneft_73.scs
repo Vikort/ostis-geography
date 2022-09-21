@@ -1,0 +1,18 @@
+Belorusneft_73<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.842223]
+    (* <- rrel_latitude;; *);
+    [30.239463]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_73
+<= nrel_address:
+[Сенненский р-н, г.п. Богушевск на а/д Р-86 12+500 (лево)]
+(*<-lang_ru;;*);;

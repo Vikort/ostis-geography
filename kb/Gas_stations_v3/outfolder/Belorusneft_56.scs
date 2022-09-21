@@ -1,0 +1,18 @@
+Belorusneft_56<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_56]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №56]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.343218]
+    (* <- rrel_latitude;; *);
+    [29.411946]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_56
+<= nrel_address:
+[д. Малявка]
+(*<-lang_ru;;*);;

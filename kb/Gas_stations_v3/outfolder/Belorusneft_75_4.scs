@@ -1,0 +1,20 @@
+Belorusneft_75_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_75]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №75]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.456373]
+    (* <- rrel_latitude;; *);
+    [26.387082]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_75_4
+<= nrel_address:
+[76-й км дороги Р-95, 2, 231000, Сморгонский район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;

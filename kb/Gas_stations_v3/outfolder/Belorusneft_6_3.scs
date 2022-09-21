@@ -1,0 +1,20 @@
+Belorusneft_6_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_6]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №6]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.639486]
+    (* <- rrel_latitude;; *);
+    [23.840543]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_6_3
+<= nrel_address:
+[г. Гродно, Индурское шоссе,11а]
+(*<-lang_ru;;*);;

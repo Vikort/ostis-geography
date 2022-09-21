@@ -1,0 +1,18 @@
+Belorusneft_29<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_29]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №29]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.154285]
+    (* <- rrel_latitude;; *);
+    [27.939839]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_29
+<= nrel_address:
+[г.п. Подсвилье, ул. Железнодорожная, 1А]
+(*<-lang_ru;;*);;

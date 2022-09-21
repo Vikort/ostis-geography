@@ -1,0 +1,20 @@
+Belorusneft_57_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_57]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №57]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.968429]
+    (* <- rrel_latitude;; *);
+    [27.526385]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_57_3
+<= nrel_address:
+[г. Минск, Долгиновский Тракт, 189]
+(*<-lang_ru;;*);;

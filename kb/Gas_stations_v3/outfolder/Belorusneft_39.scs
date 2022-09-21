@@ -1,0 +1,19 @@
+Belorusneft_39<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_39]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №39]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.160028]
+    (* <- rrel_latitude;; *);
+    [29.233876]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_39
+<= nrel_address:
+[г. Бобруйск, ул.Ленина 86А]
+(*<-lang_ru;;*);;

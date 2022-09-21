@@ -1,0 +1,21 @@
+Belorusneft_59_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_59]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №59]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.152778]
+    (* <- rrel_latitude;; *);
+    [24.035556]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_59_6
+<= nrel_address:
+[д.Федьковичи,а/д Брест-Москва,36км лево 0,2 км западнее]
+(*<-lang_ru;;*);;

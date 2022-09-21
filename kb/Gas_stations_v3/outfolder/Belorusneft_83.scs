@@ -1,0 +1,19 @@
+Belorusneft_83<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_83]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №83]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.86295]
+    (* <- rrel_latitude;; *);
+    [30.359266]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_83
+<= nrel_address:
+[г. Могилев, Славгородское шоссе, 1]
+(*<-lang_ru;;*);;

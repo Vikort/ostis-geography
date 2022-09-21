@@ -1,0 +1,20 @@
+Belorusneft_75_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_75]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №75]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1355]
+    (* <- rrel_latitude;; *);
+    [26.0481]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_75_3
+<= nrel_address:
+[Брестская обл., г. Пинск, пр-т Жолтовского, 34]
+(*<-lang_ru;;*);;

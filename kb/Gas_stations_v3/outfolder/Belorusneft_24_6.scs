@@ -1,0 +1,21 @@
+Belorusneft_24_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_24]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №24]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.205284]
+    (* <- rrel_latitude;; *);
+    [24.005039]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_24_6
+<= nrel_address:
+[г.п. Большая Берестовица, ул. Ленина, 41]
+(*<-lang_ru;;*);;

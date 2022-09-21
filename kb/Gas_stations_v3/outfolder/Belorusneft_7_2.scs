@@ -1,0 +1,20 @@
+Belorusneft_7_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_7]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №7]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.2714]
+    (* <- rrel_latitude;; *);
+    [28.498667]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_7_2
+<= nrel_address:
+[г.Борисов, ул. Лопатина 170а]
+(*<-lang_ru;;*);;

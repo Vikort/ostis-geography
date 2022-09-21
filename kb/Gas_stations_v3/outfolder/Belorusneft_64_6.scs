@@ -1,0 +1,20 @@
+Belorusneft_64_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.552554]
+    (* <- rrel_latitude;; *);
+    [23.864581]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_64_6
+<= nrel_address:
+[Коптевский с/с М6 288-й км,2]
+(*<-lang_ru;;*);;

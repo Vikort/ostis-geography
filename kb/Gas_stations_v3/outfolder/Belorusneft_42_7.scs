@@ -1,0 +1,20 @@
+Belorusneft_42_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.182222]
+    (* <- rrel_latitude;; *);
+    [24.366944]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_42_7
+<= nrel_address:
+[Брестская обл., Кобринский р-н, М-1, 60-й км, 1]
+(*<-lang_ru;;*);;

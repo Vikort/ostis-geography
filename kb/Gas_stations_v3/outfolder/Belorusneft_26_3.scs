@@ -1,0 +1,20 @@
+Belorusneft_26_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_26]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №26]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.971666]
+    (* <- rrel_latitude;; *);
+    [26.69937]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_26_3
+<= nrel_address:
+[Минская обл.,Клецкий р-н, Грицевичский с/с,Р-43, 409-й км, 1]
+(*<-lang_ru;;*);;

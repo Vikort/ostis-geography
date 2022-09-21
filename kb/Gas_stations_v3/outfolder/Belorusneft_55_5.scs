@@ -1,0 +1,20 @@
+Belorusneft_55_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_55]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №55]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.43327]
+    (* <- rrel_latitude;; *);
+    [27.89042]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_55_5
+<= nrel_address:
+[Плещеницкий с/с,1(АЗС №55,66-й км.,а/д М3 Минск-Витебск]
+(*<-lang_ru;;*);;

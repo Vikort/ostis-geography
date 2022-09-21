@@ -1,0 +1,21 @@
+Belorusneft_28_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.19037]
+    (* <- rrel_latitude;; *);
+    [26.07576]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_28_5
+<= nrel_address:
+[Брестская область, Барановичский район, М-1, 226-й км, 2]
+(*<-lang_ru;;*);;

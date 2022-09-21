@@ -1,0 +1,18 @@
+Belorusneft_26<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_26]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №26]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.12035]
+    (* <- rrel_latitude;; *);
+    [29.570633]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_26
+<= nrel_address:
+[аг.Бол.Бортники Бортниковский с/с ул.Рогачевская,2Б]
+(*<-lang_ru;;*);;

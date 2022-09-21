@@ -1,0 +1,15 @@
+Belorusneft_045<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_045]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №045]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.901167]
+    (* <- rrel_latitude;; *);
+    [27.56964]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_045
+<= nrel_address:
+[г. Минск, ул. Янки Купалы, 7]
+(*<-lang_ru;;*);;

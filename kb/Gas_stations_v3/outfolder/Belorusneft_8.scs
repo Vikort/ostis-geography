@@ -1,0 +1,19 @@
+Belorusneft_8<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.780833]
+    (* <- rrel_latitude;; *);
+    [24.050833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_8
+<= nrel_address:
+[Брестская обл., Малоритский р-н, Хотиславский с/с, 30, 0,2 км юго-западнее г. Малорита]
+(*<-lang_ru;;*);;

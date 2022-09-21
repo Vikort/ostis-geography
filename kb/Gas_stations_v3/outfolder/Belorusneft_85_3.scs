@@ -1,0 +1,20 @@
+Belorusneft_85_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_85]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №85]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.080283]
+    (* <- rrel_latitude;; *);
+    [23.770483]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_85_3
+<= nrel_address:
+[Брестская обл., г. Брест, ул. Суворова, 200]
+(*<-lang_ru;;*);;

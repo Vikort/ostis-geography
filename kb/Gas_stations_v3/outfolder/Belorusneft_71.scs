@@ -1,0 +1,21 @@
+Belorusneft_71<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.780336]
+    (* <- rrel_latitude;; *);
+    [29.507124]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_71
+<= nrel_address:
+[г. Наровля, ул. Корзуна А.Г., 62]
+(*<-lang_ru;;*);;

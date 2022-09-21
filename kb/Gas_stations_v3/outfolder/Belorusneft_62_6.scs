@@ -1,0 +1,18 @@
+Belorusneft_62_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_62]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №62]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.004796]
+    (* <- rrel_latitude;; *);
+    [27.658602]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai95Flagman;;
+Belorusneft_62_6
+<= nrel_address:
+[Минская область, Боровлянский с/с, д. Боровляны]
+(*<-lang_ru;;*);;

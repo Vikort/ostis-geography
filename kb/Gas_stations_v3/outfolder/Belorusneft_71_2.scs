@@ -1,0 +1,21 @@
+Belorusneft_71_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.911316]
+    (* <- rrel_latitude;; *);
+    [30.283916]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_71_2
+<= nrel_address:
+[212026,г.Могилев, ул. Алексея Пысина,12]
+(*<-lang_ru;;*);;

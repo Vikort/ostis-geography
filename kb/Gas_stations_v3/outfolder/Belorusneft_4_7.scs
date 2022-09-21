@@ -1,0 +1,22 @@
+Belorusneft_4_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_4]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №4]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.0536]
+    (* <- rrel_latitude;; *);
+    [23.7234]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai95;
+concept_gas;;
+Belorusneft_4_7
+<= nrel_address:
+[Брестская обл., г. Брест, ул. Ковельская, 105]
+(*<-lang_ru;;*);;

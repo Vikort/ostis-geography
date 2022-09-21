@@ -1,0 +1,19 @@
+Belorusneft_61<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_61]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №61]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.0175]
+    (* <- rrel_latitude;; *);
+    [29.174722]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;;
+Belorusneft_61
+<= nrel_address:
+[Бешенковичский р/н, Бочейковский с/с, 1]
+(*<-lang_ru;;*);;

@@ -1,0 +1,18 @@
+Belorusneft_50_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_50]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №50]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.665654]
+    (* <- rrel_latitude;; *);
+    [28.225555]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_50_7
+<= nrel_address:
+[Минская обл.,Любанский р-н,Сосновский с/с,п. Бориков,ул.Дорожная,3]
+(*<-lang_ru;;*);;

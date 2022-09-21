@@ -1,0 +1,20 @@
+Belorusneft_76_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.374524]
+    (* <- rrel_latitude;; *);
+    [29.31605]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_76_4
+<= nrel_address:
+[М-1,494-й км,76]
+(*<-lang_ru;;*);;

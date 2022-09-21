@@ -1,0 +1,19 @@
+Belorusneft_27_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_27]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №27]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.405619]
+    (* <- rrel_latitude;; *);
+    [26.631838]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;;
+Belorusneft_27_6
+<= nrel_address:
+[г.п. Видзы, ул. Браславская, 61]
+(*<-lang_ru;;*);;

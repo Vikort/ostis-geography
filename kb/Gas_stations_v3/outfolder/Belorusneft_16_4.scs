@@ -1,0 +1,20 @@
+Belorusneft_16_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_16]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №16]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1141]
+    (* <- rrel_latitude;; *);
+    [23.739]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_16_4
+<= nrel_address:
+[Брестская обл., г. Брест, ул. Мошенского, 96]
+(*<-lang_ru;;*);;

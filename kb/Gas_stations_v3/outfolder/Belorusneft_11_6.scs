@@ -1,0 +1,21 @@
+Belorusneft_11_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_11]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №11]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.883206]
+    (* <- rrel_latitude;; *);
+    [26.938655]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_11_6
+<= nrel_address:
+[г. Мядель, ул. Интернациональная, 8]
+(*<-lang_ru;;*);;

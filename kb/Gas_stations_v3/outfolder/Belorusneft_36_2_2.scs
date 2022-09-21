@@ -1,0 +1,15 @@
+Belorusneft_36_2_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_36_2]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №36 (2)]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.933]
+    (* <- rrel_latitude;; *);
+    [25.8611]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_36_2_2
+<= nrel_address:
+[Брестская обл., Пинский р-н, Р-147, 27-й км северо-восточнее д. невель]
+(*<-lang_ru;;*);;

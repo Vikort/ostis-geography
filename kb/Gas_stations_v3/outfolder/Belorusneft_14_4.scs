@@ -1,0 +1,20 @@
+Belorusneft_14_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.46092]
+    (* <- rrel_latitude;; *);
+    [26.864353]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_14_4
+<= nrel_address:
+[Вилейский р-н, Осиповичский с/с, 5]
+(*<-lang_ru;;*);;

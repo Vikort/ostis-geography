@@ -1,0 +1,21 @@
+Belorusneft_89_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_89]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №89]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.269966]
+    (* <- rrel_latitude;; *);
+    [31.131469]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_89_3
+<= nrel_address:
+[М-10 46 км. право]
+(*<-lang_ru;;*);;

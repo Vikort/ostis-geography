@@ -1,0 +1,20 @@
+Belorusneft_61_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_61]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №61]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1244]
+    (* <- rrel_latitude;; *);
+    [26.0633]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_61_3
+<= nrel_address:
+[Брестская обл., г. Пинск, ул. Янищиц, 4]
+(*<-lang_ru;;*);;

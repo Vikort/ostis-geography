@@ -1,0 +1,21 @@
+Belorusneft_55_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_55]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №55]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.14334]
+    (* <- rrel_latitude;; *);
+    [27.718312]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_bn95;
+concept_gas;
+concept_ai98;;
+Belorusneft_55_2
+<= nrel_address:
+[г. Глубокое, ул. Горького, 60]
+(*<-lang_ru;;*);;

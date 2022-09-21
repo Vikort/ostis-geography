@@ -1,0 +1,21 @@
+Belorusneft_10_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_10]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №10]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.939983]
+    (* <- rrel_latitude;; *);
+    [27.571431]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_10_3
+<= nrel_address:
+[г. Минск, ул. Некрасова, 112]
+(*<-lang_ru;;*);;

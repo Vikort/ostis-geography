@@ -1,0 +1,19 @@
+Belorusneft_8_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_8]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №8]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.900056]
+    (* <- rrel_latitude;; *);
+    [30.357389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_8_4
+<= nrel_address:
+[г. Могилев, бул. Юбилейный, 2]
+(*<-lang_ru;;*);;

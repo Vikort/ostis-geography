@@ -1,0 +1,18 @@
+Belorusneft_20_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.038358]
+    (* <- rrel_latitude;; *);
+    [27.789656]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_20_2
+<= nrel_address:
+[аг. Крулевщина, ул. Черняховского, 128]
+(*<-lang_ru;;*);;

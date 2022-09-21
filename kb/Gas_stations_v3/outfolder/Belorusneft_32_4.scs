@@ -1,0 +1,20 @@
+Belorusneft_32_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_32]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №32]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.31]
+    (* <- rrel_latitude;; *);
+    [26.023333]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_32_4
+<= nrel_address:
+[Брестская обл., Барановичский р-н, Городищенский поселковый Совет с/с, 0,9 км южнее г.п. Городище]
+(*<-lang_ru;;*);;

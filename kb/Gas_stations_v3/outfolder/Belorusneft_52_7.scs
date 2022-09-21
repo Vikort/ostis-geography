@@ -1,0 +1,20 @@
+Belorusneft_52_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_52]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №52]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.884245]
+    (* <- rrel_latitude;; *);
+    [27.479411]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_52_7
+<= nrel_address:
+[г. Минск, ул. Гурского, 24а]
+(*<-lang_ru;;*);;

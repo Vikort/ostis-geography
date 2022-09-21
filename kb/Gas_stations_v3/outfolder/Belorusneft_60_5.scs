@@ -1,0 +1,20 @@
+Belorusneft_60_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_60]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №60]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.166111]
+    (* <- rrel_latitude;; *);
+    [27.819166]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_60_5
+<= nrel_address:
+[Логойский с/с, 39 (36-й км а/д М-3 Минск-Витебск)]
+(*<-lang_ru;;*);;

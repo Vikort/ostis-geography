@@ -1,0 +1,19 @@
+Belorusneft_80<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_80]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №80]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.658754]
+    (* <- rrel_latitude;; *);
+    [23.790753]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_80
+<= nrel_address:
+[г. Гродно ул. Репина, 48]
+(*<-lang_ru;;*);;

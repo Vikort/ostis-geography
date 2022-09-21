@@ -1,0 +1,22 @@
+Belorusneft_28_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_28]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №28]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.101615]
+    (* <- rrel_latitude;; *);
+    [30.971571]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_28_7
+<= nrel_address:
+[Терюхский с/с., вблизи аг. Новая Гута]
+(*<-lang_ru;;*);;

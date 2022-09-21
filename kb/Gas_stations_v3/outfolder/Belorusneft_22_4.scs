@@ -1,0 +1,21 @@
+Belorusneft_22_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_22]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №22]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.098414]
+    (* <- rrel_latitude;; *);
+    [26.838948]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_22_4
+<= nrel_address:
+[г. Поставы, ул. Советская, 108]
+(*<-lang_ru;;*);;

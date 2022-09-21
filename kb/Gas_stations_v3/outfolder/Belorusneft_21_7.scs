@@ -1,0 +1,18 @@
+Belorusneft_21_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_21]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №21]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.489926]
+    (* <- rrel_latitude;; *);
+    [26.733338]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai95Flagman;;
+Belorusneft_21_7
+<= nrel_address:
+[Минская обл., Столбцовский р-н,г. Столбцы, ул. Магистральная, 1]
+(*<-lang_ru;;*);;

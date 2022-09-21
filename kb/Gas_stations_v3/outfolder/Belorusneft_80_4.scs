@@ -1,0 +1,18 @@
+Belorusneft_80_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_80]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №80]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.426551]
+    (* <- rrel_latitude;; *);
+    [27.496169]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai95Flagman;;
+Belorusneft_80_4
+<= nrel_address:
+[Хотлянский с/с, 3, а/д Р-23]
+(*<-lang_ru;;*);;

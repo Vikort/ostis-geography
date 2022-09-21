@@ -1,0 +1,20 @@
+Belorusneft_20_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.443638]
+    (* <- rrel_latitude;; *);
+    [31.023259]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_20_7
+<= nrel_address:
+[г. Гомель, ул. Хатаевича, 40]
+(*<-lang_ru;;*);;

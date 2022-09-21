@@ -1,0 +1,20 @@
+Belorusneft_57_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_57]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №57]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.901663]
+    (* <- rrel_latitude;; *);
+    [25.313071]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_57_5
+<= nrel_address:
+[г. Лида, ул. Мицкевича 35]
+(*<-lang_ru;;*);;

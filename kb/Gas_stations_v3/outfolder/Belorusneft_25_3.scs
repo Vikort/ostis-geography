@@ -1,0 +1,20 @@
+Belorusneft_25_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_25]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №25]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.164567]
+    (* <- rrel_latitude;; *);
+    [29.179783]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_25_3
+<= nrel_address:
+[г. Бобруйск, ул. 50 лет ВЛКСМ. 38]
+(*<-lang_ru;;*);;

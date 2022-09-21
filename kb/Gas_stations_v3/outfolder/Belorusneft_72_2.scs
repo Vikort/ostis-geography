@@ -1,0 +1,20 @@
+Belorusneft_72_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_72]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №72]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.118956]
+    (* <- rrel_latitude;; *);
+    [29.776707]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;;
+Belorusneft_72_2
+<= nrel_address:
+[Островенский с/с, 12]
+(*<-lang_ru;;*);;

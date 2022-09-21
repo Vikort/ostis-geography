@@ -1,0 +1,19 @@
+Belorusneft_5_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_5]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №5]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.127874]
+    (* <- rrel_latitude;; *);
+    [29.421591]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_5_7
+<= nrel_address:
+[Сиродский с-с., 10]
+(*<-lang_ru;;*);;

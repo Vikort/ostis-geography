@@ -1,0 +1,21 @@
+Belorusneft_7_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_7]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №7]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.938469]
+    (* <- rrel_latitude;; *);
+    [27.672026]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;
+concept_ai98;;
+Belorusneft_7_5
+<= nrel_address:
+[г. Минск, пр-т Независимости, 152]
+(*<-lang_ru;;*);;

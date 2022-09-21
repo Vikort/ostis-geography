@@ -1,0 +1,20 @@
+Belorusneft_62_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_62]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №62]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1774]
+    (* <- rrel_latitude;; *);
+    [26.0609]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_62_5
+<= nrel_address:
+[Брестская обл., Пинский р-н, Оснежицкий с/с, д. Посеничи, М-10, 402-й км, 1]
+(*<-lang_ru;;*);;

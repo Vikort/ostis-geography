@@ -1,0 +1,19 @@
+Belorusneft_82_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_82]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №82]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.672229]
+    (* <- rrel_latitude;; *);
+    [23.83386]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_82_2
+<= nrel_address:
+[г. Гродно, ул. Подольная, 14]
+(*<-lang_ru;;*);;

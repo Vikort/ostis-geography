@@ -1,0 +1,20 @@
+Belorusneft_38<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_38]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №38]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.426801]
+    (* <- rrel_latitude;; *);
+    [25.90538]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_38
+<= nrel_address:
+[1-й км дороги H 7727, Кольчунский сельсовет, 2, 231107, Ошмянский район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;

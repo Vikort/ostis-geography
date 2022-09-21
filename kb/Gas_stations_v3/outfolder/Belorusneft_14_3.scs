@@ -1,0 +1,18 @@
+Belorusneft_14_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.690939]
+    (* <- rrel_latitude;; *);
+    [23.890088]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_14_3
+<= nrel_address:
+[Республика Беларусь, Гродненская обл., Гродненский р-н, Путришковский с/с, 8, МАЗС-14  в р-не д. Большая Каплица]
+(*<-lang_ru;;*);;

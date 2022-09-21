@@ -1,0 +1,20 @@
+Belorusneft_69_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_69]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №69]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.333611]
+    (* <- rrel_latitude;; *);
+    [30.440277]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_69_5
+<= nrel_address:
+[Жмуровский с/с., д. Жмуровка, ул. Школьная, 60]
+(*<-lang_ru;;*);;

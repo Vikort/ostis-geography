@@ -1,0 +1,20 @@
+Belorusneft_24_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_24]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №24]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.619114]
+    (* <- rrel_latitude;; *);
+    [29.727998]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_24_7
+<= nrel_address:
+[г. Светлогорск, ул. Калинина, 2]
+(*<-lang_ru;;*);;

@@ -1,0 +1,20 @@
+Belorusneft_25_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_25]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №25]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.404924]
+    (* <- rrel_latitude;; *);
+    [30.976327]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_25_2
+<= nrel_address:
+[г. Гомель, ул. Б.Хмельницкого]
+(*<-lang_ru;;*);;

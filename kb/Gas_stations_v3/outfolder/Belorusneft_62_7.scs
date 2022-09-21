@@ -1,0 +1,20 @@
+Belorusneft_62_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_62]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №62]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.66]
+    (* <- rrel_latitude;; *);
+    [23.833888]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_62_7
+<= nrel_address:
+[г. Гродно, ул.Я.Купалы 25а]
+(*<-lang_ru;;*);;

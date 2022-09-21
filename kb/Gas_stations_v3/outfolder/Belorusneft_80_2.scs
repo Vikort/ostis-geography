@@ -1,0 +1,21 @@
+Belorusneft_80_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_80]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №80]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.07096]
+    (* <- rrel_latitude;; *);
+    [27.239349]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_80_2
+<= nrel_address:
+[Брестская обл., Столинский р-н, г. Давид-Городок, ул. Островского, д. 84]
+(*<-lang_ru;;*);;

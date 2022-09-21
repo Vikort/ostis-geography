@@ -1,0 +1,20 @@
+Belorusneft_10_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_10]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №10]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.98425]
+    (* <- rrel_latitude;; *);
+    [29.708778]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_10_2
+<= nrel_address:
+[г. Белыничи, ул.Строителей 10]
+(*<-lang_ru;;*);;

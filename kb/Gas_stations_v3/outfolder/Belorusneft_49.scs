@@ -1,0 +1,19 @@
+Belorusneft_49<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_49]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №49]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.348752]
+    (* <- rrel_latitude;; *);
+    [31.418528]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_49
+<= nrel_address:
+[г.п. Краснополье ул.Чериковское Шоссе 2А/1]
+(*<-lang_ru;;*);;

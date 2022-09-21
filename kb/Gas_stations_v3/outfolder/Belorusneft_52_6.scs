@@ -1,0 +1,20 @@
+Belorusneft_52_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_52]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №52]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.459465]
+    (* <- rrel_latitude;; *);
+    [30.993378]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_52_6
+<= nrel_address:
+[г.Гомель, ул.Малайчука, 6а]
+(*<-lang_ru;;*);;

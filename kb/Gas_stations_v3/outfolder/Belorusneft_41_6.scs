@@ -1,0 +1,21 @@
+Belorusneft_41_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_41]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №41]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.533795]
+    (* <- rrel_latitude;; *);
+    [25.724647]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_41_6
+<= nrel_address:
+[147-й км трассы М-7, 1, 231105, Ошмянский район, Гродненская область, Беларусь]
+(*<-lang_ru;;*);;

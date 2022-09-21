@@ -1,0 +1,19 @@
+Belorusneft_17_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_17]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №17]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.1005]
+    (* <- rrel_latitude;; *);
+    [23.6753]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_17_4
+<= nrel_address:
+[Брестская обл., г. Брест, пер. Авиационный, 20]
+(*<-lang_ru;;*);;

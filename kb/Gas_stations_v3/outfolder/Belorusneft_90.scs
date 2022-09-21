@@ -1,0 +1,18 @@
+Belorusneft_90<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_90]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №90]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.631838]
+    (* <- rrel_latitude;; *);
+    [27.868565]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;;
+Belorusneft_90
+<= nrel_address:
+[Лельчицкий р-н, вблизи перекрестка автомобильных дорог Р-36 «Мозырь – Лельчицы – Милошевичи – граница Украины (Глушкевичи)» и Н-4510 «Приболовичи – Горка»]
+(*<-lang_ru;;*);;

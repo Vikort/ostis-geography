@@ -1,0 +1,19 @@
+Belorusneft_73_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_73]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №73]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.013838]
+    (* <- rrel_latitude;; *);
+    [29.728166]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_73_4
+<= nrel_address:
+[Рогачевский р-н., Поболовский с-с., 12]
+(*<-lang_ru;;*);;

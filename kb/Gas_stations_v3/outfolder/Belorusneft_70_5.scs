@@ -1,0 +1,19 @@
+Belorusneft_70_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_70]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №70]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.929639]
+    (* <- rrel_latitude;; *);
+    [24.356645]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_70_5
+<= nrel_address:
+[Гродненская обл., Свислочский р-н, Р-78, 67-й км, 1]
+(*<-lang_ru;;*);;

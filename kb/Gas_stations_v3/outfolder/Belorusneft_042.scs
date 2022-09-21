@@ -1,0 +1,15 @@
+Belorusneft_042<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_042]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №042]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.886124]
+    (* <- rrel_latitude;; *);
+    [27.581914]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_042
+<= nrel_address:
+[г. Минск, пр. Партизанского, 2]
+(*<-lang_ru;;*);;

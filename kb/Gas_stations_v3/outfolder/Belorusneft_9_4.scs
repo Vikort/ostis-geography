@@ -1,0 +1,21 @@
+Belorusneft_9_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_9]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №9]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.509722]
+    (* <- rrel_latitude;; *);
+    [30.223611]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_9_4
+<= nrel_address:
+[г. Быхов, ул. Железнодорожная, 13а]
+(*<-lang_ru;;*);;

@@ -1,0 +1,20 @@
+Belorusneft_87<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_87]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №87]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.338392]
+    (* <- rrel_latitude;; *);
+    [26.20816]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;
+concept_ai98;;
+Belorusneft_87
+<= nrel_address:
+[Беларусь, Гродненская обл., Сморгонский р-н, Кревский с/с, 107-й км а/д М-7/Е28,2]
+(*<-lang_ru;;*);;

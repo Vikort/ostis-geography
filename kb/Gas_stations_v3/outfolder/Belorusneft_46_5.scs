@@ -1,0 +1,22 @@
+Belorusneft_46_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.48436]
+    (* <- rrel_latitude;; *);
+    [28.800306]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;
+concept_ai98;;
+Belorusneft_46_5
+<= nrel_address:
+[г. Полоцк, ул.Гагарина,32]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_49_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_49]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №49]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.984169]
+    (* <- rrel_latitude;; *);
+    [27.503611]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_49_5
+<= nrel_address:
+[Минская обл.,Слуцкий р-н,Р-23,109-й км,1,Кировский с/с.]
+(*<-lang_ru;;*);;

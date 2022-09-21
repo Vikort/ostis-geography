@@ -1,0 +1,20 @@
+Belorusneft_62_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_62]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №62]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.889074]
+    (* <- rrel_latitude;; *);
+    [27.692405]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_62_4
+<= nrel_address:
+[г. Минск, ул. Илимская, 6Г]
+(*<-lang_ru;;*);;

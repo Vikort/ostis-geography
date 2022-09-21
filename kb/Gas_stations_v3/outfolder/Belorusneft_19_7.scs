@@ -1,0 +1,20 @@
+Belorusneft_19_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_19]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №19]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.913888]
+    (* <- rrel_latitude;; *);
+    [27.254444]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_19_7
+<= nrel_address:
+[Горанский с/с, М-6, 21 км, 3]
+(*<-lang_ru;;*);;

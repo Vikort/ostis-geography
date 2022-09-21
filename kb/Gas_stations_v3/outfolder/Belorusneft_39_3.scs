@@ -1,0 +1,20 @@
+Belorusneft_39_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_39]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №39]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.018136]
+    (* <- rrel_latitude;; *);
+    [27.536199]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_39_3
+<= nrel_address:
+[Минская обл.,Слуцкий р-н, г. Слуцк, ул. Ленина, 117а]
+(*<-lang_ru;;*);;

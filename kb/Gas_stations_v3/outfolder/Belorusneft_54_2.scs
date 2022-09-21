@@ -1,0 +1,21 @@
+Belorusneft_54_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_54]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №54]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.23895]
+    (* <- rrel_latitude;; *);
+    [28.474517]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_54_2
+<= nrel_address:
+[г. Борисов, ул. Госпитальная, д. 15]
+(*<-lang_ru;;*);;

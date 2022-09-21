@@ -1,0 +1,15 @@
+Belorusneft_084<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_084]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №084]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.909345]
+    (* <- rrel_latitude;; *);
+    [27.569967]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_084
+<= nrel_address:
+[г.Минск, ул.Коммунистическая, 8]
+(*<-lang_ru;;*);;

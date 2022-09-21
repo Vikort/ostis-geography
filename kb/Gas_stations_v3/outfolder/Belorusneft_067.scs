@@ -1,0 +1,15 @@
+Belorusneft_067<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_067]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №067]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.918694]
+    (* <- rrel_latitude;; *);
+    [27.501939]
+    (* <- rrel_longtitude;; *);;
+Belorusneft_067
+<= nrel_address:
+[г. Минск, ул. Ольшевского, 20]
+(*<-lang_ru;;*);;

@@ -1,0 +1,20 @@
+Belorusneft_76_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_76]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №76]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.214444]
+    (* <- rrel_latitude;; *);
+    [31.485716]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_76_2
+<= nrel_address:
+[Добрушский район, трасса  Р-124, 49-й. км., 1]
+(*<-lang_ru;;*);;

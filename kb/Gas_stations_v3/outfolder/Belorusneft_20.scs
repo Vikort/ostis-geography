@@ -1,0 +1,19 @@
+Belorusneft_20<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_20]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №20]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.5569]
+    (* <- rrel_latitude;; *);
+    [23.6105]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_20
+<= nrel_address:
+[Брестская обл., Брестский р-н, Томашовский с/с, аг. Томашовка, ул. Лесная, 5]
+(*<-lang_ru;;*);;

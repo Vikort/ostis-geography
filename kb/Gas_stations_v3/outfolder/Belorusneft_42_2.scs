@@ -1,0 +1,21 @@
+Belorusneft_42_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_42]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №42]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [51.811267]
+    (* <- rrel_latitude;; *);
+    [29.183107]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_42_2
+<= nrel_address:
+[г. Ельск, Мозырский тракт, 1]
+(*<-lang_ru;;*);;

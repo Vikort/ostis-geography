@@ -1,0 +1,20 @@
+Belorusneft_25_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_25]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №25]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.693889]
+    (* <- rrel_latitude;; *);
+    [25.3525]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_25_4
+<= nrel_address:
+[Брестская обл., Ивацевичский район, М-1, 149-й км, 2]
+(*<-lang_ru;;*);;

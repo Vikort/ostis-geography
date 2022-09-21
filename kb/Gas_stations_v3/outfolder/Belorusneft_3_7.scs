@@ -1,0 +1,19 @@
+Belorusneft_3_7<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_3]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №3]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.338333]
+    (* <- rrel_latitude;; *);
+    [30.550833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_3_7
+<= nrel_address:
+[Борщевский Сельский Совет, 16]
+(*<-lang_ru;;*);;

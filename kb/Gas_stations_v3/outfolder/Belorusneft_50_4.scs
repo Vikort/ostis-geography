@@ -1,0 +1,20 @@
+Belorusneft_50_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_50]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №50]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.50978]
+    (* <- rrel_latitude;; *);
+    [30.343077]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;;
+Belorusneft_50_4
+<= nrel_address:
+[а/д Кричев-Орша-Лепель, 144 км]
+(*<-lang_ru;;*);;

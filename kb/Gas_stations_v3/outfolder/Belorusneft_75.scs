@@ -1,0 +1,20 @@
+Belorusneft_75<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_75]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №75]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.179892]
+    (* <- rrel_latitude;; *);
+    [30.142729]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;;
+Belorusneft_75
+<= nrel_address:
+[г. Витебск, ул. 14-я Полоцкая,125]
+(*<-lang_ru;;*);;

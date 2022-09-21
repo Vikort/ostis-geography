@@ -1,0 +1,21 @@
+Belorusneft_11<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_11]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №11]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.1545]
+    (* <- rrel_latitude;; *);
+    [30.342583]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_11
+<= nrel_address:
+[Витебский р-н, М-8, 89 км, 2]
+(*<-lang_ru;;*);;

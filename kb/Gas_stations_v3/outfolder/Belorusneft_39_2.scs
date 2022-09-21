@@ -1,0 +1,20 @@
+Belorusneft_39_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_39]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №39]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.406157]
+    (* <- rrel_latitude;; *);
+    [30.917856]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_39_2
+<= nrel_address:
+[г. Гомель, ул. Косарева, 20]
+(*<-lang_ru;;*);;

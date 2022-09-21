@@ -1,0 +1,20 @@
+Belorusneft_64_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_64]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №64]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.904348]
+    (* <- rrel_latitude;; *);
+    [27.633686]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_64_5
+<= nrel_address:
+[г. Минск, ул. Запорожская, 1]
+(*<-lang_ru;;*);;

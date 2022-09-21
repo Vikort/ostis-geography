@@ -1,0 +1,19 @@
+Belorusneft_49_3<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_49]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №49]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.4825]
+    (* <- rrel_latitude;; *);
+    [30.38]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;;
+Belorusneft_49_3
+<= nrel_address:
+[г. Орша, ул.2-я Шкловская, 4]
+(*<-lang_ru;;*);;

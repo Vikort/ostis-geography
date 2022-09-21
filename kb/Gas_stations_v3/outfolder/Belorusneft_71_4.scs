@@ -1,0 +1,21 @@
+Belorusneft_71_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_71]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №71]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.3206]
+    (* <- rrel_latitude;; *);
+    [25.9912]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_71_4
+<= nrel_address:
+[Брестская обл., Пинский р-н, с/с Логишинский поселковый Совет, 2,0 км южнее центра г.п. Логишин]
+(*<-lang_ru;;*);;

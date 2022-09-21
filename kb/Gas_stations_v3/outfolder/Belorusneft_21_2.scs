@@ -1,0 +1,19 @@
+Belorusneft_21_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_21]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №21]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.143701]
+    (* <- rrel_latitude;; *);
+    [25.958138]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95;;
+Belorusneft_21_2
+<= nrel_address:
+[Брестская обл., г. Барановичи, ул. Доменикана, д. 167]
+(*<-lang_ru;;*);;

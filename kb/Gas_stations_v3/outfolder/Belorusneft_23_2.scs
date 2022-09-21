@@ -1,0 +1,20 @@
+Belorusneft_23_2<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_23]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №23]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.107222]
+    (* <- rrel_latitude;; *);
+    [26.000277]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;;
+Belorusneft_23_2
+<= nrel_address:
+[ул. Марфицкого-Журавлевича, 1]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_38_4<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_38]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №38]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [54.052222]
+    (* <- rrel_latitude;; *);
+    [26.77]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_gas;;
+Belorusneft_38_4
+<= nrel_address:
+[57-й км а/д Минск-Гродно]
+(*<-lang_ru;;*);;

@@ -1,0 +1,21 @@
+Belorusneft_12<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_12]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №12]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.969611]
+    (* <- rrel_latitude;; *);
+    [30.350806]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95;
+concept_gas;;
+Belorusneft_12
+<= nrel_address:
+[Могилевский р-н, Полыковичский с/с 6]
+(*<-lang_ru;;*);;

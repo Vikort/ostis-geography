@@ -1,0 +1,19 @@
+Belorusneft_46<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_46]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №46]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.077222]
+    (* <- rrel_latitude;; *);
+    [29.276389]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_46
+<= nrel_address:
+[г. Мозырь, ул. Иваненко А.С., 12]
+(*<-lang_ru;;*);;

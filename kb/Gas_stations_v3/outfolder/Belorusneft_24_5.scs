@@ -1,0 +1,20 @@
+Belorusneft_24_5<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_24]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №24]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.53286]
+    (* <- rrel_latitude;; *);
+    [26.765]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;;
+Belorusneft_24_5
+<= nrel_address:
+[Минская обл.,Столбцовский р-н,М-1, 288-й км, 2]
+(*<-lang_ru;;*);;

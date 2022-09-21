@@ -1,0 +1,21 @@
+Belorusneft_38_6<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_38]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №38]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [53.854703]
+    (* <- rrel_latitude;; *);
+    [27.694939]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_ai95Flagman;
+concept_ai98;;
+Belorusneft_38_6
+<= nrel_address:
+[Минский р-н,1 км  юго-западнее  деревни  Б.Тростенец]
+(*<-lang_ru;;*);;

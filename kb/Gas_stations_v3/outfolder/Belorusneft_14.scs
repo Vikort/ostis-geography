@@ -1,0 +1,21 @@
+Belorusneft_14<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_14]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №14]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [55.193055]
+    (* <- rrel_latitude;; *);
+    [30.140833]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_dtMinus32;
+concept_ai92;
+concept_bn95;
+concept_gas;;
+Belorusneft_14
+<= nrel_address:
+[г. Витебск, ул. Титова, 160]
+(*<-lang_ru;;*);;

@@ -1,0 +1,19 @@
+Belorusneft_55<- concept_petrol_station;
+=> nrel_main_idtf:
+    [Belorusneft_55]
+    (* <- lang_en;; <- name_en;; *);
+    [Белоруснефть №55]
+    (* <- lang_ru;; <- name_ru;; <- name;; *);
+=> nrel_coordinates:
+    [52.516111]
+    (* <- rrel_latitude;; *);
+    [29.542222]
+    (* <- rrel_longtitude;; *);
+=> nrel_petrol_types:
+    concept_dt;
+concept_ai92;
+concept_gas;;
+Belorusneft_55
+<= nrel_address:
+[в районе д. Давыдовка]
+(*<-lang_ru;;*);;
