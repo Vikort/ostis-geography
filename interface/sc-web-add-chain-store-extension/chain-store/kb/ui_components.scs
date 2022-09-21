@@ -1,0 +1,25 @@
+ui_chain_store_text_component <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Компонент добавления сетевого магазина.]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[This is a component for adding chain store.]
+	(*
+	<- lang_en;;
+	*);;
+
+ui_chain_store_answer_button <- sc_node_not_relation;
+=> nrel_main_idtf:
+	[Создать]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[Create]
+	(*
+	<- lang_en;;
+	*);;
+
+

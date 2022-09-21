@@ -1,0 +1,27 @@
+format_chain_store
+<- sc_node_not_relation;
+<- format;
+=> nrel_main_idtf:
+	[формат компонент]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[format of UI component]
+	(*
+	<- lang_en;;
+	*);
+=> nrel_mimetype:
+	[application/html];;
+
+chain_store_code <- ui_external_languages;
+=> nrel_main_idtf:
+	[Компонент добавления сетевого магазина]
+	(*
+	<- lang_ru;;
+	 *);
+=> nrel_main_idtf:
+	[UI component for adding chain store]
+	(*
+	<- lang_en;;
+	*);;
