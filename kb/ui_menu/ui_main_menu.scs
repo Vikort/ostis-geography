@@ -5,5 +5,8 @@ ui_main_menu => nrel_main_idtf: [Главное меню] (* <- lang_ru;; *);;
 ui_main_menu <= nrel_ui_commands_decomposition:
 {
 	ui_menu_na_view_kb;
-	ui_menu_na_example_commands
+	ui_menu_na_example_commands;
+	ui_menu_file_for_finding_quest_by_city_and_street;
+	ui_menu_file_for_finding_quest_by_average_price;
+	ui_menu_file_for_finding_quest_by_age_category
 };;

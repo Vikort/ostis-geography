@@ -1,0 +1,23 @@
+concept_quest<-sc_node_not_relation;
+=> nrel_main_idtf:
+    [Квест](*<-lang_ru;;*);
+    [Quest](*<-lang_en;;*);
+
+<-rrel_key_sc_element: ... (*
+	<- definition;;
+	=>nrel_main_idtf :
+	[Опр. (Квест) ] (*<-lang_ru;;*);;
+
+	
+
+	 <= nrel_sc_text_translation: ... (*
+
+      -> rrel_example:
+	  
+	[ Квест в реальности – это командная игра, суть которой заключается в выполнении специального тематического задания в отведенный промежуток времени. ] (* <- lang_ru;; => nrel_format: format_html;; 
+
+	*);;
+
+    *);;
+
+ *);;
