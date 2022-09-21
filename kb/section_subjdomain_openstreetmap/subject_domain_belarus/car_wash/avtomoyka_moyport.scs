@@ -1,0 +1,6 @@
+avtomoyka_moyport <- concept_car_wash;
+=> nrel_main_idtf:
+[Автомойка мойпорт]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomoyka moyport]
+(* <- lang_en;; <- name_en;;*);;

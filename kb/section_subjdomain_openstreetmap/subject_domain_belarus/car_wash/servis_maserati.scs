@@ -1,0 +1,6 @@
+servis_maserati <- concept_car_wash;
+=> nrel_main_idtf:
+[Сервис Maserati]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Servis Maserati]
+(* <- lang_en;; <- name_en;;*);;

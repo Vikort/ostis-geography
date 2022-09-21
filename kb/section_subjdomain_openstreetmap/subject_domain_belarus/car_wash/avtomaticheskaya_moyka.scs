@@ -1,0 +1,6 @@
+avtomaticheskaya_moyka <- concept_car_wash;
+=> nrel_main_idtf:
+[Автоматическая мойка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomaticheskaya moyka]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+avtomoyka_ooo_akatrans <- concept_car_wash;
+=> nrel_main_idtf:
+[Автомойка ООО Акатранс]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[AKVATRANS (Peugeot)]
+(* <- lang_en;; <- name_en;;*);;

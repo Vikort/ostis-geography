@@ -1,0 +1,6 @@
+moyka <- concept_car_wash;
+=> nrel_main_idtf:
+[Мойка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Moyka]
+(* <- lang_en;; <- name_en;;*);;

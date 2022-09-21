@@ -1,0 +1,6 @@
+avtomoyka_avtokit <- concept_car_wash;
+=> nrel_main_idtf:
+[Автомойка АвтоКит]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomoyka AvtoKit]
+(* <- lang_en;; <- name_en;;*);;

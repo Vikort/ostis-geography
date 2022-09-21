@@ -1,0 +1,6 @@
+klear_avto_m <- concept_car_wash;
+=> nrel_main_idtf:
+[Клеар-Авто М]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Klear-Avto M]
+(* <- lang_en;; <- name_en;;*);;

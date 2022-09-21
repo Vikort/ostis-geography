@@ -1,0 +1,6 @@
+avtomoyka_6_region <- concept_car_wash;
+=> nrel_main_idtf:
+[Автомойка 6 Регион]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomoyka 6 Region]
+(* <- lang_en;; <- name_en;;*);;

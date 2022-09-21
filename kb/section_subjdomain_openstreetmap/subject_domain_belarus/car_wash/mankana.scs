@@ -1,0 +1,6 @@
+mankana <- concept_car_wash;
+=> nrel_main_idtf:
+[Манкана]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Mankana]
+(* <- lang_en;; <- name_en;;*);;

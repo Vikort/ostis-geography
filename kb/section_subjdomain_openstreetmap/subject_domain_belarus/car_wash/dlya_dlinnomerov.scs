@@ -1,0 +1,6 @@
+dlya_dlinnomerov <- concept_car_wash;
+=> nrel_main_idtf:
+[Для длинномеров]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Dlya dlinnomerov]
+(* <- lang_en;; <- name_en;;*);;

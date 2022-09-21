@@ -1,0 +1,6 @@
+maks_invest <- concept_car_wash;
+=> nrel_main_idtf:
+[Макс-инвест]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Maks-invest]
+(* <- lang_en;; <- name_en;;*);;

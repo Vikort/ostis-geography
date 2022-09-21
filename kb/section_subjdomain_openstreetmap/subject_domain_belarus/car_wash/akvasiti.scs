@@ -1,0 +1,6 @@
+akvasiti <- concept_car_wash;
+=> nrel_main_idtf:
+[Аквасити]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Akvasiti]
+(* <- lang_en;; <- name_en;;*);;

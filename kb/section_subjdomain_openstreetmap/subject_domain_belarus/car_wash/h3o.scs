@@ -1,0 +1,6 @@
+h3o <- concept_car_wash;
+=> nrel_main_idtf:
+[H3O]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[H3O]
+(* <- lang_en;; <- name_en;;*);;

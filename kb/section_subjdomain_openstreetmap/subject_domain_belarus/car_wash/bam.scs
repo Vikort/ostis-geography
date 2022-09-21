@@ -1,0 +1,6 @@
+bam <- concept_car_wash;
+=> nrel_main_idtf:
+[БaМ]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[BaM]
+(* <- lang_en;; <- name_en;;*);;

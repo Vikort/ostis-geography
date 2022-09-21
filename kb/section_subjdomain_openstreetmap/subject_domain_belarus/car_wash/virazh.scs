@@ -1,0 +1,6 @@
+virazh <- concept_car_wash;
+=> nrel_main_idtf:
+[Вираж]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Virazh]
+(* <- lang_en;; <- name_en;;*);;

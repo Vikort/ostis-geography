@@ -1,0 +1,6 @@
+auta_myynya <- concept_car_wash;
+=> nrel_main_idtf:
+[Аута Мыйня]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Auta Myynya]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+tayar_lyuks <- concept_car_wash;
+=> nrel_main_idtf:
+[Таяр-Люкс]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Tayar-Lyuks]
+(* <- lang_en;; <- name_en;;*);;

@@ -1,0 +1,6 @@
+ruchnaya_moyka <- concept_car_wash;
+=> nrel_main_idtf:
+[Ручная мойка]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Ruchnaya moyka]
+(* <- lang_en;; <- name_en;;*);;

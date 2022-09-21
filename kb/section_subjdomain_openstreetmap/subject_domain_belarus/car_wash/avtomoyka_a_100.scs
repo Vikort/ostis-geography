@@ -1,0 +1,6 @@
+avtomoyka_a_100 <- concept_car_wash;
+=> nrel_main_idtf:
+[Автомойка А-100]
+(* <- lang_ru;; <- name_ru;; <- name;;*);
+[Avtomoyka A-100]
+(* <- lang_en;; <- name_en;;*);;
