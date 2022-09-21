@@ -1,0 +1,395 @@
+alhiniany <- concept_village;
+=> nrel_main_idtf:
+   [Alhiniany]
+   (* <- lang_en;; <- name_en;;*);
+    [Ольгиняны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+izabielina <- concept_village;
+=> nrel_main_idtf:
+   [Izabielina]
+   (* <- lang_en;; <- name_en;;*);
+    [Изабелино]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+azurojsci <- concept_village;
+=> nrel_main_idtf:
+   [Azurojsci]
+   (* <- lang_en;; <- name_en;;*);
+    [Ажуройсти]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+mikli <- concept_village;
+=> nrel_main_idtf:
+   [Mikli]
+   (* <- lang_en;; <- name_en;;*);
+    [Микли]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+milajsuny <- concept_village;
+=> nrel_main_idtf:
+   [Milajsuny]
+   (* <- lang_en;; <- name_en;;*);
+    [Милайшуны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+subiali <- concept_village;
+=> nrel_main_idtf:
+   [Subiali]
+   (* <- lang_en;; <- name_en;;*);
+    [Субели]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+jakientany <- concept_village;
+=> nrel_main_idtf:
+   [Jakientany]
+   (* <- lang_en;; <- name_en;;*);
+    [Новые_Якентаны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+jakientany <- concept_village;
+=> nrel_main_idtf:
+   [Jakientany]
+   (* <- lang_en;; <- name_en;;*);
+    [Малые_Якентаны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+juzulina <- concept_village;
+=> nrel_main_idtf:
+   [Juzulina]
+   (* <- lang_en;; <- name_en;;*);
+    [Юзулина]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+svirscyna <- concept_village;
+=> nrel_main_idtf:
+   [Svirscyna]
+   (* <- lang_en;; <- name_en;;*);
+    [Свирщина]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+padpruddzie <- concept_village;
+=> nrel_main_idtf:
+   [Padpruddzie]
+   (* <- lang_en;; <- name_en;;*);
+    [Подпрудье]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+mali <- concept_village;
+=> nrel_main_idtf:
+   [Mali]
+   (* <- lang_en;; <- name_en;;*);
+    [Мали]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+jedaklani <- concept_village;
+=> nrel_main_idtf:
+   [Jedaklani]
+   (* <- lang_en;; <- name_en;;*);
+    [Едоклани]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+mackany <- concept_village;
+=> nrel_main_idtf:
+   [Mackany]
+   (* <- lang_en;; <- name_en;;*);
+    [Мацканы]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+hury <- concept_village;
+=> nrel_main_idtf:
+   [Hury]
+   (* <- lang_en;; <- name_en;;*);
+    [Гуры]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+filipany <- concept_village;
+=> nrel_main_idtf:
+   [Filipany]
+   (* <- lang_en;; <- name_en;;*);
+    [Филипаны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+dzirmuny <- concept_village;
+=> nrel_main_idtf:
+   [Dzirmuny]
+   (* <- lang_en;; <- name_en;;*);
+    [Дирмуны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+bialkiski <- concept_village;
+=> nrel_main_idtf:
+   [Bialkiski]
+   (* <- lang_en;; <- name_en;;*);
+    [Белькишки]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+jakientany <- concept_village;
+=> nrel_main_idtf:
+   [Jakientany]
+   (* <- lang_en;; <- name_en;;*);
+    [Великие_Якентаны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+kieliojci <- concept_village;
+=> nrel_main_idtf:
+   [Kieliojci]
+   (* <- lang_en;; <- name_en;;*);
+    [Келёйти]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+radziuli <- concept_village;
+=> nrel_main_idtf:
+   [Radziuli]
+   (* <- lang_en;; <- name_en;;*);
+    [Радюли]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
+
+mizany <- concept_village;
+=> nrel_main_idtf:
+   [Mizany]
+   (* <- lang_en;; <- name_en;;*);
+    [Мижаны]
+   (* <- lang_ru;; <-name_ru;; <- name;;*);
+=> nrel_admin_level:
+   [10]
+   (*<-concept_admin_level;;*);
+=> nrel_country:
+   belarus;
+=> nrel_region:
+   hrodna_region;
+=>nrel_district:
+    astravyets_district;
+=>nrel_selsoviet:
+    astravyetskiy_selsoviet;;
